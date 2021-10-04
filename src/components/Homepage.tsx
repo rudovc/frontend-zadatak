@@ -8,7 +8,6 @@ export class Homepage extends React.Component<IProps> {
   render() {
     return (
       <div className="homeRow">
-        News page
         <CategoryFrame articles={this.props.articles} />
         <Sidebar />
       </div>
