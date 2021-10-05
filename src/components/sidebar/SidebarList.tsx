@@ -1,4 +1,3 @@
-import React from "react";
 import { ArticleProp } from "../componentInterfaces";
 import List from "@mui/material/List";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";

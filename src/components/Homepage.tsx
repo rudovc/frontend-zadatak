@@ -1,4 +1,3 @@
-import React from "react";
 import "./components.scss";
 import { CategoryFrame } from "./CategoryFrame";
 import { Sidebar } from "./Sidebar";

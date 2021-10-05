@@ -1,4 +1,3 @@
-import React from "react";
 import "./components.scss";
 import { CategoryTabs } from "./categoryFrame/CategoryTabs";
 import { ArticleGrid } from "./categoryFrame/ArticleGrid";

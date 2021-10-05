@@ -1,4 +1,3 @@
-import React from "react";
 import "../components.scss";
 import { ArticleProp } from "../componentInterfaces";
 import { ArticlePreview } from "./ArticleGrid/ArticlePreview";
