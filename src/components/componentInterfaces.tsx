@@ -11,6 +11,20 @@ export interface Article {
   content: string | null;
 }
 
-export interface IProps {
+export interface ArticleProp {
   articles: Article[];
+}
+
+export interface CategoryList {
+  general: ArticleProp;
+  business: ArticleProp;
+  entertainment: ArticleProp;
+  health: ArticleProp;
+  science: ArticleProp;
+  sports: ArticleProp;
+  technology: ArticleProp;
+}
+
+export interface HomepageProps {
+  data: CategoryList;
 }
