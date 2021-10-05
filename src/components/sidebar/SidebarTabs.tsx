@@ -6,10 +6,12 @@ import "../components.scss";
 export class SidebarTabs extends React.Component {
   render() {
     return (
-      <Tabs aria-label="Tabs">
-        <Tab label="Latest" />
-        <Tab label="Favorites" />
-      </Tabs>
+      <div className="sidebarTabs">
+        <Tabs aria-label="Tabs">
+          <Tab label="Latest" />
+          <Tab label="Favorites" />
+        </Tabs>
+      </div>
     );
   }
 }

@@ -6,15 +6,16 @@ import "../components.scss";
 export class CategoryTabs extends React.Component {
   render() {
     return (
-      <Tabs aria-label="Tabs">
-        <Tab label="General" />
-        <Tab label="Business" />
-        <Tab label="Entertainment" />
-        <Tab label="Health" />
-        <Tab label="Science" />
-        <Tab label="Technology" />
-        <Tab label="Sports" />
-      </Tabs>
+      <div className="categoryTabs">
+        <Tabs aria-label="Tabs">
+          <Tab label="Business" />
+          <Tab label="Entertainment" />
+          <Tab label="Health" />
+          <Tab label="Science" />
+          <Tab label="Technology" />
+          <Tab label="Sports" />
+        </Tabs>
+      </div>
     );
   }
 }

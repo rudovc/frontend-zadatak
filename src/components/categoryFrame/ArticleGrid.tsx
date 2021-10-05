@@ -2,19 +2,21 @@ import React from "react";
 import "../components.scss";
 import { IProps } from "../componentInterfaces";
 import { ArticlePreview } from "./ArticleGrid/ArticlePreview";
-import * as mui from "@material-ui/core";
+import Grid from "@mui/material/Grid";
 
 class ArticleGrid extends React.Component<IProps> {
   render() {
     const articleList = this.props.articles.map((element) => (
-      <mui.Grid item xs={4}>
+      <Grid item xs={3}>
         <ArticlePreview {...element} />
-      </mui.Grid>
+      </Grid>
     ));
     return (
-      <mui.Grid container spacing={2}>
-        {articleList}
-      </mui.Grid>
+      <div className="articleGrid">
+        <Grid container spacing={1}>
+          {articleList}
+        </Grid>
+      </div>
     );
   }
 }
