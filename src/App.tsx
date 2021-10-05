@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.scss";
 import { Homepage } from "./components/Homepage";
-import dataGeneral from "./dummyData-general.json";
-import dataBusiness from "./dummyData-business.json";
-import dataEntertainment from "./dummyData-business.json";
-import dataHealth from "./dummyData-business.json";
-import dataScience from "./dummyData-business.json";
-import dataSports from "./dummyData-business.json";
-import dataTechnology from "./dummyData-business.json";
+import dataGeneral from "./data/dummyData-general.json";
+import dataBusiness from "./data/dummyData-business.json";
+import dataEntertainment from "./data/dummyData-business.json";
+import dataHealth from "./data/dummyData-business.json";
+import dataScience from "./data/dummyData-business.json";
+import dataSports from "./data/dummyData-business.json";
+import dataTechnology from "./data/dummyData-business.json";
 
 function App() {
   const data = {

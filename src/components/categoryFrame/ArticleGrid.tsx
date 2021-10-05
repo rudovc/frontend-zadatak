@@ -1,9 +1,9 @@
 import "../components.scss";
-import { ArticleProp } from "../componentInterfaces";
+import { ArticlesProp } from "../componentInterfaces";
 import { ArticlePreview } from "./ArticleGrid/ArticlePreview";
 import Grid from "@mui/material/Grid";
 
-export const ArticleGrid = (props: ArticleProp) => {
+export const ArticleGrid = (props: ArticlesProp) => {
   const articleList = props.articles.map((element) => (
     <Grid item xs={3}>
       <ArticlePreview {...element} />

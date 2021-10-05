@@ -1,14 +1,14 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { RootState } from "../../store";
-import { CategoryTab } from "../tabEnums";
+import { SidebarTab } from "../tabEnums";
 
-export const categoryTabsSlice = createSlice({
-  name: "activeCategoryTab",
+export const sidebarTabsSlice = createSlice({
+  name: "activeSidebarTab",
   initialState: {
-    value: CategoryTab.Business,
+    value: SidebarTab.Latest,
   },
   reducers: {
-    setActiveCategoryTab: (state, action: PayloadAction<CategoryTab>) => {
+    setActivesidebarTab: (state, action: PayloadAction<SidebarTab>) => {
       // Redux Toolkit allows us to write "mutating" logic in reducers. It
       // doesn't actually mutate the state because it uses the Immer library,
       // which detects changes to a "draft state" and produces a brand new
@@ -19,9 +19,9 @@ export const categoryTabsSlice = createSlice({
 });
 
 // Action creators are generated for each case reducer function
-export const { setActiveCategoryTab } = categoryTabsSlice.actions;
+export const { setActivesidebarTab } = sidebarTabsSlice.actions;
 
-export const selectActiveCategoryTab = (state: RootState) =>
-  state.categoryTabs.value;
+export const selectActivesidebarTab = (state: RootState) =>
+  state.sidebarTabs.value;
 
-export default categoryTabsSlice.reducer;
+export default sidebarTabsSlice.reducer;

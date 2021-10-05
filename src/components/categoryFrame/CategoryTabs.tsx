@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import { CategoryTab } from "../tabEnums";
@@ -9,6 +8,7 @@ import "../components.scss";
 export const CategoryTabs = () => {
   const activeTab = useAppSelector((state) => state.categoryTabs.value);
   const dispatch = useAppDispatch();
+
   return (
     <div className="categoryTabs">
       <Tabs value={activeTab} aria-label="Tabs">

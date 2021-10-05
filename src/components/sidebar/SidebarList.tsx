@@ -1,9 +1,9 @@
-import { ArticleProp } from "../componentInterfaces";
+import { ArticlesProp } from "../componentInterfaces";
 import List from "@mui/material/List";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
 import "../components.scss";
 
-export const SidebarList = (props: ArticleProp) => {
+export const SidebarList = (props: ArticlesProp) => {
   const articleList = props.articles.map((element) => (
     <SidebarArticlePreview {...element} />
   ));

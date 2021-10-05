@@ -15,7 +15,7 @@ export const Homepage = (props: HomepageProps) => {
           spacing={2}
           divider={<Divider orientation="vertical" flexItem />}
         >
-          <CategoryFrame articles={props.data.business.articles} />
+          <CategoryFrame />
           <Sidebar articles={props.data.general.articles} />
         </Stack>
       </Container>

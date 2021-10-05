@@ -11,18 +11,18 @@ export interface Article {
   content: string | null;
 }
 
-export interface ArticleProp {
+export interface ArticlesProp {
   articles: Article[];
 }
 
 export interface CategoryList {
-  general: ArticleProp;
-  business: ArticleProp;
-  entertainment: ArticleProp;
-  health: ArticleProp;
-  science: ArticleProp;
-  sports: ArticleProp;
-  technology: ArticleProp;
+  general: ArticlesProp;
+  business: ArticlesProp;
+  entertainment: ArticlesProp;
+  health: ArticlesProp;
+  science: ArticlesProp;
+  sports: ArticlesProp;
+  technology: ArticlesProp;
 }
 
 export interface HomepageProps {

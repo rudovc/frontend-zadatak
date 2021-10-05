@@ -1,12 +1,15 @@
 import { configureStore } from "@reduxjs/toolkit";
 import categoryTabReducer from "./components/categoryFrame/categoryTabsSlice";
+import sidebarTabReducer from "./components/sidebar/sidebarTabsSlice";
+import categoryFrameArticlesSliceReducer from "./components/categoryFrameArticlesSlice";
 // ...
 
 const store = configureStore({
   reducer: {
     categoryTabs: categoryTabReducer,
-    /*    sidebarTabs: sideTabsReducer,
-    favorites: favoritesReducer,*/
+    sidebarTabs: sidebarTabReducer,
+    categoryFrameArticlesSlice: categoryFrameArticlesSliceReducer,
+    /*favorites: favoritesReducer,*/
   },
 });
 
