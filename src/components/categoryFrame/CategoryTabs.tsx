@@ -2,31 +2,42 @@ import { useState } from "react";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import { CategoryTab } from "../tabEnums";
+import { useAppSelector, useAppDispatch } from "../../hooks";
+import { setActiveCategoryTab } from "./categoryTabsSlice";
 import "../components.scss";
 
 export const CategoryTabs = () => {
-  const [activeTab, setActiveTab] = useState(CategoryTab.Business);
+  const activeTab = useAppSelector((state) => state.categoryTabs.value);
+  const dispatch = useAppDispatch();
   return (
     <div className="categoryTabs">
       <Tabs value={activeTab} aria-label="Tabs">
         <Tab
           label="Business"
-          onClick={() => setActiveTab(CategoryTab.Business)}
+          onClick={() => dispatch(setActiveCategoryTab(CategoryTab.Business))}
         />
         <Tab
           label="Entertainment"
-          onClick={() => setActiveTab(CategoryTab.Entertainment)}
+          onClick={() =>
+            dispatch(setActiveCategoryTab(CategoryTab.Entertainment))
+          }
         />
-        <Tab label="Health" onClick={() => setActiveTab(CategoryTab.Health)} />
+        <Tab
+          label="Health"
+          onClick={() => dispatch(setActiveCategoryTab(CategoryTab.Health))}
+        />
         <Tab
           label="Science"
-          onClick={() => setActiveTab(CategoryTab.Science)}
+          onClick={() => dispatch(setActiveCategoryTab(CategoryTab.Science))}
         />
         <Tab
           label="Technology"
-          onClick={() => setActiveTab(CategoryTab.Technology)}
+          onClick={() => dispatch(setActiveCategoryTab(CategoryTab.Technology))}
         />
-        <Tab label="Sports" onClick={() => setActiveTab(CategoryTab.Sports)} />
+        <Tab
+          label="Sports"
+          onClick={() => dispatch(setActiveCategoryTab(CategoryTab.Sports))}
+        />
       </Tabs>
     </div>
   );
