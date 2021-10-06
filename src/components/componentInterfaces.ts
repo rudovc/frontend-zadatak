@@ -15,16 +15,11 @@ export interface ArticlesProp {
   articles: Article[];
 }
 
-export interface CategoryList {
-  general: ArticlesProp;
-  business: ArticlesProp;
-  entertainment: ArticlesProp;
-  health: ArticlesProp;
-  science: ArticlesProp;
-  sports: ArticlesProp;
-  technology: ArticlesProp;
-}
-
 export interface HomepageProps {
-  data: CategoryList;
+  categoryArticles: {
+    articles: Article[];
+  };
+  sidebarArticles: {
+    articles: Article[];
+  };
 }

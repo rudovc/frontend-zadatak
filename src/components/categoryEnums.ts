@@ -5,5 +5,6 @@ enum Category {
   Science = "science",
   Technology = "technology",
   Sports = "sports",
+  Latest = "general",
 }
 export default Category;
