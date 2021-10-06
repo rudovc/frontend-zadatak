@@ -1,4 +1,5 @@
 export interface Article {
+  id?: string;
   source: {
     name: string;
   };
@@ -10,7 +11,6 @@ export interface Article {
   publishedAt: string | null;
   content: string | null;
 }
-
 export interface ArticlesProp {
   articles: Article[];
 }

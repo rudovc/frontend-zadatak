@@ -14,7 +14,9 @@ export const CategoryTabs = () => {
       <Tabs value={activeTab} aria-label="Tabs">
         <Tab
           label="Business"
-          onClick={() => dispatch(setActiveCategoryTab(CategoryTab.Business))}
+          onClick={() => {
+            dispatch(setActiveCategoryTab(CategoryTab.Business));
+          }}
         />
         <Tab
           label="Entertainment"
