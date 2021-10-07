@@ -3,6 +3,7 @@ import { SidebarTab } from "../tabEnums";
 import List from "@mui/material/List";
 import "../components.scss";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
+import { Article } from "../componentInterfaces";
 
 export const SidebarList = () => {
   const activeTab = useAppSelector((state) => state.sidebar.tabs.value);
@@ -13,7 +14,7 @@ export const SidebarList = () => {
   const articlesToDisplay =
     activeTab === SidebarTab.Latest ? latest : favorites;
 
-  const articleList = articlesToDisplay.map((element) => (
+  const articleList = articlesToDisplay.map((element: Article) => (
     <SidebarArticlePreview {...element} />
   ));
 

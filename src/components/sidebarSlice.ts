@@ -1,7 +1,13 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { ArticlesProp, Article } from "./componentInterfaces";
-import { v4 as uuidv4 } from "uuid";
+import hash from "object-hash";
 import { SidebarTab } from "./tabEnums";
+
+const serialisedFavorites = localStorage.getItem("storedFavorites");
+const loadedFavorites: Article[] =
+  serialisedFavorites === null
+    ? ([] as Article[])
+    : JSON.parse(serialisedFavorites);
 
 export const sidebarSlice = createSlice({
   name: "sidebarState",
@@ -9,7 +15,7 @@ export const sidebarSlice = createSlice({
     data: {
       articles: [] as Article[],
     },
-    favorites: [] as Article[],
+    favorites: loadedFavorites,
     tabs: {
       value: SidebarTab.Latest,
     },
@@ -27,8 +33,8 @@ export const sidebarSlice = createSlice({
       // doesn't actually mutate the state because it uses the Immer library,
       // which detects changes to a "draft state" and produces a brand new
       // immutable state based off those changes
-      const dataWithID = action.payload.articles.map((element, index) => {
-        const result = { id: uuidv4(), ...element };
+      const dataWithID = action.payload.articles.map((element) => {
+        const result = { id: hash.sha1(element), ...element };
         //const result = { id: index.toString(), ...element };
         return result;
       });
@@ -37,6 +43,17 @@ export const sidebarSlice = createSlice({
     addArticleToFavorites: (state, action: PayloadAction<Article>) => {
       const data = action.payload;
       state.favorites.push(data);
+      const favoritesToStore = JSON.stringify(state.favorites);
+      localStorage.setItem("storedFavorites", favoritesToStore);
+    },
+    removeArticleFromFavorites: (state, action: PayloadAction<Article>) => {
+      const data = action.payload;
+      const favoriteToRemove = state.favorites.findIndex((element) => {
+        return element.id === data.id;
+      });
+      state.favorites.splice(favoriteToRemove, 1);
+      const favoritesToStore = JSON.stringify(state.favorites);
+      localStorage.setItem("storedFavorites", favoritesToStore);
     },
   },
 });
@@ -45,6 +62,7 @@ export const sidebarSlice = createSlice({
 export const {
   updateArticlesInSidebar,
   addArticleToFavorites,
+  removeArticleFromFavorites,
   setActiveSidebarTab,
 } = sidebarSlice.actions;
 

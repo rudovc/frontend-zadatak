@@ -1,8 +1,8 @@
 import { useState } from "react";
-import { useAppDispatch } from "../../../hooks";
+import { useAppDispatch, useAppSelector } from "../../../hooks";
 import {
   addArticleToFavorites,
-  updateArticlesInSidebar,
+  removeArticleFromFavorites,
 } from "../../sidebarSlice";
 import { Article } from "../../componentInterfaces";
 import Card from "@mui/material/Card";
@@ -17,9 +17,19 @@ import FavoriteIcon from "@mui/icons-material/Favorite";
 import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 
 export const ArticlePreview = (props: Article) => {
-  const [isFavorite, setIsFavorite] = useState(false);
-
   const dispatch = useAppDispatch();
+  const favorites = useAppSelector((state) => state.sidebar.favorites);
+
+  function isInFavorites() {
+    if (props.id !== undefined) {
+      return Boolean(
+        favorites.filter((element) => element.id === props.id).length
+      );
+    }
+    return false;
+  }
+
+  const [isFavorite, setIsFavorite] = useState(isInFavorites());
 
   const date = !props.publishedAt
     ? ""
@@ -27,7 +37,11 @@ export const ArticlePreview = (props: Article) => {
   const image = !props.urlToImage ? "" : props.urlToImage;
 
   const handleClick = () => {
-    dispatch(addArticleToFavorites({ ...props }));
+    if (!isFavorite) {
+      dispatch(addArticleToFavorites({ ...props }));
+    } else {
+      dispatch(removeArticleFromFavorites({ ...props }));
+    }
     setIsFavorite(!isFavorite);
   };
 
