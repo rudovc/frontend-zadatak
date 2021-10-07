@@ -57,7 +57,7 @@ class API {
       case Category.Science:
         const science = new Promise<ArticlesProp>((resolve) => {
           setTimeout(() => {
-            resolve(dataSports);
+            resolve(dataScience);
           }, 300);
         });
         return science;

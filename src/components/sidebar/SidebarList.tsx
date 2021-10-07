@@ -1,12 +1,16 @@
-import { ArticlesProp } from "../componentInterfaces";
+import { useAppSelector } from "../../hooks";
 import List from "@mui/material/List";
-import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
 import "../components.scss";
+import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
 
-export const SidebarList = (props: ArticlesProp) => {
-  const articleList = props.articles.map((element) => (
+export const SidebarList = () => {
+  const articlesToDisplay = useAppSelector(
+    (state) => state.sidebar.data.articles
+  );
+  const articleList = articlesToDisplay.map((element) => (
     <SidebarArticlePreview {...element} />
   ));
+
   return (
     <div className="sidebarList">
       <List style={{ maxHeight: "100vh", overflow: "auto" }}>

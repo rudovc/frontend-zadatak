@@ -1,4 +1,9 @@
-import React from "react";
+import { useState } from "react";
+import { useAppDispatch } from "../../../hooks";
+import {
+  addArticleToFavorites,
+  updateArticlesInSidebar,
+} from "../../sidebarSlice";
 import { Article } from "../../componentInterfaces";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
@@ -7,12 +12,24 @@ import CardHeader from "@mui/material/CardHeader";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
+import IconButton from "@mui/material/IconButton";
+import FavoriteIcon from "@mui/icons-material/Favorite";
+import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 
 export const ArticlePreview = (props: Article) => {
+  const [isFavorite, setIsFavorite] = useState(false);
+
+  const dispatch = useAppDispatch();
+
   const date = !props.publishedAt
     ? ""
     : new Date(props.publishedAt).toDateString();
   const image = !props.urlToImage ? "" : props.urlToImage;
+
+  const handleClick = () => {
+    dispatch(addArticleToFavorites({ ...props }));
+    setIsFavorite(!isFavorite);
+  };
 
   return (
     <div className="articlePreview">
@@ -31,6 +48,9 @@ export const ArticlePreview = (props: Article) => {
         </CardContent>
         <CardActions>
           <Button size="small">Read More</Button>
+          <IconButton aria-label="favorite" onClick={handleClick}>
+            {isFavorite ? <FavoriteIcon /> : <FavoriteBorder />}
+          </IconButton>
         </CardActions>
       </Card>
     </div>

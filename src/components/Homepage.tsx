@@ -16,7 +16,7 @@ export const Homepage = (props: HomepageProps) => {
           divider={<Divider orientation="vertical" flexItem />}
         >
           <CategoryFrame articles={props.categoryArticles.articles} />
-          <Sidebar articles={props.sidebarArticles.articles} />
+          <Sidebar />
         </Stack>
       </Container>
     </div>

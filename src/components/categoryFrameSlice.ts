@@ -1,16 +1,6 @@
-import { createSlice, PayloadAction, createAsyncThunk } from "@reduxjs/toolkit";
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { ArticlesProp, Article } from "./componentInterfaces";
 import { v4 as uuidv4 } from "uuid";
-import Category from "./categoryEnums";
-import API from "../api";
-
-export const getArticlesByCategory = createAsyncThunk(
-  "getArticlesByCategory",
-  async (category: Category) => {
-    const response = await API.getArticles(category);
-    return response;
-  }
-);
 
 export const categoryFrameSlice = createSlice({
   name: "articlesByCategory",
@@ -35,12 +25,10 @@ export const categoryFrameSlice = createSlice({
       });
       state.data.articles = dataWithID;
     },
-    updateArticlesByCategory: (state, action: PayloadAction<Category>) => {},
   },
 });
 
 // Action creators are generated for each case reducer function
-export const { updateArticlesInCategoryFrame, updateArticlesByCategory } =
-  categoryFrameSlice.actions;
+export const { updateArticlesInCategoryFrame } = categoryFrameSlice.actions;
 
 export default categoryFrameSlice.reducer;

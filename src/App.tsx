@@ -7,7 +7,7 @@ function App() {
     categoryArticles: useAppSelector(
       (state) => state.categoryFrameArticles.data
     ),
-    sidebarArticles: useAppSelector((state) => state.sidebarArticles.data),
+    sidebarArticles: useAppSelector((state) => state.sidebar.data),
   };
 
   return (

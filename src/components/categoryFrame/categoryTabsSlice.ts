@@ -1,6 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { CategoryTab } from "../tabEnums";
-import { useAppDispatch } from "../../hooks";
 
 export const categoryTabsSlice = createSlice({
   name: "activeCategoryTab",
