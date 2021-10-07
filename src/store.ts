@@ -14,7 +14,6 @@ const store = configureStore({
     categoryTabs: categoryTabReducer,
     categoryFrameArticles: categoryFrameReducer,
     sidebar: sidebarReducer,
-    /*favorites: favoritesReducer,*/
   },
 });
 

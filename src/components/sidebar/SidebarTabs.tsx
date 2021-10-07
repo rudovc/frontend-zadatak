@@ -5,10 +5,7 @@ import { SidebarTab } from "../tabEnums";
 import Category from "../categoryEnums";
 import "../components.scss";
 import API from "../../api";
-import {
-  updateArticlesInSidebar,
-  updateArticlesToShowFavorites,
-} from "../sidebarSlice";
+import { updateArticlesInSidebar } from "../sidebarSlice";
 import { setActiveSidebarTab } from "../sidebarSlice";
 import { useCallback } from "react";
 
@@ -29,7 +26,6 @@ export const SidebarTabs = () => {
 
   const favoritesClick = useCallback(async () => {
     dispatch(setActiveSidebarTab(SidebarTab.Favorites));
-    dispatch(updateArticlesToShowFavorites());
   }, [dispatch]);
 
   return (

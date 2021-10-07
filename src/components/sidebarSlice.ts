@@ -34,9 +34,6 @@ export const sidebarSlice = createSlice({
       });
       state.data.articles = dataWithID;
     },
-    updateArticlesToShowFavorites: (state) => {
-      state.data.articles = state.favorites;
-    },
     addArticleToFavorites: (state, action: PayloadAction<Article>) => {
       const data = action.payload;
       state.favorites.push(data);
@@ -47,7 +44,6 @@ export const sidebarSlice = createSlice({
 // Action creators are generated for each case reducer function
 export const {
   updateArticlesInSidebar,
-  updateArticlesToShowFavorites,
   addArticleToFavorites,
   setActiveSidebarTab,
 } = sidebarSlice.actions;
