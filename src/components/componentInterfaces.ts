@@ -1,4 +1,4 @@
-export interface Article {
+export interface ArticleRawData {
   id?: string;
   source: {
     name: string;
@@ -11,15 +11,30 @@ export interface Article {
   publishedAt: string | null;
   content: string | null;
 }
-export interface ArticlesProp {
+export interface ArticlesRawData {
+  articles: ArticleRawData[];
+}
+export interface Article {
+  category: string;
+  id: string;
+  source: {
+    name: string;
+  };
+  author: string | null;
+  title: string;
+  description: string | null;
+  url: string | null;
+  urlToImage: string | null;
+  publishedAt: string;
+  content: string | null;
+}
+
+export interface Articles {
   articles: Article[];
+  nameFilter: string;
 }
 
 export interface HomepageProps {
-  categoryArticles: {
-    articles: Article[];
-  };
-  sidebarArticles: {
-    articles: Article[];
-  };
+  categoryArticles: Article[];
+  sidebarArticles: Article[];
 }

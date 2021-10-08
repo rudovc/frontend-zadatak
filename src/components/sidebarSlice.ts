@@ -1,7 +1,7 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { ArticlesProp, Article } from "./componentInterfaces";
-import hash from "object-hash";
+import { Article } from "./componentInterfaces";
 import { SidebarTab } from "./tabEnums";
+import { SidebarState } from "./sliceInterfaces";
 
 const serialisedFavorites = localStorage.getItem("storedFavorites");
 const loadedFavorites: Article[] =
@@ -12,44 +12,27 @@ const loadedFavorites: Article[] =
 export const sidebarSlice = createSlice({
   name: "sidebarState",
   initialState: {
-    data: {
-      articles: [] as Article[],
-    },
+    articles: [] as Article[],
     favorites: loadedFavorites,
-    tabs: {
-      value: SidebarTab.Latest,
-    },
+    activeTab: SidebarTab.Latest,
   },
   reducers: {
     setActiveSidebarTab: (state, action: PayloadAction<SidebarTab>) => {
-      // Redux Toolkit allows us to write "mutating" logic in reducers. It
-      // doesn't actually mutate the state because it uses the Immer library,
-      // which detects changes to a "draft state" and produces a brand new
-      // immutable state based off those changes
-      state.tabs.value = action.payload;
+      state.activeTab = action.payload;
     },
-    updateArticlesInSidebar: (state, action: PayloadAction<ArticlesProp>) => {
-      // Redux Toolkit allows us to write "mutating" logic in reducers. It
-      // doesn't actually mutate the state because it uses the Immer library,
-      // which detects changes to a "draft state" and produces a brand new
-      // immutable state based off those changes
-      const dataWithID = action.payload.articles.map((element) => {
-        const result = { id: hash.sha1(element), ...element };
-        //const result = { id: index.toString(), ...element };
-        return result;
-      });
-      state.data.articles = dataWithID;
+    updateArticlesInSidebar: (state, action: PayloadAction<Article[]>) => {
+      state.articles = action.payload;
     },
     addArticleToFavorites: (state, action: PayloadAction<Article>) => {
-      const data = action.payload;
-      state.favorites.push(data);
+      const favorite = action.payload;
+      state.favorites.push(favorite);
       const favoritesToStore = JSON.stringify(state.favorites);
       localStorage.setItem("storedFavorites", favoritesToStore);
     },
     removeArticleFromFavorites: (state, action: PayloadAction<Article>) => {
-      const data = action.payload;
+      const favorite = action.payload;
       const favoriteToRemove = state.favorites.findIndex((element) => {
-        return element.id === data.id;
+        return element === favorite;
       });
       state.favorites.splice(favoriteToRemove, 1);
       const favoritesToStore = JSON.stringify(state.favorites);
@@ -57,6 +40,11 @@ export const sidebarSlice = createSlice({
     },
   },
 });
+
+// Selectors
+export const selectActiveSidebarTab = (state: SidebarState) => {
+  return state.activeTab;
+};
 
 // Action creators are generated for each case reducer function
 export const {

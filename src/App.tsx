@@ -1,19 +1,28 @@
 import "./App.scss";
 import { Homepage } from "./components/Homepage";
 import { useAppSelector } from "./hooks";
+import {
+  selectAllArticles,
+  selectArticlesByCategory,
+} from "./components/categoryFrameSlice";
 
 function App() {
-  const data = {
-    categoryArticles: useAppSelector(
-      (state) => state.categoryFrameArticles.data
-    ),
-    sidebarArticles: useAppSelector((state) => state.sidebar.data),
+  const displayedArticles = {
+    displayedArticlesByCategory: useAppSelector((state) => {
+      return selectArticlesByCategory(
+        state.categoryFrameArticles,
+        state.categoryTabs.categoryName
+      );
+    }),
+    displayedArticlesInSidebar: useAppSelector((state) => {
+      return selectAllArticles(state.categoryFrameArticles);
+    }),
   };
 
   return (
     <Homepage
-      categoryArticles={data.categoryArticles}
-      sidebarArticles={data.sidebarArticles}
+      categoryArticles={displayedArticles.displayedArticlesByCategory}
+      sidebarArticles={displayedArticles.displayedArticlesInSidebar}
     />
   );
 }

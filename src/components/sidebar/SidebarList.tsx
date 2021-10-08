@@ -1,18 +1,17 @@
 import { useAppSelector } from "../../hooks";
-import { SidebarTab } from "../tabEnums";
 import List from "@mui/material/List";
 import "../components.scss";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
 import { Article } from "../componentInterfaces";
+import { selectActiveSidebarTab } from "../sidebarSlice";
 
 export const SidebarList = () => {
-  const activeTab = useAppSelector((state) => state.sidebar.tabs.value);
-
+  const activeTab = useAppSelector(() => selectActiveSidebarTab);
   const favorites = useAppSelector((state) => state.sidebar.favorites);
-  const latest = useAppSelector((state) => state.sidebar.data.articles);
+  const latest = useAppSelector((state) => state.sidebar.articles);
 
-  const articlesToDisplay =
-    activeTab === SidebarTab.Latest ? latest : favorites;
+  const articlesToDisplay = latest;
+  /* activeTab === SidebarTab.Latest ? latest : favorites; // 2nd return should be favorites!!!*/
 
   const articleList = articlesToDisplay.map((element: Article) => (
     <SidebarArticlePreview {...element} />

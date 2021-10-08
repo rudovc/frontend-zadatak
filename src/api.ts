@@ -1,8 +1,7 @@
 import axios from "axios";
 import Category from "./components/categoryEnums";
-import { ArticlesProp } from "./components/componentInterfaces";
+import { ArticleRawData } from "./components/componentInterfaces";
 // waiting for timeout to run out
-import dataGeneral from "./data/dummyData-general.json";
 import dataBusiness from "./data/dummyData-business.json";
 import dataEntertainment from "./data/dummyData-entertainment.json";
 import dataHealth from "./data/dummyData-health.json";
@@ -19,59 +18,52 @@ const axiosApi = axios.create({
 });*/
 class API {
   /*static async getArticlesByCategory(categoryParameter: Category) {
-    const response = axiosApi.get<ArticlesProp>("", {
+    const response = axiosApi.get<Articles>("", {
       params: { category: categoryParameter },
     });
     return response;
   }*/
   static getArticles(category: Category) {
     switch (category) {
-      case Category.Latest:
-        const latest = new Promise<ArticlesProp>((resolve) => {
-          setTimeout(() => {
-            resolve(dataGeneral);
-          }, 300);
-        });
-        return latest;
       case Category.Business:
-        const business = new Promise<ArticlesProp>((resolve) => {
+        const business = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataBusiness);
+            resolve(dataBusiness.articles);
           }, 300);
         });
         return business;
       case Category.Entertainment:
-        const entertainment = new Promise<ArticlesProp>((resolve) => {
+        const entertainment = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataEntertainment);
+            resolve(dataEntertainment.articles);
           }, 300);
         });
         return entertainment;
       case Category.Health:
-        const health = new Promise<ArticlesProp>((resolve) => {
+        const health = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataHealth);
+            resolve(dataHealth.articles);
           }, 300);
         });
         return health;
       case Category.Science:
-        const science = new Promise<ArticlesProp>((resolve) => {
+        const science = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataScience);
+            resolve(dataScience.articles);
           }, 300);
         });
         return science;
       case Category.Sports:
-        const sports = new Promise<ArticlesProp>((resolve) => {
+        const sports = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataSports);
+            resolve(dataSports.articles);
           }, 300);
         });
         return sports;
       case Category.Technology:
-        const technology = new Promise<ArticlesProp>((resolve) => {
+        const technology = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataTechnology);
+            resolve(dataTechnology.articles);
           }, 300);
         });
         return technology;

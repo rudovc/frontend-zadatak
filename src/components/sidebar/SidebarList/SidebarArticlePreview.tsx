@@ -1,26 +1,39 @@
-import React from "react";
 import { Article } from "../../componentInterfaces";
 import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
 import CardHeader from "@mui/material/CardHeader";
-import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
+
+function formatDate(date: Date) {
+  const now = new Date();
+  const day =
+    date.getDay() !== now.getDay()
+      ? Intl.DateTimeFormat("en-gb", {
+          weekday: "short",
+          hour: "numeric",
+          minute: "numeric",
+        }).format(date)
+      : Intl.DateTimeFormat("en-gb", {
+          hour: "numeric",
+          minute: "numeric",
+        }).format(date);
+  return day;
+}
 
 export const SidebarArticlePreview = (props: Article) => {
-  const date = !props.publishedAt
-    ? ""
-    : new Date(props.publishedAt).toDateString();
+  const date = new Date(props.publishedAt);
+  formatDate(date);
   return (
     <div className="sidebarArticlePreview">
       <Card>
         <CardHeader
           titleTypographyProps={{ variant: "subtitle1" }}
-          title={props.title}
-          subheaderTypographyProps={{ variant: "caption" }}
-          subheader={date}
+          title={
+            <div>
+              <Typography variant="caption">{formatDate(date)}</Typography>
+              <Typography>{props.title}</Typography>
+            </div>
+          }
         />
-        <CardActions>
-          <Button size="small">Read More</Button>
-        </CardActions>
       </Card>
     </div>
   );

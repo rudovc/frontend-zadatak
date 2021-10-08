@@ -4,7 +4,7 @@ import sidebarReducer, {
   updateArticlesInSidebar,
 } from "./components/sidebarSlice";
 import categoryFrameReducer, {
-  updateArticlesInCategoryFrame,
+  updateArticles,
 } from "./components/categoryFrameSlice";
 import API from "./api";
 import Category from "./components/categoryEnums";
@@ -18,11 +18,35 @@ const store = configureStore({
 });
 
 async function initialSetup() {
-  const business = await API.getArticles(Category.Business);
-  const latest = await API.getArticles(Category.Latest);
-  store.dispatch(updateArticlesInCategoryFrame(business));
-  store.dispatch(updateArticlesInSidebar(latest));
+  const rawData = await Promise.all(
+    Object.values(Category).flatMap(async (categoryName) => {
+      if (categoryName === Category.Home) {
+        return [];
+      }
+      const response = await API.getArticles(categoryName);
+      if (typeof response !== "undefined") {
+        const result = response.map((element) => {
+          return {
+            category: categoryName,
+            article: element,
+          };
+        });
+        return result;
+      }
+    })
+  );
+
+  for (const articleSet of rawData) {
+    if (typeof articleSet !== "undefined") {
+      store.dispatch(updateArticles(articleSet));
+    }
+  }
+
+  const state = store.getState();
+
+  store.dispatch(updateArticlesInSidebar(state.categoryFrameArticles.articles));
 }
+
 initialSetup();
 
 // Infer the `RootState` and `AppDispatch` types from the store itself
