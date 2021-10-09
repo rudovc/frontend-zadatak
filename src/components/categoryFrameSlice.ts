@@ -40,7 +40,7 @@ export const categoryFrameSlice = createSlice({
 export const selectArticlesByCategory = (
   state: CategoryFrameState,
   category: Category
-) => {
+): Article[] => {
   if (category === Category.Home) {
     return state.articles;
   } else {
@@ -48,7 +48,20 @@ export const selectArticlesByCategory = (
   }
 };
 
-export const selectAllArticles = (state: CategoryFrameState) => {
+export const selectArticlesByID = (
+  state: CategoryFrameState,
+  idFilter: string[]
+): Article[] => {
+  return state.articles.filter((element) => {
+    return idFilter.find((id) => {
+      if (element.id === id) {
+        return true;
+      }
+    });
+  });
+};
+
+export const selectAllArticles = (state: CategoryFrameState): Article[] => {
   return state.articles;
 };
 

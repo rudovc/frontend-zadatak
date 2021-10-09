@@ -8,6 +8,11 @@ import dataHealth from "./data/dummyData-health.json";
 import dataScience from "./data/dummyData-science.json";
 import dataSports from "./data/dummyData-sports.json";
 import dataTechnology from "./data/dummyData-technology.json";
+
+function get10PerNumber(page: number): { start: number; end: number } {
+  return { start: page * 2 - 2, end: page * 2 };
+}
+
 /*
 const axiosApi = axios.create({
   baseURL: `https://newsapi.org/v2/top-headlines/`,
@@ -16,6 +21,7 @@ const axiosApi = axios.create({
     language: "en",
   },
 });*/
+
 class API {
   /*static async getArticlesByCategory(categoryParameter: Category) {
     const response = axiosApi.get<Articles>("", {
@@ -23,47 +29,49 @@ class API {
     });
     return response;
   }*/
-  static getArticles(category: Category) {
+
+  static getArticles(category: Category, page: number) {
+    const range = get10PerNumber(page);
     switch (category) {
       case Category.Business:
         const business = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataBusiness.articles);
+            resolve(dataBusiness.articles.slice(range.start, range.end));
           }, 300);
         });
         return business;
       case Category.Entertainment:
         const entertainment = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataEntertainment.articles);
+            resolve(dataEntertainment.articles.slice(range.start, range.end));
           }, 300);
         });
         return entertainment;
       case Category.Health:
         const health = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataHealth.articles);
+            resolve(dataHealth.articles.slice(range.start, range.end));
           }, 300);
         });
         return health;
       case Category.Science:
         const science = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataScience.articles);
+            resolve(dataScience.articles.slice(range.start, range.end));
           }, 300);
         });
         return science;
       case Category.Sports:
         const sports = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataSports.articles);
+            resolve(dataSports.articles.slice(range.start, range.end));
           }, 300);
         });
         return sports;
       case Category.Technology:
         const technology = new Promise<ArticleRawData[]>((resolve) => {
           setTimeout(() => {
-            resolve(dataTechnology.articles);
+            resolve(dataTechnology.articles.slice(range.start, range.end));
           }, 300);
         });
         return technology;

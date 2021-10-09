@@ -1,7 +1,7 @@
 import { Article } from "../../componentInterfaces";
-import Card from "@mui/material/Card";
-import CardHeader from "@mui/material/CardHeader";
+import Paper from "@mui/material/Card";
 import Typography from "@mui/material/Typography";
+import Stack from "@mui/material/Stack";
 
 function formatDate(date: Date) {
   const now = new Date();
@@ -21,20 +21,14 @@ function formatDate(date: Date) {
 
 export const SidebarArticlePreview = (props: Article) => {
   const date = new Date(props.publishedAt);
-  formatDate(date);
   return (
     <div className="sidebarArticlePreview">
-      <Card>
-        <CardHeader
-          titleTypographyProps={{ variant: "subtitle1" }}
-          title={
-            <div>
-              <Typography variant="caption">{formatDate(date)}</Typography>
-              <Typography>{props.title}</Typography>
-            </div>
-          }
-        />
-      </Card>
+      <Paper elevation={0}>
+        <Stack spacing={1}>
+          <Typography variant="caption">{formatDate(date)}</Typography>
+          <Typography variant="body1">{props.title}</Typography>
+        </Stack>
+      </Paper>
     </div>
   );
 };

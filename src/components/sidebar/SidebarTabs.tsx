@@ -3,22 +3,19 @@ import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import { SidebarTab } from "../tabEnums";
 import "../components.scss";
-import { updateArticlesInSidebar } from "../sidebarSlice";
-import { setActiveSidebarTab } from "../sidebarSlice";
+import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebarSlice";
 import { useCallback } from "react";
 
 export const SidebarTabs = () => {
-  const activeTab = useAppSelector((state) => state.sidebar.activeTab);
-
-  const latestArticles = useAppSelector(
-    (state) => state.categoryFrameArticles.articles
+  const activeTab = useAppSelector((state) =>
+    selectActiveSidebarTab(state.sidebar)
   );
+
   const dispatch = useAppDispatch();
 
   const latestClick = useCallback(async () => {
     dispatch(setActiveSidebarTab(SidebarTab.Latest));
-    dispatch(updateArticlesInSidebar(latestArticles));
-  }, [dispatch, latestArticles]);
+  }, [dispatch]);
 
   const favoritesClick = useCallback(async () => {
     dispatch(setActiveSidebarTab(SidebarTab.Favorites));

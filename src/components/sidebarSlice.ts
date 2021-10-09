@@ -4,15 +4,14 @@ import { SidebarTab } from "./tabEnums";
 import { SidebarState } from "./sliceInterfaces";
 
 const serialisedFavorites = localStorage.getItem("storedFavorites");
-const loadedFavorites: Article[] =
+const loadedFavorites: string[] =
   serialisedFavorites === null
-    ? ([] as Article[])
+    ? ([] as string[])
     : JSON.parse(serialisedFavorites);
 
 export const sidebarSlice = createSlice({
   name: "sidebarState",
   initialState: {
-    articles: [] as Article[],
     favorites: loadedFavorites,
     activeTab: SidebarTab.Latest,
   },
@@ -20,17 +19,14 @@ export const sidebarSlice = createSlice({
     setActiveSidebarTab: (state, action: PayloadAction<SidebarTab>) => {
       state.activeTab = action.payload;
     },
-    updateArticlesInSidebar: (state, action: PayloadAction<Article[]>) => {
-      state.articles = action.payload;
-    },
     addArticleToFavorites: (state, action: PayloadAction<Article>) => {
-      const favorite = action.payload;
+      const favorite = action.payload.id;
       state.favorites.push(favorite);
       const favoritesToStore = JSON.stringify(state.favorites);
       localStorage.setItem("storedFavorites", favoritesToStore);
     },
     removeArticleFromFavorites: (state, action: PayloadAction<Article>) => {
-      const favorite = action.payload;
+      const favorite = action.payload.id;
       const favoriteToRemove = state.favorites.findIndex((element) => {
         return element === favorite;
       });
@@ -42,13 +38,16 @@ export const sidebarSlice = createSlice({
 });
 
 // Selectors
-export const selectActiveSidebarTab = (state: SidebarState) => {
+export const selectActiveSidebarTab = (state: SidebarState): SidebarTab => {
   return state.activeTab;
+};
+
+export const selectFavoriteIDs = (state: SidebarState): string[] => {
+  return state.favorites;
 };
 
 // Action creators are generated for each case reducer function
 export const {
-  updateArticlesInSidebar,
   addArticleToFavorites,
   removeArticleFromFavorites,
   setActiveSidebarTab,

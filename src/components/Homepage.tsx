@@ -42,11 +42,7 @@ export const Homepage = (props: HomepageProps) => {
               ),
             }}
           />
-          <Stack
-            direction="row"
-            spacing={2}
-            divider={<Divider orientation="vertical" flexItem />}
-          >
+          <Stack direction="row" spacing={2}>
             <CategoryFrame
               articles={props.categoryArticles}
               nameFilter={nameFilter}

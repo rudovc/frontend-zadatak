@@ -6,7 +6,6 @@ export interface CategoryFrameState {
 }
 
 export interface SidebarState {
-  articles: Article[];
-  favorites: Article[];
+  favorites: string[];
   activeTab: SidebarTab;
 }

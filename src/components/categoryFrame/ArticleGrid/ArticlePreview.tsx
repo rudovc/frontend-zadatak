@@ -6,7 +6,6 @@ import {
 } from "../../sidebarSlice";
 import { Article } from "../../componentInterfaces";
 import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
 import CardHeader from "@mui/material/CardHeader";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
@@ -21,9 +20,7 @@ export const ArticlePreview = (props: Article) => {
   const favorites = useAppSelector((state) => state.sidebar.favorites);
 
   const isInFavorites = useCallback(() => {
-    return Boolean(
-      favorites.filter((element) => element.id === props.id).length
-    );
+    return Boolean(favorites.filter((element) => element === props.id).length);
   }, [favorites, props.id]);
 
   const [isFavorite, setIsFavorite] = useState(isInFavorites());
