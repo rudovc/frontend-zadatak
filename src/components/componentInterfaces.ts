@@ -1,3 +1,5 @@
+import Category from "./categoryEnums";
+
 export interface ArticleRawData {
   source: {
     name: string;
@@ -14,7 +16,7 @@ export interface ArticlesRawData {
   articles: ArticleRawData[];
 }
 export interface Article extends Required<NonNullable<ArticleRawData>> {
-  category: string;
+  category: Category;
   id: string;
   source: {
     name: string;

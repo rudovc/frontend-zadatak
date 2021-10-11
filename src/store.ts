@@ -12,6 +12,7 @@ const store = configureStore({
   },
 });
 
+// Initially load 1 page of articles from the API to fill the store with data
 loadArticlesRawDataPerPageFromAPI(1);
 
 // Infer the `RootState` and `AppDispatch` types from the store itself

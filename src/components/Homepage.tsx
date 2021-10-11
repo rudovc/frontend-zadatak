@@ -12,8 +12,10 @@ import InputAdornment from "@mui/material/InputAdornment";
 import Button from "@mui/material/Button";
 
 export const Homepage = (props: HomepageProps) => {
+  // Input in search field is part of state
   const searchBoxRef = useRef<TextFieldProps>(null);
   const [nameFilter, setNameFilter] = useState("");
+  // Set state to be search field value
   const handleClick = () => {
     const input: string = searchBoxRef.current?.value as string;
     setNameFilter(input);

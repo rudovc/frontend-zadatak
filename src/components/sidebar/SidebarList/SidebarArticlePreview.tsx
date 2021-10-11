@@ -4,10 +4,12 @@ import Typography from "@mui/material/Typography";
 import Stack from "@mui/material/Stack";
 
 function formatDate(date: Date) {
+  // Format article date to show only HH:MM
   const now = new Date();
   const day =
     date.getDay() !== now.getDay()
-      ? Intl.DateTimeFormat("en-gb", {
+      ? // Show Day before HH:MM in case it is older than today
+        Intl.DateTimeFormat("en-gb", {
           weekday: "short",
           hour: "numeric",
           minute: "numeric",

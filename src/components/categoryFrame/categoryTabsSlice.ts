@@ -3,6 +3,13 @@ import { RootState } from "../../store";
 import Category from "../categoryEnums";
 import { CategoryTab } from "../tabEnums";
 
+function isCategoryTab(arg: CategoryTab | Category): arg is CategoryTab {
+  return Object.values(CategoryTab).includes(arg as CategoryTab);
+}
+function isCategory(arg: CategoryTab | Category): arg is Category {
+  return Object.values(Category).includes(arg as Category);
+}
+
 export const categoryTabsSlice = createSlice({
   name: "activeCategoryTab",
   initialState: {
@@ -10,10 +17,23 @@ export const categoryTabsSlice = createSlice({
     categoryName: Category.Home,
   },
   reducers: {
-    setActiveCategoryTab: (state, action: PayloadAction<CategoryTab>) => {
-      state.value = action.payload;
-      const category = Object.entries(Category)[action.payload][1];
-      state.categoryName = category;
+    setActiveCategoryTab: (
+      state,
+      action: PayloadAction<CategoryTab | Category>
+    ) => {
+      if (isCategoryTab(action.payload)) {
+        state.value = action.payload;
+        const category = Object.entries(Category)[action.payload][1];
+        state.categoryName = category;
+      } else if (isCategory(action.payload)) {
+        state.categoryName = action.payload;
+        const categoryValue =
+          CategoryTab[
+            (action.payload.charAt(0).toUpperCase() +
+              action.payload.slice(1)) as keyof typeof CategoryTab
+          ];
+        state.value = categoryValue;
+      }
     },
   },
 });

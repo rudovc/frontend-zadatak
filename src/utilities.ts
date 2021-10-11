@@ -5,6 +5,7 @@ import store from "./store";
 
 export async function loadArticlesRawDataPerPageFromAPI(page: number) {
   const rawData = await Promise.all(
+    // TODO: Manage the "general" category without duplicates
     Object.values(Category).flatMap(async (categoryName) => {
       if (categoryName === Category.Home) {
         return [];

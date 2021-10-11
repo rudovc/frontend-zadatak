@@ -18,37 +18,33 @@ import Stack from "@mui/material/Stack";
 import Divider from "@mui/material/Divider";
 
 export const SidebarList = () => {
+  // Get active tab and saved favorite ID keys from store and generate list of favorites by filtering w/ ID
   const activeTab = useAppSelector(selectActiveSidebarTab);
   const favoriteIDs = useAppSelector(selectFavoriteIDs);
   const favorites = useAppSelector((state) =>
     selectArticlesByID(state, favoriteIDs)
   );
 
+  // Keep track of loading, pagination in sidebar and pagination in the overall articles store for infinite scroll functionality
   const [isLoading, setIsLoading] = useState(false);
   const [currentLatestPage, setCurrentLatestPage] = useState(1);
   const allArticlesPage = useAppSelector(selectPage);
   const articleRangeEnd = currentLatestPage * 10;
 
+  // Take only as many articles as needed for current scroll depth
   const allArticles = useAppSelector(selectAllArticles);
   const latest = allArticles.slice(0, articleRangeEnd);
 
-  const sortedArticleList =
-    activeTab === SidebarTab.Latest
-      ? latest.sort((o1, o2) => {
-          if (o1.publishedAt !== null && o2.publishedAt !== null) {
-            const date1 = +new Date(o1.publishedAt);
-            const date2 = +new Date(o2.publishedAt);
-            return date2 - date1;
-          }
-          return -1;
-        })
-      : favorites;
+  // Show latest/favorites depending on active tab
+  const articlesToShow = activeTab === SidebarTab.Latest ? latest : favorites;
 
+  // Map the shown list of articles to individual preview components
   const articleList = () => {
-    const mappedArticles = sortedArticleList.map((element: Article) => (
+    const mappedArticles = articlesToShow.map((element: Article) => (
       <SidebarArticlePreview {...element} key={element.id} />
     ));
 
+    // Show a progress circle if the next page is loading
     if (!isLoading) {
       return (
         <Stack
@@ -68,20 +64,25 @@ export const SidebarList = () => {
     }
   };
 
+  // Load more articles on scroll down
   const loadMoreArticles = useCallback(
     async (e: UIEvent<HTMLUListElement>) => {
       if (activeTab === SidebarTab.Latest) {
         if (!isLoading) {
           const element = e.currentTarget;
+          // Check if bottom of element was reached
           if (
             element.scrollHeight * 0.9 - element.scrollTop <=
             element.clientHeight
           ) {
             setIsLoading(true);
+            // Check if there are enough articles in the store to immediately display without sending API request
             if (articleRangeEnd > allArticles.length) {
+              // If not, request more articles from API
               await loadArticlesRawDataPerPageFromAPI(allArticlesPage + 1);
               setIsLoading(false);
             } else {
+              // If yes, display them and increment page shown
               setCurrentLatestPage(currentLatestPage + 1);
               setIsLoading(false);
             }
@@ -100,7 +101,7 @@ export const SidebarList = () => {
   );
 
   return (
-    // zasto ne mogu stavit onScroll u div? i je li to uopce dobra ideja
+    // Zasto ne mogu stavit onScroll u div? I je li to uopce dobra ideja
     <div className="sidebarList">
       <List
         onScroll={loadMoreArticles}

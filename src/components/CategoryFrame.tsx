@@ -10,24 +10,30 @@ import { useAppSelector } from "../hooks";
 import { loadArticlesRawDataPerPageFromAPI } from "../utilities";
 
 export const CategoryFrame = (props: Articles) => {
+  // Keep track of loading and pagination in grid (have 15 articles per page)
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
   const paginationCount = Math.ceil(props.articles.length / 15);
 
+  // Keep track of pagination in overall store
   const allArticles = props.articles;
   const allArticlesPage = useAppSelector(selectPage);
 
+  // Set range of articles to be displayed depending on the current page
   const articleRange = {
     start: currentPage * 15 - 15,
     end: currentPage * 15,
   };
 
+  // Handle switching to a new page
   const handleChange = useCallback(
     async (e: React.ChangeEvent<unknown>, page: number) => {
       if (!isLoading) {
         setCurrentPage(page);
+        // Check if there are enough articles in the store to immediately display without sending API request
         if (currentPage >= paginationCount - 1) {
           setIsLoading(true);
+          // If not, request more articles from API
           await loadArticlesRawDataPerPageFromAPI(allArticlesPage + 1);
           setIsLoading(false);
         }

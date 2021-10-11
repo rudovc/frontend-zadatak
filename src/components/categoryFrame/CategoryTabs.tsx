@@ -16,8 +16,14 @@ import {
 import "../components.scss";
 
 export const CategoryTabs = () => {
+  // Active tab is part of redux store b/c it is shared between App (which uses it to filter the articles) and CategoryTabs
   const activeTab = useAppSelector(selectActiveCategory);
   const dispatch = useAppDispatch();
+
+  // Handle clicking on a tab, category passed as argument
+  const handleClick = (category: CategoryTab) => {
+    dispatch(setActiveCategoryTab(category));
+  };
 
   return (
     <div className="categoryTabs">
@@ -25,50 +31,50 @@ export const CategoryTabs = () => {
         <Tab
           icon={<HomeIcon />}
           label="Home"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Home));
+          onClick={() => {
+            handleClick(CategoryTab.Home);
           }}
         />
         <Tab
           icon={<WorkIcon />}
           label="Business"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Business));
+          onClick={() => {
+            handleClick(CategoryTab.Business);
           }}
         />
         <Tab
           icon={<MovieIcon />}
           label="Entertainment"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Entertainment));
+          onClick={() => {
+            handleClick(CategoryTab.Entertainment);
           }}
         />
         <Tab
           icon={<LocalHospitalicon />}
           label="Health"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Health));
+          onClick={() => {
+            handleClick(CategoryTab.Health);
           }}
         />
         <Tab
           icon={<ScienceIcon />}
           label="Science"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Science));
+          onClick={() => {
+            handleClick(CategoryTab.Science);
           }}
         />
         <Tab
           icon={<MonitorIcon />}
           label="Technology"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Technology));
+          onClick={() => {
+            handleClick(CategoryTab.Technology);
           }}
         />
         <Tab
           icon={<SportsSoccerIcon />}
           label="Sports"
-          onClick={async () => {
-            dispatch(setActiveCategoryTab(CategoryTab.Sports));
+          onClick={() => {
+            handleClick(CategoryTab.Sports);
           }}
         />
       </Tabs>

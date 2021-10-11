@@ -4,6 +4,7 @@ import {
   addArticleToFavorites,
   removeArticleFromFavorites,
 } from "../../sidebarSlice";
+import { setActiveCategoryTab } from "../categoryTabsSlice";
 import { Article } from "../../componentInterfaces";
 import Card from "@mui/material/Card";
 import CardHeader from "@mui/material/CardHeader";
@@ -13,6 +14,7 @@ import IconButton from "@mui/material/IconButton";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 import Stack from "@mui/material/Stack";
+import ButtonBase from "@mui/material/ButtonBase";
 import { useCallback } from "react";
 
 // ima li koji drugi nacin osim ovaj '&' koji nisan niti moga nac u novoj verziji handbooka
@@ -28,13 +30,17 @@ export const ArticlePreview = (props: Article & { key: string }) => {
 
   const image = !props.urlToImage ? "" : props.urlToImage;
 
-  const handleClick = () => {
+  const handleFavoriteClick = () => {
     if (!isFavorite) {
       dispatch(addArticleToFavorites({ ...props }));
     } else {
       dispatch(removeArticleFromFavorites({ ...props }));
     }
     setIsFavorite(!isFavorite);
+  };
+
+  const handleCategoryClick = () => {
+    dispatch(setActiveCategoryTab(props.category));
   };
 
   useEffect(() => {
@@ -48,9 +54,11 @@ export const ArticlePreview = (props: Article & { key: string }) => {
         <CardHeader
           title={
             <div>
-              <Typography variant="caption">
-                {props.category.toUpperCase()}
-              </Typography>
+              <ButtonBase onClick={handleCategoryClick}>
+                <Typography variant="caption">
+                  {props.category.toUpperCase()}
+                </Typography>
+              </ButtonBase>
               <Typography>{props.title}</Typography>
             </div>
           }
@@ -59,7 +67,7 @@ export const ArticlePreview = (props: Article & { key: string }) => {
             <div>
               <Stack direction="row">
                 {props.author}
-                <IconButton aria-label="favorite" onClick={handleClick}>
+                <IconButton aria-label="favorite" onClick={handleFavoriteClick}>
                   {isFavorite ? <FavoriteIcon /> : <FavoriteBorder />}
                 </IconButton>
               </Stack>

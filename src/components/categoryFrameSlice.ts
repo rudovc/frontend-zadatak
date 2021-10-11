@@ -32,7 +32,19 @@ export const categoryFrameSlice = createSlice({
           return [result];
         } else return [];
       });
-      state.articles.push(...dataWithID);
+
+      // Sort the articles chronologically whenever a new set is added
+      const unsortedArticles = [...state.articles, ...dataWithID];
+      const sortedArticles = unsortedArticles.sort((o1, o2) => {
+        if (o1.publishedAt !== null && o2.publishedAt !== null) {
+          const date1 = +new Date(o1.publishedAt);
+          const date2 = +new Date(o2.publishedAt);
+          return date2 - date1;
+        }
+        return -1;
+      });
+
+      state.articles = sortedArticles;
       state.page = Math.floor(state.articles.length / 10 / 6);
     },
   },
