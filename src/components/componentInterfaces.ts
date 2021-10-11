@@ -24,7 +24,7 @@ export interface Article extends Required<NonNullable<ArticleRawData>> {
   author: string | null;
   title: string;
   description: string | null;
-  url: string | null;
+  url: string;
   urlToImage: string | null;
   publishedAt: string;
   content: string | null;

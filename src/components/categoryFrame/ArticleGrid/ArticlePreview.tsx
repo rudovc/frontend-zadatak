@@ -1,3 +1,4 @@
+import "../../components.scss";
 import { useEffect, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../../hooks";
 import {
@@ -59,7 +60,14 @@ export const ArticlePreview = (props: Article & { key: string }) => {
                   {props.category.toUpperCase()}
                 </Typography>
               </ButtonBase>
-              <Typography>{props.title}</Typography>
+              <a
+                className="nostyle"
+                target="_blank"
+                rel="noreferrer"
+                href={props.url}
+              >
+                <Typography>{props.title}</Typography>
+              </a>
             </div>
           }
           subheaderTypographyProps={{ variant: "caption" }}

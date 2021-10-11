@@ -20,12 +20,14 @@ export const categoryFrameSlice = createSlice({
           element.article.publishedAt === null
             ? Date()
             : element.article.publishedAt;
-        const { title, publishedAt, ...rest } = element.article;
+        const link = element.article.url === null ? "" : element.article.url;
+        const { title, publishedAt, url, ...rest } = element.article;
         const result = {
           category: element.category,
           id: hash.sha1(element),
           publishedAt: date,
           title: name,
+          url: link,
           ...rest,
         };
         if (state.articles.includes(result) === false) {
