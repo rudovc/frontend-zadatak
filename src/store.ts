@@ -2,7 +2,7 @@ import { configureStore } from "@reduxjs/toolkit";
 import categoryTabReducer from "./components/categoryFrame/categoryTabsSlice";
 import sidebarReducer from "./components/sidebarSlice";
 import categoryFrameReducer from "./components/categoryFrameSlice";
-import { loadArticlesRawDataPerPageFromAPI } from "./services";
+import { loadArticlesRawDataPerPageFromAPI } from "./utilities";
 
 const store = configureStore({
   reducer: {

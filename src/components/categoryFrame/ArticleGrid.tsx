@@ -1,7 +1,8 @@
-import "../components.scss";
+//import styles from "./ArticleGrid.modules.scss";
 import { Articles } from "../componentInterfaces";
 import { ArticlePreview } from "./ArticleGrid/ArticlePreview";
 import Grid from "@mui/material/Grid";
+import Typography from "@mui/material/Typography";
 
 export const ArticleGrid = (props: Articles) => {
   const filteredArticleList = [...props.articles].filter((element) => {
@@ -22,12 +23,13 @@ export const ArticleGrid = (props: Articles) => {
     return -1;
   });
   const displayedArticleList = sortedArticleList.map((element) => (
-    <Grid item xs={4}>
-      <ArticlePreview {...element} />
+    <Grid item xs={4} key={`grid_item-${element.id}`}>
+      <ArticlePreview {...element} key={element.id} />
     </Grid>
   ));
   return (
     <div className="articleGrid">
+      <Typography>News</Typography>
       <Grid container spacing={1}>
         {displayedArticleList}
       </Grid>

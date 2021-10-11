@@ -3,12 +3,13 @@ import { Article } from "./componentInterfaces";
 import { ArticlesPayload } from "./payloadInterfaces";
 import hash from "object-hash";
 import Category from "./categoryEnums";
-import { CategoryFrameState } from "./sliceInterfaces";
+import { RootState } from "../store";
 
 export const categoryFrameSlice = createSlice({
   name: "articlesByCategory",
   initialState: {
     articles: [] as Article[],
+    page: 1,
   },
   reducers: {
     updateArticles: (state, action: PayloadAction<ArticlesPayload[]>) => {
@@ -32,37 +33,46 @@ export const categoryFrameSlice = createSlice({
         } else return [];
       });
       state.articles.push(...dataWithID);
+      state.page = Math.floor(state.articles.length / 10 / 6);
     },
   },
 });
 
 // Selectors
+export const selectPage = (state: RootState): number => {
+  return state.categoryFrameArticles.page;
+};
+
 export const selectArticlesByCategory = (
-  state: CategoryFrameState,
+  state: RootState,
   category: Category
 ): Article[] => {
   if (category === Category.Home) {
-    return state.articles;
+    return state.categoryFrameArticles.articles;
   } else {
-    return state.articles.filter((element) => element.category === category);
+    return state.categoryFrameArticles.articles.filter(
+      (element) => element.category === category
+    );
   }
 };
 
 export const selectArticlesByID = (
-  state: CategoryFrameState,
+  state: RootState,
   idFilter: string[]
 ): Article[] => {
-  return state.articles.filter((element) => {
+  return state.categoryFrameArticles.articles.filter((element) => {
     return idFilter.find((id) => {
       if (element.id === id) {
         return true;
+      } else {
+        return false;
       }
     });
   });
 };
 
-export const selectAllArticles = (state: CategoryFrameState): Article[] => {
-  return state.articles;
+export const selectAllArticles = (state: RootState): Article[] => {
+  return state.categoryFrameArticles.articles;
 };
 
 // Action creators are generated for each case reducer function

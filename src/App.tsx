@@ -5,24 +5,21 @@ import {
   selectAllArticles,
   selectArticlesByCategory,
 } from "./components/categoryFrameSlice";
+import { selectActiveCategoryName } from "./components/categoryFrame/categoryTabsSlice";
 
 function App() {
-  const displayedArticles = {
-    displayedArticlesByCategory: useAppSelector((state) => {
-      return selectArticlesByCategory(
-        state.categoryFrameArticles,
-        state.categoryTabs.categoryName
-      );
+  const activeCategory = useAppSelector(selectActiveCategoryName);
+  const articles = {
+    byCategory: useAppSelector((state) => {
+      return selectArticlesByCategory(state, activeCategory);
     }),
-    displayedArticlesInSidebar: useAppSelector((state) => {
-      return selectAllArticles(state.categoryFrameArticles);
-    }),
+    inSidebar: useAppSelector(selectAllArticles),
   };
 
   return (
     <Homepage
-      categoryArticles={displayedArticles.displayedArticlesByCategory}
-      sidebarArticles={displayedArticles.displayedArticlesInSidebar}
+      categoryArticles={articles.byCategory}
+      sidebarArticles={articles.inSidebar}
     />
   );
 }

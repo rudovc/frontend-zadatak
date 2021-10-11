@@ -10,7 +10,7 @@ import dataSports from "./data/dummyData-sports.json";
 import dataTechnology from "./data/dummyData-technology.json";
 
 function get10PerNumber(page: number): { start: number; end: number } {
-  return { start: page * 2 - 2, end: page * 2 };
+  return { start: page * 10 - 10, end: page * 10 };
 }
 
 /*

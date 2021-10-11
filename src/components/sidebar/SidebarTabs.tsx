@@ -7,10 +7,7 @@ import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebarSlice";
 import { useCallback } from "react";
 
 export const SidebarTabs = () => {
-  const activeTab = useAppSelector((state) =>
-    selectActiveSidebarTab(state.sidebar)
-  );
-
+  const activeTab = useAppSelector(selectActiveSidebarTab);
   const dispatch = useAppDispatch();
 
   const latestClick = useCallback(async () => {

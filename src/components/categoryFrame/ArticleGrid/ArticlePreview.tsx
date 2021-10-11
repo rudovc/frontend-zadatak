@@ -15,7 +15,8 @@ import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 import Stack from "@mui/material/Stack";
 import { useCallback } from "react";
 
-export const ArticlePreview = (props: Article) => {
+// ima li koji drugi nacin osim ovaj '&' koji nisan niti moga nac u novoj verziji handbooka
+export const ArticlePreview = (props: Article & { key: string }) => {
   const dispatch = useAppDispatch();
   const favorites = useAppSelector((state) => state.sidebar.favorites);
 

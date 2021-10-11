@@ -1,4 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+import { RootState } from "../../store";
 import Category from "../categoryEnums";
 import { CategoryTab } from "../tabEnums";
 
@@ -16,6 +17,14 @@ export const categoryTabsSlice = createSlice({
     },
   },
 });
+
+export const selectActiveCategory = (state: RootState) => {
+  return state.categoryTabs.value;
+};
+
+export const selectActiveCategoryName = (state: RootState) => {
+  return state.categoryTabs.categoryName;
+};
 
 // Action creators are generated for each case reducer function
 export const { setActiveCategoryTab } = categoryTabsSlice.actions;

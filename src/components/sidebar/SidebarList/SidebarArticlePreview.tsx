@@ -19,7 +19,7 @@ function formatDate(date: Date) {
   return day;
 }
 
-export const SidebarArticlePreview = (props: Article) => {
+export const SidebarArticlePreview = (props: Article & { key: string }) => {
   const date = new Date(props.publishedAt);
   return (
     <div className="sidebarArticlePreview">

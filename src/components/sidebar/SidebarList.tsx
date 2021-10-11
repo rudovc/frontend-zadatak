@@ -4,38 +4,51 @@ import List from "@mui/material/List";
 import "../components.scss";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
 import { Article } from "../componentInterfaces";
-import { selectAllArticles, selectArticlesByID } from "../categoryFrameSlice";
+import {
+  selectAllArticles,
+  selectArticlesByID,
+  selectPage,
+} from "../categoryFrameSlice";
 import { selectActiveSidebarTab, selectFavoriteIDs } from "../sidebarSlice";
 import { SidebarTab } from "../tabEnums";
-import { loadArticlesRawDataPerPageFromAPI } from "../../services";
+import { loadArticlesRawDataPerPageFromAPI } from "../../utilities";
 import CircularProgress from "@mui/material/CircularProgress";
 import ListItem from "@mui/material/ListItem";
 import Stack from "@mui/material/Stack";
 import Divider from "@mui/material/Divider";
 
 export const SidebarList = () => {
-  const activeTab = useAppSelector((state) =>
-    selectActiveSidebarTab(state.sidebar)
-  );
-  const favoriteIDs = useAppSelector((state) =>
-    selectFavoriteIDs(state.sidebar)
-  );
+  const activeTab = useAppSelector(selectActiveSidebarTab);
+  const favoriteIDs = useAppSelector(selectFavoriteIDs);
   const favorites = useAppSelector((state) =>
-    selectArticlesByID(state.categoryFrameArticles, favoriteIDs)
-  );
-  const latest = useAppSelector((state) =>
-    selectAllArticles(state.categoryFrameArticles)
+    selectArticlesByID(state, favoriteIDs)
   );
 
   const [isLoading, setIsLoading] = useState(false);
+  const [currentLatestPage, setCurrentLatestPage] = useState(1);
+  const allArticlesPage = useAppSelector(selectPage);
+  const articleRangeEnd = currentLatestPage * 10;
 
-  const articlesToDisplay =
-    activeTab === SidebarTab.Latest ? latest : favorites; // 2nd return should be favorites!!!*/
+  const allArticles = useAppSelector(selectAllArticles);
+  const latest = allArticles.slice(0, articleRangeEnd);
+
+  const sortedArticleList =
+    activeTab === SidebarTab.Latest
+      ? latest.sort((o1, o2) => {
+          if (o1.publishedAt !== null && o2.publishedAt !== null) {
+            const date1 = +new Date(o1.publishedAt);
+            const date2 = +new Date(o2.publishedAt);
+            return date2 - date1;
+          }
+          return -1;
+        })
+      : favorites;
 
   const articleList = () => {
-    const mappedArticles = articlesToDisplay.map((element: Article) => (
-      <SidebarArticlePreview {...element} />
+    const mappedArticles = sortedArticleList.map((element: Article) => (
+      <SidebarArticlePreview {...element} key={element.id} />
     ));
+
     if (!isLoading) {
       return (
         <Stack
@@ -55,8 +68,6 @@ export const SidebarList = () => {
     }
   };
 
-  console.log(articleList);
-
   const loadMoreArticles = useCallback(
     async (e: UIEvent<HTMLUListElement>) => {
       if (activeTab === SidebarTab.Latest) {
@@ -67,15 +78,25 @@ export const SidebarList = () => {
             element.clientHeight
           ) {
             setIsLoading(true);
-            const currentPages = articlesToDisplay.length / 12;
-            loadArticlesRawDataPerPageFromAPI(currentPages + 1).then(() =>
-              setIsLoading(false)
-            );
+            if (articleRangeEnd > allArticles.length) {
+              await loadArticlesRawDataPerPageFromAPI(allArticlesPage + 1);
+              setIsLoading(false);
+            } else {
+              setCurrentLatestPage(currentLatestPage + 1);
+              setIsLoading(false);
+            }
           }
         }
       }
     },
-    [articlesToDisplay.length, isLoading, activeTab]
+    [
+      isLoading,
+      activeTab,
+      currentLatestPage,
+      allArticles.length,
+      allArticlesPage,
+      articleRangeEnd,
+    ]
   );
 
   return (

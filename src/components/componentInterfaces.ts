@@ -1,5 +1,4 @@
 export interface ArticleRawData {
-  id?: string;
   source: {
     name: string;
   };
@@ -14,7 +13,7 @@ export interface ArticleRawData {
 export interface ArticlesRawData {
   articles: ArticleRawData[];
 }
-export interface Article {
+export interface Article extends Required<NonNullable<ArticleRawData>> {
   category: string;
   id: string;
   source: {

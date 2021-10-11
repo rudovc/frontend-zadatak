@@ -5,7 +5,6 @@ import { Sidebar } from "./Sidebar";
 import { HomepageProps } from "./componentInterfaces";
 import { TextFieldProps } from "@mui/material";
 import Stack from "@mui/material/Stack";
-import Divider from "@mui/material/Divider";
 import Container from "@mui/material/Container";
 import TextField from "@mui/material/TextField";
 import SearchIcon from "@mui/icons-material/Search";
@@ -23,7 +22,7 @@ export const Homepage = (props: HomepageProps) => {
   return (
     <div className="homepage">
       <Container>
-        <Stack>
+        <Stack spacing={1}>
           <TextField
             id="search"
             inputRef={searchBoxRef}

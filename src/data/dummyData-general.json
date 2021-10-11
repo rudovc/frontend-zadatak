@@ -261,6 +261,266 @@
       "urlToImage": "https://content.api.news/v3/images/bin/99c19e26bacced642e7dd05e74bf6c3a",
       "publishedAt": "2021-10-05T07:39:00Z",
       "content": "Carlton should be expecting to contend for finals next year with 2021s slight step backwards a lie which disguises their strong list build, according to two Fox Footy analysts.\r\nThe Blues will once a… [+4996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Andrew Sparrow",
+      "title": "Boris Johnson criticised for being on holiday as energy crisis leads to warnings factories might close – live - The Guardian",
+      "description": "Prime minister faces calls to return from Marbella as gas prices continue to soar",
+      "url": "https://www.theguardian.com/politics/live/2021/oct/11/boris-johnson-holiday-energy-crisis-politics-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/dd785757bf68b4183354907e8fa185390c63b2a2/0_378_5714_3431/master/5714.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4527e885e8663c027e90a7fe195d2194",
+      "publishedAt": "2021-10-11T10:40:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rappler"
+      },
+      "author": "Bonz Magsambol",
+      "title": "DOH says COVID-19 cases declining, but 3 regions still at 'high risk' - Rappler",
+      "description": "The Philippines remains at the moderate risk classification for COVID-19",
+      "url": "https://www.rappler.com/nation/doh-sees-drop-covid-19-cases-flag-regions-being-high-risk-october-2021",
+      "urlToImage": "https://assets2.rappler.com/2021/08/divisoria-crowd-ylaya-shopping-covid-19-coronavirus-august-24-2021-001-1633943620999.jpg",
+      "publishedAt": "2021-10-11T10:21:00Z",
+      "content": "With Monday's new cases, the country now has 2,674,814 cases of COVID-19. Of these, 98,894 remain active or currently sick."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Charles Riley, CNN Business",
+      "title": "Nobel Prize in economics awarded to David Card, Joshua Angrist and Guido Imbens - CNN",
+      "description": "David Card, Joshua Angrist and Guido Imbens have been awarded the 2021 Nobel Prize in economic sciences for contributions to labor economics and analysis of causal relationships, the Royal Swedish Academy of Sciences announced on Monday.",
+      "url": "https://www.cnn.com/2021/10/11/business/nobel-prize-economics-winner-2021-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210930074508-nobel-prize-medal-file-2020-super-tease.jpg",
+      "publishedAt": "2021-10-11T10:21:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Amit Shah Meets Ministers Amid Coal Shortage, Power Blackouts Concern - NDTV",
+      "description": "Union Home Minister Amit Shah on Monday met his cabinet colleagues in charge of the coal and power ministries amid concerns of an electricity shortage in many parts of the country because of inadequate supplies of coal.",
+      "url": "https://www.ndtv.com/india-news/amit-shah-meets-coal-and-power-ministers-amid-coal-shortage-and-concerns-over-power-blackouts-2571510",
+      "urlToImage": "https://c.ndtvimg.com/2021-10/pi6jf0bo_coal-generic-reuters_625x300_11_October_21.jpg",
+      "publishedAt": "2021-10-11T10:20:00Z",
+      "content": "The coal ministry has said there is ample stock of coal to meet the demand. (Representational)\r\nNew Delhi: Union Home Minister Amit Shah met his cabinet colleagues in charge of the coal and power min… [+2104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Guardian Nigeria"
+      },
+      "author": null,
+      "title": "NAFDAC warns against consumption, distribution of US infant formulas - Guardian",
+      "description": "The National Agency for Food and Drug Administration and Control (NAFDAC) has warned Nigerians to stop consuming and distributing infant",
+      "url": "https://editor.guardian.ng/news/nafdac-warns-against-consumption-distribution-of-us-infant-formulas/",
+      "urlToImage": "https://guardian.ng/wp-content/uploads/2021/07/NAFDAC.jpg",
+      "publishedAt": "2021-10-11T10:18:00Z",
+      "content": "The National Agency for Food and Drug Administration and Control (NAFDAC) has warned Nigerians to stop consuming and distributing infant formulas manufactured by Able Groupe, a US based company.\r\nThe… [+2707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "After Drug Haul, Adani Ports Says No to Cargo From Iran, Pak, Afghanistan - NDTV",
+      "description": "Adani Ports says its terminals won't handle cargo from Iran, Pakistan, Afghanistan from November 15 after Mundra drug haul",
+      "url": "https://www.ndtv.com/india-news/adani-ports-says-its-terminals-wont-handle-cargo-from-iran-pakistan-afghanistan-from-november-15-after-mundra-drug-haul-2571597",
+      "urlToImage": "https://c.ndtvimg.com/2021-10/fac274dg_adani-ports_650x400_11_October_21.jpg",
+      "publishedAt": "2021-10-11T10:17:00Z",
+      "content": "New Delhi: The Adani Ports said today that the terminals it runs will not handle cargo from Iran, Afghanistan and Pakistan starting November 15. The move came after a huge drugs haul in Gujarat.  \"Wi… [+1750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky Sports"
+      },
+      "author": "Sky Sports",
+      "title": "Martin Brundle: Lewis Hamilton made mistake by overruling Mercedes in Turkish GP pit-call fiasco - Sky Sports",
+      "description": "Sky Sports F1's Martin Brundle believes Lewis Hamilton made a \"mistake\" for overruling Mercedes at the Turkish GP.",
+      "url": "https://www.skysports.com/f1/news/12433/12431307/martin-brundle-lewis-hamilton-made-mistake-by-overruling-mercedes-in-turkish-gp-pit-call-fiasco",
+      "urlToImage": "https://e1.365dm.com/21/10/1600x900/skysports-lewis-hamilton-f1_5542853.jpg",
+      "publishedAt": "2021-10-11T10:12:58Z",
+      "content": "Please use Chrome browser for a more accessible video player\r\nMartin Brundle believes Lewis Hamilton 'made a mistake' by disagreeing with his Mercedes team over strategy at the Turkish Grand Prix\r\nMa… [+4032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Berkeley Lovelace Jr.",
+      "title": "Merck asks FDA to authorize antiviral Covid pill for emergency use - CNBC",
+      "description": "The Covid-19 treatment – known as molnupiravir – could be available to Americans by late this year.",
+      "url": "https://www.cnbc.com/2021/10/11/covid-pill-merck-asks-fda-to-authorize-antiviral-for-emergency-use.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106848512-1614787765983-merck.jpg?v=1614787788",
+      "publishedAt": "2021-10-11T10:05:30Z",
+      "content": "Merck said Monday it asked the Food and Drug Administration to authorize emergency use of its experimental antiviral pill to treat mild-to-moderate Covid-19 in adults.\r\nThe U.S. drugmaker's request c… [+2184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Ford Mustang Mach-E GT First impressions - Engadget",
+      "description": "Get More Engadget: • Like us on Facebook: http://www.facebook.com/engadget• Follow us on Twitter: http://www.twitter.com/engadget• Follow us on Instagram: ht...",
+      "url": "https://www.youtube.com/watch?v=xbSjI4NCkS8",
+      "urlToImage": "https://i.ytimg.com/vi/xbSjI4NCkS8/maxresdefault.jpg",
+      "publishedAt": "2021-10-11T10:00:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InsideEVs "
+      },
+      "author": null,
+      "title": "2021 Ford Mustang Mach-E GT First Drive: More Smiles Per Mile - InsideEVs ",
+      "description": "We drive the 2021 Ford Mustang Mach-E GT and GT Performance to see if these new high-performance versions of the Mach-E live up to their billing.",
+      "url": "https://insideevs.com/reviews/539744/ford-mustang-mache-gt-review/",
+      "urlToImage": "https://cdn.motor1.com/images/mgl/02nPW/s1/mustang-mach-e-gt-first-drive-thumbnail.jpg",
+      "publishedAt": "2021-10-11T10:00:00Z",
+      "content": "We were amongst the first to get behind the wheel of the 2021 Mustang Mach GT and GT Performance for Ford's first-drive event last week in San Francisco and came away with a feeling that we've only s… [+11517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Ravi Krishnan Khajuria",
+      "title": "Indian Army’s JCO, 4 soldiers killed in encounter with terrorists in Jammu - Hindustan Times",
+      "description": "The operation was launched following intelligence inputs about the presence of terrorists in Chamrer forests located near Mughal Road in Surankote sub division of Poonch district in Jammu | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/indian-army-s-jco-4-soldiers-killed-in-encounter-with-terrorists-in-jammu-101633940473121.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/10/11/1600x900/6a846348-2a6b-11ec-a8a7-28039111faee_1633945984391.jpg",
+      "publishedAt": "2021-10-11T09:53:08Z",
+      "content": "A junior commissioned officer (JCO) was among five soldiers killed in an exchange of fire with heavily armed terrorists in a forested area at Surankote in Jammu and Kashmir (J&amp;K)s Poonch district… [+1780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Entertainment Desk",
+      "title": "National Award-winning actor Nedumudi Venu passes away - The Indian Express",
+      "description": "Nedumudi Venu had been in a critical condition for some time due to liver-related ailments.",
+      "url": "https://indianexpress.com/article/entertainment/malayalam/national-award-winning-actor-nedumudi-venu-passes-away-7565462/",
+      "urlToImage": "https://images.indianexpress.com/2021/10/venu1200.jpg",
+      "publishedAt": "2021-10-11T09:50:58Z",
+      "content": "National Award-winning actor Nedumudi Venu died at the age of 73 at a private hospital in Thiruvananthapuram on Monday. He had been in a critical condition for some time due to liver-related ailments… [+1896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thecable.ng"
+      },
+      "author": "by  Olufemi Atoyebi",
+      "title": "Kunle Afolayan, MasterCard to train 300,000 youths in film production - TheCable",
+      "description": "Kunle Afolayan, chief executive officer of KAP Film and Television Academy, says 300,000 young Nigerians will be trained in film, television, and motion picture production over the next three years",
+      "url": "https://www.thecable.ng/kunle-afolayan-mastercard-to-train-300000-youths-in-film-production",
+      "urlToImage": "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2021/10/Kunle-Afolayan.jpg",
+      "publishedAt": "2021-10-11T09:48:00Z",
+      "content": "Kunle Afolayan, chief executive officer of KAP Film and Television Academy, says 300,000 young Nigerians will be trained in film, television, and motion picture production over the next three years a… [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theinformant.co.nz"
+      },
+      "author": "Daniel Jacobs",
+      "title": "New evidence points to the existence of a ninth planet in the solar system - theinformant.co.nz",
+      "description": "The ninth planet. They are being chased from all sides. However it has not been",
+      "url": "https://theinformant.co.nz/new-evidence-points-to-the-existence-of-a-ninth-planet-in-the-solar-system/",
+      "urlToImage": null,
+      "publishedAt": "2021-10-11T09:45:23Z",
+      "content": "The ninth planet. They are being chased from all sides. However it has not been noticed yet. So, does it really exist? Two teams of researchers are now taking a fresh look at it. Who will finally be … [+2524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Post Nigeria"
+      },
+      "author": "Fikayo Olowolagba",
+      "title": "My relationship with Ike disastrous – Ex-BBNaija star, Mercy Eke - Daily Post Nigeria",
+      "description": "Big Brother Naija, BBNaija Season 4 winner, Mercy Eke has made a revelation about her last relationship with Ike. Recall that Ike and Mercy met during Season 4 of BBNaija in 2019. However, sometime last year the relationship crashed. Mercy, in a recent viral …",
+      "url": "https://dailypost.ng/2021/10/11/my-relationship-with-ike-disastrous-ex-bbnaija-star-mercy-eke/",
+      "urlToImage": "https://dailypost.ng/wp-content/uploads/2021/01/nzE8lDMP.jpeg",
+      "publishedAt": "2021-10-11T09:40:38Z",
+      "content": "Big Brother Naija, BBNaija Season 4 winner, Mercy Eke has made a revelation about her last relationship with Ike.\r\nRecall that Ike and Mercy met during Season 4 of BBNaija in 2019.\r\nHowever, sometime… [+605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": null,
+      "title": "Andy Murray in a career-first underarm serve on way to victory over Spanish star Carlos Alcaraz - Telegraph.co.uk",
+      "description": "Plus: Despicably snide or impishly clever... how does the underarm serve compare to Mankad in cricket and diving for the line in athletics?",
+      "url": "https://www.telegraph.co.uk/tennis/2021/10/11/andy-murray-deploys-underarm-serve-clinch-game-match-against/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/tennis/2021/10/11/TELEMMGLPICT000274139497_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2021-10-11T09:40:00Z",
+      "content": "Like at the US Open, my body did well today, said Murray, who had pushed world No. 3 Stefanos Tsitsipas all the way in a 4hr 49min barn-burner in New York six weeks ago. \r\nIt was hard conditions. It … [+2459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Posted by Arun Nair",
+      "title": "Maharashtra Bandh Live Updates: Bus Services Affected, Local Trains Running - NDTV",
+      "description": "Shops will remain shut across Maharashtra today as the state government has called a bandh to protest against the killing of farmers in Lakhimpur Kheri in Uttar Pradesh.",
+      "url": "https://www.ndtv.com/india-news/maharashtra-bandh-live-updates-several-trade-groups-extend-support-bjp-warns-state-government-not-to-shut-shops-forcefully-2571070",
+      "urlToImage": "https://c.ndtvimg.com/2021-10/r2sqeplo_best-employeesmaharashtra-bandhoctober-11_625x300_11_October_21.jpg",
+      "publishedAt": "2021-10-11T09:37:59Z",
+      "content": "Maharashtra Bandh Updates: BEST said eight of its buses were vandalised in different areas of Mumbai.\r\nBus services were affected across Maharashtra and most of the shops and commercial establishment… [+6283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IOL"
+      },
+      "author": "Jolene Marriah-Maharaj",
+      "title": "Driver charged with culpable homicide after two joggers killed in Tongaat - IOL",
+      "description": "KwaZulu Natal police said a 29-year-old man is due in court following the death of two joggers in Tongaat on Saturday morning.",
+      "url": "https://www.iol.co.za/news/driver-charged-with-culpable-homicide-after-two-joggers-killed-in-tongaat-14d1db38-aac3-4d92-9d61-213e07a031bc",
+      "urlToImage": "https://image-prod.iol.co.za/resize/650x366/The-driver-of-the-car-is-alleged-to-have-knocked-down-two-joggers-and-then-fled-the-scene-crashing-into-a-minibus-taxi-Picture-IPSS-Medical-Rescue?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9ca4d5db-7dd3-5dc3-ad7e-730c53411d0a&operation=CROP&offset=65x0&resize=910x512",
+      "publishedAt": "2021-10-11T09:33:11Z",
+      "content": "Durban: KwaZulu Natal police said a 29-year-old man is due in court following the death of two joggers in Tongaat on Saturday morning. \r\nAccording to KZN police spokesperson Captain Nqobile Gwala, it… [+904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Rachael Bunyan",
+      "title": "Earthquake of magnitude 6.5 strikes Alaska Peninsula two months after largest US quake in 50 years - Daily Mail",
+      "description": "An earthquake with a magnitude of 6.5 stuck off the coast of Alaska, 71 miles east of the city of Chignik. An 8.2 earthquake struck two months ago near Perryville, 38 miles away.",
+      "url": "https://www.dailymail.co.uk/news/article-10079729/Earthquake-magnitude-6-5-strikes-Alaska-Peninsula.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/11/11/49018593-0-image-a-33_1633947053649.jpg",
+      "publishedAt": "2021-10-11T09:32:39Z",
+      "content": "An earthquake with a preliminary magnitude 6.5 struck early Monday off the coast of Alaska.  \r\nThe epicenter was about 71 miles (114 kilometers) east of the city of Chignik, the U.S. Geological Surve… [+5703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MyBroadband"
+      },
+      "author": "https://www.facebook.com/mybroadband",
+      "title": "New online car licence disc renewal portal launched - MyBroadband",
+      "description": "South African motorists can now register, renew, and pay for their licence discs on the Natis website and have them delivered to their preferred address.",
+      "url": "https://mybroadband.co.za/news/motoring/417766-new-online-drivers-licence-disc-renewal-portal-launched.html",
+      "urlToImage": "https://mybroadband.co.za/news/wp-content/uploads/2020/06/Car-vehicle-licence-disc-Western-Cape-government-Jennifer-Solomons-places-sticker-on-windscreen-e1630914653617.jpg",
+      "publishedAt": "2021-10-11T09:31:35Z",
+      "content": "The Road Traffic Management Corporation (RTMC) has launched an online payment gateway allowing South African motorists to register, renew, and pay for their licence discs online.\r\nThe new option is a… [+2229 chars]"
     }
   ]
 }
