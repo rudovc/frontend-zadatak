@@ -8,6 +8,10 @@ a.nostyle:visited {
   color: inherit;
 }
 
+.gridelement {
+  height: 100%;
+}
+
 .articlepreviewcard {
   border-radius: 10px;
 }
@@ -16,21 +20,29 @@ a.nostyle:visited {
   color: #0a64b4;
 }
 
+.categorybutton {
+  align-self: flex-start;
+}
+
 .cardcontent {
+  height: 130px;
+  display: flex;
+  flex-direction: column;
   padding-bottom: 0px;
 }
 
 .cardbottom {
-  margin-top: 5%;
   width: 100%;
+  flex-grow: 1;
 }
 
 .authorname {
-  align-self: center;
+  align-self: flex-end;
 }
 
 .favoritesbutton {
   margin-left: auto;
+  align-self: flex-end;
 }
 
 .noimageloaded {

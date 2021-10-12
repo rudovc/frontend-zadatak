@@ -1,5 +1,5 @@
 import styles from "./articlepreview.module.scss";
-import { ElementType, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../../hooks";
 import {
   addArticleToFavorites,
@@ -10,7 +10,6 @@ import { Article } from "../../component-interfaces";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
-import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
 import FavoriteIcon from "@mui/icons-material/Favorite";
@@ -78,13 +77,16 @@ export const ArticlePreview = (props: Article & { key: string }) => {
   }, [isInFavorites]);
 
   return (
-    <div>
+    <div className={styles.gridelement}>
       <Fade in={true} timeout={500}>
         <Card className={styles.articlepreviewcard}>
           {isImageLoading()}
           {/*kako ovaj bottom padding?*/}
           <CardContent className={styles.cardcontent}>
-            <ButtonBase onClick={handleCategoryClick}>
+            <ButtonBase
+              onClick={handleCategoryClick}
+              className={styles.categorybutton}
+            >
               <Typography variant="overline" className={styles.categorylink}>
                 {props.category.toUpperCase()}
               </Typography>
