@@ -1,4 +1,4 @@
-import { Article } from "../../componentInterfaces";
+import { Article } from "../../component-interfaces";
 import Paper from "@mui/material/Card";
 import Typography from "@mui/material/Typography";
 import Stack from "@mui/material/Stack";

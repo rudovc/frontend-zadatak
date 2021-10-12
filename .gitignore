@@ -1,15 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules/*
-#don't ignore webpack config
-!node_modules/react-scripts
-/node_modules/react-scripts/*
-!/node_modules/react-scripts/config
-/node_modules/react-scripts/config/*
-!/node_modules/react-scripts/config/webpack.config.js
-
-# dependencies cont.
+/node_modules
 /.pnp
 .pnp.js
 

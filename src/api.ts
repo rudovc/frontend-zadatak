@@ -1,6 +1,6 @@
 import axios from "axios";
-import Category from "./components/categoryEnums";
-import { ArticleRawData } from "./components/componentInterfaces";
+import Category from "./components/category-enums";
+import { ArticleRawData } from "./components/component-interfaces";
 // waiting for timeout to run out
 import dataBusiness from "./data/dummyData-business.json";
 import dataEntertainment from "./data/dummyData-entertainment.json";

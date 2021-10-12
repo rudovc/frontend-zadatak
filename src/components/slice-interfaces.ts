@@ -1,5 +1,5 @@
-import { Article } from "./componentInterfaces";
-import { SidebarTab } from "./tabEnums";
+import { Article } from "./component-interfaces";
+import { SidebarTab } from "./tab-enums";
 
 export interface CategoryFrameState {
   articles: Article[];

@@ -1,4 +1,4 @@
-import Category from "./categoryEnums";
+import Category from "./category-enums";
 
 export interface ArticleRawData {
   source: {

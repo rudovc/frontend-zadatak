@@ -1,9 +1,8 @@
 import { useAppDispatch, useAppSelector } from "../../hooks";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
-import { SidebarTab } from "../tabEnums";
-import "../components.scss";
-import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebarSlice";
+import { SidebarTab } from "../tab-enums";
+import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebar-slice";
 import { useCallback } from "react";
 
 export const SidebarTabs = () => {

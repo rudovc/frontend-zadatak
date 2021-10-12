@@ -1,16 +1,15 @@
 import { UIEvent, useCallback, useState } from "react";
 import { useAppSelector } from "../../hooks";
 import List from "@mui/material/List";
-import "../components.scss";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
-import { Article } from "../componentInterfaces";
+import { Article } from "../component-interfaces";
 import {
   selectAllArticles,
   selectArticlesByID,
   selectPage,
-} from "../categoryFrameSlice";
-import { selectActiveSidebarTab, selectFavoriteIDs } from "../sidebarSlice";
-import { SidebarTab } from "../tabEnums";
+} from "../category-frame-slice";
+import { selectActiveSidebarTab, selectFavoriteIDs } from "../sidebar-slice";
+import { SidebarTab } from "../tab-enums";
 import { loadArticlesRawDataPerPageFromAPI } from "../../utilities";
 import CircularProgress from "@mui/material/CircularProgress";
 import ListItem from "@mui/material/ListItem";

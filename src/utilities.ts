@@ -1,6 +1,6 @@
 import API from "./api";
-import Category from "./components/categoryEnums";
-import { updateArticles } from "./components/categoryFrameSlice";
+import Category from "./components/category-enums";
+import { updateArticles } from "./components/category-frame-slice";
 import store from "./store";
 
 export async function loadArticlesRawDataPerPageFromAPI(page: number) {

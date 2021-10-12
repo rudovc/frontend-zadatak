@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Article } from "./componentInterfaces";
-import { SidebarTab } from "./tabEnums";
+import { Article } from "./component-interfaces";
+import { SidebarTab } from "./tab-enums";
 import { RootState } from "../store";
 
 const serialisedFavorites = localStorage.getItem("storedFavorites");

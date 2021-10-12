@@ -4,8 +4,8 @@ import { useAppSelector } from "./hooks";
 import {
   selectAllArticles,
   selectArticlesByCategory,
-} from "./components/categoryFrameSlice";
-import { selectActiveCategoryName } from "./components/categoryFrame/categoryTabsSlice";
+} from "./components/category-frame-slice";
+import { selectActiveCategoryName } from "./components/category-frame/category-tabs-slice";
 
 function App() {
   // Get active category tab from store

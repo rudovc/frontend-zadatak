@@ -1,7 +1,7 @@
 import { configureStore } from "@reduxjs/toolkit";
-import categoryTabReducer from "./components/categoryFrame/categoryTabsSlice";
-import sidebarReducer from "./components/sidebarSlice";
-import categoryFrameReducer from "./components/categoryFrameSlice";
+import categoryTabReducer from "./components/category-frame/category-tabs-slice";
+import sidebarReducer from "./components/sidebar-slice";
+import categoryFrameReducer from "./components/category-frame-slice";
 import { loadArticlesRawDataPerPageFromAPI } from "./utilities";
 
 const store = configureStore({

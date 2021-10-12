@@ -1,8 +1,8 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Article } from "./componentInterfaces";
-import { ArticlesPayload } from "./payloadInterfaces";
+import { Article } from "./component-interfaces";
+import { ArticlesPayload } from "./payload-interfaces";
 import hash from "object-hash";
-import Category from "./categoryEnums";
+import Category from "./category-enums";
 import { RootState } from "../store";
 
 export const categoryFrameSlice = createSlice({

@@ -1,8 +1,7 @@
 import { useState, useRef } from "react";
-import "./components.scss";
 import { CategoryFrame } from "./CategoryFrame";
 import { Sidebar } from "./Sidebar";
-import { HomepageProps } from "./componentInterfaces";
+import { HomepageProps } from "./component-interfaces";
 import { TextFieldProps } from "@mui/material";
 import Stack from "@mui/material/Stack";
 import Container from "@mui/material/Container";

@@ -1,4 +1,3 @@
-import "./components.scss";
 import { SidebarTabs } from "./sidebar/SidebarTabs";
 import { SidebarList } from "./sidebar/SidebarList";
 

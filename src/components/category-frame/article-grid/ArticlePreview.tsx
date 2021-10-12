@@ -1,14 +1,14 @@
-import "../../components.scss";
+import styles from "./articlepreview.module.scss";
 import { useEffect, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../../hooks";
 import {
   addArticleToFavorites,
   removeArticleFromFavorites,
-} from "../../sidebarSlice";
-import { setActiveCategoryTab } from "../categoryTabsSlice";
-import { Article } from "../../componentInterfaces";
+} from "../../sidebar-slice";
+import { setActiveCategoryTab } from "../category-tabs-slice";
+import { Article } from "../../component-interfaces";
 import Card from "@mui/material/Card";
-import CardHeader from "@mui/material/CardHeader";
+import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
@@ -16,6 +16,7 @@ import FavoriteIcon from "@mui/icons-material/Favorite";
 import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 import Stack from "@mui/material/Stack";
 import ButtonBase from "@mui/material/ButtonBase";
+import Fade from "@mui/material/Fade";
 import { useCallback } from "react";
 
 // ima li koji drugi nacin osim ovaj '&' koji nisan niti moga nac u novoj verziji handbooka
@@ -49,40 +50,37 @@ export const ArticlePreview = (props: Article & { key: string }) => {
   }, [isInFavorites]);
 
   return (
-    <div className="articlePreview">
-      <Card>
-        <CardMedia component="img" height="140" image={image} alt="image" />
-        <CardHeader
-          title={
-            <div>
-              <ButtonBase onClick={handleCategoryClick}>
-                <Typography variant="caption">
-                  {props.category.toUpperCase()}
-                </Typography>
-              </ButtonBase>
-              <a
-                className="nostyle"
-                target="_blank"
-                rel="noreferrer"
-                href={props.url}
-              >
-                <Typography>{props.title}</Typography>
-              </a>
-            </div>
-          }
-          subheaderTypographyProps={{ variant: "caption" }}
-          subheader={
-            <div>
-              <Stack direction="row">
+    <div>
+      <Fade in={true} timeout={500}>
+        <Card className={styles.articlepreviewcard}>
+          <CardMedia component="img" height="140" image={image} alt="image" />
+          <CardContent className={styles.cardcontent}>
+            <ButtonBase onClick={handleCategoryClick}>
+              <Typography variant="overline" className={styles.categorylink}>
+                {props.category.toUpperCase()}
+              </Typography>
+            </ButtonBase>
+            <a
+              className={styles.nostyle}
+              target="_blank"
+              rel="noreferrer"
+              href={props.url}
+            >
+              <Typography>{props.title}</Typography>
+            </a>
+            <Stack direction="row" className={styles.cardbottom}>
+              <Typography variant="caption" className={styles.authorname}>
                 {props.author}
+              </Typography>
+              <span className={styles.favoritesbutton}>
                 <IconButton aria-label="favorite" onClick={handleFavoriteClick}>
                   {isFavorite ? <FavoriteIcon /> : <FavoriteBorder />}
                 </IconButton>
-              </Stack>
-            </div>
-          }
-        />
-      </Card>
+              </span>
+            </Stack>
+          </CardContent>
+        </Card>
+      </Fade>
     </div>
   );
 };
