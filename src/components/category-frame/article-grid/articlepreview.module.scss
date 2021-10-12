@@ -16,6 +16,10 @@ a.nostyle:visited {
   color: #0a64b4;
 }
 
+.cardcontent {
+  padding-bottom: 0px;
+}
+
 .cardbottom {
   margin-top: 5%;
   width: 100%;
@@ -27,4 +31,16 @@ a.nostyle:visited {
 
 .favoritesbutton {
   margin-left: auto;
+}
+
+.noimageloaded {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #cecece;
+  height: 140px;
+}
+
+.loadinganimation {
+  align-self: center;
 }

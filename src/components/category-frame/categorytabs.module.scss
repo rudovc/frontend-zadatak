@@ -1,22 +1,38 @@
-.categorytab {
-  height: 60px;
-  width: 60px;
+.categorytabinactive {
+  height: 65px;
+  width: 65px;
   border-radius: 5px;
-  display: flex;
-  justify-content: center;
-  margin-left: 5px;
-  margin-right: 5px;
-  padding: 0px;
-}
-
-.categorytabbutton {
   text-transform: capitalize;
   font-size: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  color: #787878;
+  overflow-wrap: break-word;
+}
+
+.categorytabactive {
+  height: 65px;
+  width: 65px;
+  border-radius: 5px;
+  text-transform: capitalize;
+  font-size: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  color: #b71c1c;
+  overflow-wrap: break-word;
+}
+
+.categorytabicon {
+  align-self: center;
 }
 
 .categorytablist {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-content: center;
 }

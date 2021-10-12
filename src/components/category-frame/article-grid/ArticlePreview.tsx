@@ -1,5 +1,5 @@
 import styles from "./articlepreview.module.scss";
-import { useEffect, useState } from "react";
+import { ElementType, useEffect, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../../hooks";
 import {
   addArticleToFavorites,
@@ -10,6 +10,7 @@ import { Article } from "../../component-interfaces";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
+import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
 import FavoriteIcon from "@mui/icons-material/Favorite";
@@ -17,9 +18,10 @@ import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
 import Stack from "@mui/material/Stack";
 import ButtonBase from "@mui/material/ButtonBase";
 import Fade from "@mui/material/Fade";
+import CircularProgress from "@mui/material/CircularProgress";
 import { useCallback } from "react";
 
-// ima li koji drugi nacin osim ovaj '&' koji nisan niti moga nac u novoj verziji handbooka
+// ima li koji drugi nacin osim ovaj '&'
 export const ArticlePreview = (props: Article & { key: string }) => {
   const dispatch = useAppDispatch();
   const favorites = useAppSelector((state) => state.sidebar.favorites);
@@ -45,6 +47,32 @@ export const ArticlePreview = (props: Article & { key: string }) => {
     dispatch(setActiveCategoryTab(props.category));
   };
 
+  /*// Nesto ruzno pt.1
+  const loading = () => {
+    return <CircularProgress />;
+  };*/
+
+  const isImageLoading = () => {
+    if (image !== "") {
+      return (
+        <CardMedia component="img" height="140" image={image} alt="image" />
+      );
+    } else {
+      return (
+        /*<CardMedia
+          className={styles.noimageloaded}
+          // Nesto ruzno pt.2: kako bolje, zasto ne da, pise da prihvaca komponente?
+          component={loading as ElementType}
+          height="140"
+          alt="image not loaded"
+        />*/
+        <div className={styles.noimageloaded}>
+          <CircularProgress className={styles.loadinganimation} />
+        </div>
+      );
+    }
+  };
+
   useEffect(() => {
     setIsFavorite(isInFavorites());
   }, [isInFavorites]);
@@ -53,7 +81,8 @@ export const ArticlePreview = (props: Article & { key: string }) => {
     <div>
       <Fade in={true} timeout={500}>
         <Card className={styles.articlepreviewcard}>
-          <CardMedia component="img" height="140" image={image} alt="image" />
+          {isImageLoading()}
+          {/*kako ovaj bottom padding?*/}
           <CardContent className={styles.cardcontent}>
             <ButtonBase onClick={handleCategoryClick}>
               <Typography variant="overline" className={styles.categorylink}>
