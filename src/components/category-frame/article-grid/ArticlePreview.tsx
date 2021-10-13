@@ -6,7 +6,7 @@ import {
   removeArticleFromFavorites,
 } from "../../sidebar-slice";
 import { setActiveCategoryTab } from "../category-tabs-slice";
-import { Article } from "../../component-interfaces";
+import { Article } from "../../../data-interfaces";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
@@ -21,7 +21,7 @@ import CircularProgress from "@mui/material/CircularProgress";
 import { useCallback } from "react";
 
 // ima li koji drugi nacin osim ovaj '&'
-export const ArticlePreview = (props: Article & { key: string }) => {
+export const ArticlePreview = (props: Article) => {
   const dispatch = useAppDispatch();
   const favorites = useAppSelector((state) => state.sidebar.favorites);
 
@@ -48,7 +48,7 @@ export const ArticlePreview = (props: Article & { key: string }) => {
 
   /*// Nesto ruzno pt.1
   const loading = () => {
-    return <CircularProgress />;
+    return <CircularProgress variant="indeterminate"/>;
   };*/
 
   const isImageLoading = () => {
@@ -66,7 +66,10 @@ export const ArticlePreview = (props: Article & { key: string }) => {
           alt="image not loaded"
         />*/
         <div className={styles.noimageloaded}>
-          <CircularProgress className={styles.loadinganimation} />
+          <CircularProgress
+            variant="indeterminate"
+            className={styles.loadinganimation}
+          />
         </div>
       );
     }

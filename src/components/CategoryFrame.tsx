@@ -3,12 +3,13 @@ import { ArticleGrid } from "./category-frame/ArticleGrid";
 import { useState, useCallback } from "react";
 import Stack from "@mui/material/Stack";
 import Pagination from "@mui/material/Pagination";
-import { Articles } from "./component-interfaces";
+import { IProps } from "./component-interfaces";
+import { Articles } from "../data-interfaces";
 import { selectPage } from "./category-frame-slice";
 import { useAppSelector } from "../hooks";
 import { loadArticlesRawDataPerPageFromAPI } from "../utilities";
 
-export const CategoryFrame = (props: Articles) => {
+export const CategoryFrame = (props: Articles & IProps) => {
   // Keep track of loading and pagination in grid (have 15 articles per page)
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
@@ -42,7 +43,7 @@ export const CategoryFrame = (props: Articles) => {
   );
 
   return (
-    <div className="categoryFrame">
+    <div className={props.className}>
       <Stack direction="row" spacing={1}>
         <CategoryTabs />
         <Stack spacing={1} alignItems="center">

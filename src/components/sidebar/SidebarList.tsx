@@ -2,7 +2,8 @@ import { UIEvent, useCallback, useState } from "react";
 import { useAppSelector } from "../../hooks";
 import List from "@mui/material/List";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
-import { Article } from "../component-interfaces";
+import { IProps } from "../component-interfaces";
+import { Article } from "../../data-interfaces";
 import {
   selectAllArticles,
   selectArticlesByID,
@@ -13,10 +14,11 @@ import { SidebarTab } from "../tab-enums";
 import { loadArticlesRawDataPerPageFromAPI } from "../../utilities";
 import CircularProgress from "@mui/material/CircularProgress";
 import ListItem from "@mui/material/ListItem";
-import Stack from "@mui/material/Stack";
-import Divider from "@mui/material/Divider";
+import Typography from "@mui/material/Typography";
+import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
+import styles from "./sidebarlist.module.scss";
 
-export const SidebarList = () => {
+export const SidebarList = (props: IProps) => {
   // Get active tab and saved favorite ID keys from store and generate list of favorites by filtering w/ ID
   const activeTab = useAppSelector(selectActiveSidebarTab);
   const favoriteIDs = useAppSelector(selectFavoriteIDs);
@@ -38,26 +40,31 @@ export const SidebarList = () => {
   const articlesToShow = activeTab === SidebarTab.Latest ? latest : favorites;
 
   // Map the shown list of articles to individual preview components
-  const articleList = () => {
+  const getArticleList = () => {
     const mappedArticles = articlesToShow.map((element: Article) => (
-      <SidebarArticlePreview {...element} key={element.id} />
+      <ListItem className={styles.sidebarlistitem} divider key={element.id}>
+        <SidebarArticlePreview {...element} />
+      </ListItem>
     ));
 
     // Show a progress circle if the next page is loading
     if (!isLoading) {
       return (
-        <Stack
+        /*<Stack
           spacing={1}
           divider={<Divider orientation="horizontal" flexItem></Divider>}
-        >
-          {mappedArticles}
-        </Stack>
+        >*/
+        mappedArticles
+        /*</Stack>*/
       );
     } else {
       return [
         ...mappedArticles,
-        <ListItem>
-          <CircularProgress style={{ margin: "auto" }} />
+        <ListItem className={styles.sidebarlistitem} divider>
+          <CircularProgress
+            variant="indeterminate"
+            style={{ margin: "auto" }}
+          />
         </ListItem>,
       ];
     }
@@ -66,6 +73,7 @@ export const SidebarList = () => {
   // Load more articles on scroll down
   const loadMoreArticles = useCallback(
     async (e: UIEvent<HTMLUListElement>) => {
+      e.preventDefault();
       if (activeTab === SidebarTab.Latest) {
         if (!isLoading) {
           const element = e.currentTarget;
@@ -99,15 +107,23 @@ export const SidebarList = () => {
     ]
   );
 
+  const displaySeeAllLink = () => {
+    if (activeTab === SidebarTab.Latest)
+      return (
+        <div className={styles.sidebarbottom}>
+          <Typography className={styles.sidebarbottomtext}>
+            See all news <KeyboardArrowRightIcon />
+          </Typography>
+        </div>
+      );
+  };
+
   return (
-    // Zasto ne mogu stavit onScroll u div? I je li to uopce dobra ideja
-    <div className="sidebarList">
-      <List
-        onScroll={loadMoreArticles}
-        style={{ maxHeight: "80vh", overflow: "auto" }}
-      >
-        {articleList()}
+    <div className={props.className}>
+      <List onScroll={loadMoreArticles} className={styles.sidebarlist}>
+        {getArticleList()}
       </List>
+      {displaySeeAllLink()}
     </div>
   );
 };

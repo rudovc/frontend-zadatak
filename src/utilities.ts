@@ -1,5 +1,5 @@
 import API from "./api";
-import Category from "./components/category-enums";
+import Category from "./category-enums";
 import { updateArticles } from "./components/category-frame-slice";
 import store from "./store";
 
@@ -11,8 +11,8 @@ export async function loadArticlesRawDataPerPageFromAPI(page: number) {
         return [];
       }
       const response = await API.getArticles(categoryName, page);
-      if (typeof response !== "undefined") {
-        const result = response.map((element) => {
+      if (typeof response.data.articles !== "undefined") {
+        const result = response.data.articles.map((element) => {
           return {
             category: categoryName,
             article: element,

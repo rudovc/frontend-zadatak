@@ -10,6 +10,12 @@ const themeOptions: ThemeOptions = {
     },
   },
   typography: {
+    h4: {
+      fontWeight: 800,
+    },
+    h5: {
+      fontSize: "1rem",
+    },
     h6: {
       fontSize: "1.2rem",
     },

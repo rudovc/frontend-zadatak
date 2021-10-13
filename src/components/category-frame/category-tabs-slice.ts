@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { RootState } from "../../store";
-import Category from "../category-enums";
+import Category from "../../category-enums";
 import { CategoryTab } from "../tab-enums";
 
 function isCategoryTab(arg: CategoryTab | Category): arg is CategoryTab {

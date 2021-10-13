@@ -1,9 +1,9 @@
 .categorytabinactive {
-  height: 65px;
-  width: 65px;
+  height: 55px;
+  width: 55px;
   border-radius: 5px;
   text-transform: capitalize;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -13,17 +13,25 @@
 }
 
 .categorytabactive {
-  height: 65px;
-  width: 65px;
+  height: 55px;
+  width: 55px;
   border-radius: 5px;
   text-transform: capitalize;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-content: center;
   color: #b71c1c;
   overflow-wrap: break-word;
+}
+
+.categorytabbackgroundinactive {
+  background-color: inherit;
+}
+
+.categorytabbackgroundactive {
+  background-color: #ffffff;
 }
 
 .categorytabicon {
@@ -35,4 +43,5 @@
   flex-direction: column;
   justify-content: flex-start;
   align-content: center;
+  gap: 5px;
 }

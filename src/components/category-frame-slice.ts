@@ -1,8 +1,8 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Article } from "./component-interfaces";
-import { ArticlesPayload } from "./payload-interfaces";
+import { Article } from "../data-interfaces";
+import { ArticlesPayload } from "../payload-interfaces";
 import hash from "object-hash";
-import Category from "./category-enums";
+import Category from "../category-enums";
 import { RootState } from "../store";
 
 export const categoryFrameSlice = createSlice({
@@ -47,7 +47,7 @@ export const categoryFrameSlice = createSlice({
       });
 
       state.articles = sortedArticles;
-      state.page = Math.floor(state.articles.length / 10 / 6);
+      state.page = Math.floor(state.articles.length / 20 / 6);
     },
   },
 });

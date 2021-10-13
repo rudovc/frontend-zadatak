@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Article } from "./component-interfaces";
+import { Article } from "../data-interfaces";
 import { SidebarTab } from "./tab-enums";
 import { RootState } from "../store";
 

@@ -36,104 +36,119 @@ export const CategoryTabs = () => {
   // Return active tab style only if this tab is active
   const isActiveTabStyle = (thisTab: CategoryTab) => {
     if (activeTab === thisTab) {
-      return styles.categorytabactive;
+      return [styles.categorytabbackgroundactive, styles.categorytabactive];
     } else {
-      return styles.categorytabinactive;
+      return [styles.categorytabbackgroundinactive, styles.categorytabinactive];
     }
   };
 
   return (
     <div className={styles.categorytablist}>
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Home);
-        }}
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Home)[0]}
+        elevation={paperElevation[CategoryTab.Home]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Home]}>
-          <div className={isActiveTabStyle(CategoryTab.Home)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Home);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Home)[1]}>
             <HomeIcon className={styles.categorytabicon} />
             <span>Home</span>
           </div>
-        </Paper>
-      </ButtonBase>
-
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Business);
-        }}
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Business)[0]}
+        elevation={paperElevation[CategoryTab.Business]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Business]}>
-          <div className={isActiveTabStyle(CategoryTab.Business)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Business);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Business)[1]}>
             <WorkIcon className={styles.categorytabicon} />
             <span>Business</span>
           </div>
-        </Paper>
-      </ButtonBase>
-
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Entertainment);
-        }}
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Entertainment)[0]}
+        elevation={paperElevation[CategoryTab.Entertainment]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Entertainment]}>
-          <div className={isActiveTabStyle(CategoryTab.Entertainment)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Entertainment);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Entertainment)[1]}>
             <MovieIcon className={styles.categorytabicon} />
             <span>Entertainment</span>
           </div>
-        </Paper>
-      </ButtonBase>
-
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Health);
-        }}
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Health)[0]}
+        elevation={paperElevation[CategoryTab.Health]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Health]}>
-          <div className={isActiveTabStyle(CategoryTab.Health)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Health);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Health)[1]}>
             <LocalHospitalicon className={styles.categorytabicon} />
             <span>Health</span>
           </div>
-        </Paper>
-      </ButtonBase>
-
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Science);
-        }}
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Science)[0]}
+        elevation={paperElevation[CategoryTab.Science]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Science]}>
-          <div className={isActiveTabStyle(CategoryTab.Science)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Science);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Science)[1]}>
             <ScienceIcon className={styles.categorytabicon} />
             <span>Science</span>
           </div>
-        </Paper>
-      </ButtonBase>
-
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Technology);
-        }}
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Technology)[0]}
+        elevation={paperElevation[CategoryTab.Technology]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Technology]}>
-          <div className={isActiveTabStyle(CategoryTab.Technology)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Technology);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Technology)[1]}>
             <MonitorIcon className={styles.categorytabicon} />
             <span>Technology</span>
           </div>
-        </Paper>
-      </ButtonBase>
-
-      <ButtonBase
-        onClick={() => {
-          handleClick(CategoryTab.Sports);
-        }}
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Sports)[0]}
+        elevation={paperElevation[CategoryTab.Sports]}
       >
-        <Paper elevation={paperElevation[CategoryTab.Sports]}>
-          <div className={isActiveTabStyle(CategoryTab.Sports)}>
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Sports);
+          }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Sports)[1]}>
             <SportsSoccerIcon className={styles.categorytabicon} />
             <span>Sports</span>
           </div>
-        </Paper>
-      </ButtonBase>
+        </ButtonBase>
+      </Paper>
     </div>
   );
 };

@@ -4,8 +4,9 @@ import Tab from "@mui/material/Tab";
 import { SidebarTab } from "../tab-enums";
 import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebar-slice";
 import { useCallback } from "react";
+import { IProps } from "../component-interfaces";
 
-export const SidebarTabs = () => {
+export const SidebarTabs = (props: IProps) => {
   // Active tab is part of redux store b/c it is shared between SidebarTab and SidebarList
   const activeTab = useAppSelector(selectActiveSidebarTab);
   const dispatch = useAppDispatch();
@@ -21,7 +22,7 @@ export const SidebarTabs = () => {
   }, [dispatch]);
 
   return (
-    <div className="sidebarTabs">
+    <div className={props.className}>
       <Tabs value={activeTab} aria-label="Tabs">
         <Tab label="Latest" onClick={latestClick} />
         <Tab label="Favorites" onClick={favoritesClick} />

@@ -1,5 +1,5 @@
 import Category from "./category-enums";
-import { ArticleRawData } from "./component-interfaces";
+import { ArticleRawData } from "./data-interfaces";
 
 export interface ArticlesPayload {
   category: Category;

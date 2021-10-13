@@ -1,0 +1,34 @@
+.sidebarlist::-webkit-scrollbar {
+  width: 0.3em;
+}
+
+.sidebarlist::-webkit-scrollbar-track {
+  border-radius: 5px;
+}
+
+.sidebarlist::-webkit-scrollbar-thumb {
+  background: #c4c4c4;
+  border-radius: 5px;
+}
+
+.sidebarlist {
+  overflow-y: scroll;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  height: calc(100% - 15px - 0.5em);
+}
+
+.sidebarlistitem {
+  padding-left: 0px;
+}
+
+.sidebarbottom {
+  height: 15px;
+  margin-top: 0.5em;
+}
+
+.sidebarbottomtext {
+  color: #0a64b4;
+  display: flex;
+  flex-direction: row;
+}

@@ -1,5 +1,5 @@
 import styles from "./articlegrid.module.scss";
-import { Articles } from "../component-interfaces";
+import { Articles } from "../../data-interfaces";
 import { ArticlePreview } from "./article-grid/ArticlePreview";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";

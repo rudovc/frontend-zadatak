@@ -1,9 +1,11 @@
-import { Article } from "../../component-interfaces";
+import { Article } from "../../../data-interfaces";
 import Paper from "@mui/material/Card";
 import Typography from "@mui/material/Typography";
 import Stack from "@mui/material/Stack";
+import styles from "./sidebararticlepreview.module.scss";
 
 function formatDate(date: Date) {
+  const timeFormat = new Intl.RelativeTimeFormat("en-gb");
   // Format article date to show only HH:MM
   const now = new Date();
   const day =
@@ -18,17 +20,31 @@ function formatDate(date: Date) {
           hour: "numeric",
           minute: "numeric",
         }).format(date);
-  return day;
+  // divide by miliseconds, seconds, minutes, hours, days (in a week)
+  const elapsed = (+date - +now) / 1000 / 60 / 60 / 24 / 7;
+  const weeks =
+    elapsed < -1
+      ? // Show weeks ago only if it is more than a week old
+        timeFormat.format(Math.ceil(elapsed), "week")
+      : "";
+  return `${day}, ${weeks}`;
 }
 
-export const SidebarArticlePreview = (props: Article & { key: string }) => {
+export const SidebarArticlePreview = (props: Article) => {
   const date = new Date(props.publishedAt);
   return (
-    <div className="sidebarArticlePreview">
-      <Paper elevation={0}>
-        <Stack spacing={1}>
+    <div>
+      <Paper elevation={0} className={styles.sidebararticlepreview}>
+        <Stack spacing={0}>
           <Typography variant="caption">{formatDate(date)}</Typography>
-          <Typography variant="body1">{props.title}</Typography>
+          <a
+            className={styles.nostyle}
+            href={props.url}
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Typography variant="body1">{props.title}</Typography>
+          </a>
         </Stack>
       </Paper>
     </div>

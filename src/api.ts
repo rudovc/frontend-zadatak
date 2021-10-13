@@ -1,35 +1,30 @@
 import axios from "axios";
-import Category from "./components/category-enums";
-import { ArticleRawData } from "./components/component-interfaces";
-// waiting for timeout to run out
+import Category from "./category-enums";
+import { ArticlesRawData } from "./data-interfaces";
+/*
 import dataBusiness from "./data/dummyData-business.json";
 import dataEntertainment from "./data/dummyData-entertainment.json";
 import dataHealth from "./data/dummyData-health.json";
 import dataScience from "./data/dummyData-science.json";
 import dataSports from "./data/dummyData-sports.json";
-import dataTechnology from "./data/dummyData-technology.json";
+import dataTechnology from "./data/dummyData-technology.json";*/
 
-function get10PerNumber(page: number): { start: number; end: number } {
-  return { start: page * 10 - 10, end: page * 10 };
-}
-
-/*
 const axiosApi = axios.create({
   baseURL: `https://newsapi.org/v2/top-headlines/`,
   params: {
     apiKey: "508c3821ebf249dca6c629a676144687",
     language: "en",
   },
-});*/
+});
 
 class API {
-  /*static async getArticlesByCategory(categoryParameter: Category) {
-    const response = axiosApi.get<Articles>("", {
-      params: { category: categoryParameter },
+  static async getArticles(categoryParameter: Category, pageNumber: number) {
+    const response = axiosApi.get<ArticlesRawData>("", {
+      params: { category: categoryParameter, page: pageNumber },
     });
     return response;
-  }*/
-
+  }
+  /*
   static getArticles(category: Category, page: number) {
     const range = get10PerNumber(page);
     switch (category) {
@@ -76,7 +71,7 @@ class API {
         });
         return technology;
     }
-  }
+  }*/
 }
 
 export default API;
