@@ -8,6 +8,7 @@ import SportsSoccerIcon from "@mui/icons-material/SportsSoccer";
 import Paper from "@mui/material/Paper";
 import ButtonBase from "@mui/material/Button";
 import { CategoryTab } from "../tab-enums";
+import { IProps } from "../component-interfaces";
 import { useAppSelector, useAppDispatch } from "../../hooks";
 import {
   setActiveCategoryTab,
@@ -15,7 +16,7 @@ import {
 } from "./category-tabs-slice";
 import styles from "./categorytabs.module.scss";
 
-export const CategoryTabs = () => {
+export const CategoryTabs = (props: IProps) => {
   // Active tab is part of redux store b/c it is shared between App (which uses it to filter the articles) and CategoryTabs
   const activeTab = useAppSelector(selectActiveCategory);
   const dispatch = useAppDispatch();
@@ -43,7 +44,7 @@ export const CategoryTabs = () => {
   };
 
   return (
-    <div className={styles.categorytablist}>
+    <div className={props.className}>
       <Paper
         className={isActiveTabStyle(CategoryTab.Home)[0]}
         elevation={paperElevation[CategoryTab.Home]}

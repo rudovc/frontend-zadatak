@@ -40,7 +40,7 @@ export const SidebarList = (props: IProps) => {
   const articlesToShow = activeTab === SidebarTab.Latest ? latest : favorites;
 
   // Map the shown list of articles to individual preview components
-  const getArticleList = () => {
+  const getArticleList = (): JSX.Element[] => {
     const mappedArticles = articlesToShow.map((element: Article) => (
       <ListItem className={styles.sidebarlistitem} divider key={element.id}>
         <SidebarArticlePreview {...element} />
@@ -49,14 +49,7 @@ export const SidebarList = (props: IProps) => {
 
     // Show a progress circle if the next page is loading
     if (!isLoading) {
-      return (
-        /*<Stack
-          spacing={1}
-          divider={<Divider orientation="horizontal" flexItem></Divider>}
-        >*/
-        mappedArticles
-        /*</Stack>*/
-      );
+      return mappedArticles;
     } else {
       return [
         ...mappedArticles,
@@ -72,7 +65,7 @@ export const SidebarList = (props: IProps) => {
 
   // Load more articles on scroll down
   const loadMoreArticles = useCallback(
-    async (e: UIEvent<HTMLUListElement>) => {
+    async (e: UIEvent<HTMLUListElement>): Promise<void> => {
       e.preventDefault();
       if (activeTab === SidebarTab.Latest) {
         if (!isLoading) {
@@ -107,8 +100,8 @@ export const SidebarList = (props: IProps) => {
     ]
   );
 
-  const displaySeeAllLink = () => {
-    if (activeTab === SidebarTab.Latest)
+  const displaySeeAllLink = (): JSX.Element => {
+    if (activeTab === SidebarTab.Latest) {
       return (
         <div className={styles.sidebarbottom}>
           <Typography className={styles.sidebarbottomtext}>
@@ -116,6 +109,7 @@ export const SidebarList = (props: IProps) => {
           </Typography>
         </div>
       );
+    } else return <div></div>;
   };
 
   return (

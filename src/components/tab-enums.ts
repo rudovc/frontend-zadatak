@@ -12,3 +12,8 @@ export enum SidebarTab {
   Latest,
   Favorites,
 }
+
+export enum MobileTab {
+  Featured,
+  Latest,
+}

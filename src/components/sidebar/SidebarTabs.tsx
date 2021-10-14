@@ -6,7 +6,7 @@ import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebar-slice";
 import { useCallback } from "react";
 import { IProps } from "../component-interfaces";
 
-export const SidebarTabs = (props: IProps) => {
+export const SidebarTabs = (props: IProps): JSX.Element => {
   // Active tab is part of redux store b/c it is shared between SidebarTab and SidebarList
   const activeTab = useAppSelector(selectActiveSidebarTab);
   const dispatch = useAppDispatch();

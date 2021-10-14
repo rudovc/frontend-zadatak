@@ -2,6 +2,7 @@ import { configureStore } from "@reduxjs/toolkit";
 import categoryTabReducer from "./components/category-frame/category-tabs-slice";
 import sidebarReducer from "./components/sidebar-slice";
 import categoryFrameReducer from "./components/category-frame-slice";
+import homepageSliceReducer from "./components/homepage-slice";
 import { loadArticlesRawDataPerPageFromAPI } from "./utilities";
 
 const store = configureStore({
@@ -9,6 +10,7 @@ const store = configureStore({
     categoryTabs: categoryTabReducer,
     categoryFrameArticles: categoryFrameReducer,
     sidebar: sidebarReducer,
+    homepage: homepageSliceReducer,
   },
 });
 

@@ -1,77 +1,85 @@
 import axios from "axios";
 import Category from "./category-enums";
 import { ArticlesRawData } from "./data-interfaces";
-/*
+
 import dataBusiness from "./data/dummyData-business.json";
 import dataEntertainment from "./data/dummyData-entertainment.json";
 import dataHealth from "./data/dummyData-health.json";
 import dataScience from "./data/dummyData-science.json";
 import dataSports from "./data/dummyData-sports.json";
-import dataTechnology from "./data/dummyData-technology.json";*/
+import dataTechnology from "./data/dummyData-technology.json";
 
-const axiosApi = axios.create({
+function delayResolve(input: ArticlesRawData) {
+  return new Promise<{ data: ArticlesRawData }>((resolve) =>
+    setTimeout(() => resolve({ data: input }), 300)
+  );
+}
+
+/*const axiosApi = axios.create({
   baseURL: `https://newsapi.org/v2/top-headlines/`,
   params: {
     apiKey: "508c3821ebf249dca6c629a676144687",
     language: "en",
   },
-});
+});*/
+
+const getPage = (page: number): { start: number; end: number } => {
+  return { start: page * 20 - 20, end: page * 20 };
+};
 
 class API {
-  static async getArticles(categoryParameter: Category, pageNumber: number) {
+  /*static getArticles(categoryParameter: Category, pageNumber: number): Promise<any> {
     const response = axiosApi.get<ArticlesRawData>("", {
       params: { category: categoryParameter, page: pageNumber },
     });
+    console.log(response);
     return response;
-  }
-  /*
-  static getArticles(category: Category, page: number) {
-    const range = get10PerNumber(page);
-    switch (category) {
-      case Category.Business:
-        const business = new Promise<ArticleRawData[]>((resolve) => {
-          setTimeout(() => {
-            resolve(dataBusiness.articles.slice(range.start, range.end));
-          }, 300);
-        });
-        return business;
-      case Category.Entertainment:
-        const entertainment = new Promise<ArticleRawData[]>((resolve) => {
-          setTimeout(() => {
-            resolve(dataEntertainment.articles.slice(range.start, range.end));
-          }, 300);
-        });
-        return entertainment;
-      case Category.Health:
-        const health = new Promise<ArticleRawData[]>((resolve) => {
-          setTimeout(() => {
-            resolve(dataHealth.articles.slice(range.start, range.end));
-          }, 300);
-        });
-        return health;
-      case Category.Science:
-        const science = new Promise<ArticleRawData[]>((resolve) => {
-          setTimeout(() => {
-            resolve(dataScience.articles.slice(range.start, range.end));
-          }, 300);
-        });
-        return science;
-      case Category.Sports:
-        const sports = new Promise<ArticleRawData[]>((resolve) => {
-          setTimeout(() => {
-            resolve(dataSports.articles.slice(range.start, range.end));
-          }, 300);
-        });
-        return sports;
-      case Category.Technology:
-        const technology = new Promise<ArticleRawData[]>((resolve) => {
-          setTimeout(() => {
-            resolve(dataTechnology.articles.slice(range.start, range.end));
-          }, 300);
-        });
-        return technology;
-    }
   }*/
-}
 
+  static getArticles(
+    category: Category,
+    page: number
+  ): Promise<{ data: ArticlesRawData | undefined }> {
+    const range = getPage(page);
+    switch (category) {
+      case Category.Business: {
+        const data = delayResolve({
+          articles: dataBusiness.articles.slice(range.start, range.end),
+        });
+        return data;
+      }
+      case Category.Entertainment: {
+        const data = delayResolve({
+          articles: dataEntertainment.articles.slice(range.start, range.end),
+        });
+        return data;
+      }
+      case Category.Health: {
+        const data = delayResolve({
+          articles: dataHealth.articles.slice(range.start, range.end),
+        });
+        return data;
+      }
+      case Category.Science: {
+        const data = delayResolve({
+          articles: dataScience.articles.slice(range.start, range.end),
+        });
+        return data;
+      }
+      case Category.Sports: {
+        const data = delayResolve({
+          articles: dataSports.articles.slice(range.start, range.end),
+        });
+        return data;
+      }
+      case Category.Technology: {
+        const data = delayResolve({
+          articles: dataTechnology.articles.slice(range.start, range.end),
+        });
+        return data;
+      }
+    }
+    return Promise.resolve({ data: undefined });
+  }
+}
 export default API;

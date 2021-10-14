@@ -7,7 +7,7 @@ import {
 } from "./components/category-frame-slice";
 import { selectActiveCategoryName } from "./components/category-frame/category-tabs-slice";
 
-function App() {
+function App(): JSX.Element {
   // Get active category tab from store
   const activeCategory = useAppSelector(selectActiveCategoryName);
   // Get the filtered articles to send as a prop to Homepage, and additionally get all articles to send as a prop to the sidebar

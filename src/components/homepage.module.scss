@@ -5,6 +5,9 @@
 
 .categoryframe {
   width: 70%;
+  @media screen and (max-width: 500px) {
+    width: 100%;
+  }
 }
 
 .sidebar {
@@ -17,90 +20,22 @@
   height: calc(100vh - 100px);
 }
 
-.homepagebar {
-  background-color: #b71c1c;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-left: 2%;
-  margin-right: 2%;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-left: 2%;
-  padding-right: 2%;
-}
-
-.homepagebartext {
-  display: flex;
-  gap: 10%;
-  align-self: center;
-  width: 70%;
-}
-
-.homepagebuttons {
-  display: flex;
-  gap: 15px;
-  align-self: center;
-}
-
-.getbutton {
-  box-shadow: none;
-  background-color: #ffffff;
-  color: #b71c1c;
-  border-radius: 10px;
-}
-
-.getbutton:hover {
-  background-color: #b71c1c;
-  color: #ffffff;
-}
-
-.nothanksbutton {
-  border-radius: 10px;
-  padding: 0.5em;
-  padding-left: 1em;
-  padding-right: 1em;
-  color: #ffffff;
-  font-weight: bold;
-}
-
-.searchbox {
-  background-color: #ffffff;
-  border-radius: 10px;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-content: center;
-  padding-left: 10px;
-  width: 60%;
-}
-
-.searchfield {
-  width: 100%;
-}
-
-.searchicon {
-  align-self: center;
-  color: #787878;
-}
-
-.searchbutton {
-  margin: 0.3em;
-  box-shadow: none;
-}
-
-.searchbutton:hover {
-  box-shadow: none;
-}
-
-.topbar {
-  margin-top: 25px;
+.titlebar {
+  margin-top: 15px;
   display: flex;
   flex-direction: row;
   gap: 50px;
+  @media screen and (max-width: 500px) {
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
-.title {
+.mobiletabs {
   display: flex;
-  flex-direction: row;
+  justify-content: center;
+  margin-top: 15px;
+  gap: 1rem;
 }
