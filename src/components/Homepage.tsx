@@ -27,7 +27,7 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
   const displayContentByTab = (): JSX.Element => {
     if (activeTab === MobileTab.Featured) {
       return (
-        /*Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka pa ne bi mora hakirat pola*/
+        // Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka pa ne bi mora hakirat pola
         <CategoryFrame
           className={styles.categoryframemobile}
           articles={props.categoryArticles}

@@ -24,9 +24,9 @@ export async function loadArticlesRawDataPerPageFromAPI(
       }
     })
   );
-  for (const articleSet of rawData) {
+  rawData.forEach((articleSet) => {
     if (typeof articleSet !== "undefined") {
       store.dispatch(updateArticles(articleSet));
     }
-  }
+  });
 }
