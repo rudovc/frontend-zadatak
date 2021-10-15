@@ -35,7 +35,7 @@ export const CategoryTabs = (props: IProps) => {
   };
 
   // Return active tab style only if this tab is active
-  const isActiveTabStyle = (thisTab: CategoryTab) => {
+  const isActiveTabStyle = (thisTab: CategoryTab): string[] => {
     if (activeTab === thisTab) {
       return [styles.categorytabbackgroundactive, styles.categorytabactive];
     } else {
@@ -53,6 +53,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Home);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Home)[1]}>
             <HomeIcon className={styles.categorytabicon} />
@@ -68,6 +69,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Business);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Business)[1]}>
             <WorkIcon className={styles.categorytabicon} />
@@ -83,6 +85,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Entertainment);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Entertainment)[1]}>
             <MovieIcon className={styles.categorytabicon} />
@@ -98,6 +101,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Health);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Health)[1]}>
             <LocalHospitalicon className={styles.categorytabicon} />
@@ -113,6 +117,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Science);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Science)[1]}>
             <ScienceIcon className={styles.categorytabicon} />
@@ -128,6 +133,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Technology);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Technology)[1]}>
             <MonitorIcon className={styles.categorytabicon} />
@@ -143,6 +149,7 @@ export const CategoryTabs = (props: IProps) => {
           onClick={() => {
             handleClick(CategoryTab.Sports);
           }}
+          style={{ width: "100%" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Sports)[1]}>
             <SportsSoccerIcon className={styles.categorytabicon} />

@@ -1,20 +1,26 @@
 .buttonactive {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-content: center;
-  border-radius: 20px;
   height: 2.5rem;
   width: 6rem;
-  background-color: #b71c1c23;
   color: #b71c1c;
 }
 
 .buttoninactive {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-content: center;
-  border-radius: 20px;
   height: 2.5rem;
   width: 6rem;
+}
+
+.buttonbackgroundinactive {
+  border-radius: 20px;
   background-color: inherit;
+}
+
+.buttonbackgroundactive {
+  border-radius: 20px;
+  background-color: #b71c1c23;
 }

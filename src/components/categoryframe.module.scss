@@ -8,9 +8,10 @@
 }
 .articlegridcontainer {
   width: calc(100% - 75px);
-  @media screen and (max-width: 500px) {
-    width: 100%;
-  }
+}
+
+.articlegridcontainermobile {
+  width: 100%;
 }
 
 .pagination {

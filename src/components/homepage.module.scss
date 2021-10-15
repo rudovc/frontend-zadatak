@@ -5,9 +5,10 @@
 
 .categoryframe {
   width: 70%;
-  @media screen and (max-width: 500px) {
-    width: 100%;
-  }
+}
+
+.categoryframemobile {
+  width: 100%;
 }
 
 .sidebar {
@@ -20,20 +21,32 @@
   height: calc(100vh - 100px);
 }
 
+.sidebarmobile {
+  width: 100%;
+  height: calc(100vh - 200px);
+  background-color: #ffffff;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.2em;
+  border-radius: 10px;
+}
+
 .titlebar {
   margin-top: 15px;
   display: flex;
   flex-direction: row;
   gap: 50px;
-  @media screen and (max-width: 500px) {
-    flex-direction: column;
-    gap: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-  }
 }
 
-.mobiletabs {
+.titlebarmobile {
+  margin-top: 0.5rem;
+  flex-direction: column;
+  gap: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.tabsmobile {
   display: flex;
   justify-content: center;
   margin-top: 15px;

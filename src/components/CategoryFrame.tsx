@@ -48,7 +48,7 @@ export const CategoryFrame = (props: Articles & IProps): JSX.Element => {
     return (
       <div className={props.className}>
         <Stack direction="row" spacing={1}>
-          <Stack spacing={1} className={styles.articlegridcontainer}>
+          <Stack spacing={1} className={styles.articlegridcontainermobile}>
             <ArticleGrid
               articles={allArticles.slice(articleRange.start, articleRange.end)}
               nameFilter={props.nameFilter}

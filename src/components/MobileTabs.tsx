@@ -5,11 +5,11 @@ import ButtonBase from "@mui/material/ButtonBase";
 import Typography from "@mui/material/Typography";
 
 export const MobileTabs = (props: MobileTabProps): JSX.Element => {
-  const isActiveTabStyle = (thisTab: MobileTab): string => {
+  const isActiveTabStyle = (thisTab: MobileTab): string[] => {
     if (props.value === thisTab) {
-      return styles.buttonactive;
+      return [styles.buttonactive, styles.buttonbackgroundactive];
     } else {
-      return styles.buttoninactive;
+      return [styles.buttoninactive, styles.buttonbackgroundinactive];
     }
   };
 
@@ -19,16 +19,28 @@ export const MobileTabs = (props: MobileTabProps): JSX.Element => {
 
   return (
     <div className={props.className}>
-      <div className={isActiveTabStyle(MobileTab.Featured)}>
-        <ButtonBase onClick={() => handleClick(MobileTab.Featured)}>
-          <Typography style={{ fontWeight: 500 }}>Featured</Typography>
-        </ButtonBase>
-      </div>
-      <div className={isActiveTabStyle(MobileTab.Latest)}>
-        <ButtonBase onClick={() => handleClick(MobileTab.Latest)}>
+      <ButtonBase
+        onClick={() => handleClick(MobileTab.Featured)}
+        className={isActiveTabStyle(MobileTab.Featured)[1]}
+      >
+        <div className={isActiveTabStyle(MobileTab.Featured)[0]}>
+          <Typography
+            style={{
+              fontWeight: 500,
+            }}
+          >
+            Featured
+          </Typography>
+        </div>
+      </ButtonBase>
+      <ButtonBase
+        onClick={() => handleClick(MobileTab.Latest)}
+        className={isActiveTabStyle(MobileTab.Latest)[1]}
+      >
+        <div className={isActiveTabStyle(MobileTab.Latest)[0]}>
           <Typography style={{ fontWeight: 500 }}>Latest</Typography>
-        </ButtonBase>
-      </div>
+        </div>
+      </ButtonBase>
     </div>
   );
 };

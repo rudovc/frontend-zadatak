@@ -3,7 +3,7 @@ import { Articles } from "../../data-interfaces";
 import { ArticlePreview } from "./article-grid/ArticlePreview";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-import { isMobileOnly } from "react-device-detect";
+import { isMobileOnly, useMobileOrientation } from "react-device-detect";
 
 export const ArticleGrid = (props: Articles) => {
   const filteredArticleList = [...props.articles].filter((element) => {
@@ -24,7 +24,8 @@ export const ArticleGrid = (props: Articles) => {
     return -1;
   });
 
-  const gridElementWidth = isMobileOnly ? 12 : 6;
+  const { isPortrait } = useMobileOrientation();
+  const gridElementWidth = isMobileOnly ? (isPortrait ? 12 : 6) : 6;
 
   const displayedArticleList = sortedArticleList.map((element) => (
     <Grid item xs={gridElementWidth} key={`grid_item-${element.id}`}>
@@ -34,7 +35,7 @@ export const ArticleGrid = (props: Articles) => {
 
   if (isMobileOnly) {
     return (
-      <div className={styles.articleGrid}>
+      <div className={styles.articlegrid}>
         <Grid container spacing={3}>
           {displayedArticleList}
         </Grid>
@@ -42,7 +43,7 @@ export const ArticleGrid = (props: Articles) => {
     );
   } else {
     return (
-      <div className={styles.articleGrid}>
+      <div className={styles.articlegrid}>
         <Typography variant="h6">News</Typography>
         <Grid container spacing={3}>
           {displayedArticleList}

@@ -25,14 +25,15 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
   const displayContentByTab = (): JSX.Element => {
     if (activeTab === MobileTab.Featured) {
       return (
+        /*Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka pa ne bi mora hakirat pola*/
         <CategoryFrame
-          className={styles.categoryframe}
+          className={styles.categoryframemobile}
           articles={props.categoryArticles}
           nameFilter={nameFilter}
         />
       );
     } else {
-      return <Sidebar className={styles.sidebar} />;
+      return <Sidebar className={styles.sidebarmobile} />;
     }
   };
 
@@ -40,11 +41,11 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
     return (
       <div className={props.className}>
         <Container>
-          <TitleBar className={styles.titlebar} />
+          <TitleBar className={styles.titlebarmobile} />
           <MobileTabs
             value={activeTab}
             onClick={handleClick}
-            className={styles.mobiletabs}
+            className={styles.tabsmobile}
           />
           <Stack direction="row" spacing={2} className={styles.mainframe}>
             {displayContentByTab()}

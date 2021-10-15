@@ -19,7 +19,7 @@ export const TitleBar = (props: IProps): JSX.Element => {
             News
           </Typography>
         </div>
-        <SearchBar className={styles.searchbox} />
+        <SearchBar className={styles.searchboxmobile} />
       </div>
     );
   } else {
