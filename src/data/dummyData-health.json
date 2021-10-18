@@ -1,84 +1,149 @@
 {
   "status": "ok",
-  "totalResults": 888,
+  "totalResults": 784,
   "articles": [
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": null,
+        "name": "Express"
       },
-      "author": "TIMESOFINDIA.COM",
-      "title": "These easy activities can prevent the progression of dementia, as per study - Times of India",
-      "description": "Dementia is a group of symptoms that can range from memory loss to impaired thinking and problem-solving abilities that usually occurs in old age. Alzheimers is the most common cause of progressive dementia, which according to a recent study can be prevented …",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/these-easy-activities-can-prevent-the-progression-of-dementia-as-per-study/photostory/86776678.cms",
-      "urlToImage": "https://static.toiimg.com/photo/86776709.cms",
-      "publishedAt": "2021-10-05T08:30:00Z",
-      "content": "Surely a person with dementia is not capable of handling all the household chores. However, they can help declutter, meaning they can help remove all non-essential and unnecessary items from overcrow… [+508 chars]"
+      "author": "Tara Fair",
+      "title": "Covid LIVE: New variant warning as cases smash 3-month high– fears UK 'back to square one' - Express",
+      "description": "SOARING coronavirus cases have sparked fears that a new variant could destabilise the nation and send Britain \"back to square one\".",
+      "url": "https://www.express.co.uk/news/uk/1507500/Covid-live-news-New-variant-warning-UK-cases-deaths-today-vaccine-rollout-passport-latest",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1507500.jpg",
+      "publishedAt": "2021-10-18T12:34:00Z",
+      "content": "Dr Hilary has warned the country is in a precarious situation, with the rising number of cases increasing the chance of a new lethal variant. \r\nSpeaking on Good Morning Britain, he said: \"If you look… [+1029 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "IOL"
+        "name": "Daijiworld.com"
       },
-      "author": "OWN Correspondent",
-      "title": "Micro clots could be cause of lingering symptoms of Long Covid - Independent Online",
-      "description": "New research indicates that an overload of various inflammatory molecules “trapped” inside insoluble microscopic blood clots or micro clots might be the cause of some of the lingering symptoms experienced by individuals with Long Covid.",
-      "url": "https://www.iol.co.za/capetimes/news/micro-clots-could-be-cause-of-lingering-symptoms-of-long-covid-abdfc670-f568-40f5-81f0-97c35b4ceeb5",
-      "urlToImage": "https://image-prod.iol.co.za/resize/650x366/?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9d6d2095-8f7e-57c7-b4f0-e8365fbefc5b&operation=CROP&offset=0x14&resize=275x155",
-      "publishedAt": "2021-10-05T08:27:10Z",
-      "content": "CAPE TOWN - New research indicates that an overload of various inflammatory molecules trapped inside insoluble microscopic blood clots or micro clots might be the cause of some of the lingering sympt… [+2962 chars]"
+      "author": null,
+      "title": "Manipal: International Breast Cancer Awareness Month held at Kasturba Hospital - Daijiworld.com",
+      "description": "Media Release\r\nManipal, Oct 18: The month of October is observed as International Breast Cancer Awareness month all over the world. As a part of this Kasturba Hospital, Manipal organized Breast awareness campaign and free painless Breast Scan (iBreast Scan) f…",
+      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=884404",
+      "urlToImage": "https://www.daijiworld.in/images3/rayan_181021_Aware1.jpg",
+      "publishedAt": "2021-10-18T12:30:52Z",
+      "content": "Media Release\r\nManipal, Oct 18: The month of October is observed as International Breast Cancer Awareness month all over the world. As a part of this Kasturba Hospital, Manipal organized Breast aware… [+1195 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AllAfrica - Top Africa News"
+        "name": "Ecochunk.com"
       },
-      "author": null,
-      "title": "Zimbabwe: Complacent Zimbos Forget About Covid Vaccine Amid Grave Fears of Another Deadly Wave - AllAfrica - Top Africa News",
-      "description": "ZIMBABWEANS' Covid-19 vaccine uptake has sharply declined over the past week, according to official weekly figures.",
-      "url": "https://allafrica.com/stories/202110050310.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2021-10-05T08:22:54Z",
-      "content": "ZIMBABWEANS' Covid-19 vaccine uptake has sharply declined over the past week, according to official weekly figures.\r\nThis has prompted fears of yet another devastating fourth wave.\r\nA fortnight ago, … [+3531 chars]"
-    },
-    {
-      "source": {
-        "id": "xinhua-net",
-        "name": "Xinhua Net"
-      },
-      "author": null,
-      "title": "Australian researchers develop app to help stroke victims - Xinhua",
-      "description": "",
-      "url": "http://www.xinhuanet.com/english/asiapacific/2021-10/05/c_1310227620.htm",
+      "author": "Intelligence Market Report",
+      "title": "Find Out Now, What Should You Do For Fast Influenza Vaccine Market by 2027 | Key Players are CSL, GSK, Sanofi Pasteur, Mylan, AstraZeneca, Pfizer, Johnson & Johnson – EcoChunk - EcoChunk",
+      "description": "The Influenza Vaccine market research includes a summary of the market segment, size, share, sectional analysis, and revenue forecast, as well as a thorough analysis. It examines market factors, indus",
+      "url": "https://www.ecochunk.com/21941/2021/10/18/find-out-now-what-should-you-do-for-fast-influenza-vaccine-market-by-2027-key-players-are-csl-gsk-sanofi-pasteur-mylan-astrazeneca-pfizer-johnson-johnson/",
       "urlToImage": null,
-      "publishedAt": "2021-10-05T08:10:36Z",
-      "content": "SYDNEY, Oct. 5 (Xinhua) -- Researchers from Australia's University of Queensland developed a smartphone app that could provide a new way to aid stroke survivors on their path to recovery.\r\nThe app ca… [+2119 chars]"
+      "publishedAt": "2021-10-18T12:20:07Z",
+      "content": "The Influenza Vaccine market research includes a summary of the market segment, size, share, sectional analysis, and revenue forecast, as well as a thorough analysis. It examines market factors, indu… [+4657 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New Zealand Herald"
+        "name": "Medical Xpress"
       },
-      "author": "Ally Foster and Natalie Brown",
-      "title": "Covid 19 Delta outbreak: 24-year-old Australian coronavirus survivor describes 'incredibly frightening' 18-month ordeal - New Zealand Herald",
-      "description": "'You don't have to be on a ventilator to have your life turned upside down.'",
-      "url": "https://www.nzherald.co.nz/lifestyle/covid-19-delta-outbreak-24-year-old-australian-coronavirus-survivor-describes-incredibly-frightening-18-month-ordeal/BXH3WKV7TMGY7R5SC3RTOUEJEY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/rWLbj7E2UgyHO8GyHtOnNFXlAy4=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/FVDY3ZBJSFLPUCC46OFJL47DJ4.png",
-      "publishedAt": "2021-10-05T08:05:42Z",
-      "content": "Covid-19 survivors reveal their experience with the virus. Video / Sky NewsA 24-year-old who contracted Covid-19 in March last year after returning to Melbourne from Boston has spoken of the brutal o… [+3579 chars]"
+      "author": "Jack Gauldie",
+      "title": "How the puzzle of viral vector vaccines was solved, leading to today's COVID-19 shots - Medical Xpress",
+      "description": "How would you go about solving a puzzle if you didn't know what pieces to use, how many you would need, how it was supposed to look when you were done or what possible function it would serve?",
+      "url": "https://medicalxpress.com/news/2021-10-puzzle-viral-vector-vaccines-today.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/how-the-puzzle-of-vira.jpg",
+      "publishedAt": "2021-10-18T12:10:01Z",
+      "content": "How would you go about solving a puzzle if you didn't know what pieces to use, how many you would need, how it was supposed to look when you were done or what possible function it would serve?\r\nSuch … [+6311 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Medical Xpress"
+      },
+      "author": "Darren Robertsnicole Wright",
+      "title": "People want to use bleach and antiseptic for COVID and are calling us for advice - Medical Xpress",
+      "description": "Through our work at the New South Wales Poisons Information Centre, we're used to receiving calls from concerned parents about what to do if their child has accidentally drunk some cleaning product. We also take calls from health professionals for advice on h…",
+      "url": "https://medicalxpress.com/news/2021-10-people-antiseptic-covid-advice.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/people-want-to-use-ble.jpg",
+      "publishedAt": "2021-10-18T12:07:44Z",
+      "content": "Through our work at the New South Wales Poisons Information Centre, we're used to receiving calls from concerned parents about what to do if their child has accidentally drunk some cleaning product. … [+5046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healio"
       },
       "author": null,
-      "title": "Victoria hits all new COVID-19 high | COVID-19 | 9 News Australia - 9 News Australia",
-      "description": "Victoria has set a new national infection record, recording 1763 new cases and four deaths. Despite the surge, the premier says it won't affect our roadmap o...",
-      "url": "https://www.youtube.com/watch?v=pRY2uDkgSsA",
-      "urlToImage": "https://i.ytimg.com/vi/pRY2uDkgSsA/maxresdefault.jpg",
-      "publishedAt": "2021-10-05T08:00:33Z",
-      "content": null
+      "title": "Should the name 'NAFLD' change to reflect an emphasis on dysregulated metabolism? - Healio",
+      "description": "Endocrine Today | In the past, we did not really know what caused nonalcoholic fatty liver disease and nonalcoholic steatohepatitis. The major cause of liver problems at that point was alcohol, yet clinicians were observing cases of steatohepatitis or cirrhos…",
+      "url": "https://www.healio.com/news/endocrinology/20211011/should-the-name-nafld-change-to-reflect-an-emphasis-on-dysregulated-metabolism",
+      "urlToImage": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
+      "publishedAt": "2021-10-18T12:06:57Z",
+      "content": "We were unable to process your request. Please try again later. If you continue to have this issue please contact customerservice@slackinc.com.Back to Healio\r\nWe need better defined disease criteria,… [+7484 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Rachel Ann Tee-Melegrito",
+      "title": "Non-small cell lung cancer: Prevalence and statistics - Medical News Today",
+      "description": "Lung cancer is the second most common cancer. It is also the leading cause of cancer-related death worldwide. Learn more about prevalence and statistics here.",
+      "url": "https://www.medicalnewstoday.com/articles/prevalence-of-non-small-cell-lung-cancer",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/09/lung_cancer_GettyImages511830175_Thumb.jpg",
+      "publishedAt": "2021-10-18T12:06:06Z",
+      "content": "Lung cancer is the second most common cancer and the leading cause of cancer-related death worldwide.\r\nThere are two main types of lung cancer: small cell lung cancer (SCLC) and non-small cell lung c… [+7312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Healthday.com"
+      },
+      "author": "Robert Preidt",
+      "title": "Long Bouts of Space Travel May Harm Astronauts' Brains - HealthDay News",
+      "description": "MONDAY, Oct. 18, 2021 (HealthDay News) -- Prolonged stays in space appear to damage astronauts' brains, a small, new study suggests.The researchers studied five Russian cosmonauts, mean age 49, who stayed on the International Space Station (ISS) for an averag…",
+      "url": "https://consumer.healthday.com/b-10-14-long-bouts-of-space-travel-may-harm-astronauts-brains-2655288743.html",
+      "urlToImage": "https://consumer.healthday.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzY1NzUzNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYzNTcyMzI0M30.XwowHvdk0cesWy4rBKqlcLv5mD_yTYYjEvFTABzlJUc/image.jpg?width=1200&coordinates=0%2C30%2C0%2C31&height=600",
+      "publishedAt": "2021-10-18T12:05:59Z",
+      "content": "MONDAY, Oct. 18, 2021 (HealthDay News) -- Prolonged stays in space appear to damage astronauts' brains, a small, new study suggests.\r\nThe researchers studied five Russian cosmonauts, mean age 49, who… [+2188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diagnostic Imaging"
+      },
+      "author": "David Gruen, MD, MBA, FACR - Chief Medical Officer, IBM Watson Health Imaging",
+      "title": "Personalizing Breast Cancer Risk Assessment - Diagnostic Imaging",
+      "description": "Artificial intelligence can help seek out and identify high-risk patients who might benefit from more extensive screening.",
+      "url": "https://www.diagnosticimaging.com/view/personalizing-breast-cancer-risk-assessment",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/diag_imaging/11f527f08b118cf1aaca1ee37df349e4da9cd5bd-4928x3264.jpg?fit=crop&auto=format",
+      "publishedAt": "2021-10-18T12:03:26Z",
+      "content": "If only we were as good at prevention and early detection as we are at treating complex disease in U.S. healthcare. Generally, people know what they should do, and in some cases, they do it. For exam… [+5462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stockhouse"
+      },
+      "author": "Stockhouse.com",
+      "title": "Walgreens Flu Index Shows Flu Activity Is Up 23 Percent Compared to Last Flu Season as People Return to More In-Person Activities - Stockhouse",
+      "description": "Walgreens Flu Index Shows Flu Activity Is Up 23 Percent Compared to Last Flu Season as People Return to More In-Person Activities",
+      "url": "https://stockhouse.com/news/press-releases/2021/10/18/walgreens-flu-index-shows-flu-activity-is-up-23-percent-compared-to-last-flu",
+      "urlToImage": "https://assets.stockhouse.com/kentico-cms/0258-00/images/stockhouse-logo-og.png",
+      "publishedAt": "2021-10-18T12:00:57Z",
+      "content": "Today Walgreens launches its Walgreens Flu Index&amp;circledR; for the 2021-2022 season to help communities track flu activity in their area and serve as a reminder to get an annual flu shot. Returni… [+7611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "CBC",
+      "title": "This woman was diagnosed with ADHD in her 50s. She says it shouldn't have taken so long - Yahoo News Canada",
+      "description": "Robbie McDonald wasn't diagnosed with ADHD until she was in her 50s, but says she had always suspected she had the disorder, after years of difficulty with...",
+      "url": "https://ca.news.yahoo.com/woman-diagnosed-adhd-her-50s-120000344.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/a3WGh.9dRPyId6TrtUGjWw--~B/aD04ODU7dz0xMTgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cbc.ca/1de9de9062935e630f463f17038858e9",
+      "publishedAt": "2021-10-18T12:00:00Z",
+      "content": "Robbie McDonald, 53, was diagnosed last year with attention deficit hyperactivity disorder. (Jon Hernandez/CBC - image credit)\r\nRobbie McDonald wasn't diagnosed with ADHD until she was in her 50s, bu… [+3861 chars]"
     },
     {
       "source": {
@@ -86,194 +151,103 @@
         "name": "CBC News"
       },
       "author": null,
-      "title": "Researchers study effect of COVID-19 lockdowns on people's thoughts - CBC.ca",
-      "description": "The COVID-19 pandemic has been weighing heavily on many people's minds. Now, researchers at Queen's University have a better idea of exactly how it's been influencing our thoughts.",
-      "url": "https://www.cbc.ca/news/canada/ottawa/queens-university-thought-study-covid-19-1.6199162",
-      "urlToImage": "https://i.cbc.ca/1.6135292.1628541063!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/queen-s-university-kingston-ont.jpg",
-      "publishedAt": "2021-10-05T08:00:00Z",
-      "content": "There's no doubt the COVID-19 pandemic has been weighing heavily on many people's minds, but now researchers at Queen's University have a better idea of exactly how it's been doing that.\r\nResearchers… [+2541 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Month-long delay of New Brunswick's fiscal update 'surprising,' says economist - CBC.ca",
-      "description": "It’s been more than a month since the Higgs government scheduled and then cancelled a fiscal update that would have provided a fresh look at the size of the provincial deficit or surplus.",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/new-brunswick-economy-cupe-1.6199289",
-      "urlToImage": "https://i.cbc.ca/1.6056339.1623256555!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/premier-blaine-higgs-june-7-2021.jpg",
-      "publishedAt": "2021-10-05T08:00:00Z",
-      "content": "It's been more than a month since the New Brunswick government scheduled and then cancelled a fiscal update that would have provided a fresh look at the size of the provincial deficit or surplus.\r\nTh… [+3773 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Madeline Holcombe, CNN",
-      "title": "Covid-19 cases are declining but remain high among children. Here's what the US needs to do to end the surge - CNN",
-      "description": "After weeks of a troubling Covid-19 surge across the US, infection rates are finally on the decline -- but experts say there's still work to be done before the tide can be turned, especially when cases remain exceptionally high among children.",
-      "url": "https://www.cnn.com/2021/10/05/health/us-coronavirus-tuesday/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211005031625-covid-vaccination-0924-rhode-island-super-tease.jpg",
-      "publishedAt": "2021-10-05T07:58:00Z",
-      "content": "(CNN)After weeks of a troubling Covid-19 surge across the US, infection rates are finally on the decline -- but experts say there's still work to be done before the tide can be turned, especially whe… [+4597 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Blood thinners significantly reduce Covid-related risks, hospitalisation, shows study - Economic Times",
-      "description": "The researchers analysed the relationship between 90-day anticoagulation therapy.",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/blood-thinners-significantly-reduce-covid-related-risks-hospitalisation-shows-study/articleshow/86776749.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-86776750,width-1070,height-580,imgsize-44706,overlay-etpanache/photo.jpg",
-      "publishedAt": "2021-10-05T07:48:00Z",
-      "content": "NEW DELHI: Covid-19 patients who use blood thinners may have a nearly 50 per cent reduced risk of death and a 43 per cent lower risk of hospitalisation, according to a study published in Lancet's ECl… [+2913 chars]"
+      "title": "This woman was diagnosed with ADHD in her 50s. She says it shouldn't have taken so long - CBC.ca",
+      "description": "With October being ADHD Awareness Month, patients and doctors in B.C. are highlighting the stigma associated with the disorder and the difficulty accessing support.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/adhd-awareness-month-bc-1.6214539",
+      "urlToImage": "https://i.cbc.ca/1.6214547.1634508202!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/roberta-mcdonald.jpg",
+      "publishedAt": "2021-10-18T12:00:00Z",
+      "content": "Robbie McDonald wasn't diagnosed with ADHD until she was in her 50s, but says she had always suspected she had the disorder, after years of difficulty with her career and escalating issues relating t… [+3710 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "UPMC Study: Plasma Is 'Futile' For Critically-Ill COVID-19 Patients - CBS Pittsburgh",
-      "description": "UPMC says its study should help physicians focus on treatments that are effective.",
-      "url": "https://www.youtube.com/watch?v=Q1Iu4cmPUxo",
-      "urlToImage": "https://i.ytimg.com/vi/Q1Iu4cmPUxo/maxresdefault.jpg",
-      "publishedAt": "2021-10-05T07:33:33Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SowetanLIVE"
-      },
-      "author": "Alex Patrick",
-      "title": "Up to 60% of children have feelings of depression made worse by Covid-19 - SowetanLIVE",
-      "description": "Covid-19 has worsened depression with on average 50-60% of young people living in Sub-Saharan Africa experiencing negative feelings and poor wellbeing since the pandemic took hold of the region.",
-      "url": "https://www.sowetanlive.co.za/news/south-africa/2021-10-05-up-to-60-of-children-have-feelings-of-depression-made-worse-by-covid-19/",
-      "urlToImage": "https://lh3.googleusercontent.com/2Pn7P3PASqmQRB0ar9H691Ry0r8cVnMrUtHgrCthRvKrYLhOdCxpuiqntzaCW-mM3TIqUklRMTZdXDYPMjA4ld3grBM-OpjjauR4RTWq2Ggp570=s1000",
-      "publishedAt": "2021-10-05T07:26:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tribuneonlineng.com"
-      },
-      "author": "Paul Omorogbe",
-      "title": "One in six young Nigerians feels depressed ― UNICEF report - NIGERIAN TRIBUNE",
-      "description": "UNICEF’s State of the World’s Children 2021 report  says that in Nigeria, one in six young people aged 15 to 24 said they often feel depressed, have little interest in doing things, or are worried, nervous or anxious.Early findings from the internati",
-      "url": "https://tribuneonlineng.com/one-in-six-young-nigerians-feels-depressed-―-unicef-report/",
-      "urlToImage": "https://tribuneonlineng.com/wp-content/uploads/2017/12/Depressed-lady.jpg",
-      "publishedAt": "2021-10-05T07:19:43Z",
-      "content": "UNICEFs State of the Worlds Children 2021 report  says that in Nigeria, one in six young people aged 15 to 24 said they often feel depressed, have little interest in doing things, or are worried, ner… [+3451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lokmat.com"
+        "name": "Devdiscourse"
       },
       "author": "ANI",
-      "title": "Study finds depressed COVID patients respond better to antidepressants - Lokmat",
-      "description": "A pilot study has shown that depressed patients who have suffered from COVID respond better to standard antidepressants than people who have not had COVID.The findings of the study were published in the journal 'European Neuropsychopharmacology'.Around 40 per…",
-      "url": "https://english.lokmat.com/health/study-finds-depressed-covid-patients-respond-better-to-antidepressants/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/686x514/EWFVETR4QTWQVTRV4T320211005070624_202110.jpg",
-      "publishedAt": "2021-10-05T07:17:23Z",
-      "content": "A pilot study has shown that depressed patients who have suffered from COVID respond better to standard antidepressants than people who have not had COVID.\r\nThe findings of the study were published i… [+3743 chars]"
+      "title": "Researchers find key protein linked to appetite, obesity - Devdiscourse",
+      "description": "Researchers from the Okinawa Institute of Science and Technology Graduate University (OIST) have identified a protein that plays a key role in how the brain regulates appetite and metabolism.",
+      "url": "https://www.devdiscourse.com/article/science-environment/1772128-researchers-find-key-protein-linked-to-appetite-obesity",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_10_2021_11_58_13_8969389.jpg?width=920&format=jpeg",
+      "publishedAt": "2021-10-18T11:58:34Z",
+      "content": "Researchers from the Okinawa Institute of Science and Technology Graduate University (OIST) have identified a protein that plays a key role in how the brain regulates appetite and metabolism. Loss of… [+6074 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Jon Sharman",
+      "title": "Three new Ebola cases discovered in DRC - The Independent",
+      "description": "Latest flare-up appears to be linked to huge 2018-20 outbreak, says WHO",
+      "url": "https://www.independent.co.uk/news/world/africa/drc-ebola-cases-deaths-vaccination-b1940139.html",
+      "urlToImage": "https://static.independent.co.uk/2021/10/18/09/2021-10-15T130518Z_365220950_RC2DAQ9XPZ9A_RTRMADP_3_CONGO-EBOLA-WHO.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-10-18T11:57:45Z",
+      "content": "Three new Ebola cases have been confirmed in eastern Democratic Republic of Congo, bringing the total to five in the last 10 days, the World Health Organisation (WHO) said on Monday.\r\nHealth official… [+1499 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Edge Markets MY"
+        "name": "Nenaghguardian.ie"
       },
       "author": null,
-      "title": "Long-Covid symptoms may be caused by micro clots, scientists say - The Edge Markets MY",
-      "description": "(Oct 4): Some of the symptoms of so-called long-covid, the ailments that can persist for months after a Covid-19 infection, may be caused by inflammatory molecules trapped inside tiny blood clots, a scientist at South Africa’s Stellenbosch University said. Hi…",
-      "url": "https://www.theedgemarkets.com/article/longcovid-symptoms-may-be-caused-micro-clots-scientists-say",
-      "urlToImage": "https://assets.theedgemarkets.com/20210917_PEO_HOSPITAL SELAYANG_ZHD_3111.jpg?w84kcJrXcIfLTXJ0TmjjE26A.GN91uyR",
-      "publishedAt": "2021-10-05T07:05:52Z",
-      "content": "(Oct 4): Some of the symptoms of so-called long-covid, the ailments that can persist for months after a Covid-19 infection, may be caused by inflammatory molecules trapped inside tiny blood clots, a … [+830 chars]"
+      "title": "Visiting at Tipp University Hosptial restricted - Nenagh Guardian",
+      "description": "Tipperary University Hospital is currently experiencing an increase in the number of patients presenting with Covid-19.",
+      "url": "https://www.nenaghguardian.ie/2021/10/18/visiting-at-tipp-university-hosptial-restricted/",
+      "urlToImage": "https://imengine.public.prod.cmg.infomaker.io?uuid=b983a974-0329-5947-9e89-9290ae8d52af&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.88584&x=0&y=0&width=1200&height=675",
+      "publishedAt": "2021-10-18T11:56:00Z",
+      "content": "Tipperary University Hospital is currently experiencing an increase in the number of patients presenting with Covid-19.\r\nDue to increased infection control measures, the hospital advises that visitin… [+1708 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "THE WEEK"
+        "name": "TimesLIVE"
       },
-      "author": "Web Desk",
-      "title": "The unique brain state of team flow enhances team performance - The Week",
-      "description": "The neural signature may be a tool to predict and enhance team performance",
-      "url": "https://www.theweek.in/news/sci-tech/2021/10/05/the-unique-brain-state-of-team-flow-enhances-team-performance.html",
-      "urlToImage": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/head-human-nerves-body-brain-Serotonin-nerves-shut.jpg",
-      "publishedAt": "2021-10-05T07:00:29Z",
-      "content": "The experience of team flow, when a group gets in the zone to accomplish a task together, has its own unique brain state, distinct from that of teamwork or solo flow, according to new research publis… [+1022 chars]"
+      "author": "Tanya Farber",
+      "title": "Mix-and-matching vaccines is a life-saving cocktail, says new report - TimesLIVE",
+      "description": "Swedish study casts even darker shadow over SA’s sale of the AstraZeneca vaccine",
+      "url": "https://www.timeslive.co.za/sunday-times-daily/news/2021-10-18-mix-and-matching-vaccines-is-a-life-saving-cocktail-says-new-report/",
+      "urlToImage": "https://lh3.googleusercontent.com/NtPGj70A50cdkPxrPeDbS_5OHJ_1DqgNvoqzbvTERuh3S8GqEdncKtNUyhV0kjKIX1RJLXlzrNpxV6SCT2cUgPDV2J_-yJYSumI=s1000",
+      "publishedAt": "2021-10-18T11:55:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Independent.ie"
+        "name": "ANI News"
       },
-      "author": "Paul Hyland",
-      "title": "HSE urges public to get flu vaccine over concerns of a 'more severe flu season this year' - Independent.ie",
-      "description": "The HSE is urging the public to get a flu vaccine this winter amid concerns over a more &ldquo;severe flu season this year&rdquo;.",
-      "url": "https://www.independent.ie/irish-news/health/hse-urges-public-to-get-flu-vaccine-over-concerns-of-a-more-severe-flu-season-this-year-40918204.html",
-      "urlToImage": "https://www.independent.ie/irish-news/health/08879/40918208.ece/AUTOCROP/w1240h700/Pfizer-BioNTech%20Pfize%20BioNTech%20coronavirus%20Covid-19%20vaccine%2073655130",
-      "publishedAt": "2021-10-05T06:52:00Z",
-      "content": "The HSE is urging the public to get a flu vaccine this winter amid concerns over a more severe flu season this year.\r\nDirector of the HSEs National Immunisation Office Dr Lucy Jessop, said practices … [+3508 chars]"
+      "author": null,
+      "title": "Researchers find key protein linked to appetite, obesity - ANI News",
+      "description": "Tokyo [Japan], October 18 (ANI): Researchers from the Okinawa Institute of Science and Technology Graduate University (OIST) have identified a protein that plays a key role in how the brain regulates appetite and metabolism.",
+      "url": "https://www.aninews.in/news/science/researchers-find-key-protein-linked-to-appetite-obesity20211018172204",
+      "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/__sized__/obe2021101811282120211018115152-thumbnail-154x87-70.jpg",
+      "publishedAt": "2021-10-18T11:52:00Z",
+      "content": "ANI | Updated: Oct 18, 2021 17:22 IST\r\nTokyo [Japan], October 18 (ANI): Researchers from the Okinawa Institute of Science and Technology Graduate University (OIST) have identified a protein that play… [+6011 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Forbes"
       },
-      "author": "Jacinta Bowler",
-      "title": "World-First Brain Implant Successfully Treats Resistant Depression in a Patient - ScienceAlert",
-      "description": "Depression can be a frighteningly relentless condition. Luckily, researchers around the world are constantly working on new treatment options, such as a newly designed brain implant for resistant depression.",
-      "url": "https://www.sciencealert.com/36-year-old-gets-brain-implant-to-treat-depression-in-world-first",
-      "urlToImage": "https://www.sciencealert.com/images/2021-10/processed/BrainImageWithColourfulLines_1024.jpg",
-      "publishedAt": "2021-10-05T06:36:55Z",
-      "content": "Depression can be a frighteningly relentless condition. Luckily, researchers around the world are constantly working on new treatment options, such as a newly designed brain implant for resistant dep… [+5312 chars]"
+      "author": "Jessica Booth",
+      "title": "Normal Blood Pressure Numbers By Age – Forbes Health - Forbes",
+      "description": "",
+      "url": "https://www.forbes.com/health/healthy-aging/normal-blood-pressure-by-age/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/health/wp-content/uploads/2021/08/Untitled-design-2021-08-27T123144.738.png",
+      "publishedAt": "2021-10-18T11:46:54Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "IOL"
+        "name": "Deccan Herald"
       },
-      "author": "The Conversation",
-      "title": "Preliminary research finds that even mild cases of Covid-19 leave a mark on the brain - but it's not yet clear how long it lasts - IOL",
-      "description": "Researchers have been steadily gathering new and important insights into the effects of Covid-19 on the body and brain.",
-      "url": "https://www.iol.co.za/lifestyle/health/preliminary-research-finds-that-even-mild-cases-of-covid-19-leave-a-mark-on-the-brain-but-its-not-yet-clear-how-long-it-lasts-09fff0c6-7989-43d9-af24-5c5e92c536e0",
-      "urlToImage": "https://image-prod.iol.co.za/resize/650x366/File-photo-In-the-general-population-it-is-normal-to-see-some-change-in-grey-matter-volume-or-thickness-over-time-as-people-age-Picture-AP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/6b057c73-2915-5419-9805-d98d394be917&operation=CROP&offset=0x421&resize=4206x2366",
-      "publishedAt": "2021-10-05T06:33:18Z",
-      "content": "By Jessica Bernard\r\nWith more than 18 months of the pandemic in the rear view mirror, researchers have been steadily gathering new and important insights into the effects of Covid-19 on the body and … [+6637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailypioneer.com"
-      },
-      "author": "The Pioneer",
-      "title": "Post-Covid disorder pose challenge in kids in UP - Daily Pioneer",
-      "description": "A multisystem inflammatory syndrome is emerging in children (MIS-C) after recovery from Covid in Uttar Pradesh.\n\nThe residual effect of the virus is posing a challenge with rising MIS-C cases.\n\nAccording to medical experts, MIS-C is a serious condition in whi…",
-      "url": "https://www.dailypioneer.com/2021/pioneer-health/post-covid-disorder-pose-challenge-in-kids-in-up.html",
-      "urlToImage": "https://www.dailypioneer.com/uploads/2021/story/images/big/post-covid-disorder-pose-challenge-in-kids-in-up-2021-10-05.jpg",
-      "publishedAt": "2021-10-05T06:24:43Z",
-      "content": "A multisystem inflammatory syndrome is emerging in children (MIS-C) after recovery from Covid in Uttar Pradesh.\r\nThe residual effect of the virus is posing a challenge with rising MIS-C cases.\r\nAccor… [+2115 chars]"
-    },
-    {
-      "source": {
-        "id": "the-globe-and-mail",
-        "name": "The Globe And Mail"
-      },
-      "author": "Leslie Beck",
-      "title": "Will eating nuts make me gain weight? - The Globe and Mail",
-      "description": "Nuts are calorie-dense due to their high fat content, but new research suggests the worry over nuts and weight gain is undeserved",
-      "url": "https://www.theglobeandmail.com/life/health-and-fitness/article-will-eating-nuts-make-me-gain-weight/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/qpHC6zYdY9ymJ6rEBUsPOEpt9FA=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GSGMYBOWA5CMJG2POKWRENOQFY.JPG",
-      "publishedAt": "2021-10-11T10:30:00Z",
-      "content": "A large review of studies found that eating a handful of nuts every day did not lead to weight gain and in fact suggests that eating nuts may actually help prevent gaining excess body fat.\r\nDidyk/Get… [+4679 chars]"
+      "author": "Mrityunjay Bose",
+      "title": "Doctors suggest getting flu shots despite side effects - Deccan Herald",
+      "description": "Taking a flu shot is the need of the hour as it reduces one’s chances of getting sick from flu, the serious complications caused due to it, reduces chances of Covid-19, hospitalisation, and mortality rates.  Anyone above six months can get a flu shot every ye…",
+      "url": "https://www.deccanherald.com/national/doctors-suggest-getting-flu-shots-despite-side-effects-1041751.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/10/18/vaccine-istock-1036043-1633041527-1041751-1634557359.jpg",
+      "publishedAt": "2021-10-18T11:42:39Z",
+      "content": "Taking a flu shot is the need of the hour as it reduces ones chances of getting sick from flu, the serious complications caused due to it, reduces chances of Covid-19, hospitalisation, and mortality … [+2067 chars]"
     },
     {
       "source": {
@@ -281,245 +255,11 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Mayo Clinic Minute: Flu during a pandemic - Mayo Clinic",
-      "description": "Flu cases were low in 2020. And health experts attribute that to the COVID-19 pandemic and the preventive measures put in place to reduce the spread of COVID...",
-      "url": "https://www.youtube.com/watch?v=vGrUz75YoiI",
-      "urlToImage": "https://i.ytimg.com/vi/vGrUz75YoiI/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T10:26:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Rachel Pannett",
-      "title": "1 in 5 critically ill coronavirus patients is pregnant, unvaccinated, England says - The Washington Post",
-      "description": "U.S. hospitals are also encountering a wave of severe illness and death among young, pregnant and unvaccinated people.",
-      "url": "https://www.washingtonpost.com/world/2021/10/11/england-pregnant-women-unvaccinated-covid/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCPTPGRKNYI6ZML5TBOBQ3PDHA.jpg&w=1440",
-      "publishedAt": "2021-10-11T10:15:12Z",
-      "content": "Out of all women between the ages of 16 and 49 being treated with a therapy called Extracorporeal Membrane Oxygenation used only when a patients lungs are so damaged by the virus that a ventilator ca… [+2261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Prior immunity to influenza, not SARS-CoV-2, prevents severe disease and mortality - News-Medical.Net",
-      "description": "Researchers from the Israel Institute of Biological Research delineated the interplay between IAV and SARS CoV-2 infections.",
-      "url": "https://www.news-medical.net/news/20211011/Prior-immunity-to-influenza-not-SARS-CoV-2-prevents-severe-disease-and-mortality.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/10/shutterstock_740932939.jpg",
-      "publishedAt": "2021-10-11T10:06:00Z",
-      "content": "It is not yet fully understood whether coinfection with another pathogen may impact the severity of coronavirus disease 2019 (COVID-19). It has been reported in previous studies that coinfections bet… [+4460 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "'I'm happy to be in this moment of history': African Winnipegers elated after WHO approves malaria vaccine - CBC.ca",
-      "description": "Winnipegers originally from Africa were excited to hear that the WHO has approved a vaccine against malaria. Umullkheir Aden says her family's WhatsApp group chat lit up with excitement when they heard the news last week.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/i-m-happy-to-be-in-this-moment-of-history-african-winnipegers-elated-after-who-approves-malaria-vaccine-1.6205836",
-      "urlToImage": "https://i.cbc.ca/1.4082600.1493040642!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/africa-malaria-vaccine.jpg",
-      "publishedAt": "2021-10-11T10:00:00Z",
-      "content": "Winnipegers originally from African countries are excited that the World Health Organization (WHO) approved a vaccine against malaria, saying it gives them extra comfort knowing their family back in … [+4911 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "bnn-news.com"
-      },
-      "author": null,
-      "title": "World's first malaria vaccine recommended to young children, by WHO - bnn-news.com",
-      "description": "The World Health Organisation (WHO) has recommended for the first time a vaccine against the malaria disease, which in Africa, takes around 260 000 child lives every year. According to the WHO, since last week it suggests widespread use of the RTS,S/AS01 (RTS…",
-      "url": "https://bnn-news.com/worlds-first-malaria-vaccine-recommended-to-young-children-by-who-228920",
-      "urlToImage": "https://bnn-news.com/wp-content/uploads/2021/10/afapapppaa.jpg",
-      "publishedAt": "2021-10-11T09:38:46Z",
-      "content": "The World Health Organisation (WHO) has recommended for the first time a vaccine against the malaria disease, which in Africa, takes around 260 000 child lives every year.\r\nAccording to the WHO, sinc… [+1073 chars]"
-    },
-    {
-      "source": {
-        "id": "fortune",
-        "name": "Fortune"
-      },
-      "author": "David Meyer",
-      "title": "COVID-19 vaccine makers fight the pandemic fight, worldwide - Fortune",
-      "description": "After a belated start, these companies are striving to make sure low-income nations don’t get left behind in the race to inoculate humanity.",
-      "url": "https://fortune.com/2021/10/11/covid-19-vaccine-makers-pfizer-biontech-moderna-astrazeneca-johnson-johnson-global-effort/",
-      "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/10/CTW-2021-01-Vaccine-Makers-GettyImages-1234590504.jpg?resize=1200,600",
-      "publishedAt": "2021-10-11T09:30:00Z",
-      "content": "Skip to Content"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sundayvision.co.ug"
-      },
-      "author": "Cedric Manwaring",
-      "title": "COVID-19: What is restless anal syndrome and what are its symptoms? - Sunday Vision",
-      "description": "Almost two years after the emergence of SARS-CoV 2, which causes infection with the virus...",
-      "url": "https://www.sundayvision.co.ug/covid-19-what-is-restless-anal-syndrome-and-what-are-its-symptoms/",
-      "urlToImage": "https://www.radioformula.com.mx/wp-content/uploads/2021/10/sindrome-ano-inquieto-covid-19-secuela.jpg",
-      "publishedAt": "2021-10-11T09:29:59Z",
-      "content": "Almost two years after the emergence of SARS-CoV 2, which causes infection with the virus COVID-19Researchers continue to discover After the catastrophe From disease, this time they found out anal re… [+2611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Limerick Leader"
-      },
-      "author": "Mary McFadden",
-      "title": "Cancer tests to speed up thanks to Irish survivors' fundraising for new machine - Limerick Leader",
-      "description": "A next generation cancer testing machine at an Irish hospital will cut waiting time for results by eight weeks.  The Ion Torrent Genexus sequencer at Cork University Hospital (CUH) identifies the DNA profiles of cancers which are then used to create the best …",
-      "url": "https://www.limerickleader.ie/news/national-news/676095/cancer-tests-to-speed-up-thanks-to-irish-survivors-fundraising-for-new-machine.html",
-      "urlToImage": "https://www.limerickleader.ie/resizer/1200/700/true/1633943053443.PNG--cancer_tests_to_speed_up_thanks_to_irish_survivors__fundraising_for_new_machine.PNG?1633943053000",
-      "publishedAt": "2021-10-11T09:27:22Z",
-      "content": "A next generation cancer testing machine at an Irish hospital will cut waiting time for results by eight weeks. \r\nThe Ion Torrent Genexus sequencer at Cork University Hospital (CUH) identifies the DN… [+1197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newkerala.com"
-      },
-      "author": "Naveen",
-      "title": "Myanmar to launch Covid vax programme for schoolchildren - newkerala.com - New Kerala",
-      "description": "Myanmar to launch Covid vax programme for schoolchildren",
-      "url": "https://www.newkerala.com/news/2021/145622.htm",
-      "urlToImage": null,
-      "publishedAt": "2021-10-11T09:17:22Z",
-      "content": "Yangon, Oct 10: Myanmar will launch a Covid-19 vaccination programme for schoolchildren aged over 12 years next week, the state-run media reported on Sunday.\r\nAbout 1 million students of middle and h… [+923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Vaccine-induced memory B cells can recognize SARS-CoV-2 variants - News-Medical.Net",
-      "description": "Researchers have been investigating the effect that memory B cells produced in individuals who have received an mRNA vaccine have against SARS-CoV-2 variants.",
-      "url": "https://www.news-medical.net/news/20211011/Vaccine-induced-memory-B-cells-can-recognize-SARS-CoV-2-variants.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/10/shutterstock_1759537340_(1).jpg",
-      "publishedAt": "2021-10-11T09:16:00Z",
-      "content": "The coronavirus disease 2019 (COVID-19) pandemic caused worldwide health and economic crises. Many countries introduced lockdowns to help reduce the strain on health services. Recently with the help … [+4705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.https"
-      },
-      "author": "New York Post",
-      "title": "Smoking marijuana could lead to breakthrough COVID cases, study finds - Fox News",
-      "description": "Heavy marijuana users who are also vaccinated may be more susceptible to breakthrough cases of COVID-19, a new study found.",
-      "url": "https://www.https://nypost.com/2021/10/10/covid-19-breakthrough-cases-linked-to-smoking-marijuana-study-finds/",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Weed-Smoke-iStock-1.jpg",
-      "publishedAt": "2021-10-11T09:11:27Z",
-      "content": "Heavy marijuana users who are also vaccinated may be more susceptible to breakthrough cases of COVID-19, a new study found.\r\nThe study, published last Tuesday in World Psychology, found that those wi… [+2182 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Bollyinside.com"
-      },
-      "author": null,
-      "title": "British startup Stress Point Health presents research on digitized neurofeedback - Health Bollyinside - BollyInside",
-      "description": "Researchers at Imperial College measured the heart and respiratory rate, cognition score, self-determined stress level and perception of 39 participants",
-      "url": "https://www.bollyinside.com/news/british-startup-stress-point-health-presents-research-on-digitized-neurofeedback",
-      "urlToImage": "https://www.bollyinside.com/wp-content/uploads/2021/03/Health-bollyins-ide-14.jpg",
-      "publishedAt": "2021-10-11T09:01:34Z",
-      "content": "Researchers at Imperial College measured the heart and respiratory rate, cognition score, self-determined stress level and perception of 39 participants when using the SPHERE app, which uses digitise… [+2822 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Including Vaccination Status on Resumes - KATC",
-      "description": "More workers are including the information to fast track employment as businesses require the COVID 19 Vaccine.",
-      "url": "https://www.youtube.com/watch?v=V8cTWqwkLNg",
-      "urlToImage": "https://i.ytimg.com/vi/V8cTWqwkLNg/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T09:00:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Emine Saner",
-      "title": "’You feel like a child again!’ Would exercising at 5am make you a happier person? - The Guardian",
-      "description": "While 99% of us are still fast asleep, members of the Win the Morning, Win the Day movement are throwing themselves into a dawn walk or swim. We join them where it all started, on a beach in Hampshire",
-      "url": "https://amp.theguardian.com/lifeandstyle/2021/oct/11/you-feel-like-a-child-again-would-exercising-at-5am-make-you-a-happier-person",
-      "urlToImage": null,
-      "publishedAt": "2021-10-11T09:00:00Z",
-      "content": "Health &amp; wellbeingWhile 99% of us are still fast asleep, members of the Win the Morning, Win the Day movement are throwing themselves into a dawn walk or swim. We join them where it all started, … [+10422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "POLITICO.eu"
-      },
-      "author": "Louis Westendarp",
-      "title": "England to remove 'discriminatory' hurdle for blood donors - POLITICO Europe",
-      "description": "Question about sexual activity in sub-Saharan Africa to be removed from donation form.",
-      "url": "http://www.politico.eu/article/england-discriminatory-blood-donation-sexual-activity-sub-saharan-africa-uk/",
-      "urlToImage": "https://www.politico.eu/wp-content/uploads/2021/10/11/GettyImages-1233854613-1200x628.jpg",
-      "publishedAt": "2021-10-11T08:46:50Z",
-      "content": "Potential blood donors in England will no longer be asked about sexual activity in sub-Saharan Africa, U.K. Health Secretary Sajid Javid announced on Monday.\r\nThe question asking potential donors whe… [+1636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "NZ Delta Outbreak: Monday 11th Oct Wrap | nzherald.co.nz - nzherald.co.nz",
-      "description": "Current restrictions in Auckland, Northland and Waikato are to stay for now while vaccine requirements have been announced for education and health-care work...",
-      "url": "https://www.youtube.com/watch?v=-vVTM3M32k8",
-      "urlToImage": "https://i.ytimg.com/vi/-vVTM3M32k8/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T08:43:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": null,
-      "title": "Govt has no data of Covid-19 vaccines given daily by private hospitals | RTI - India Today",
-      "description": "In response to a RTI filed by activist Commodore (Retd) Lokesh Batra, the health ministry said that it does not hold data of daily Covid-19 vaccine doses administered by private hospitals.",
-      "url": "https://www.indiatoday.in/coronavirus-outbreak/story/covid-19-vaccine-in-private-hospitals-rti-health-ministry-1863469-2021-10-11",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/Covid_vaccine_1200-647x363.jpeg?mqGqt086YevaObRCyxSE_7kWydp4DLjw",
-      "publishedAt": "2021-10-11T08:41:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "5 diseases caused by deficiency of Vitamin C - Times of India",
-      "description": "When it comes to maintaining a healthy body, our nutrients and minerals play an important role. Our diet should be balanced and must be wholesome. That said, Vitamin C is one of the most essential nutrients crucial for the healthy functioning of our body.",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-diseases-caused-by-deficiency-of-vitamin-c/photostory/86933715.cms",
-      "urlToImage": "https://static.toiimg.com/photo/86933730.cms",
-      "publishedAt": "2021-10-11T08:30:00Z",
-      "content": "Scurvy is the most prominent disease linked to Vitamin C deficiency. It denotes a heavy lack of vitamin C in the diet, leading to bruising, bleeding gums, weakness, fatigue, rash and more.\r\nEarly war… [+174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": "Arthur Allen",
-      "title": "COVID immunity through infection or vaccination: Are they equal? - Salon",
-      "description": "Does recovering from an infection make you as immune as a vaccine does? Here's what we know",
-      "url": "https://www.salon.com/2021/10/11/immunity-through-infection-or-vaccination-are-they-equal_partner/",
-      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/09/india-covid-19-coronavirus-hospital-0910211.jpg",
-      "publishedAt": "2021-10-11T08:30:00Z",
+      "title": "VERIFY: Antibody testing is not recommended to check immunity getting the Covid vaccine - 11Alive",
+      "description": "Some people are turning to the Verify team asking whether they can check their immunity via an antibody test before getting a booster dose of the vaccine.",
+      "url": "https://www.youtube.com/watch?v=XaMWuRYPcfc",
+      "urlToImage": "https://i.ytimg.com/vi/XaMWuRYPcfc/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:41:48Z",
       "content": null
     }
   ]

@@ -1,422 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 660,
+  "totalResults": 582,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "Graeme Wearden",
-      "title": "UK new car sales tumble 34% in worst September since 1998 – business live - The Guardian",
-      "description": "Rolling coverage of the latest economic and financial news",
-      "url": "https://www.theguardian.com/business/live/2021/oct/05/uk-new-car-sales-september-services-companies-economy-stock-markets-shortages-imf-business-live",
-      "urlToImage": "https://i.guim.co.uk/img/media/dea1b46fddca1d27c165d9865709acc60000a3a5/0_118_5987_3593/master/5987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f5ddf70542d9fc84de23747049c98528",
-      "publishedAt": "2021-10-08T08:37:23Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": null,
-      "title": "MIDEAST STOCKS Major Gulf bourses mixed in early trade - Reuters",
-      "description": "Major stock markets in the Gulf delivered a mixed performance early on Tuesday, with the Saudi index outperforming the region as oil prices rose.",
-      "url": "https://www.reuters.com/world/middle-east/mideast-stocks-major-gulf-bourses-mixed-early-trade-2021-10-05/",
-      "urlToImage": "https://www.reuters.com/resizer/5zOjoY6DN9PlM3ETSc2D0kNeLjc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JPZWH5YQNBK3XB5DIPQKLIM3OE.jpg",
-      "publishedAt": "2021-10-05T08:36:00Z",
-      "content": "An investor looks at the screen at the Dubai International Financial Market in Dubai, UAE February 7, 2018. REUTERS/Satish KumarOct 5 (Reuters) - Major stock markets in the Gulf delivered a mixed per… [+2020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": null,
-      "title": "Market LIVE Updates: Indices trade higher led by oil & gas, power stocks, realty drags - Moneycontrol.com",
-      "description": "Stock Market LIVE Updates: Energy, oil & gas and power indices up 2 percent each, while selling is seen in the realty, pharma and PSU bank stocks. BSE midcap and smallcap indices are trading in the green.",
-      "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-october-5-latest-news-bse-nse-sensex-nifty-covid-coronavirus-eid-parry-rail-vikas-nigam-gokaldas-exports-jsw-energy-zee-7543461.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/10/stocks_sensex_nifty_stockmarket3-1-770x433.jpg",
-      "publishedAt": "2021-10-05T08:31:57Z",
-      "content": "October 05, 2021 / 01:24 PM IST\r\nJyoti Roy - DVP- Equity Strategist, Angel One:\r\nThe seasonally adjusted India Services Business Activity Index posted 55.2 in September 2021. While the reading has co… [+1007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Tech it out: Is Tesla misleading customers about self-driving features? - WION",
-      "description": "Self-driving cars are now a reality, but are they safe? One company that has constantly been under fire for automation in cars is Tesla. Here’s why.#Tesla #C...",
-      "url": "https://www.youtube.com/watch?v=LquzAVs_0Lg",
-      "urlToImage": "https://i.ytimg.com/vi/LquzAVs_0Lg/maxresdefault.jpg",
-      "publishedAt": "2021-10-05T08:23:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Adrian Padeanu",
-      "title": "2023 Honda Civic Type R Spied Without The Triple-Tip Exhaust System - Motor1 ",
-      "description": "The next-generation Honda Civic Type R has been spied testing in Germany with a basic exhaust system, yet it still had an appealing engine soundtrack.",
-      "url": "https://www.motor1.com/news/538453/2023-honda-civic-type-r-spy-video/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/kp0mY/s1/honda-civic-type-r-screenshot-from-spy-video.jpg",
-      "publishedAt": "2021-10-05T07:49:00Z",
-      "content": "Hot on the heels of yesterday's official teaser images, the next-generation Civic Type R is making the headlines again. This time around, Honda's hot hatch has been spotted undergoing testing in Germ… [+1732 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": null,
-      "title": "AstraZeneca seeks U.S. authorisation of drug to prevent COVID-19 - Reuters",
-      "description": "AstraZeneca <a href=\"https://www.reuters.com/companies/AZN.L\" target=\"_blank\">(AZN.L)</a> has requested emergency use authorisation  from U.S. regulators for its new treatment to prevent COVID-19 for people who respond poorly to vaccines because of a weakened…",
-      "url": "https://www.reuters.com/world/us/astrazeneca-files-us-approval-drug-prevent-covid-19-2021-10-05/",
-      "urlToImage": "https://www.reuters.com/resizer/aD0JhgsIX8Vg0knvOoG7krDKYSU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/66GCP47P7JLR5JXDJY77KVZH7E.jpg",
-      "publishedAt": "2021-10-05T07:46:00Z",
-      "content": "The logo for AstraZeneca is seen outside its North America headquarters in Wilmington, Delaware, U.S., March 22, 2021. REUTERS/Rachel WisniewskiOct 5 (Reuters) - AstraZeneca (AZN.L) has requested eme… [+2437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Insider South Africa"
-      },
-      "author": null,
-      "title": "Major SA solar player reveals new plans for floating panels – wants 5 million units by 2025 - Business Insider South Africa",
-      "description": "Floating solar panels save space and generate more electricity thanks to water’s cooling effect.",
-      "url": "https://www.businessinsider.co.za/floating-solar-panels-in-south-africa-2021-10",
-      "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/11642/464e8b2c8f944e5da4a2b099d63f457a.jpg",
-      "publishedAt": "2021-10-05T07:45:24Z",
-      "content": "<ul><li>The same energy group which developed the massive solar farm near De Aar in the Northern Cape has unveiled a water-based panel.</li><li>Floating solar panels don’t take up as much useable spa… [+3794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IOL"
-      },
-      "author": "Motoring Staff",
-      "title": "Here's what you'll pay for fuel from 6 October 2021 - IOL",
-      "description": "Although fuel prices are expected to rise in the coming months, there is a very small reprieve expected for petrol prices in October.",
-      "url": "https://www.iol.co.za/motoring/industry-news/heres-what-youll-pay-for-fuel-from-6-october-2021-0513dc61-d378-459f-8b74-0a276175684c",
-      "urlToImage": "https://image-prod.iol.co.za/resize/650x366/File-picture-Kim-Kyung-Hoon-Reuters?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9fb76137-9219-5c2d-b892-4fdb77b78a04&operation=CROP&offset=0x0&resize=1168x657",
-      "publishedAt": "2021-10-05T07:41:49Z",
-      "content": "Johannesburg - Rising international oil prices are threatening to send fuel prices surging in the coming months, however there is a small reprieve for petrol in October thanks to a positive currency … [+1072 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Greggs speeds up shop opening plans - BBC News",
-      "description": "But the bakery chain says it plans to accelerate its store opening plans to 150 a year.",
-      "url": "https://www.bbc.co.uk/news/business-58800158",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D612/production/_120820845_whatsubject.jpg",
-      "publishedAt": "2021-10-05T07:32:17Z",
-      "content": "Image source, Getty Images\r\nGreggs says recent trading has been affected by the nationwide labour shortages and disruption to supplies caused by HGV driver shortages.\r\nThe High Street baker also said… [+1699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Gloria Oladipo",
-      "title": "‘Tired of being stepped on’: Instacart workers urge customers to delete app - The Guardian",
-      "description": "‘Shoppers’ across the US cite falling pay rates and unsafe working conditions ahead of company’s rumored IPO",
-      "url": "https://amp.theguardian.com/us-news/2021/oct/05/instacart-shoppers-working-conditions-customers-delete-app",
-      "urlToImage": "https://i.guim.co.uk/img/media/5d200a7d97c4c6904557b6e57743e112fd51a5d4/0_0_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=465b58f9cd705033b08f4d920dbc02c1",
-      "publishedAt": "2021-10-05T07:30:00Z",
-      "content": "For Jason Schaal, 43, working in Minnesota as a personal shopper for grocery delivery company Instacart in 2019 was, at first, attractive.\r\nThe freedom to work on his own schedule, hours that could a… [+6979 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": null,
-      "title": "MTN Uganda IPO to raise about $1.2 bln - regulator - Reuters",
-      "description": "Telecoms firm MTN Uganda's initial public offering is expected to raise about $1.2 billion, Keith Kalyegira, Chief Executive Officer of the Capital Markets Authority said on Tuesday.",
-      "url": "https://www.reuters.com/business/media-telecom/mtn-uganda-ipo-raise-about-12-bln-regulator-2021-10-05/",
-      "urlToImage": "https://www.reuters.com/resizer/UdUrRhcY8ybPQL50fPA8Hb4vXiI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWI2IDHQTFIZPIPWDBQAECH5II.jpg",
-      "publishedAt": "2021-10-05T07:28:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "全球晶片短缺難解！車廠找上台積電...劉德音要查\"肯定有人在囤貨\"｜非凡財經新聞｜20211005 - USTV 非凡電視",
-      "description": "更多內容 敬請鎖定 【非凡新聞台】【非凡商業台】非凡電視台YouTube頻道 https://www.youtube.com/user/ustv非凡電視台IGhttps://instagram.com/ustvnews非凡電視台粉絲團 https://www.facebook.com/ustv.fans非凡電視台...",
-      "url": "https://www.youtube.com/watch?v=eEG0NJ0hDH0",
-      "urlToImage": "https://i.ytimg.com/vi/eEG0NJ0hDH0/maxresdefault.jpg",
-      "publishedAt": "2021-10-05T07:21:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Scotsman"
-      },
-      "author": "Gary Flockhart",
-      "title": "Facebook, WhatsApp and Instagram outage: Reason for six-hour outage which hit social media sites revealed - Edinburgh News",
-      "description": "Social media platform Facebook is back up and running after the widespread outage which left users unable to view messages or feeds on the site, along with Instagram and WhatsApp.",
-      "url": "https://www.edinburghnews.scotsman.com/news/people/facebook-whatsapp-and-instagram-outage-reason-for-six-hour-outage-which-hit-social-media-sites-revealed-3407325",
-      "urlToImage": "https://www.edinburghnews.scotsman.com/webimg/b25lY21zOjRlZTgzY2RhLTU5ZDQtNGZjNy05NjRjLTYxMjE0MzFlNDNkMzplMmM3Zjc2MC1kN2I5LTRiZTgtYmZlZC1kNTIwYTdmM2QwYWQ=.jpg?width=2048&enable=upscale",
-      "publishedAt": "2021-10-05T07:01:40Z",
-      "content": "Facebook has blamed a faulty configuration change for Mondays outage, which lasted almost six hours.\r\nShortly before 5pm on Monday, the three social media services had confirmed on Twitter they were … [+3332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "Malathi Nayak",
-      "title": "Tesla ordered to pay worker US$137mil for racism at plant - The Star Online",
-      "description": "A former Tesla worker won an RM572.93mil lawsuit against the electric automaker, over the company's unchecked racism in the workplace.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2021/10/05/tesla-ordered-to-pay-worker-us137mil-for-racism-at-plant",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2021/10/05/1319718.jpg",
-      "publishedAt": "2021-10-05T07:00:00Z",
-      "content": "Tesla Inc. lost a trial with a Black former elevator operator and must pay him US$137mil (RM572.93mil) for having turned a blind eye to racial taunts and offensive graffiti he endured at the electric… [+3337 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": null,
-      "title": "Services activity remains strong in September; PMI at 55.2 - Moneycontrol.com",
-      "description": "New jobs created in the service sector after nine months of job shedding",
-      "url": "https://www.moneycontrol.com/news/business/economy/services-activity-remains-strong-in-september-pmi-at-55-2-7544971.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/02/hotel-770x433.jpg",
-      "publishedAt": "2021-10-05T06:59:54Z",
-      "content": "Services sector activity in India continued to remain strong in September despite a small fall from August. Strong domestic demand, along with international orders helped the sector as Covid-19 restr… [+1392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nottinghamshire Live"
-      },
-      "author": "Tom Houghton, Liam Thorp, Matthew Bunn",
-      "title": "One of Nottinghamshire's biggest firms falls into administration - Nottinghamshire Live",
-      "description": "It is responsible for a student development in Traffic Street",
-      "url": "https://www.nottinghampost.com/news/nottingham-news/one-nottinghamshires-biggest-firms-falls-6012705",
-      "urlToImage": "https://i2-prod.nottinghampost.com/news/nottingham-news/article6012920.ece/ALTERNATES/s1200/1_WhatsApp-Image-2021-10-05-at-081622jpeg.jpg",
-      "publishedAt": "2021-10-05T06:57:08Z",
-      "content": "A Nottinghamshire-based contractor responsible for multi-million pound developments across the country has fallen into administration.\r\n NMCN plc, which is headquartered in Huthwaite, did not sign of… [+1660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Straits Times"
-      },
-      "author": "THAM YUEN-C",
-      "title": "More than a quarter of job vacancies in S'pore left unfilled for 6 months or more - The Straits Times",
-      "description": "It underscores the challenges in matching jobseekers with suitable jobs as Singapore transforms its economy.. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/politics/more-than-a-quarter-of-job-vacancies-left-unfilled-for-six-months-or-more",
-      "urlToImage": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/05/ak_sgcov2_051021.jpg?itok=Aiq1pUeU",
-      "publishedAt": "2021-10-05T06:53:05Z",
-      "content": "SINGAPORE - More than one quarter of job vacancies here were left unfilled for six months or more, said Manpower Minister Tan See Leng on Tuesday (Oct 5), underscoring the challenges in matching jobs… [+6523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "author": "Independent.ie Newsdesk",
-      "title": "Tesla ordered to pay more than $130m to a black former worker subjected to a racially hostile work environment - Independent.ie",
-      "description": "Car manufacturer Tesla has been ordered to pay more than $130 million in damages to a black former worker, finding he was subjected to a racially hostile work environment, the Wall Street Journal reported.",
-      "url": "https://www.independent.ie/world-news/tesla-ordered-to-pay-more-than-130m-to-a-black-former-worker-subjected-to-a-racially-hostile-work-environment-40918183.html",
-      "urlToImage": "https://www.independent.ie/irish-news/3ac95/40918182.ece/AUTOCROP/w1240h700/IB%20Tesla",
-      "publishedAt": "2021-10-05T06:45:00Z",
-      "content": "Car manufacturer Tesla has been ordered to pay more than $130 million in damages to a black former worker, finding he was subjected to a racially hostile work environment, the Wall Street Journal rep… [+1691 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mb.com.ph"
-      },
-      "author": null,
-      "title": "Inflation to remain above-target — BSP - Manila Bulletin",
-      "description": "The Nation's Leading Newspaper",
-      "url": "https://mb.com.ph/2021/10/05/inflation-to-remain-above-target-bsp/",
-      "urlToImage": "https://mb.com.ph/wp-content/uploads/2021/10/35035.png",
-      "publishedAt": "2021-10-05T06:45:00Z",
-      "content": "The central bank said that even if the 4.8 percent inflation rate in September was the low end of their 4.8-5.6 percent forecast, the consumer price index will still remain elevated and above-target … [+4871 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Natalie Wolfe",
-      "title": "Aussies facing eight-hour airport queues - NEWS.com.au",
-      "description": "<p>Aussies hoping to get overseas next month could face chaos at the airport as experts warn the technology behind an international vaccine passport scheme is yet to be perfected.</p>",
-      "url": "https://www.news.com.au/travel/travel-advice/airports/airports-airlines-warn-of-lengthy-delays-and-chaos-if-vaccine-passport-technology-not-perfected/news-story/be7bef3d80d00cc2c472098b3644801d",
-      "urlToImage": "https://content.api.news/v3/images/bin/a5482836100e06c6f127397f80910908",
-      "publishedAt": "2021-10-05T06:44:35Z",
-      "content": "Aussies hoping to get overseas next month will face massive queues and chaos at the airport, unless something drastic changes, experts warn.Aussies hoping to get overseas next month could face chaos … [+4617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Evergrande woes hit China property bonds |WION English News |Latest World News |World Business Watch - WION",
-      "description": "Evergrande groups offshore bondholders are now concerned that it is now close to defaulting on debt payments and wants more clarity and transparency.#Evergra...",
-      "url": "https://www.youtube.com/watch?v=VhsE8XNJimI",
-      "urlToImage": "https://i.ytimg.com/vi/VhsE8XNJimI/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T10:28:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBCTV18"
-      },
-      "author": null,
-      "title": "Stock Market Highlights: Sensex ends 77 points higher as market extends gains to third day in a row - CNBCTV18",
-      "description": "Stock Market LIVE Updates: Indian equity benchmarks scaled new peaks on Monday with the 50-scrip Nifty index hitting the 18,000 mark for the first time ever, shrugging off weakness in other Asian markets. Gains in automobile, metal, financial and oil & gas st…",
-      "url": "https://www.cnbctv18.com/market/stocks/stock-market-live-updates-sensex-nifty-likely-to-open-lower-despite-gains-in-asian-markets-tcs-stock-price-ril-shares-sterling-wilson-aditya-birla-sun-amc-listing-delta-corp-earnings-11061982.htm",
-      "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2021/09/bse-1019x573.jpg",
-      "publishedAt": "2021-10-11T10:25:40Z",
-      "content": "Market At Close | Sensex, Nifty hit record closing highs but off intraday peaks; banking, PSU, auto shares top gainers\r\nHere are some highlights of the Oct 11 session:\r\n--Nifty crosses 18,000 level i… [+1120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "This is Money"
-      },
-      "author": "Mike Sheen",
-      "title": "BUSINESS LIVE: Early interest rate hike warning - This is Money",
-      "description": "Households must prepare for interest rates to rise earlier than expected as the Bank of England attempts to keep a lid on inflation, a key policymaker has warned.",
-      "url": "https://www.thisismoney.co.uk/money/markets/article-10079287/BUSINESS-LIVE-Early-rate-hike-warning.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/11/07/49012249-0-image-a-37_1633934290015.jpg",
-      "publishedAt": "2021-10-11T10:19:12Z",
-      "content": "Households must prepare for interest rates to rise earlier than expected as the Bank of England attempts to keep a lid on inflation, a key policymaker has warned.\r\nMichael Saunders, who sits on the b… [+1353 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Guardian Nigeria"
-      },
-      "author": null,
-      "title": "NAFDAC warns against consumption, distribution of US infant formulas - Guardian",
-      "description": "The National Agency for Food and Drug Administration and Control (NAFDAC) has warned Nigerians to stop consuming and distributing infant",
-      "url": "https://editor.guardian.ng/news/nafdac-warns-against-consumption-distribution-of-us-infant-formulas/",
-      "urlToImage": "https://guardian.ng/wp-content/uploads/2021/07/NAFDAC.jpg",
-      "publishedAt": "2021-10-11T10:18:00Z",
-      "content": "The National Agency for Food and Drug Administration and Control (NAFDAC) has warned Nigerians to stop consuming and distributing infant formulas manufactured by Able Groupe, a US based company.\r\nThe… [+2707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Peter Walker",
-      "title": "Energy crisis: minister denies Kwasi Kwarteng lied over Treasury claims - The Guardian",
-      "description": "Damian Hinds rejects accusations business secretary was ‘making things up’ in claiming he lobbied chancellor to help firms",
-      "url": "https://amp.theguardian.com/politics/2021/oct/11/energy-crisis-kwasi-kwarteng-lied-treasury-claims-damian-hinds",
-      "urlToImage": "https://i.guim.co.uk/img/media/465643ea332f397bfaddb0b743c9ee345c1a4556/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc173b101df6980eb4f2e50479851dd6",
-      "publishedAt": "2021-10-11T10:12:00Z",
-      "content": "A minister has sought to play down splits between government departments over support for firms struggling with fast-rising energy prices, denying that the business secretary had lied and blaming a s… [+3468 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Family blindsided after marketing company, funeral home cash in on father's obituary - CBC.ca",
-      "description": "The son of an Ontario man is outraged after discovering companies were putting ads on his father's obituary, using it to make money without telling the family. After Go Public investigated, so did the provincial authority in charge of funeral services, which …",
-      "url": "https://www.cbc.ca/news/canada/toronto/obituary-memorial-trees-funeral-frontrunner-1.6119639",
-      "urlToImage": "https://i.cbc.ca/1.6119940.1628629427!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nathan-rothwell.jpg",
-      "publishedAt": "2021-10-11T10:06:51Z",
-      "content": "Before pancreatic cancer took his life in April, John Rothwell made his dying wishes clear: if mourners wanted to donate to a cause in his name, the money should go to an educational fund he and his … [+8589 chars]"
+      "author": "Stanley Reed",
+      "title": "Nuclear Fusion Edges Toward the Mainstream - The New York Times",
+      "description": "Long-shot money is flowing into start-ups that seek the energy of the stars. Driving the investments is a rising alarm about global warming.",
+      "url": "https://www.nytimes.com/2021/10/18/business/fusion-energy.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/10/14/business/00fusion-1/00fusion-1-facebookJumbo.jpg",
+      "publishedAt": "2021-10-18T12:20:56Z",
+      "content": "Which one of them wins out in the end is hard to predict, but there will be lots of good R&amp;D, said Jonathan E. Menard, deputy director for research at the Princeton Plasma Physics Laboratory.\r\nTh… [+1419 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Berkeley Lovelace Jr.",
-      "title": "Merck asks FDA to authorize antiviral Covid pill for emergency use - CNBC",
-      "description": "The Covid-19 treatment – known as molnupiravir – could be available to Americans by late this year.",
-      "url": "https://www.cnbc.com/2021/10/11/covid-pill-merck-asks-fda-to-authorize-antiviral-for-emergency-use.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106848512-1614787765983-merck.jpg?v=1614787788",
-      "publishedAt": "2021-10-11T10:05:30Z",
-      "content": "Merck said Monday it asked the Food and Drug Administration to authorize emergency use of its experimental antiviral pill to treat mild-to-moderate Covid-19 in adults.\r\nThe U.S. drugmaker's request c… [+2184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Evening Standard"
-      },
-      "author": "Graeme Evans",
-      "title": "FTSE 100 Live: Asos shares slide as CEO quits, Brent crude price remains high, Wall Street banks in focus - Evening Standard",
-      "description": "Speculation over an early rise in UK interest rates continued today after oil prices stayed near multi-year highs and a Bank of England policymaker warned inflationary pressures could become more persistent if action is not taken.",
-      "url": "https://www.standard.co.uk/business/ftse-100-live-11-october-brent-crude-price-remains-high-wall-street-banks-inflation-outlook-interest-rates-asos-results-b959782.html",
-      "urlToImage": "https://static.standard.co.uk/2021/09/20/07/FTSE%20comp%20LIVE-1.jpg?width=1200&width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-10-11T10:05:21Z",
-      "content": "Oil rally continues\r\nOil prices show few signs of budging from their multi-year highs, adding more inflationary pressures at the start of another testing week for global markets.\r\nBrent crude is trad… [+1814 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Qatar Petroleum changes name to Qatar Energy - Al Jazeera English",
-      "description": "CEO Saad Al-Kaabi says the name change signals a new strategy focusing on energy efficiency.",
-      "url": "https://www.aljazeera.com/news/2021/10/11/qatar-petroleum-changes-name-to-qatar-energy",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/2021-02-10T000000Z_587804269_RC2QPL99115E_RTRMADP_3_QATAR-PETROLEUM-STRATEGY.jpg?resize=1200%2C630",
-      "publishedAt": "2021-10-11T09:56:44Z",
-      "content": "Qatar Petroleum is changing its name to Qatar Energy to signal a new strategy that focuses on energy efficiency and environmentally-friendly technology such as capturing and storing carbon dioxide, i… [+734 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Vietnam’s staff-starved factories implore employees to come back - Aljazeera.com",
-      "description": "Millions of workers who fled outbreak are too scared to return to make the world’s winter clothes and Christmas gifts.",
-      "url": "https://www.aljazeera.com/economy/2021/10/11/vietnams-staff-starved-factories-implore-employees-to-come-back",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/379822099.jpg?resize=1200%2C630",
-      "publishedAt": "2021-10-11T09:53:14Z",
-      "content": "Whether yoga pants and Air Jordans appear under Christmas trees in the U.S. and Europe may come down to Vietnamese assembly line workers like Le Thi My.\r\nMy is part of an exodus of factory employees … [+6307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "P.M. News"
-      },
-      "author": null,
-      "title": "‘We are extremely sorry’: MTN issues statement - P.M. News",
-      "description": "One of Nigeria’s largest mobile telecommunications companies, MTN, has apologized for its service failures over the weekend.",
-      "url": "https://pmnewsnigeria.com/2021/10/11/we-are-extremely-sorry-mtn-issues-statement/",
-      "urlToImage": "https://cdn.pmnewsnigeria.com/2015/09/MTN.jpg",
-      "publishedAt": "2021-10-11T09:50:15Z",
-      "content": "One of Nigerias largest mobile telecommunications companies, MTN, has apologized for its service failures over the weekend.\r\nMany MTN subscribers had been unable to make phone calls or access the Int… [+499 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Stephen Wilmot",
-      "title": "The Latest Slump in Car Sales Has Winners and Losers - The Wall Street Journal",
-      "description": "BMW is weathering the microchip storm better than GM, and car dealers seem to be coping better than component suppliers",
-      "url": "https://www.wsj.com/articles/the-latest-slump-in-car-sales-has-winners-and-losers-11633945546",
-      "urlToImage": "https://images.wsj.net/im-410192/social",
-      "publishedAt": "2021-10-11T09:45:00Z",
-      "content": "Sky-high vehicle prices are a good hedge against sliding sales for U.S. car makers and dealers as a whole. But the math is working out less favorably for some than for others.The industrys luck turne… [+3852 chars]"
+      "author": "Matthew J. Belvedere",
+      "title": "5 things to know before the stock market opens Monday - CNBC",
+      "description": "Dow futures dropped Monday against the backdrop of increasing U.S. oil prices and a tick-up in bond yields.",
+      "url": "https://www.cnbc.com/2021/10/18/5-things-to-know-before-the-stock-market-opens-monday-oct-18.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106961185-1634311751919-gettyimages-1346742542-dscf0126_20211015104006157.jpeg?v=1634311809",
+      "publishedAt": "2021-10-18T12:16:06Z",
+      "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Wall Street set to start the week lower after Friday's rally\r\nTraders work on the floor of th… [+4330 chars]"
     },
     {
       "source": {
@@ -424,77 +34,38 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Electric vehicle adoption in India remains 'very nascent,' says Ola - CNBC International TV",
-      "description": "Ola's G.R. Arun Kumar discusses the firm's plans to tackle the challenge of electric vehicle charging infrastructure.",
-      "url": "https://www.youtube.com/watch?v=pxttvUIfQ_k",
-      "urlToImage": "https://i.ytimg.com/vi/pxttvUIfQ_k/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T09:37:09Z",
+      "title": "Money Saver: Walmart reveals their Black Friday deals - FOX 2 St. Louis",
+      "description": "Money Saver: Walmart reveals their Black Friday deals",
+      "url": "https://www.youtube.com/watch?v=HCJAjFm2wkk",
+      "urlToImage": "https://i.ytimg.com/vi/HCJAjFm2wkk/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T12:02:44Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "MyBroadband"
+        "name": "CNBC"
       },
-      "author": "https://www.facebook.com/mybroadband",
-      "title": "New online car licence disc renewal portal launched - MyBroadband",
-      "description": "South African motorists can now register, renew, and pay for their licence discs on the Natis website and have them delivered to their preferred address.",
-      "url": "https://mybroadband.co.za/news/motoring/417766-new-online-drivers-licence-disc-renewal-portal-launched.html",
-      "urlToImage": "https://mybroadband.co.za/news/wp-content/uploads/2020/06/Car-vehicle-licence-disc-Western-Cape-government-Jennifer-Solomons-places-sticker-on-windscreen-e1630914653617.jpg",
-      "publishedAt": "2021-10-11T09:31:35Z",
-      "content": "The Road Traffic Management Corporation (RTMC) has launched an online payment gateway allowing South African motorists to register, renew, and pay for their licence discs online.\r\nThe new option is a… [+2229 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Alex Janin",
-      "title": "Millennials Team Up to Fulfill the Dream of Homeownership - The Wall Street Journal",
-      "description": "Burdened by debt and facing soaring home prices, first-time home buyers are pooling their finances with partners, friends or roommates",
-      "url": "https://www.wsj.com/articles/millennials-dream-of-homeownership-11633698676",
-      "urlToImage": "https://images.wsj.net/im-413801/social",
-      "publishedAt": "2021-10-11T09:30:00Z",
-      "content": "Six months into the pandemic, Veronica Vest was having a serious home-buying urge. \r\nMs. Vest, a 27-year-old project engineer, was tired of having to share a building with others, sick of paying rent… [+88 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Drew FitzGerald",
-      "title": "Elon Musk vs. Charlie Ergen: Battle of the Billionaires Over Spectrum - The Wall Street Journal",
-      "description": "The two moguls want rules to favor their visions for high-speed broadband service. Is there space enough for the two of them?",
-      "url": "https://www.wsj.com/articles/elon-musk-charlie-ergen-battle-of-billionaires-11633714306",
-      "urlToImage": "https://images.wsj.net/im-413628/social",
-      "publishedAt": "2021-10-11T09:30:00Z",
-      "content": "Elon Musk was adamant.\r\nOn a call last December with Ajit Pai, the Federal Communications Commissions chairman at the time, Mr. Musk said that if the commission considered a proposal to begin the pro… [+194 chars]"
+      "author": "Kate Rooney",
+      "title": "Start-up Deel bets that Coinbase, Shopify and others will keep hiring overseas in the battle to find tech talent - CNBC",
+      "description": "Start-up Deel is betting that more tech companies will search for talent overseas as they continue to hire remotely.",
+      "url": "https://www.cnbc.com/2021/10/18/start-up-deel-bets-that-coinbase-shopify-and-others-will-keep-hiring-globally-to-find-tech-talent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106891490-1622673078648-gettyimages-1304722850-sg200727_2021030131424893.jpeg?v=1622673325",
+      "publishedAt": "2021-10-18T12:00:02Z",
+      "content": "Start-up Deel is betting that more tech companies will search for talent overseas as many continue to hire remotely.\r\nThe San Francisco-based payments and software company announced a $425 million Se… [+2505 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sky.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Sky",
-      "title": "Black Friday boost expected as anxious shoppers stock up early for Christmas - Sky News",
-      "description": "",
-      "url": "https://news.sky.com/story/black-friday-boost-expected-as-anxious-shoppers-stock-up-early-for-christmas-12431293",
-      "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-black-friday-shopping_5542797.jpg?20211011101134",
-      "publishedAt": "2021-10-11T09:26:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
-      },
-      "author": "Sky",
-      "title": "Energy crisis: Gas levy 'expected to be confirmed in next two weeks' despite rising prices - Sky News",
-      "description": "",
-      "url": "https://news.sky.com/story/energy-crisis-gas-levy-threatens-to-fuel-soaring-household-energy-bills-12429745",
-      "urlToImage": "https://e3.365dm.com/21/09/1600x900/skynews-boris-johnson-british-gas-training_5511376.jpg?20210913121715",
-      "publishedAt": "2021-10-11T09:26:20Z",
-      "content": null
+      "author": "Emily McCormick",
+      "title": "Stock market news live updates: Stock futures drop as inflation concerns outweigh earnings optimism - Yahoo Finance",
+      "description": "Investors' concerns over elevated inflation offset hopes that more companies will follow the lead of the big banks last week and post strong quarterly...",
+      "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-october-18-2021-113809831.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EP1p6NMra6SwaicXv_FaXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/aa0e7720-2ad8-11ec-b4bb-0126b4cc7a8c",
+      "publishedAt": "2021-10-18T11:58:56Z",
+      "content": "Stock futures fell Monday morning to give back some gains after the S&amp;P 500's best week since July, with investors' concerns over elevated inflation offsetting hopes that more companies will foll… [+4327 chars]"
     },
     {
       "source": {
@@ -502,25 +73,194 @@
         "name": "Reuters"
       },
       "author": null,
-      "title": "AstraZeneca antibody cocktail succeeds in late-stage study to treat COVID-19 - Reuters",
-      "description": "AstraZeneca's <a href=\"https://www.reuters.com/companies/AZN.L\" target=\"_blank\">(AZN.L)</a> experimental COVID-19 drug has helped cut the risk of severe disease or death in a late-stage study, the British drugmaker said on Monday, a boost to its efforts to de…",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazenecas-covid-19-drug-cocktail-meets-main-goal-late-stage-trial-2021-10-11/",
-      "urlToImage": "https://www.reuters.com/resizer/b0t7UzG507Gm85YorrAp9JNyLLs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOCHCUMHS5M5BENO6KXI3AGVC4.jpg",
-      "publishedAt": "2021-10-11T09:26:00Z",
-      "content": "Oct 11 (Reuters) - AstraZeneca's (AZN.L) experimental COVID-19 drug has helped cut the risk of severe disease or death in a late-stage study, the British drugmaker said on Monday, a boost to its effo… [+2902 chars]"
+      "title": "Saudi fast-food franchise operator Alamar Foods considers IPO, sources say - Reuters",
+      "description": "Saudi Arabia's Alamar Foods, the regional franchise operator for Domino's Pizza <a href=\"https://www.reuters.com/companies/DPZ.N\" target=\"_blank\">(DPZ.N)</a>, is considering an initial public offering (IPO) that would allow The Carlyle Group <a href=\"https://…",
+      "url": "https://www.reuters.com/world/middle-east/saudi-fast-food-franchise-operator-alamar-foods-considers-ipo-sources-say-2021-10-18/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53",
+      "publishedAt": "2021-10-18T11:47:00Z",
+      "content": "DUBAI, Oct 18 (Reuters) - Saudi Arabia's Alamar Foods, the regional franchise operator for Domino's Pizza (DPZ.N), is considering an initial public offering (IPO) that would allow The Carlyle Group (… [+1840 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Livemint"
+        "name": "CNBC"
       },
-      "author": "Bloomberg",
-      "title": "IPO boom: Indian companies to raise up to ₹75,000 crore in next six months, says KPMG - Mint",
-      "description": "Indian companies have raised $10.8 billion from first-time share sales this year, according to data compiled by Bloomberg. At this pace, 2021 could well surpass the record $11.8 billion mopped up in 2017",
-      "url": "https://www.livemint.com/market/ipo/ipo-boom-indian-companies-to-raise-up-to-rs-75-000-crore-in-next-six-months-says-kpmg-11633942603228.html",
-      "urlToImage": "https://images.livemint.com/img/2021/10/11/600x338/IPOs-km0--621x414@LiveMint_1633942846609.jpg",
-      "publishedAt": "2021-10-11T09:03:08Z",
-      "content": "KPMG expects digital companies in India to raise about $10 billion through initial public offerings in the next six months, as investors continue to pump money into the countrys technology sector.\r\nI… [+1640 chars]"
+      "author": "Peter Schacknow",
+      "title": "Stocks making the biggest moves in the premarket: Zillow, Revance Therapeutics, Albertsons and more - CNBC",
+      "description": "The stocks making the biggest moves in premarket trading include Zillow, Revance Therapeutics, Albertsons and more.",
+      "url": "https://www.cnbc.com/2021/10/18/stocks-making-the-biggest-moves-in-the-premarket-zillow-revance-therapeutics-albertsons-and-more.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106943512-1631888926139-gettyimages-1232667332-ZILLOW_EARNS.jpeg?v=1631888959",
+      "publishedAt": "2021-10-18T11:41:58Z",
+      "content": "Take a look at some of the biggest movers in the premarket:\r\nZillow (Z) Zillow slid 6.4% in premarket trading, following a Bloomberg report that the company has temporarily stopped its home-buying se… [+2788 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "OPEC+ misses target again, as some members struggle to raise oil output - Reuters",
+      "description": "OPEC+ compliance with oil cuts fell slightly to 115% in September, sources said, indicating that as the alliance raises production targets, some members are still falling short as they face challenges in pumping more oil.",
+      "url": "https://www.reuters.com/business/energy/opec-compliance-with-oil-cuts-slips-115-september-sources-say-2021-10-18/",
+      "urlToImage": "https://www.reuters.com/resizer/9iB0FVRBZ0PQC0AvI5VXGrKkW0E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7TRRMWDEEJM67PAMGJ6SVFFJWE.jpg",
+      "publishedAt": "2021-10-18T11:36:00Z",
+      "content": "A 3D-printed oil pump jack is seen in front of a displayed OPEC logo in this illustration picture, April 14, 2020. REUTERS/Dado RuvicLONDON, Oct 18 (Reuters) - OPEC+ compliance with oil cuts fell sli… [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Caitlin Ostroff",
+      "title": "Stock Futures Fall After Weak China Growth Data - The Wall Street Journal",
+      "description": "China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period",
+      "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-10-18-2021-11634542924",
+      "urlToImage": "https://images.wsj.net/im-418606/social",
+      "publishedAt": "2021-10-18T11:32:00Z",
+      "content": "U.S. stock futures edged lower after data showed that Chinas economic growth slowed sharply in the third quarter, and investors weighed the risk to global growth from stickier-than-anticipated inflat… [+329 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Devin Coldewey",
+      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing - TechCrunch",
+      "description": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of …",
+      "url": "http://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=595",
+      "publishedAt": "2021-10-18T11:31:30Z",
+      "content": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris… [+8260 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Manish Singh",
+      "title": "Lawmakers accuse Amazon executives of misleading or lying to Congress about its business practices - TechCrunch",
+      "description": "Five members of the Congressional Committee have accused Amazon’s top executives of either misleading or blatantly lying to it about its business practices and said they are considering an investigation.",
+      "url": "http://techcrunch.com/2021/10/18/lawmakers-accuse-amazon-executives-of-misleading-or-lying-to-congress-about-its-business-practices/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1227831354.jpeg?w=600",
+      "publishedAt": "2021-10-18T11:27:48Z",
+      "content": "Five members of the Congressional Committee have accused Amazons top executives of either misleading or blatantly lying to it about its business practices and said they are considering an investigati… [+2492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Gainers & Losers: 10 stocks that moved the most on October 18 - Moneycontrol.com",
+      "description": "The market ended in the green for the seventh consecutive session, with the Sensex closing 459.64 points higher at 61,765.59 and the Nifty 138.50 points at 18,477",
+      "url": "https://www.moneycontrol.com/news/photos/business/stocks/gainers-losers-10-stocks-that-moved-the-most-on-october-18-7594911.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/10/stocks_sensex_nifty_stockmarket3-2-770x433.jpg",
+      "publishedAt": "2021-10-18T11:21:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Mary West",
+      "title": "Does a bone density test show arthritis? - Medical News Today",
+      "description": "A bone density test measures the strength of bone in the hip and lumbar spine. We examine whether a bone density test can show arthritis.",
+      "url": "https://www.medicalnewstoday.com/articles/does-a-bone-density-test-show-arthritis",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/09/GettyImages-1137542241_thumb.jpg",
+      "publishedAt": "2021-10-18T11:21:12Z",
+      "content": "A bone density test does not indicate arthritis but suggests a persons bone strength. Doctors use it to diagnose osteoporosis, a condition where the bones weaken and become prone to fractures.\r\nSince… [+6261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "DOH preparing for third dose of COVID-19 vaccines for priority sectors | ANC - ANC 24/7",
+      "description": "The Philippine Health Department says it is now planning for a third shot of COVID-19 vaccine for healthcare workers, the elderly, and persons with comorbidi...",
+      "url": "https://www.youtube.com/watch?v=RBRSqwiU_kM",
+      "urlToImage": "https://i.ytimg.com/vi/RBRSqwiU_kM/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:17:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Yes, at-home COVID-19 tests can be as accurate as professionally administered tests - WHAS11",
+      "description": "As long as the test is accurately administered, it should give you the same results as a test from a healthcare provider.",
+      "url": "https://www.youtube.com/watch?v=6kfahe9A5iM",
+      "urlToImage": "https://i.ytimg.com/vi/6kfahe9A5iM/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:09:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Barbara Kollmeyer",
+      "title": "Here's 'one of the most bullish signals' ever for bitcoin that many investors may have missed - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/heres-one-of-the-most-bullish-signals-ever-for-bitcoin-that-many-investors-may-have-missed-11634555398",
+      "urlToImage": "https://images.mktw.net/im-418640/social",
+      "publishedAt": "2021-10-18T11:09:00Z",
+      "content": "Stocks are looking somewhat tepid to start the week as bond yields and oil prices climb, and Chinas growth let down. But the real thrills may be in the crypto universe, with expectations for the firs… [+5628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Esha Dey and Thyagaraju Adinarayan",
+      "title": "Tesla Shares Are Roaring Back - Yahoo Finance",
+      "description": "(Bloomberg) -- Tesla Inc. shares are staging a comeback as investors expect the Elon Musk-led electric carmaker to navigate the crippling semiconductor...",
+      "url": "https://finance.yahoo.com/news/tesla-shares-roaring-back-081557874.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Au6Llth73E1.g2UElBVQmQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/c256222af75c09e11624ba3445631562",
+      "publishedAt": "2021-10-18T11:08:12Z",
+      "content": "(Bloomberg) -- Tesla Inc. shares are staging a comeback as investors expect the Elon Musk-led electric carmaker to navigate the crippling semiconductor shortage better than rivals that have been seve… [+3538 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Amazon may have lied to Congress, five U.S. lawmakers say - Reuters",
+      "description": "Five members of the U.S. House Judiciary committee wrote to Amazon.com Inc's chief executive Sunday, and accused the company's top executives, including founder Jeff Bezos, of either misleading Congress or possibly lying to it about Amazon's business practice…",
+      "url": "https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/",
+      "urlToImage": "https://www.reuters.com/resizer/tmnUM37lboUMWbJ_Q4s50sDdgfg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TQU2IL5YMRKL5J2W6C4X36XRDU.jpg",
+      "publishedAt": "2021-10-18T11:03:00Z",
+      "content": "The Amazon logo is seen outside its JFK8 distribution center in Staten Island, New York, U.S. November 25, 2020. REUTERS/Brendan McDermidLONDON, Oct 18 (Reuters) - Five members of the U.S. House Judi… [+5670 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/steve-dent",
+      "title": "Foxconn unveils three new EV prototypes - Engadget",
+      "description": "At its HHTD21 event, Foxconn unveiled three electric vehicle prototypes including two sedans and an electric bus..",
+      "url": "https://www.engadget.com/foxconn-makes-moves-in-the-automotive-sector-with-three-new-ev-prototypes-110010919.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/4cc225c0-2fde-11ec-bdfb-f0e5a9dbcdb3",
+      "publishedAt": "2021-10-18T11:01:04Z",
+      "content": "At its HHTD21 event, Foxconn unveiled three electric vehicle prototypes including two sedans and an electric bus, according to a Nikkei report and YouTube video. The company said it is \"no longer the… [+2013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "James Sillars",
+      "title": "Global shipping disruption could last 'another 18 months', UK boss warns - Sky News",
+      "description": "",
+      "url": "https://news.sky.com/story/global-shipping-disruption-could-last-another-18-months-uk-boss-warns-12437323",
+      "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-containers-drne-aerial_5545319.jpg?20211013150102",
+      "publishedAt": "2021-10-18T11:00:32Z",
+      "content": null
     }
   ]
 }

@@ -1,500 +1,19 @@
 {
   "status": "ok",
-  "totalResults": 447,
+  "totalResults": 759,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "YouTube"
       },
-      "author": "Jamie Jackson",
-      "title": "Manchester City provide image of Liverpool fan who allegedly spat at bench - The Guardian",
-      "description": "Manchester City have an image of the Liverpool supporter who allegedly spat at their bench during Sunday’s 2-2 draw at Anfield",
-      "url": "https://amp.theguardian.com/football/2021/oct/04/manchester-city-provide-image-of-liverpool-fan-alleged-to-have-spat-at-bench",
-      "urlToImage": null,
-      "publishedAt": "2021-10-04T12:40:00Z",
-      "content": "Manchester City<ul><li>City had camera fixed on dugout during 2-2 draw at Anfield</li><li>Image sent as part of report for Liverpools investigation</li></ul>\r\nManchester City have an image of the Liv… [+1816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Andrew Sparrow, Haroon Siddique, Lisa O'Carroll",
-      "title": "Tory conference live: Rishi Sunak says Brexit will be worth it in the long term amid supply chain crisis - The Guardian",
-      "description": "Follow the latest politics news as the Conservative party meets in Manchester for its conference",
-      "url": "https://www.theguardian.com/politics/live/2021/oct/04/tory-conference-boris-johnson-rishi-sunak-conservative-party-politics-live-news",
-      "urlToImage": "https://i.guim.co.uk/img/media/1939367dcb416afc003a4779e3937601f96605e5/252_415_2703_1621/master/2703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=32c4bcdd2832ee2704d81fa1744bf8e1",
-      "publishedAt": "2021-10-04T12:34:29Z",
+      "author": null,
+      "title": "Clemson Baseball || 2021 Pro Day - Clemson Tigers",
+      "description": "2021 Pro Day = Time to show out. 👀 🔥 💯",
+      "url": "https://www.youtube.com/watch?v=RyMy3aDVMa8",
+      "urlToImage": "https://i.ytimg.com/vi/RyMy3aDVMa8/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T12:30:11Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Telegraph.co.uk"
-      },
-      "author": null,
-      "title": "Petrofac surges after £70m bribery fine - live updates - Telegraph.co.uk",
-      "description": "Shares in oil services provider Petrofac surged this morning even after the company was handed a $95m (&pound;70m) fine for failing to prevent bribery in the Middle East.",
-      "url": "https://www.telegraph.co.uk/business/2021/10/04/evergrande-shares-suspended-amid-rescue-deal-rumours/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2019/08/28/TELEMMGLPICT000003605660_trans_NvBQzQNjv4BqLiZnSJs8x6dOfuqFtiWqEXljmAoTrRk9DjrsQqB_lIE.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2021-10-04T12:31:27Z",
-      "content": "Good morning.\r\nShares in Evergrande have been suspended this morning as rumours swirl about a major rescue deal for the beleaguered property giant.\r\nTrading was suspending pending the announcement of… [+2355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Irish Examiner"
-      },
-      "author": "Louise Walsh",
-      "title": "'Eileen's light will continue to shine,' mourners hear at funeral of HPV vaccine campaigner - Irish Examiner",
-      "description": "",
-      "url": "https://www.irishexaminer.com/news/arid-40712900.html",
-      "urlToImage": "https://www.irishexaminer.com/cms_media/module_img/5358/2679140_3_seoimage16x9_IMG-20210318-WA0004.jpg",
-      "publishedAt": "2021-10-04T12:28:00Z",
-      "content": "Eileen Rushe had \"a light and a love that she shared freely and generously,\" mourners were told at the funeral today of the brave HPV vaccine campaigner who lost her battle with cervical cancer.The 3… [+4603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Matthew J. Belvedere",
-      "title": "5 things to know before the stock market opens Monday - CNBC",
-      "description": "U.S. stock futures fell modestly Monday after finishing a rough week with strong rally on the first day of October.",
-      "url": "https://www.cnbc.com/2021/10/04/5-things-to-know-before-the-stock-market-opens-monday-oct-4.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949513-16329294352021-09-29t144826z_478045251_rc2pzp9itiv3_rtrmadp_0_usa-stocks.jpeg?v=1632929562",
-      "publishedAt": "2021-10-04T12:24:43Z",
-      "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Dow futures dropped after starting October with a strong rally\r\nTraders work on the floor of … [+4571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Headlines"
-      },
-      "author": "https://www.facebook.com/ADSoomeet",
-      "title": "Moto E40 Leaked In New Renders, Key Details Revealed - Android Headlines",
-      "description": "The Moto E40 has leaked in new renders, confirming a few key details. It is a budget smartphone powered by Google's Android Go platform.",
-      "url": "https://www.androidheadlines.com/2021/10/motorola-moto-e40-render-details.html",
-      "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2021/10/Moto-E40-leaked-renders-1.jpeg",
-      "publishedAt": "2021-10-04T12:16:43Z",
-      "content": "Motorola could soon launch a new Android Go smartphone, the Moto E40. The company launched the Moto E20 last month and this handset appears to be an upscale model to it. The device has been subject t… [+2224 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Canadians are unknowingly buying homes in climate change danger zones, report finds - CBC.ca",
-      "description": "Canadians are unknowingly buying and building homes and other infrastructure in areas at high risk of flooding, wildfires and other climate change impacts. That could lead to billions of dollars in damage each year if governments don't force sellers to disclo…",
-      "url": "https://www.cbc.ca/news/science/climate-risks-1.6196450",
-      "urlToImage": "https://i.cbc.ca/1.6196490.1633107107!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/que-flooding-20190430.jpg",
-      "publishedAt": "2021-10-04T12:16:35Z",
-      "content": "Canadians are unknowingly buying and building homes and other infrastructure in areas at high risk of flooding, wildfires and other climate change impacts. That could lead to billions of dollars in d… [+7317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Satvik Khare",
-      "title": "Amazon Great Indian Festival: 'Advantage - Just for Prime' Benefits Announced With Interest-Free EMIs - Gadgets 360",
-      "description": "Amazon has introduced an 'Advantage - Just for Prime' programme where Prime members will get the lowest interest-free instalments during the Great Indian Festival. Currently, the programme is only available for smartphones. Customers will also get a 6-month f…",
-      "url": "https://gadgets.ndtv.com/apps/news/amazon-great-indian-festival-sale-2021-advantage-just-for-prime-benefits-deals-interest-free-instalments-2563472",
-      "urlToImage": "https://i.gadgets360cdn.com/large/amazon-great-indian-festival-2021-sale-large_1633124191880.jpg",
-      "publishedAt": "2021-10-04T12:11:22Z",
-      "content": "Amazon Great Indian Festival sale is currently underway, and the company has introduced an 'Advantage - Just for Prime' programme where Prime members will get the lowest interest-free instalments dur… [+2009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Weather Channel"
-      },
-      "author": null,
-      "title": "Hubble Space Telescope Spots Spiral Galaxy with Celestial Eye Around 130 Million Light-Years Away | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
-      "description": "Hubble's Wide Field Camera 3 (WFC3) captured the galaxy—NCG 5728—which appears to be elegant and luminous, an ESA statement said. - Articles from The Weather Channel | weather.com",
-      "url": "https://weather.com/en-IN/india/space/news/2021-10-04-hubble-space-telescope-spots-spiral-galaxy-with-celestial-eye",
-      "urlToImage": "https://s.w-x.co/in-galaxy_8.jpg",
-      "publishedAt": "2021-10-04T12:10:38Z",
-      "content": "The Hubble Space Telescope has detected a spiral galaxy around 130 million light-years from Earth that showcases a celestial eye.\r\nHubble's Wide Field Camera 3 (WFC3) captured the galaxyNCG 5728which… [+1530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Severine Lamon",
-      "title": "Why are males still the default subjects in medical research? - Medical Xpress",
-      "description": "Women and girls account for 50% of the population, yet most health and physiology research is conducted in males.",
-      "url": "https://medicalxpress.com/news/2021-10-males-default-subjects-medical.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/why-are-males-still-th.jpg",
-      "publishedAt": "2021-10-04T12:10:34Z",
-      "content": "Women and girls account for 50% of the population, yet most health and physiology research is conducted in males.\r\nThis is especially true for fundamental research (which builds knowledge but doesn't… [+6427 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Callum Keown",
-      "title": "BioNTech CEO Says New Vaccines Needed in 2022. Vaccine Stocks Are Still Falling. - Barron's",
-      "description": "Shares in Covid-19 vaccine makers, including Moderna, Novavax and BioNTech, continued their slide lower early on Monday,",
-      "url": "https://www.barrons.com/articles/biontech-ceo-vaccines-2022-51633349371",
-      "urlToImage": "https://images.barrons.com/im-389685/social",
-      "publishedAt": "2021-10-04T12:10:00Z",
-      "content": "Updated Covid-19 vaccines may be needed next year as the coronavirus that causes the disease mutates to evade immunity, BioNTech CEO Uur ahin said in an interview with the Financial Times.The chief e… [+1625 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ohionewstime.com"
-      },
-      "author": "umabhavani",
-      "title": "Are Amazon cloned products from small sellers? - Ohionewstime.com",
-      "description": "At its annual fall 2021 event, Amazon launched a number of products, including the much-talked-about robot Amazon Astro. Another fascinating element of the event was the Halo View Fitness Tracker. Ama",
-      "url": "https://ohionewstime.com/are-amazon-cloned-products-from-small-sellers/263979/",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/10/jeff-bezos-163334883416x9.png",
-      "publishedAt": "2021-10-04T12:06:44Z",
-      "content": "At its annual fall 2021 event, Amazon launched a number of products, including the much-talked-about robot Amazon Astro. Another fascinating element of the event was the Halo View Fitness Tracker. Am… [+1863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "P.M. News"
-      },
-      "author": null,
-      "title": "Airtel Africa announces offer to buyout Nigeria minorities - P.M. News",
-      "description": "Airtel Africa has announced that its subsidiary, Airtel Networks Ltd., (Airtel Nigeria) has initiated a process to buy back 8.27 percent minority",
-      "url": "https://pmnewsnigeria.com/2021/10/04/airtel-africa-announces-offer-to-buyout-nigeria-minorities/",
-      "urlToImage": "https://cdn.pmnewsnigeria.com/2019/06/Airtel-Africa.jpg",
-      "publishedAt": "2021-10-04T12:06:00Z",
-      "content": "By Itohan Abara-Laserian/NAN\r\nAirtel Africa has announced that its subsidiary, Airtel Networks Ltd., (Airtel Nigeria) has initiated a process to buy back 8.27 percent minority shareholdings at N55.81… [+890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Guardian Nigeria"
-      },
-      "author": null,
-      "title": "São Tomé and Príncipe Reaches the First Global Target for the Vaccination Against Covid 19 by Vaccinating More than 10% of its Population by end of September 2021 - Guardian",
-      "description": "São Tomé and Príncipe has fully vaccinated 10% of its population against COVID-19, reaching the September global target by the World Health Organization (WHO) aimed at widening and accelerating vaccination and helping to turn the tide against the pandemic. “W…",
-      "url": "https://guardian.ng/apo-press-releases/sao-tome-and-principe-reaches-the-first-global-target-for-the-vaccination-against-covid-19-by-vaccinating-more-than-10-of-its-population-by-end-of-september-2021/",
-      "urlToImage": "https://www.africa-newsroom.com/files/thumb/1fb49893bc5ef3c/600/418",
-      "publishedAt": "2021-10-04T12:00:00Z",
-      "content": "São Tomé and Príncipe has fully vaccinated 10% of its population against COVID-19, reaching the September global target by the World Health Organization (WHO) aimed at widening and accelerating vacci… [+4022 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Businessworld.in"
-      },
-      "author": null,
-      "title": "Israel Requires COVID-19 Booster Shots For Stricter 'Green Pass' - BW Healthcareworld",
-      "description": "News and Updates for Healthcare in India - , Healthcare Service Providers-Israel was an early adopter of Pfizer/BioNtech booster shots - administering them to members of risk groups in July and by the end of August to anyone above the age of 12. Its campaign …",
-      "url": "http://bwhealthcareworld.businessworld.in/article/Israel-Requires-COVID-19-Booster-Shots-For-Stricter-Green-Pass-/04-10-2021-407184",
-      "urlToImage": "http://static.businessworld.in/article/article_large_image/1625216648_ahbUTG_RT_PCR_Test.jpg",
-      "publishedAt": "2021-10-04T11:58:43Z",
-      "content": "Israel was an early adopter of Pfizer/BioNtech booster shots - administering them to members of risk groups in July and by the end of August to anyone above the age of 12. Its campaign is being watch… [+1222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "In Court, Shah Rukh Khan's Son Aryan Vs Probe Agency Over Drugs Bust - NDTV",
-      "description": "Shah Rukh Khan's son Aryan's longer custody sought by narcotics agency, alleges drugs bust linked to international cartel",
-      "url": "https://www.ndtv.com/india-news/shah-rukh-khans-son-aryans-longer-custody-sought-by-narcotics-agency-alleges-drugs-bust-linked-to-international-cartel-2563331",
-      "urlToImage": "https://c.ndtvimg.com/2021-10/e59utv8g_aryan-khan-taken-to-court-ndtv_625x300_04_October_21.jpg",
-      "publishedAt": "2021-10-04T11:57:00Z",
-      "content": "Mumbai: Aryan Khan, the 23-year-old son of Bollywood actor Shah Rukh Khan, who was arrested in the cruise ship drugs case last evening, has to stay in custody for a longer period, the anti-drugs agen… [+3136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Science X staff",
-      "title": "First European map of the insulating effect of forests - Phys.org",
-      "description": "To cool off in summer, there's nothing better than a walk in the woods. Trees act as a buffer that cools the air beneath their foliage in summer and warms it in winter. This phenomenon is caused not only by the protection that the forest canopy provides, but …",
-      "url": "https://phys.org/news/2021-10-european-insulating-effect-forests.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/first-european-map-of.jpg",
-      "publishedAt": "2021-10-04T11:55:39Z",
-      "content": "To cool off in summer, there's nothing better than a walk in the woods. Trees act as a buffer that cools the air beneath their foliage in summer and warms it in winter. This phenomenon is caused not … [+1956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Science X staff",
-      "title": "Almost one-in-three people globally will still be mainly using polluting cooking fuels in 2030 - Phys.org",
-      "description": "In 2030, almost 1 in 3people around the world will still be mainly using polluting cooking fuels and technologies, a major source of disease and environmental destruction and devastation, new research warned.  This rises to more than 4 in 5 in sub-Saharan Afr…",
-      "url": "https://phys.org/news/2021-10-one-in-three-people-globally-polluting-cooking.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/almost-one-in-three-pe.jpg",
-      "publishedAt": "2021-10-04T11:55:17Z",
-      "content": "In 2030, almost 1 in 3people around the world will still be mainly using polluting cooking fuels and technologies, a major source of disease and environmental destruction and devastation, new researc… [+5654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "P.M. News"
-      },
-      "author": null,
-      "title": "Rapper MI teases new song on 40th birthday - PM News - P.M. News",
-      "description": "Popular Nigerian rapper, Jude Abaga a.k.a MI, is grateful for how far he has come as he turns 40 today, October 4, 2021.",
-      "url": "https://pmnewsnigeria.com/2021/10/04/rapper-mi-teases-new-song-on-40th-birthday/",
-      "urlToImage": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/10/MI-Abaga.jpg",
-      "publishedAt": "2021-10-04T11:54:49Z",
-      "content": "Popular Nigerian rapper, Jude Abaga a.k.a MI, is grateful for how far he has come as he turns 40 today, October 4, 2021.\r\nThe iconic rapper and record producer in a post on his Instagram page noted t… [+1161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Clare.fm"
-      },
-      "author": "Ciara Callanan Ryan, Dreamglade Limited",
-      "title": "Satellite Vaccination Clinic At Limerick Maternity Hospital Extended - Clare FM",
-      "description": "It’s been confirmed that the Satellite COVID-19 Vaccination Clinic at University Maternity Hospital Limerick will remain in place this week. It’s been extended into a third week in response to the high incidence of the virus in the Midwest and the low level o…",
-      "url": "https://www.clare.fm/news/satellite-vaccination-clinic-limerick-maternity-hospital-extended/",
-      "urlToImage": "https://www.clare.fm/wp-content/uploads/sites/17/Ciara-Website-52.jpg",
-      "publishedAt": "2021-10-04T11:53:30Z",
-      "content": "It’s been confirmed that the Satellite COVID-19 Vaccination Clinic at University Maternity Hospital Limerick will remain in place this week.\r\nIt’s been extended into a third week in response to the h… [+462 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Red Bull's Christian Horner questions Mercedes speed gains - BBC News",
-      "description": "Red Bull's Christian Horner expresses his \"surprise\" at gains he says Mercedes have made with their engine performance.",
-      "url": "https://www.bbc.co.uk/sport/formula1/58870237",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/BCAE/production/_121020384_gettyimages-1342688559.jpg",
-      "publishedAt": "2021-10-11T10:24:30Z",
-      "content": "Mercedes driver Valtteri Bottas showed his pace in Istanbul on Sunday\r\nRed Bull team principal Christian Horner has expressed his \"surprise\" at gains he says Mercedes have made with their engine perf… [+3647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky Sports"
-      },
-      "author": "Sky Sports",
-      "title": "Martin Brundle: Lewis Hamilton made mistake by overruling Mercedes in Turkish GP pit-call fiasco - Sky Sports",
-      "description": "Sky Sports F1's Martin Brundle believes Lewis Hamilton made a \"mistake\" for overruling Mercedes at the Turkish GP.",
-      "url": "https://www.skysports.com/f1/news/12433/12431307/martin-brundle-lewis-hamilton-made-mistake-by-overruling-mercedes-in-turkish-gp-pit-call-fiasco",
-      "urlToImage": "https://e1.365dm.com/21/10/1600x900/skysports-lewis-hamilton-f1_5542853.jpg",
-      "publishedAt": "2021-10-11T10:12:58Z",
-      "content": "Please use Chrome browser for a more accessible video player\r\nMartin Brundle believes Lewis Hamilton 'made a mistake' by disagreeing with his Mercedes team over strategy at the Turkish Grand Prix\r\nMa… [+4032 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": null,
-      "title": "‘Disgusting’: Sonny Bill’s candid confession - NEWS.com.au",
-      "description": "<p>Cross-code football superstar Sonny Bill Williams has detailed how his &ldquo;womanising&rdquo; lifestyle left him feeling &ldquo;soulless&rdquo; before converting to Islam in 2009.</p>",
-      "url": "https://www.news.com.au/sport/nrl/the-project-womanising-lifestyle-left-sonny-bill-williams-feeling-soulless/news-story/d6bfe603b9e34dc8eaca580bafe001ba",
-      "urlToImage": "https://content.api.news/v3/images/bin/6fc7c64b26d2b2dc34805668b8a0f34e",
-      "publishedAt": "2021-10-11T09:43:45Z",
-      "content": "Two-time NRL premiership player Sonny Bill Williams has detailed how his womanising lifestyle left him feeling soulless.Cross-code football superstar Sonny Bill Williams has detailed how his “womanis… [+3321 chars]"
-    },
-    {
-      "source": {
-        "id": "news24",
-        "name": "News24"
-      },
-      "author": "Sport24 staff",
-      "title": "More woes for Bok lock Snyman as Munster coach fears 'significant' injury - News24",
-      "description": "Springbok lock RG Snyman is set for another stint on the sidelines after limping off in Munster's 43-13 United Rugby Championship win over the Scarlets in Llanelli.",
-      "url": "https://www.news24.com/sport/rugby/unitedrugbychampionship/more-woes-for-bok-lock-snyman-as-munster-coach-fears-significant-injury-20211011",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10476/7fbdc3dfb8d648c78584b92c65494487.jpg",
-      "publishedAt": "2021-10-11T09:41:36Z",
-      "content": "Springbok lock RG Snyman is set for another stint on the sidelines after limping off in Munster's 43-13 United Rugby Championship win over the Scarlets in Llanelli on Sunday.\r\nThe full extent of the … [+1126 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Telegraph.co.uk"
-      },
-      "author": null,
-      "title": "Andy Murray in a career-first underarm serve on way to victory over Spanish star Carlos Alcaraz - Telegraph.co.uk",
-      "description": "Plus: Despicably snide or impishly clever... how does the underarm serve compare to Mankad in cricket and diving for the line in athletics?",
-      "url": "https://www.telegraph.co.uk/tennis/2021/10/11/andy-murray-deploys-underarm-serve-clinch-game-match-against/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/tennis/2021/10/11/TELEMMGLPICT000274139497_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2021-10-11T09:40:00Z",
-      "content": "Like at the US Open, my body did well today, said Murray, who had pushed world No. 3 Stefanos Tsitsipas all the way in a 4hr 49min barn-burner in New York six weeks ago. \r\nIt was hard conditions. It … [+2459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liverpool Echo"
-      },
-      "author": "Chris Beesley",
-      "title": "Liverpool news and transfers LIVE - Charles De Ketelaere chase, Joao Felix link, Todd Cantwell eyed - Liverpool Echo",
-      "description": "Liverpool transfer news, rumours, gossip and speculation including latest on Philippe Coutinho, Kylian Mbappe, Gavi, Erling Haaland, Jurgen Klopp, Jude Bellingham, Mohamed Salah, Federico Chiesa and more",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-news-transfers-live-ketelaere-21818525",
-      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article21820391.ece/ALTERNATES/s1200/0_GettyImages-1341548387.jpg",
-      "publishedAt": "2021-10-11T09:38:00Z",
-      "content": "Reds urged to seal 'brilliant' Salah deal\r\nMohamed Salah of Liverpool (Image: Jose Manuel Alvarez/Quality Sport Images/Getty Images)\r\nLiverpool should keep Mohamed Salah for another two years on a £3… [+1130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Sports"
-      },
-      "author": "Ben Waterworth",
-      "title": "Young star officially requests trade; 211cm ruck’s future ‘up in the air’: Pies trade whispers - Fox Sports",
-      "description": "Young star officially requests trade; 211cm ruck’s future ‘up in the air’: Pies trade whispers",
-      "url": "https://www.foxsports.com.au/afl/teams/collingwood-magpies/afl-collingwood-trade-news-rumours-whispers-2021-max-lynch-hawthorn-request-mason-cox-nick-daicos-bid/news-story/d9650200b289e14da806445ea494a9cc",
-      "urlToImage": "https://content.api.news/v3/images/bin/c400d3c85c677d12934138b410814745",
-      "publishedAt": "2021-10-11T09:16:00Z",
-      "content": "Collingwood ruckman Max Lynch has told his club he wants to be traded to Hawthorn, but Magpies football boss Graham Wright says there hasnt been much dialogue yet between the clubs.\r\nWright on Monday… [+3329 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Jasper Bruce",
-      "title": "Is Olympic hero faster than a racehorse? - NEWS.com.au",
-      "description": "<p>Rohan Browning won Australia over with his stellar Olympic campaign this year and now he can add another line to his already impressive CV.</p>",
-      "url": "https://www.news.com.au/sport/olympics/aussie-olympic-hero-rohan-browning-races-lost-and-running-ahead-of-the-everest/news-story/a0fc5386ac267151f73e394e14297abc",
-      "urlToImage": "https://content.api.news/v3/images/bin/75404eabf025bf58f6024bdc1014ede8",
-      "publishedAt": "2021-10-11T09:09:44Z",
-      "content": "Australian Olympic sprinter Rohan Browning took on a racehorse ahead of The Everest, which takes place at Randwick this weekend.Rohan Browning won Australia over with his stellar Olympic campaign thi… [+2411 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Shireen Khalil",
-      "title": "Chris Hemsworth’s epic hangover workout - NEWS.com.au",
-      "description": "<p>We&rsquo;ve all been there at some point &ndash; feeling a bit dusty after a night of drinking.</p>",
-      "url": "https://www.news.com.au/lifestyle/fitness/inspiration/chris-hemsworths-epic-hangover-workout/news-story/8a4b6de13018529a5f2447c525b91208",
-      "urlToImage": "https://content.api.news/v3/images/bin/9e4039b5060ac2989512227ab39bc81c",
-      "publishedAt": "2021-10-11T09:03:20Z",
-      "content": "The Thor star showed off his bulging biceps after he engaged in an intense workout following a few too many drinks over the weekend.We’ve all been there at some point – feeling a bit dusty after a ni… [+3242 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "World Cup 2022: Why Scotland will not underestimate improving Faroe Islands - BBC Sport",
-      "description": "As Scotland prepare to take on the Faroe Islands in World Cup qualifying, BBC Scotland explains why the 114th best team in the world will not be underestimated.",
-      "url": "https://www.bbc.co.uk/sport/football/58863401",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D9BD/production/_121014755_gettyimages-1135273083.jpg",
-      "publishedAt": "2021-10-11T08:55:20Z",
-      "content": "Not many Scotland fans who remember the 2-2 draw in Torshavn in 2002 would dare underestimate the Faroe Islands.\r\nThen again, playing a nation with fewer people than Paisley and plenty of part-time p… [+4830 chars]"
-    },
-    {
-      "source": {
-        "id": "talksport",
-        "name": "TalkSport"
-      },
-      "author": "Adam Goodwin",
-      "title": "Tyson Fury ‘raged hard’ until 3am with DJ Steve Aoki, sipping £800 vodka and singing ‘Sweet Caroline’ after... - talkSPORT.com",
-      "description": "",
-      "url": "https://talksport.com/sport/boxing/959939/tyson-fury-party-las-vegas-club-steve-aoki-deontay-wilder-hospital-injury/",
-      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2021/10/talksport-fury-3.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-      "publishedAt": "2021-10-11T08:48:45Z",
-      "content": "There are not many heavyweight champions who, after a gruelling 11 rounds to win the biggest fight of their career, go out and party until 3am with one of the world’s biggest music stars. \r\nBut, then… [+4836 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Paul Merson on gambling addiction: 'I wouldn't wish this on anybody' - BBC Sport",
-      "description": "In a new film coming to BBC One, former England footballer Paul Merson investigates his addiction to gambling.",
-      "url": "https://www.bbc.co.uk/sport/football/58859342",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/0F32/production/_121009830_23225426-high_res-paul-merson-football-gambling-and-me-wt.jpg",
-      "publishedAt": "2021-10-11T08:47:16Z",
-      "content": "Merson talks about addiction to gambling in a new film on BBC One\r\n<table>\r\n<tr><td>Watch 'Paul Merson: Football, Gambling and Me' on BBC One and BBC iPlayer on Monday, 11 October at 21:00 BST</td></… [+8560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "This Is Anfield"
-      },
-      "author": "http://www.facebook.com/JackLusbyTIA",
-      "title": "Alisson & Fabinho make it 2 in 2 for Brazil ahead of Liverpool absence - This Is Anfield",
-      "description": "The pair will miss Liverpool's trip to Watford.",
-      "url": "https://www.thisisanfield.com/?p=255621",
-      "urlToImage": "https://www.thisisanfield.com/wp-content/uploads/P180603-015-Brazil_Croaita.jpg",
-      "publishedAt": "2021-10-11T08:44:26Z",
-      "content": "Alisson and Fabinho both started again for Brazil on Sunday night, with the Liverpool pair busy throughout an international break which will rule them out vs. Watford.\r\nDue to the scheduling of an ex… [+2195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Sports"
-      },
-      "author": "Staff Writers",
-      "title": "Redcliffe Dolphins revealed as ‘preferred candidate’ for 17th NRL team - Fox Sports",
-      "description": "Redcliffe Dolphins revealed as ‘preferred candidate’ for 17th NRL team",
-      "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2021-redcliffe-dolphins-expansion-team-announcement-17th-team-peter-vlandys-firehawks-jets/news-story/fda175f0788ad3a155ba949d7d776202",
-      "urlToImage": "https://content.api.news/v3/images/bin/7c72be3008dfd97d44f7db5bb985e68f",
-      "publishedAt": "2021-10-11T08:44:00Z",
-      "content": "The Redcliffe Dolphins will reportedly be announced as the NRLs 17th team this week.\r\nAccording to aNews Corp report and Triple Ms Ben Dobbin, the Dolphins are the preferred option, beating out the F… [+3519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "Rebecca Lawrence",
-      "title": "Sam Quek pregnant with second child - seven months after welcoming a baby girl - Daily Mail",
-      "description": "The Question of Sport panellist, 33, shared the joyous news with OK! magazine on Monday, admitting the news came as a shock to herself and husband Tom Mairs.",
-      "url": "https://www.dailymail.co.uk/tvshowbiz/article-10079597/Sam-Quek-pregnant-second-child-seven-months-welcoming-baby-girl.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/11/10/49016923-0-image-a-30_1633943420603.jpg",
-      "publishedAt": "2021-10-11T08:39:36Z",
-      "content": "Sam Quek has revealed she's pregnant with her second child, seven months after welcoming a baby girl. \r\nThe Question Of Sport panellist, 33, shared the joyous news with OK! magazine on Monday, admitt… [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GIVEMESPORT"
-      },
-      "author": "Scott Wilson",
-      "title": "Messi, Ronaldo, Zidane, Ronaldinho: Who was the greatest football player of the 2000s? - GIVEMESPORT",
-      "description": "Messi, Ronaldo, Zidane, Ronaldinho: Who was the greatest football player of the 2000s?",
-      "url": "https://www.givemesport.com/1766476-messi-ronaldo-zidane-ronaldinho-who-was-the-greatest-football-player-of-the-2000s",
-      "urlToImage": "https://site-cdn.givemesport.com/images/21/10/11/ec77a94d543a9f38ec4dce70b1871dcc/1200.jpg",
-      "publishedAt": "2021-10-11T08:35:46Z",
-      "content": "The world was introduced to Cristiano Ronaldo and Lionel Messi in the 2000s.\r\nIt was a seriously good decade for football. From the performances of Ronaldinho, Zinedine Zidane and Kaka to the emergen… [+4987 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ben Golliver",
-      "title": "Nets brace for Kyrie Irving to miss regular season games because of NYC vaccine mandate - The Washington Post",
-      "description": "Kyrie Irving's unresolved vaccination status has forced the Brooklyn Nets to prepare for their all-star guard to be sidelined, potentially for more than half the regular season.",
-      "url": "https://www.washingtonpost.com/sports/2021/10/11/nets-kyrie-irving-miss-home-games/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O6TE27GVJVC7HKT4CJUVUDYNFM.jpg&w=1440",
-      "publishedAt": "2021-10-11T08:33:47Z",
-      "content": "I think we recognize that hes not playing home games, said Nash, whose Nets are a leading title favorite. Were going to have to, for sure, play without him this year. So it just depends on when, wher… [+6120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "Max Winters",
-      "title": "Former Liverpool star Gini Wijnaldum admits he's 'not completely happy' at PSG - Daily Mail",
-      "description": "Wijnaldum has not completed 90 minutes in PSG's last six Ligue 1 matches and had to make do with just 12 minutes against Manchester City in the Champions League last month.",
-      "url": "https://www.dailymail.co.uk/sport/football/article-10079487/Former-Liverpool-star-Gini-Wijnaldum-admits-hes-not-completely-happy-PSG.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/11/09/49015121-0-image-a-21_1633939596600.jpg",
-      "publishedAt": "2021-10-11T08:21:37Z",
-      "content": "Gini Wijnaldum has admitted he is 'not completely happy' at Paris Saint-Germain after failing to make his mark on the French giants since leaving Liverpool this summer.\r\nWijnaldum was a critical memb… [+2506 chars]"
     },
     {
       "source": {
@@ -502,25 +21,246 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "\"I CAN'T SEE THAT HAPPENING!\" Gabby Agbonlahor can't see Tyson Fury fighting AJ after Wilder win - talkSPORT",
-      "description": "Gabby Agbonlahor can't see Tyson Fury fighting AJ after Wilder winEnjoyed this video? Check out some of our best stuff! ⚽ The Super Premier League Preview sh...",
-      "url": "https://www.youtube.com/watch?v=7J0ygEejv4c",
-      "urlToImage": "https://i.ytimg.com/vi/7J0ygEejv4c/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T08:09:24Z",
+      "title": "T20 World Cup: Bhajji, Danny and Shoaib's Leaked Video Call | SK Yorked - Sportskeeda India",
+      "description": "Banter, Masti, and lots more only on SK Yorked!We caught Danny Morrison, Harbhajan Singh and Shoaib Akhtar red-handed on a video call together, talking about...",
+      "url": "https://www.youtube.com/watch?v=Iz-qn2l2hGs",
+      "urlToImage": "https://i.ytimg.com/vi/Iz-qn2l2hGs/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T12:29:55Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GIVEMESPORT"
+      },
+      "author": "Kobe Tong",
+      "title": "Messi, Ronaldo, Jorginho: Selecting the 2021 FIFA FIFPro World XI, featuring Man Utd trio - GIVEMESPORT",
+      "description": "Messi, Ronaldo, Jorginho: Selecting the 2021 FIFA FIFPro World XI, featuring Man Utd trio",
+      "url": "https://www.givemesport.com/1770457-messi-ronaldo-jorginho-selecting-the-2021-fifa-fifpro-world-xi-featuring-man-utd-trio",
+      "urlToImage": "https://site-cdn.givemesport.com/images/21/10/18/d5b1230102b467df8d0938af0ca45777/1200.jpg",
+      "publishedAt": "2021-10-18T12:18:04Z",
+      "content": "The Ballon d'Or is leading the charge into football's awards season for 2021.\r\nWith France Football revealing the 30 nominees for the top male prize, football fans are starting to brainstorm who out … [+5635 chars]"
     },
     {
       "source": {
         "id": "news-com-au",
         "name": "News.com.au"
       },
-      "author": "Jasper Bruce",
-      "title": "Raiders poach rival team’s captain - NEWS.com.au",
-      "description": "<p>After weeks of speculation, the Canberra Raiders announced on Monday they had secured the services of Gold Coast Titans co-captain Jamal Fogarty for at least the next three years.</p>",
-      "url": "https://www.news.com.au/sport/nrl/nrl-2021-canberra-raiders-sign-former-titans-cocaptain-jamal-fogarty/news-story/19789775150df1c552a7a61e59bd7f3d",
-      "urlToImage": "https://content.api.news/v3/images/bin/679404fae335bee03a8c6670d2bf1cbf",
-      "publishedAt": "2021-10-11T08:09:14Z",
-      "content": "The Canberra Raiders have snared a rival sides co-captain, who will call the nations capital home for at least the next three seasons.After weeks of speculation, the Canberra Raiders announced on Mon… [+2533 chars]"
+      "author": "Nic Savage",
+      "title": "World in disbelief after World Cup ‘carnage’ - NEWS.com.au",
+      "description": "<p>Irish all-rounder Curtis Campher has become the third cricketer to take a double hat-trick in men&rsquo;s international cricket, achieving the rare feat during Monday&rsquo;s T20 World Cup match against the Netherlands.</p>",
+      "url": "https://www.news.com.au/sport/cricket/carnage-irish-cricketer-curtis-campher-claims-double-hattrick-at-t20-world-cup/news-story/7fbfe2fbcf03259a3afb6e86d5452eea",
+      "urlToImage": "https://content.api.news/v3/images/bin/7ac9ddd28656e42d4bc52f2d1a1e9ba8",
+      "publishedAt": "2021-10-18T12:11:15Z",
+      "content": "This unknown Irish bowler Curtis Campher has stunned the cricket world with a mind-boggling bowling spell at the T20 World Cup.Irish all-rounder Curtis Campher has become the third cricketer to take … [+2593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": "Sporting News",
+      "title": "Cuánto costará el Espai Barça y cómo se pagará - Goal.com",
+      "description": "Newcastle United and Tottenham Hotspur's Premier League clash on Sunday was temporarily suspended following a medical emergency involving a fan just before half-time at St James' Park.",
+      "url": "https://www.sportingnews.com/ca/soccer",
+      "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+      "publishedAt": "2021-10-18T11:59:00Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "TotalEnergies BWF Thomas & Uber Cup Finals 2020 | Top Backhands of the Tournament - BWF TV",
+      "description": "TotalEnergies BWF Thomas & Uber Cup Finals 2020 | Top Backhands of the Tournament#TotalEnergiesBadminton #ThomasUberCups #Aarhus2020Subscribe: http://smartur...",
+      "url": "https://www.youtube.com/watch?v=stdHUYh1ZHs",
+      "urlToImage": "https://i.ytimg.com/vi/stdHUYh1ZHs/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:58:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Mark Ogden",
+      "title": "Pogba and Fernandes' comments piling pressure on under-fire Man United boss Solskjaer - ESPN",
+      "description": "There can be no positive spin for Ole Gunnar Solskjaer after Paul Pogba and Bruno Fernandes publicly called for things to change at Old Trafford.",
+      "url": "https://www.espn.com/soccer/manchester-united-engman_utd/story/4500015/pogba-and-fernandes-comments-piling-pressure-on-under-fire-man-united-boss-solskjaer",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1018%2Fr924646_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-18T11:57:51Z",
+      "content": "It's never a good sign for a manager when his most high-profile players begin to talk openly about a need for improvement, so for Ole Gunnar Solskjaer at Manchester United, there can be no positive s… [+5467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Essentially Sports"
+      },
+      "author": null,
+      "title": "“Gilbert Burns Wants To Fight” – Dana White Explains What’s Happening With Gilbert Burns Right Now - EssentiallySports",
+      "description": "UFC President Dana White in an interview addressed the situation of Gilbert Burns and said that he wants to fight but everyone is booked.",
+      "url": "https://www.essentiallysports.com/ufc-mma-news-gilbert-burns-wants-to-fight-dana-white-explains-whats-happening-with-gilbert-burns-right-now/",
+      "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/GettyImages-1332589443.jpg",
+      "publishedAt": "2021-10-18T11:54:00Z",
+      "content": "Gilbert Burns last fought in the UFC on July 10, 2021, at UFC 264. He fought the #5 ranked welterweight Stephen Thompson and won the fight via unanimous decision.\r\nADVERTISEMENT\r\nArticle continues be… [+2729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Hunter Felt",
+      "title": "Diana Taurasi lost in the WNBA finals but her greatness remains secure - The Guardian",
+      "description": "The Chicago Sky defeated Diana Taurasi’s Phoenix Mercury in the WNBA finals, but that shouldn’t alter her reputation as one of basketball’s all-time greats",
+      "url": "https://amp.theguardian.com/sport/2021/oct/18/diana-taurasi-lost-in-the-wnba-finals-but-her-greatness-is-remains-secure",
+      "urlToImage": null,
+      "publishedAt": "2021-10-18T11:54:00Z",
+      "content": "WNBAThe Chicago Sky defeated Diana Taurasis Phoenix Mercury in the WNBA finals, but that shouldnt alter her reputation as one of basketballs all-time greats\r\nMon 18 Oct 2021 12.56 BST\r\nIt was all set… [+5255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The NEW CAMP NOU (OFFICIAL) - FC Barcelona",
+      "description": "We’re building a dream, the new “Espai Barça”. The best club in the world deserves a stadium that is at the avant-garde of technology with FC Barcelona membe...",
+      "url": "https://www.youtube.com/watch?v=MpjUIFBowIM",
+      "urlToImage": "https://i.ytimg.com/vi/MpjUIFBowIM/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:47:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liverpool Echo"
+      },
+      "author": "Tom Cavilla",
+      "title": "Klopp press conference LIVE - Atletico preview, Fabinho and Alisson update - Liverpool Echo",
+      "description": "Liverpool boss Jurgen Klopp will be addressing the media at 2pm ahead of tomorrow's Champions League clash with Atletico Madrid",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-press-conference-live-klopp-21889273",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article21889219.ece/ALTERNATES/s1200/0_GettyImages-1340261871.jpg",
+      "publishedAt": "2021-10-18T11:37:01Z",
+      "content": "Hello and welcome to our dedicated live blog for Jurgen Klopp's pre-match press conference.\r\n The Liverpool boss will be previewing tomorrow's Champions League meeting with Atletico Madrid from 2pm. … [+684 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "Ireland's Curtis Campher takes four wickets in four balls at T20 World Cup - Times of India",
+      "description": "Cricket News: Ireland fast bowler Curtis Campher claimed 4 wickets in 4 balls to rattle the Netherlands in a first round match of the T20 World Cup. Campher sent ba",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/irelands-curtis-campher-takes-four-wickets-in-four-balls-at-t20-world-cup/articleshow/87108062.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-87108081,width-1070,height-580,imgsize-37498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-10-18T11:35:00Z",
+      "content": "Curtis Campher has four in four Colin Ackermann Ryan ten Doeschate Scott Edwards Roelof van der Mer https://t.co/ONveEHvZQw\r\n— T20 World Cup (@T20WorldCup) 1634554643000"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Giannis & KD Best Plays of the 2020-21 Season - NBA",
+      "description": "The #NBA75 Anniversary Season starts Tuesday on TNT! #KiaTipOff21Subscribe to the NBA: https://on.nba.com/2JX5gSNFull Game Highlights Playlist: https://on.nb...",
+      "url": "https://www.youtube.com/watch?v=qVNS1CNjTHM",
+      "urlToImage": "https://i.ytimg.com/vi/qVNS1CNjTHM/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:30:19Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Football365.com"
+      },
+      "author": "Joe Williams",
+      "title": "Raiola offers Man Utd star to four clubs with one rejection over wages - Football365",
+      "description": "Man Utd have started to offer Paul Pogba out to clubs ahead of the January transfer window, according to reports in Spain.",
+      "url": "https://www.football365.com/news/man-utd-offer-paul-pogba-four-clubs-real-madrid-juventus-barcelona-psg",
+      "urlToImage": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2021/10/18114229/Paul-Pogba-Man-Utd-F365-22.jpg",
+      "publishedAt": "2021-10-18T11:25:07Z",
+      "content": "Mino Raiola has started to offer Man Utd star Paul Pogba out to clubs ahead of the January transfer window, according to reports in Spain.\r\nThe France international’s deal expires at the end of the s… [+1860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "2022 COMMONWEALTH GAMES : Osinbajo receives Queen's baton - TV360 Nigeria",
+      "description": "TV360 is Nigeria's first exclusive online television news channel based in Lagos. Our focus is news. There is no limit to the kind of news we cover. Our goal...",
+      "url": "https://www.youtube.com/watch?v=rmiF2Atu5Tk",
+      "urlToImage": "https://i.ytimg.com/vi/rmiF2Atu5Tk/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:17:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wales Online"
+      },
+      "author": "Philip Dewey",
+      "title": "Live updates as David Henderson pleads guilty to Emiliano Sala flight charge but faces trial on other count - WalesOnline",
+      "description": "David Henderson denies a charge in relation to the aircraft which crashed and killed footballer Emiliano Sala",
+      "url": "https://www.walesonline.co.uk/news/wales-news/live-updates-emiliano-sala-trial-21887929",
+      "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article21889255.ece/ALTERNATES/s1200/0_JS248173718.jpg",
+      "publishedAt": "2021-10-18T11:16:22Z",
+      "content": "A man is set to go on trial over an offence linked to the fatal plane crash that killed Cardiff city striker Emiliano Sala.\r\nThe 28-year-old Argentinian footballer was on a flight from France to Wale… [+1530 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Miguel Delaney",
+      "title": "Newcastle’s grand vision hit by reality of relegation battle with Steve Bruce’s authority eroded - The Independent",
+      "description": "After a damaging defeat to Tottenham, the Magpies face a dilemma over short and long-term goals since the Saudi takeover",
+      "url": "https://www.independent.co.uk/sport/football/newcastle-takeover-relegation-steve-bruce-tottenham-b1940090.html",
+      "urlToImage": "https://static.independent.co.uk/2021/10/18/08/GettyImages-1347131174.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-10-18T11:13:00Z",
+      "content": "During one of the many testing points of Sundays game, new Newcastle United chairman Yasir Al-Rumayyan again reached for his phone. Its going to need to be recharged a lot over the next few weeks. Th… [+4609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Josh Alper",
+      "title": "Mac Jones “learning the hard way” how the NFL works - NBC Sports - NFL",
+      "description": "Patriots quarterback Mac Jones had his ups and downs in Sunday’s overtime loss to the Cowboys and they could be illustrated by a two-play sequence late in the fourth quarter. Jones tried a pass to wide receiver Kendrick Bourne that Cowboys cornerback Trevon D…",
+      "url": "https://profootballtalk.nbcsports.com/2021/10/18/mac-jones-learning-the-hard-way-how-the-nfl-works/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/10/GettyImages-1347133440-e1634555125755.jpg",
+      "publishedAt": "2021-10-18T11:06:00Z",
+      "content": "Patriots quarterback Mac Jones had his ups and downs in Sunday’s overtime loss to the Cowboys and they could be illustrated by a two-play sequence late in the fourth quarter.\r\nJones tried a pass to w… [+1193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Alaina Getzenberg",
+      "title": "How the Buffalo Bills pulled off the greatest comeback in NFL history - ESPN",
+      "description": "It sounds like a movie script: The home team, down 32 points, comes storming back behind the backup QB. Here's how it unfolded.",
+      "url": "https://www.espn.com/nfl/story/_/id/32405466/how-buffalo-bills-pulled-greatest-comeback-nfl-history",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1015%2Fr923310_1212x682_16%2D9.jpg",
+      "publishedAt": "2021-10-18T11:01:48Z",
+      "content": "BUFFALO, N.Y. -- Steve Christie doesn't turn off blowout football games as early as he used to.\r\nEven when some leads seem insurmountable, the former Buffalo Bills kicker will leave the TV on and see… [+15782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "PTI",
+      "title": "Was fortunate to coach and interact with amazingly talented cricketers: R Sridhar - The Indian Express",
+      "description": "Head coach Ravi Shastri, bowling coach Bharath Arun and Sridhar will be leaving at the end of the T20 World Cup.",
+      "url": "https://indianexpress.com/article/sports/cricket/was-fortunate-to-coach-and-interact-with-amazingly-talented-cricketers-r-sridhar-7578063/",
+      "urlToImage": "https://images.indianexpress.com/2021/10/Sridhar.jpg",
+      "publishedAt": "2021-10-18T11:01:44Z",
+      "content": "India’s outgoing fielding coach R Sridhar finds himself extremely fortunate to have coached and interacted with “amazingly talented cricketers” and said that every mistake made was a learning experie… [+1529 chars]"
     }
   ]
 }

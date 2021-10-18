@@ -1,370 +1,175 @@
 {
   "status": "ok",
-  "totalResults": 470,
+  "totalResults": 456,
   "articles": [
     {
       "source": {
         "id": null,
         "name": "The Guardian"
       },
-      "author": "Graeme Wearden",
-      "title": "UK new car sales tumble 34% in worst September since 1998 – business live - The Guardian",
-      "description": "Rolling coverage of the latest economic and financial news",
-      "url": "https://www.theguardian.com/business/live/2021/oct/05/uk-new-car-sales-september-services-companies-economy-stock-markets-shortages-imf-business-live",
-      "urlToImage": "https://i.guim.co.uk/img/media/dea1b46fddca1d27c165d9865709acc60000a3a5/0_118_5987_3593/master/5987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f5ddf70542d9fc84de23747049c98528",
-      "publishedAt": "2021-10-05T08:37:23Z",
+      "author": "Ed Pilkington",
+      "title": "Colin Powell, former US secretary of state, dies at 84 of Covid complications - The Guardian",
+      "description": "Retired four-star general, who served in role under George W Bush, dies from Covid complications",
+      "url": "https://amp.theguardian.com/us-news/2021/oct/18/colin-powell-us-secretary-of-state-dies-covid-84",
+      "urlToImage": "https://i.guim.co.uk/img/media/11a09cf201afbed1af753a064eeb16a0027a8bbe/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4278ef0e215930ab2771d9385d7ebaa",
+      "publishedAt": "2021-10-18T12:33:00Z",
+      "content": "Colin Powell, the former US secretary of state who played a pivotal role in attempting to justify the 2003 invasion of Iraq, has died from complications from Covid-19 aged 84, it was announced on Mon… [+2924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abplive.com"
+      },
+      "author": "ABP News Bureau",
+      "title": "Garena Free Fire Redeem Codes for August 18th October, 2021: How to redeem the codes - ABP Live",
+      "description": "Garena Free Fire Redeem Codes for October 18, 2021: Here is all you need to know about the new active codes for the list of New Garena Free Fire Redeem codes and steps to redeem them.",
+      "url": "https://news.abplive.com/lifestyle/garena-free-fire-redeem-codes-for-august-18th-october-2021-how-to-redeem-the-codes-step-wise-process-1488447",
+      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/10/18/66d9c391c99025c910f6d949820a08e3_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2021-10-18T12:30:35Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Telegraph.co.uk"
+        "name": "Phys.Org"
       },
-      "author": null,
-      "title": "Conservative Party conference latest: Get back to work in the normal way or you'll miss out, says Boris Johnson - Telegraph.co.uk",
-      "description": "Boris Johnson has said workers should get back to the office, stressing it is &quot;essential&quot; for people to learn.",
-      "url": "https://www.telegraph.co.uk/politics/2021/10/05/boris-johnson-conservative-tory-party-conference-live-news/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2021/10/05/TELEMMGLPICT000273588322_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2021-10-05T08:33:15Z",
-      "content": "Higher wages are not going to attract more workers in the UK, the chairman of national trade body British Apples and Pears has claimed.\r\nAli Capper, owner of Stocks Farm in Suckley, Worcestershire, t… [+841 chars]"
+      "author": "Oliver Stoner",
+      "title": "Africa is the key to ending the harmful use of polluting fuels in the home - Phys.org",
+      "description": "In wealthy countries, most people can barely imagine using anything other than electricity or gas to cook in their homes. But billions of people around the world, including the majority of Africans and most of the world's rural population, rely on polluting f…",
+      "url": "https://phys.org/news/2021-10-africa-key-polluting-fuels-home.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/africa-is-the-key-to-e.jpg",
+      "publishedAt": "2021-10-18T12:30:01Z",
+      "content": "In wealthy countries, most people can barely imagine using anything other than electricity or gas to cook in their homes. But billions of people around the world, including the majority of Africans a… [+5633 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "financial-post",
+        "name": "Financial Post"
       },
-      "author": "TIMESOFINDIA.COM",
-      "title": "These easy activities can prevent the progression of dementia, as per study - Times of India",
-      "description": "Dementia is a group of symptoms that can range from memory loss to impaired thinking and problem-solving abilities that usually occurs in old age. Alzheimers is the most common cause of progressive dementia, which according to a recent study can be prevented …",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/these-easy-activities-can-prevent-the-progression-of-dementia-as-per-study/photostory/86776678.cms",
-      "urlToImage": "https://static.toiimg.com/photo/86776709.cms",
-      "publishedAt": "2021-10-05T08:30:00Z",
-      "content": "Surely a person with dementia is not capable of handling all the household chores. However, they can help declutter, meaning they can help remove all non-essential and unnecessary items from overcrow… [+508 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Thomas Kingsley",
-      "title": "London flooding hits roads and causes Tube closures - The Independent",
-      "description": "London flooding hits roads and causes Tube closures",
-      "url": "https://www.independent.co.uk/news/uk/home-news/flooding-rain-tube-closure-london-b1932415.html",
-      "urlToImage": "https://static.independent.co.uk/2021/10/05/07/london%20flooding.PNG?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-10-05T08:19:54Z",
-      "content": "Flooding has hit parts of London following heavy overnight rain resulting in road disruption and Tube closures. \r\nPhotos across parts of Knightsbridge West London show cars moving through heavy rain … [+1068 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Republic World"
-      },
-      "author": "Apoorva Kaul",
-      "title": "European Space Agency's images of galaxy leave netizens amazed; See pics - Republic World",
-      "description": "The European Space Agency has shared pictures of the edge-on galaxy. The images captured by the Hubble telescope have grabbed the attention of users.",
-      "url": "https://www.republicworld.com/technology-news/science/european-space-agencys-images-of-galaxy-leave-netizens-amazed-see-pics.html",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/q6d3eehabjpqnrvb_1633420130.jpeg",
-      "publishedAt": "2021-10-05T08:10:00Z",
-      "content": "The Instagram account of the European Space Agency is filled with pictures of galaxies and space. These pictures shared on the account often leave netizens amazed. In the latest post, ESA has shared … [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Saharareporters.com"
-      },
-      "author": "siteadmin",
-      "title": "Nigeria's Anti-graft Agency, EFCC Arrests Kano State Governor, Ganduje's Wife - SaharaReporters.com",
-      "description": "This was after she ignored an invitation by the EFCC over alleged involvement in the fraud.",
-      "url": "http://saharareporters.com/2021/10/05/nigerias-anti-graft-agency-efcc-arrests-kano-state-governor-gandujes-wife",
-      "urlToImage": null,
-      "publishedAt": "2021-10-05T08:07:55Z",
-      "content": "Hafsat Ganduje, wife of Kano State Governor, Abdullahi Ganduje, has been arrested by the Economic and Financial Crimes Commission (EFCC) over a bribery and land fraud case reported by her son. \r\nThis… [+2158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Ally Foster and Natalie Brown",
-      "title": "Covid 19 Delta outbreak: 24-year-old Australian coronavirus survivor describes 'incredibly frightening' 18-month ordeal - New Zealand Herald",
-      "description": "'You don't have to be on a ventilator to have your life turned upside down.'",
-      "url": "https://www.nzherald.co.nz/lifestyle/covid-19-delta-outbreak-24-year-old-australian-coronavirus-survivor-describes-incredibly-frightening-18-month-ordeal/BXH3WKV7TMGY7R5SC3RTOUEJEY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/rWLbj7E2UgyHO8GyHtOnNFXlAy4=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/FVDY3ZBJSFLPUCC46OFJL47DJ4.png",
-      "publishedAt": "2021-10-05T08:05:42Z",
-      "content": "Covid-19 survivors reveal their experience with the virus. Video / Sky NewsA 24-year-old who contracted Covid-19 in March last year after returning to Melbourne from Boston has spoken of the brutal o… [+3579 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TIMESOFINDIA.COM",
-      "title": "India ready to deal with any two-front threat scenario: IAF chief - Times of India",
-      "description": "India News: NEW DELHI: Indian Air Force chief VR Chaudhari on Tuesday said that India is prepared to deal with any two-front threat scenario, referring to the dan.",
-      "url": "https://timesofindia.indiatimes.com/india/india-ready-to-deal-with-any-two-front-threat-scenario-iaf-chief/articleshow/86776731.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-86777099,width-1070,height-580,imgsize-19706,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2021-10-05T08:05:00Z",
-      "content": "India ready to deal with any two-front threat scenario: IAF chief\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>India ready to deal with any two-front threat scenario: IAF chief</li></ul>"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Imad Khan",
-      "title": "Lenovo Android gaming handheld could take on Switch and Steam Deck - Tom's Guide",
-      "description": "Where's the Lenovo Legion Play?",
-      "url": "https://www.tomsguide.com/news/lenovo-android-gaming-handheld-could-take-on-switch-and-steam-deck",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mtZdaW3kBiA6iVgGGRkhKm-1200-80.jpg",
-      "publishedAt": "2021-10-05T08:00:49Z",
-      "content": "Lenovo already makes gaming phones so powerful that it requires a built-in fan, so the idea of a dedicated Android gaming device isn't so far-fetched.\r\nWell, it looks as if Lenovo has — or did have —… [+2149 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "French priests abused 216,000 victims since 1950 - BBC News",
-      "description": "The number could rise to 300,00 but most abusers are thought to be too old to prosecute under French law.",
-      "url": "https://www.bbc.co.uk/news/world-europe-58801183",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E80/production/_120800061_gettyimages-1191481964.jpg",
-      "publishedAt": "2021-10-05T07:57:16Z",
-      "content": "Image source, Getty Images\r\nImage caption, The figures are \"overwhelming\", said the inquiry head Jean-Marc Sauvé\r\nSome 216,000 children have been victims of abuse by members of the Catholic clergy in… [+1555 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Lexie Cartwright",
-      "title": "Will Smith admits to hating his own movie - NEWS.com.au",
-      "description": "<p>Will Smith has confessed to despising one of his movies.</p>",
-      "url": "https://www.news.com.au/entertainment/movies/will-smith-says-one-of-his-movie-roles-is-a-thorn-in-my-side/news-story/59a494f9baea54d6725d9d98c73fc580",
-      "urlToImage": "https://content.api.news/v3/images/bin/0ec5562f4c7bfe73d001820c822f7e04",
-      "publishedAt": "2021-10-05T07:53:44Z",
-      "content": "US actor Will Smith has revealed he has major regrets over one of his biggest movies, declaring it a thorn in my side.Will Smith has confessed to despising one of his movies.\r\nThe 53-year-old US acto… [+1568 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Businesstech.co.za"
-      },
-      "author": "https://www.facebook.com/BusinessTechSA",
-      "title": "Microsoft Windows 11 is now available - BusinessTech",
-      "description": "As the day becomes October 5 in each time zone around the world, the availability of Windows 11 begins through a free upgrade on eligible Windows 10 PCs and on new PCs pre-installed with Windows 11.",
-      "url": "https://businesstech.co.za/news/software/526450/microsoft-windows-11-is-now-available/",
-      "urlToImage": "https://businesstech.co.za/news/wp-content/uploads/2020/02/Microsoft-e1582102565339.jpg",
-      "publishedAt": "2021-10-05T07:52:30Z",
-      "content": "As the day becomes October 5 in each time zone around the world, the availability of Windows 11 begins through a free upgrade on eligible Windows 10 PCs and on new PCs pre-installed with Windows 11.\r… [+3207 chars]"
+      "author": "Reuters",
+      "title": "Apple expected to unveil new Macs with more powerful chips - Financial Post",
+      "description": "Some analysts believe Apple will also update its AirPods wireless ear buds",
+      "url": "https://financialpost.com/technology/apple-expected-to-unveil-new-macs-with-more-powerful-chips",
+      "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/10/apple1018.jpg",
+      "publishedAt": "2021-10-18T12:22:17Z",
+      "content": "Article content\r\nBloomberg has previously reported that Apple plans to release two new MacBook Pro models with 14-inch and 16-inch screens. The Cupertino, California-based company introduced some new… [+1424 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Saskya Vandoorne, Simon Bouvier and Sam Bradpiece, CNN",
-      "title": "More than 200,000 minors sexually abused by French Catholic clergy, landmark report finds - CNN",
-      "description": "Members of the Catholic clergy sexually abused more than 200,000 minors in France over the last seven decades, a survey carried out as part of an independent probe into abuse within the church estimates, according to the head of the commission that produced t…",
-      "url": "https://www.cnn.com/2021/10/05/europe/france-catholic-church-abuse-report-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211004182631-hands-rosary-beads-church-stock-super-tease.jpg",
-      "publishedAt": "2021-10-05T07:51:00Z",
-      "content": "Paris (CNN)Members of the Catholic clergy in France sexually abused more than 200,000 minors over the last seven decades, a survey carried out as part of a probe into abuse within the Church estimate… [+8636 chars]"
+      "author": "Devan Cole, CNN",
+      "title": "Colin Powell, military leader and first Black US secretary of state, dies after complications from Covid-19 - CNN",
+      "description": "Colin Powell, the first Black US secretary of state whose leadership in several Republican administrations helped shape American foreign policy in the last years of the 20th century and the early years of the 21st, has died from complications from Covid-19, h…",
+      "url": "https://www.cnn.com/2021/10/18/politics/colin-powell-dies/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018070806-01-colin-powell-super-tease.jpg",
+      "publishedAt": "2021-10-18T12:14:00Z",
+      "content": "(CNN)Colin Powell, the first Black US secretary of state whose leadership in several Republican administrations helped shape American foreign policy in the last years of the 20th century and the earl… [+11658 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Darren Allan",
+      "title": "New MacBook Pro models could have M1 Pro and M1 Max chips (not M1X) - TechRadar",
+      "description": "Apple might go a different naming route with the refreshed M1, though we wouldn’t bank on it",
+      "url": "https://www.techradar.com/news/new-macbook-pro-models-could-have-m1-pro-and-m1-max-chips-not-m1x",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5iP9jeJVyYLCq5xQeBfDv5-1200-80.jpg",
+      "publishedAt": "2021-10-18T12:11:29Z",
+      "content": "Apple’s purported new MacBook Pros (theoretically 14-inch and 16-inch models) could arrive later today not toting the M1X chip, but rather they might be built around CPUs with different names: the M1… [+2818 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNA"
+        "name": "P.M. News"
       },
       "author": null,
-      "title": "Taxi driver fined S$8000 for sending 11-year-old girl sexual messages - CNA",
-      "description": null,
-      "url": "https://www.channelnewsasia.com/singapore/taxi-driver-fined-s8000-sending-girl-sexual-messages-2222821",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--MxEmNihD--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/a-man-uses-a-smartphone-in-new-york-city-1.jpg?itok=pe-bzUcB",
-      "publishedAt": "2021-10-05T07:50:20Z",
-      "content": "SINGAPORE: A cab driver who would send female chat application users sexual questions while waiting in the taxi queue was fined S$8,000 on Tuesday (Oct 5) for sending lewd messages to an 11-year-old … [+2817 chars]"
+      "title": "Efe opens up on relationship with BBNaija organisers - P.M. News",
+      "description": "Efe, the winner of Big Brother Naija Season two, has said he has a cordial relationship with organizers of Big Brother Naija.",
+      "url": "https://pmnewsnigeria.com/2021/10/18/efe-opens-up-on-relationship-with-bbnaija-organisers/",
+      "urlToImage": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/10/Efe.jpg",
+      "publishedAt": "2021-10-18T12:10:35Z",
+      "content": "Michael Ejeba alias Efe, the winner of Big Brother Naija Season two, has said he has a cordial relationship with Multichoice Nigeria, organizers of Big Brother Naija.\r\nEfe made this known in a statem… [+1408 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Sun Daily"
+        "name": "Phys.Org"
       },
-      "author": null,
-      "title": "More than RM330 bln of economic stimulus packages utilised — MOF - The Sun Daily",
-      "description": "KUALA LUMPUR: The country’s economy grew to 7.1% in first half of 2021 compared to a contraction of 8.4% in the same period last year, thanks to the e...",
-      "url": "https://www.thesundaily.my/local/more-than-rm330-bln-of-economic-stimulus-packages-utilised-mof-YN8429643",
-      "urlToImage": "https://www.thesundaily.my/binrepository/480x333/0c0/480d250/none/11808/MWRN/tengku-zafrul-bernama5_1931299_20211005141209.jpg",
-      "publishedAt": "2021-10-05T07:46:00Z",
-      "content": "KUALA LUMPUR: The countrys economy grew to 7.1% in first half of 2021 compared to a contraction of 8.4% in the same period last year, thanks to the effectiveness of the governments economic stimulus … [+2801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Windows 11 Now Available for Download in India: How to Get It on Your PC, Top New Features - Gadgets 360",
-      "description": "Windows 11 is now officially available for download in India and around the world. The new Windows operating system will come preloaded on new Windows PCs from manufacturers such as Acer, Asus, Dell, HP, and Lenovo, among others. Existing users are also getti…",
-      "url": "https://gadgets.ndtv.com/laptops/news/windows-11-release-download-iso-features-microsoft-update-changes-details-preload-2564341",
-      "urlToImage": "https://i.gadgets360cdn.com/large/windows_11_image_microsoft_1629357765824.jpg",
-      "publishedAt": "2021-10-05T07:45:26Z",
-      "content": "Windows 11 is now officially available for download in India and around the world. The new Windows operating system has been released as a free upgrade on eligible Windows 10 PCs. It will also come p… [+3529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Insider South Africa"
-      },
-      "author": null,
-      "title": "Major SA solar player reveals new plans for floating panels – wants 5 million units by 2025 - Business Insider South Africa",
-      "description": "Floating solar panels save space and generate more electricity thanks to water’s cooling effect.",
-      "url": "https://www.businessinsider.co.za/floating-solar-panels-in-south-africa-2021-10",
-      "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/11642/464e8b2c8f944e5da4a2b099d63f457a.jpg",
-      "publishedAt": "2021-10-05T07:45:24Z",
-      "content": "<ul><li>The same energy group which developed the massive solar farm near De Aar in the Northern Cape has unveiled a water-based panel.</li><li>Floating solar panels don’t take up as much useable spa… [+3794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IOL"
-      },
-      "author": "Motoring Staff",
-      "title": "Here's what you'll pay for fuel from 6 October 2021 - IOL",
-      "description": "Although fuel prices are expected to rise in the coming months, there is a very small reprieve expected for petrol prices in October.",
-      "url": "https://www.iol.co.za/motoring/industry-news/heres-what-youll-pay-for-fuel-from-6-october-2021-0513dc61-d378-459f-8b74-0a276175684c",
-      "urlToImage": "https://image-prod.iol.co.za/resize/650x366/File-picture-Kim-Kyung-Hoon-Reuters?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9fb76137-9219-5c2d-b892-4fdb77b78a04&operation=CROP&offset=0x0&resize=1168x657",
-      "publishedAt": "2021-10-05T07:41:49Z",
-      "content": "Johannesburg - Rising international oil prices are threatening to send fuel prices surging in the coming months, however there is a small reprieve for petrol in October thanks to a positive currency … [+1072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newshub"
-      },
-      "author": null,
-      "title": "Coronavirus: Destiny Church leader Brian Tamaki reveals he's facing two charges following anti-lockdown protest - Newshub",
-      "description": "\"I am prepared to stand up and be heard when I see injustice and suffering.\"",
-      "url": "https://www.newshub.co.nz/home/new-zealand/2021/10/coronavirus-destiny-church-leader-brian-tamaki-reveals-he-s-facing-two-charges-following-anti-lockdown-protest.html",
-      "urlToImage": "https://www.newshub.co.nz/home/new-zealand/2021/10/coronavirus-destiny-church-leader-brian-tamaki-reveals-he-s-facing-two-charges-following-anti-lockdown-protest/_jcr_content/par/brightcovevideo/image.dynimg.1280.q75.jpg/v1633422448460/brian-tamaki-lockdown-protest-CREDIT-NEWSHUB-021021-1120.jpg",
-      "publishedAt": "2021-10-05T07:41:37Z",
-      "content": "On Tuesday night, Tamaki said he had been visited by two police officers at his home telling him he was to be charged with two offences under the COVID-19 Public Health Response (Alert Level Requirem… [+2024 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Sports"
-      },
-      "author": "Max Laughton",
-      "title": "A ‘lie’ explains Carlton’s poor year. Another big trade period has them set for success - Fox Sports",
-      "description": "A ‘lie’ explains Carlton’s poor year. Another big trade period has them set for success",
-      "url": "https://www.foxsports.com.au/afl/teams/carlton-blues/afl-2021-carlton-playing-finals-in-2022-blues-trade-news-problems-in-2021-adam-cerra-analysis-on-fox-footys-trading-day/news-story/07c13acfa5adf396a9ca69ecfd9f3c33",
-      "urlToImage": "https://content.api.news/v3/images/bin/99c19e26bacced642e7dd05e74bf6c3a",
-      "publishedAt": "2021-10-05T07:39:00Z",
-      "content": "Carlton should be expecting to contend for finals next year with 2021s slight step backwards a lie which disguises their strong list build, according to two Fox Footy analysts.\r\nThe Blues will once a… [+4996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
-      },
-      "author": "Andrew Sparrow",
-      "title": "Boris Johnson criticised for being on holiday as energy crisis leads to warnings factories might close – live - The Guardian",
-      "description": "Prime minister faces calls to return from Marbella as gas prices continue to soar",
-      "url": "https://www.theguardian.com/politics/live/2021/oct/11/boris-johnson-holiday-energy-crisis-politics-live",
-      "urlToImage": "https://i.guim.co.uk/img/media/dd785757bf68b4183354907e8fa185390c63b2a2/0_378_5714_3431/master/5714.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4527e885e8663c027e90a7fe195d2194",
-      "publishedAt": "2021-10-11T10:40:11Z",
-      "content": null
+      "author": "Elizabeth C. Turner",
+      "title": "A new fossil discovery may add hundreds of millions of years to the evolutionary history of animals - Phys.org",
+      "description": "Ever wonder how and when animals swanned onto the evolutionary stage? When, where and why did animals first appear? What were they like?",
+      "url": "https://phys.org/news/2021-10-fossil-discovery-hundreds-millions-years.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/a-new-fossil-discovery.jpg",
+      "publishedAt": "2021-10-18T12:10:04Z",
+      "content": "Ever wonder how and when animals swanned onto the evolutionary stage? When, where and why did animals first appear? What were they like?\r\nLife has existed for much of Earth's 4.5-billion-year history… [+5737 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Rappler"
       },
-      "author": "Bonz Magsambol",
-      "title": "DOH says COVID-19 cases declining, but 3 regions still at 'high risk' - Rappler",
-      "description": "The Philippines remains at the moderate risk classification for COVID-19",
-      "url": "https://www.rappler.com/nation/doh-sees-drop-covid-19-cases-flag-regions-being-high-risk-october-2021",
-      "urlToImage": "https://assets2.rappler.com/2021/08/divisoria-crowd-ylaya-shopping-covid-19-coronavirus-august-24-2021-001-1633943620999.jpg",
-      "publishedAt": "2021-10-11T10:21:00Z",
-      "content": "With Monday's new cases, the country now has 2,674,814 cases of COVID-19. Of these, 98,894 remain active or currently sick."
+      "author": "Rappler.com",
+      "title": "China denies report of hypersonic missile test, says tested space vehicle - Rappler",
+      "description": "'It was not a missile, it was a space vehicle,' says foreign ministry spokesperson Zhao Lijian",
+      "url": "https://www.rappler.com/world/asia-pacific/china-denies-report-hypersonic-missile-test-says-tested-space-vehicle",
+      "urlToImage": "https://assets2.rappler.com/2021/10/Zhao-Lijian-commons-1634558887048.jpg",
+      "publishedAt": "2021-10-18T12:09:00Z",
+      "content": "Quoting five people familiar with the matter, the Financial Times reported on Saturday, October 16, that China had tested a nuclear-capable hypersonic missile that flew through space, circling the gl… [+151 chars]"
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Charles Riley, CNN Business",
-      "title": "Nobel Prize in economics awarded to David Card, Joshua Angrist and Guido Imbens - CNN",
-      "description": "David Card, Joshua Angrist and Guido Imbens have been awarded the 2021 Nobel Prize in economic sciences for contributions to labor economics and analysis of causal relationships, the Royal Swedish Academy of Sciences announced on Monday.",
-      "url": "https://www.cnn.com/2021/10/11/business/nobel-prize-economics-winner-2021-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210930074508-nobel-prize-medal-file-2020-super-tease.jpg",
-      "publishedAt": "2021-10-11T10:21:00Z",
-      "content": null
+      "author": "Adele Ankers",
+      "title": "Meteorite Fell Onto Woman's Bed While She Was Sleeping - IGN SOUTH EAST ASIA",
+      "description": "Something went bump in the night — and the odds of it happening were about 1 in 100 billion.",
+      "url": "https://sea.ign.com/science-1/177820/news/meteorite-fell-onto-womans-bed-while-she-was-sleeping",
+      "urlToImage": "https://sm.ign.com/t/ign_ap/news/m/meteorite-/meteorite-fell-onto-womans-bed-while-she-was-sleeping_t6vd.1200.jpg",
+      "publishedAt": "2021-10-18T12:00:21Z",
+      "content": "A woman in Canada was allegedly woken by a meteorite crashing through her roof and landing on her bed while she was asleep.\r\nAccording to The New York Times, 66-year-old Ruth Hamilton was sound aslee… [+2547 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Amit Shah Meets Ministers Amid Coal Shortage, Power Blackouts Concern - NDTV",
-      "description": "Union Home Minister Amit Shah on Monday met his cabinet colleagues in charge of the coal and power ministries amid concerns of an electricity shortage in many parts of the country because of inadequate supplies of coal.",
-      "url": "https://www.ndtv.com/india-news/amit-shah-meets-coal-and-power-ministers-amid-coal-shortage-and-concerns-over-power-blackouts-2571510",
-      "urlToImage": "https://c.ndtvimg.com/2021-10/pi6jf0bo_coal-generic-reuters_625x300_11_October_21.jpg",
-      "publishedAt": "2021-10-11T10:20:00Z",
-      "content": "The coal ministry has said there is ample stock of coal to meet the demand. (Representational)\r\nNew Delhi: Union Home Minister Amit Shah met his cabinet colleagues in charge of the coal and power min… [+2104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Guardian Nigeria"
+        "id": "cbc-news",
+        "name": "CBC News"
       },
       "author": null,
-      "title": "NAFDAC warns against consumption, distribution of US infant formulas - Guardian",
-      "description": "The National Agency for Food and Drug Administration and Control (NAFDAC) has warned Nigerians to stop consuming and distributing infant",
-      "url": "https://editor.guardian.ng/news/nafdac-warns-against-consumption-distribution-of-us-infant-formulas/",
-      "urlToImage": "https://guardian.ng/wp-content/uploads/2021/07/NAFDAC.jpg",
-      "publishedAt": "2021-10-11T10:18:00Z",
-      "content": "The National Agency for Food and Drug Administration and Control (NAFDAC) has warned Nigerians to stop consuming and distributing infant formulas manufactured by Able Groupe, a US based company.\r\nThe… [+2707 chars]"
+      "title": "This woman was diagnosed with ADHD in her 50s. She says it shouldn't have taken so long - CBC.ca",
+      "description": "With October being ADHD Awareness Month, patients and doctors in B.C. are highlighting the stigma associated with the disorder and the difficulty accessing support.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/adhd-awareness-month-bc-1.6214539",
+      "urlToImage": "https://i.cbc.ca/1.6214547.1634508202!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/roberta-mcdonald.jpg",
+      "publishedAt": "2021-10-18T12:00:00Z",
+      "content": "Robbie McDonald wasn't diagnosed with ADHD until she was in her 50s, but says she had always suspected she had the disorder, after years of difficulty with her career and escalating issues relating t… [+3710 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "Vanguard"
       },
       "author": null,
-      "title": "After Drug Haul, Adani Ports Says No to Cargo From Iran, Pak, Afghanistan - NDTV",
-      "description": "Adani Ports says its terminals won't handle cargo from Iran, Pakistan, Afghanistan from November 15 after Mundra drug haul",
-      "url": "https://www.ndtv.com/india-news/adani-ports-says-its-terminals-wont-handle-cargo-from-iran-pakistan-afghanistan-from-november-15-after-mundra-drug-haul-2571597",
-      "urlToImage": "https://c.ndtvimg.com/2021-10/fac274dg_adani-ports_650x400_11_October_21.jpg",
-      "publishedAt": "2021-10-11T10:17:00Z",
-      "content": "New Delhi: The Adani Ports said today that the terminals it runs will not handle cargo from Iran, Afghanistan and Pakistan starting November 15. The move came after a huge drugs haul in Gujarat.  \"Wi… [+1750 chars]"
+      "title": "REDTV, PASUMA, Jumoke Odetola, Lateef Adedimeji, others for HAPAwards 2021 - Vanguard",
+      "description": "Africa's Lifestyle and Entertainment channel – REDTV alongside Fuji Maestro, Wasiu Alabi Pasuma, Nollywood celebrities like Jumoke Odetola, Lateef Adedimeji, Etinosa Idemudia and Ayoola Ayoola have been nominated for the 5th edition of Hollywood and African p…",
+      "url": "https://www.vanguardngr.com/2021/10/redtv-pasuma-jumoke-odetola-lateef-adedimeji-others-for-hapawards-2021/",
+      "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2021/10/hapawrds.jpg",
+      "publishedAt": "2021-10-18T11:58:35Z",
+      "content": "Africa’s Lifestyle and Entertainment channel REDTV alongside Fuji Maestro, Wasiu Alabi Pasuma, Nollywood celebrities like Jumoke Odetola, Lateef Adedimeji, Etinosa Idemudia and Ayoola Ayoola have bee… [+2572 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sky Sports"
+        "name": "Deccan Herald"
       },
-      "author": "Sky Sports",
-      "title": "Martin Brundle: Lewis Hamilton made mistake by overruling Mercedes in Turkish GP pit-call fiasco - Sky Sports",
-      "description": "Sky Sports F1's Martin Brundle believes Lewis Hamilton made a \"mistake\" for overruling Mercedes at the Turkish GP.",
-      "url": "https://www.skysports.com/f1/news/12433/12431307/martin-brundle-lewis-hamilton-made-mistake-by-overruling-mercedes-in-turkish-gp-pit-call-fiasco",
-      "urlToImage": "https://e1.365dm.com/21/10/1600x900/skysports-lewis-hamilton-f1_5542853.jpg",
-      "publishedAt": "2021-10-11T10:12:58Z",
-      "content": "Please use Chrome browser for a more accessible video player\r\nMartin Brundle believes Lewis Hamilton 'made a mistake' by disagreeing with his Mercedes team over strategy at the Turkish Grand Prix\r\nMa… [+4032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Berkeley Lovelace Jr.",
-      "title": "Merck asks FDA to authorize antiviral Covid pill for emergency use - CNBC",
-      "description": "The Covid-19 treatment – known as molnupiravir – could be available to Americans by late this year.",
-      "url": "https://www.cnbc.com/2021/10/11/covid-pill-merck-asks-fda-to-authorize-antiviral-for-emergency-use.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106848512-1614787765983-merck.jpg?v=1614787788",
-      "publishedAt": "2021-10-11T10:05:30Z",
-      "content": "Merck said Monday it asked the Food and Drug Administration to authorize emergency use of its experimental antiviral pill to treat mild-to-moderate Covid-19 in adults.\r\nThe U.S. drugmaker's request c… [+2184 chars]"
+      "author": "Mrityunjay Bose",
+      "title": "Doctors suggest getting flu shots despite side effects - Deccan Herald",
+      "description": "Taking a flu shot is the need of the hour as it reduces one’s chances of getting sick from flu, the serious complications caused due to it, reduces chances of Covid-19, hospitalisation, and mortality rates.  Anyone above six months can get a flu shot every ye…",
+      "url": "https://www.deccanherald.com/national/doctors-suggest-getting-flu-shots-despite-side-effects-1041751.html",
+      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/10/18/vaccine-istock-1036043-1633041527-1041751-1634557359.jpg",
+      "publishedAt": "2021-10-18T11:42:39Z",
+      "content": "Taking a flu shot is the need of the hour as it reduces ones chances of getting sick from flu, the serious complications caused due to it, reduces chances of Covid-19, hospitalisation, and mortality … [+2067 chars]"
     },
     {
       "source": {
@@ -372,155 +177,90 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "Ford Mustang Mach-E GT First impressions - Engadget",
-      "description": "Get More Engadget: • Like us on Facebook: http://www.facebook.com/engadget• Follow us on Twitter: http://www.twitter.com/engadget• Follow us on Instagram: ht...",
-      "url": "https://www.youtube.com/watch?v=xbSjI4NCkS8",
-      "urlToImage": "https://i.ytimg.com/vi/xbSjI4NCkS8/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T10:00:22Z",
+      "title": "VERIFY: Antibody testing is not recommended to check immunity getting the Covid vaccine - 11Alive",
+      "description": "Some people are turning to the Verify team asking whether they can check their immunity via an antibody test before getting a booster dose of the vaccine.",
+      "url": "https://www.youtube.com/watch?v=XaMWuRYPcfc",
+      "urlToImage": "https://i.ytimg.com/vi/XaMWuRYPcfc/maxresdefault.jpg",
+      "publishedAt": "2021-10-18T11:41:48Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "InsideEVs "
+        "name": "Independent.ie"
       },
-      "author": null,
-      "title": "2021 Ford Mustang Mach-E GT First Drive: More Smiles Per Mile - InsideEVs ",
-      "description": "We drive the 2021 Ford Mustang Mach-E GT and GT Performance to see if these new high-performance versions of the Mach-E live up to their billing.",
-      "url": "https://insideevs.com/reviews/539744/ford-mustang-mache-gt-review/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/02nPW/s1/mustang-mach-e-gt-first-drive-thumbnail.jpg",
-      "publishedAt": "2021-10-11T10:00:00Z",
-      "content": "We were amongst the first to get behind the wheel of the 2021 Mustang Mach GT and GT Performance for Ford's first-drive event last week in San Francisco and came away with a feeling that we've only s… [+11517 chars]"
+      "author": "Gabija Gataveckaite",
+      "title": "Next 24 hours pivotal as ministers prepare to make decisions on October 22 lifting of restrictions - Independent.ie",
+      "description": "THE next 24 hours will be crucial as ministers make their final decisions on what restrictions will be lifted this Friday.",
+      "url": "https://www.independent.ie/news/next-24-hours-pivotal-as-ministers-prepare-to-make-decisions-on-october-22-lifting-of-restrictions-40959378.html",
+      "urlToImage": "https://www.independent.ie/news/09e3a/40959377.ece/AUTOCROP/w1240h700/CC%20TAOISEACH%20AT%20CITYWEST",
+      "publishedAt": "2021-10-18T11:40:00Z",
+      "content": "THE next 24 hours will be crucial as ministers make their final decisions on what restrictions will be lifted this Friday.\r\nThe National Public Health Emergency Team (Nphet) will meet this afternoon … [+3267 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "The Guardian"
       },
-      "author": "Ravi Krishnan Khajuria",
-      "title": "Indian Army’s JCO, 4 soldiers killed in encounter with terrorists in Jammu - Hindustan Times",
-      "description": "The operation was launched following intelligence inputs about the presence of terrorists in Chamrer forests located near Mughal Road in Surankote sub division of Poonch district in Jammu | Latest News India",
-      "url": "https://www.hindustantimes.com/india-news/indian-army-s-jco-4-soldiers-killed-in-encounter-with-terrorists-in-jammu-101633940473121.html",
-      "urlToImage": "https://images.hindustantimes.com/img/2021/10/11/1600x900/6a846348-2a6b-11ec-a8a7-28039111faee_1633945984391.jpg",
-      "publishedAt": "2021-10-11T09:53:08Z",
-      "content": "A junior commissioned officer (JCO) was among five soldiers killed in an exchange of fire with heavily armed terrorists in a forested area at Surankote in Jammu and Kashmir (J&amp;K)s Poonch district… [+1780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Entertainment Desk",
-      "title": "National Award-winning actor Nedumudi Venu passes away - The Indian Express",
-      "description": "Nedumudi Venu had been in a critical condition for some time due to liver-related ailments.",
-      "url": "https://indianexpress.com/article/entertainment/malayalam/national-award-winning-actor-nedumudi-venu-passes-away-7565462/",
-      "urlToImage": "https://images.indianexpress.com/2021/10/venu1200.jpg",
-      "publishedAt": "2021-10-11T09:50:58Z",
-      "content": "National Award-winning actor Nedumudi Venu died at the age of 73 at a private hospital in Thiruvananthapuram on Monday. He had been in a critical condition for some time due to liver-related ailments… [+1896 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thecable.ng"
-      },
-      "author": "by  Olufemi Atoyebi",
-      "title": "Kunle Afolayan, MasterCard to train 300,000 youths in film production - TheCable",
-      "description": "Kunle Afolayan, chief executive officer of KAP Film and Television Academy, says 300,000 young Nigerians will be trained in film, television, and motion picture production over the next three years",
-      "url": "https://www.thecable.ng/kunle-afolayan-mastercard-to-train-300000-youths-in-film-production",
-      "urlToImage": "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2021/10/Kunle-Afolayan.jpg",
-      "publishedAt": "2021-10-11T09:48:00Z",
-      "content": "Kunle Afolayan, chief executive officer of KAP Film and Television Academy, says 300,000 young Nigerians will be trained in film, television, and motion picture production over the next three years a… [+2330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theinformant.co.nz"
-      },
-      "author": "Daniel Jacobs",
-      "title": "New evidence points to the existence of a ninth planet in the solar system - theinformant.co.nz",
-      "description": "The ninth planet. They are being chased from all sides. However it has not been",
-      "url": "https://theinformant.co.nz/new-evidence-points-to-the-existence-of-a-ninth-planet-in-the-solar-system/",
+      "author": "Aamna Mohdin, Tobi Thomas",
+      "title": "Youth homelessness has risen 40% in five years, says UK charity - The Guardian",
+      "description": "Centrepoint estimates 121,000 homeless or at risk, with analysis showing black people disproportionally affected",
+      "url": "https://amp.theguardian.com/society/2021/oct/18/youth-homelessness-up-40-per-cent-in-five-years-says-uk-charity-centrepoint",
       "urlToImage": null,
-      "publishedAt": "2021-10-11T09:45:23Z",
-      "content": "The ninth planet. They are being chased from all sides. However it has not been noticed yet. So, does it really exist? Two teams of researchers are now taking a fresh look at it. Who will finally be … [+2524 chars]"
+      "publishedAt": "2021-10-18T11:39:00Z",
+      "content": "HomelessnessCentrepoint estimates 121,000 homeless or at risk, with analysis showing black people disproportionally affected\r\nYouth homeless in the UK has increased by an estimated two-fifths in five… [+4266 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Daily Post Nigeria"
+        "id": "news24",
+        "name": "News24"
       },
-      "author": "Fikayo Olowolagba",
-      "title": "My relationship with Ike disastrous – Ex-BBNaija star, Mercy Eke - Daily Post Nigeria",
-      "description": "Big Brother Naija, BBNaija Season 4 winner, Mercy Eke has made a revelation about her last relationship with Ike. Recall that Ike and Mercy met during Season 4 of BBNaija in 2019. However, sometime last year the relationship crashed. Mercy, in a recent viral …",
-      "url": "https://dailypost.ng/2021/10/11/my-relationship-with-ike-disastrous-ex-bbnaija-star-mercy-eke/",
-      "urlToImage": "https://dailypost.ng/wp-content/uploads/2021/01/nzE8lDMP.jpeg",
-      "publishedAt": "2021-10-11T09:40:38Z",
-      "content": "Big Brother Naija, BBNaija Season 4 winner, Mercy Eke has made a revelation about her last relationship with Ike.\r\nRecall that Ike and Mercy met during Season 4 of BBNaija in 2019.\r\nHowever, sometime… [+605 chars]"
+      "author": "Juniour Khumalo",
+      "title": "Mangaung Metro instructed to dissolve ill-advised Metro Police service and discipline all involved - News24",
+      "description": "National Treasury has given an order for the Mangaung Metro Police Service to be dissolved and for disciplinary procedures to be instituted against 'everyone involved in this process of constituting the metro police service, including members of the mayoral c…",
+      "url": "https://www.news24.com/news24/southafrica/news/mangaung-metro-instructed-to-dissolve-ill-advised-metro-police-service-and-discipline-all-involved-20211018",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8686/696c8c7c62d94c80a95262f41a30e8ce.jpg",
+      "publishedAt": "2021-10-18T11:35:46Z",
+      "content": "<ul><li>National Treasury has ordered that the process used to create the Mangaung Metro Police Service should be abandoned.</li><li>It says this is because the metro can barely handle its finances a… [+7157 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AFP",
+      "title": "Ireland's Curtis Campher takes four wickets in four balls at T20 World Cup - Times of India",
+      "description": "Cricket News: Ireland fast bowler Curtis Campher claimed 4 wickets in 4 balls to rattle the Netherlands in a first round match of the T20 World Cup. Campher sent ba",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/irelands-curtis-campher-takes-four-wickets-in-four-balls-at-t20-world-cup/articleshow/87108062.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-87108081,width-1070,height-580,imgsize-37498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-10-18T11:35:00Z",
+      "content": "Curtis Campher has four in four Colin Ackermann Ryan ten Doeschate Scott Edwards Roelof van der Mer https://t.co/ONveEHvZQw\r\n— T20 World Cup (@T20WorldCup) 1634554643000"
     },
     {
       "source": {
         "id": null,
-        "name": "Telegraph.co.uk"
+        "name": "News-Medical.Net"
       },
       "author": null,
-      "title": "Andy Murray in a career-first underarm serve on way to victory over Spanish star Carlos Alcaraz - Telegraph.co.uk",
-      "description": "Plus: Despicably snide or impishly clever... how does the underarm serve compare to Mankad in cricket and diving for the line in athletics?",
-      "url": "https://www.telegraph.co.uk/tennis/2021/10/11/andy-murray-deploys-underarm-serve-clinch-game-match-against/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/tennis/2021/10/11/TELEMMGLPICT000274139497_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2021-10-11T09:40:00Z",
-      "content": "Like at the US Open, my body did well today, said Murray, who had pushed world No. 3 Stefanos Tsitsipas all the way in a 4hr 49min barn-burner in New York six weeks ago. \r\nIt was hard conditions. It … [+2459 chars]"
+      "title": "Study assesses T-cell responses directed against highly conserved regions of SARS-CoV-2 - News-Medical.Net",
+      "description": "The study aimed to assess whether highly conserved regions within coronaviruses harbor CD8+ T-cell epitopes, capable of being cross-recognized between different coronaviruses.",
+      "url": "https://www.news-medical.net/news/20211018/Study-assesses-T-cell-responses-directed-against-highly-conserved-regions-of-SARS-CoV-2.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/10/shutterstock_1640566693.jpg",
+      "publishedAt": "2021-10-18T11:34:00Z",
+      "content": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) belongs to the beta-coronavirus family, which is one among the four most common human coronaviruses, beta coronaviruses human coronavirus … [+5521 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "Irish Examiner"
       },
-      "author": "Posted by Arun Nair",
-      "title": "Maharashtra Bandh Live Updates: Bus Services Affected, Local Trains Running - NDTV",
-      "description": "Shops will remain shut across Maharashtra today as the state government has called a bandh to protest against the killing of farmers in Lakhimpur Kheri in Uttar Pradesh.",
-      "url": "https://www.ndtv.com/india-news/maharashtra-bandh-live-updates-several-trade-groups-extend-support-bjp-warns-state-government-not-to-shut-shops-forcefully-2571070",
-      "urlToImage": "https://c.ndtvimg.com/2021-10/r2sqeplo_best-employeesmaharashtra-bandhoctober-11_625x300_11_October_21.jpg",
-      "publishedAt": "2021-10-11T09:37:59Z",
-      "content": "Maharashtra Bandh Updates: BEST said eight of its buses were vandalised in different areas of Mumbai.\r\nBus services were affected across Maharashtra and most of the shops and commercial establishment… [+6283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IOL"
-      },
-      "author": "Jolene Marriah-Maharaj",
-      "title": "Driver charged with culpable homicide after two joggers killed in Tongaat - IOL",
-      "description": "KwaZulu Natal police said a 29-year-old man is due in court following the death of two joggers in Tongaat on Saturday morning.",
-      "url": "https://www.iol.co.za/news/driver-charged-with-culpable-homicide-after-two-joggers-killed-in-tongaat-14d1db38-aac3-4d92-9d61-213e07a031bc",
-      "urlToImage": "https://image-prod.iol.co.za/resize/650x366/The-driver-of-the-car-is-alleged-to-have-knocked-down-two-joggers-and-then-fled-the-scene-crashing-into-a-minibus-taxi-Picture-IPSS-Medical-Rescue?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9ca4d5db-7dd3-5dc3-ad7e-730c53411d0a&operation=CROP&offset=65x0&resize=910x512",
-      "publishedAt": "2021-10-11T09:33:11Z",
-      "content": "Durban: KwaZulu Natal police said a 29-year-old man is due in court following the death of two joggers in Tongaat on Saturday morning. \r\nAccording to KZN police spokesperson Captain Nqobile Gwala, it… [+904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "Rachael Bunyan",
-      "title": "Earthquake of magnitude 6.5 strikes Alaska Peninsula two months after largest US quake in 50 years - Daily Mail",
-      "description": "An earthquake with a magnitude of 6.5 stuck off the coast of Alaska, 71 miles east of the city of Chignik. An 8.2 earthquake struck two months ago near Perryville, 38 miles away.",
-      "url": "https://www.dailymail.co.uk/news/article-10079729/Earthquake-magnitude-6-5-strikes-Alaska-Peninsula.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/11/11/49018593-0-image-a-33_1633947053649.jpg",
-      "publishedAt": "2021-10-11T09:32:39Z",
-      "content": "An earthquake with a preliminary magnitude 6.5 struck early Monday off the coast of Alaska.  \r\nThe epicenter was about 71 miles (114 kilometers) east of the city of Chignik, the U.S. Geological Surve… [+5703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MyBroadband"
-      },
-      "author": "https://www.facebook.com/mybroadband",
-      "title": "New online car licence disc renewal portal launched - MyBroadband",
-      "description": "South African motorists can now register, renew, and pay for their licence discs on the Natis website and have them delivered to their preferred address.",
-      "url": "https://mybroadband.co.za/news/motoring/417766-new-online-drivers-licence-disc-renewal-portal-launched.html",
-      "urlToImage": "https://mybroadband.co.za/news/wp-content/uploads/2020/06/Car-vehicle-licence-disc-Western-Cape-government-Jennifer-Solomons-places-sticker-on-windscreen-e1630914653617.jpg",
-      "publishedAt": "2021-10-11T09:31:35Z",
-      "content": "The Road Traffic Management Corporation (RTMC) has launched an online payment gateway allowing South African motorists to register, renew, and pay for their licence discs online.\r\nThe new option is a… [+2229 chars]"
+      "author": "Naomi Clarke, PA Entertainment Reporter",
+      "title": "Penny Lancaster feared she would lose sex appeal due to menopause - Irish Examiner",
+      "description": "",
+      "url": "https://www.irishexaminer.com/lifestyle/people/arid-40723749.html",
+      "urlToImage": "https://www.irishexaminer.com/cms_media/module_img/5400/2700297_6_seoimage16x9_2.34623766.jpg.jpg",
+      "publishedAt": "2021-10-18T11:30:00Z",
+      "content": "TV presenter Penny Lancaster has said she thought she would lose her sex appeal due to menopause.The Loose Women star and model, 50, who is married to Rod Stewart, spoke about her experiences of meno… [+1985 chars]"
     }
   ]
 }

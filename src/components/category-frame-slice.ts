@@ -1,20 +1,21 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { Article } from "../data-interfaces";
 import { ArticlesPayload } from "../payload-interfaces";
-import hash from "object-hash";
 import Category from "../category-enums";
 import { RootState } from "../store";
+import { crc32 } from "crc";
 
 export const categoryFrameSlice = createSlice({
   name: "articlesByCategory",
   initialState: {
     articles: [] as Article[],
+    idList: [] as string[],
     page: 1,
   },
   reducers: {
     updateArticles: (state, action: PayloadAction<ArticlesPayload[]>) => {
       // Map array of articles from payload and generate an ID for each of them
-      const dataWithID = action.payload.flatMap((element) => {
+      const dataWithID: Article[] = action.payload.flatMap((element) => {
         const name =
           element.article.title === null ? "" : element.article.title;
         const date =
@@ -25,49 +26,62 @@ export const categoryFrameSlice = createSlice({
         const { title, publishedAt, url, ...rest } = element.article;
         const mappedArticle = {
           category: element.category,
-          id: hash.sha1(element),
+          id: crc32(Object.values({ ...rest }).toString()).toString(16),
           publishedAt: date,
           title: name,
           url: link,
           ...rest,
         };
-        // Check if the mapped article already exists in the state and omit it if so
-        for (const element of state.articles) {
-          if (
-            element.title === mappedArticle.title &&
-            element.url === mappedArticle.url &&
-            element.author === mappedArticle.author
-          ) {
-            if (element.category === Category.General) {
-              state.articles.splice(state.articles.indexOf(element), 1);
-              return [mappedArticle];
-            }
+        const articlesInState = state.articles;
+        // Ovo ne valja zato sta article jos ne postoji u storeu pa brises nesto sta ne postoji (index=-1)
+        // Napravi if indexOf = -1 koji handlea taj slucaj i ez
+        if (state.idList.includes(mappedArticle.id)) {
+          console.log(`conflict found id: ${mappedArticle.id}`);
+          if (mappedArticle.category !== Category.General) {
+            console.log(
+              `splice id: ${
+                mappedArticle.id
+              } at index ${articlesInState.findIndex(
+                (element) => element.id === mappedArticle.id
+              )}`
+            );
+            state.articles.splice(
+              articlesInState.findIndex(
+                (element) => element.id === mappedArticle.id
+              ),
+              1
+            );
+            return [mappedArticle];
+          } else {
             return [];
-          } else return [mappedArticle];
+          }
+        } else {
+          state.idList.push(mappedArticle.id);
+          return [mappedArticle];
         }
-        return [mappedArticle];
       });
 
-      // Sort the articles chronologically whenever a new set is added
-      const unsortedArticles = [...state.articles, ...dataWithID];
-      const sortedArticles = unsortedArticles.sort((o1, o2) => {
-        if (o1.publishedAt !== null && o2.publishedAt !== null) {
-          const date1 = +new Date(o1.publishedAt);
-          const date2 = +new Date(o2.publishedAt);
-          return date2 - date1;
+      const sortedArticles = [...state.articles, ...dataWithID].sort(
+        (o1, o2) => {
+          if (o1.publishedAt !== null && o2.publishedAt !== null) {
+            const date1 = +new Date(o1.publishedAt);
+            const date2 = +new Date(o2.publishedAt);
+            return date2 - date1;
+          }
+          return -1;
         }
-        return -1;
-      });
+      );
 
       state.articles = sortedArticles;
-      state.page = Math.floor(state.articles.length / 20 / 6);
+
+      state.page = state.page + action.payload.length / 20;
     },
   },
 });
 
 // Selectors
 export const selectPage = (state: RootState): number => {
-  return state.categoryFrameArticles.page;
+  return Math.floor(state.categoryFrameArticles.page / 6);
 };
 
 export const selectArticlesByCategory = (
@@ -87,19 +101,21 @@ export const selectArticlesByID = (
   state: RootState,
   idFilter: string[]
 ): Article[] => {
-  return state.categoryFrameArticles.articles.filter((element) => {
-    return idFilter.find((id) => {
-      if (element.id === id) {
-        return true;
-      } else {
-        return false;
-      }
-    });
+  const articlesToReturn = idFilter.flatMap((id) => {
+    const article = state.categoryFrameArticles.articles.find(
+      (element) => element.id === id
+    );
+    if (typeof article === "undefined") {
+      return [] as Article[];
+    } else {
+      return [article];
+    }
   });
+  return articlesToReturn;
 };
 
 export const selectAllArticles = (state: RootState): Article[] => {
-  return state.categoryFrameArticles.articles;
+  return Array.from(state.categoryFrameArticles.articles.values());
 };
 
 // Action creators are generated for each case reducer function
