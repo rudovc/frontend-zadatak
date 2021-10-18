@@ -6,6 +6,8 @@ import {
   selectArticlesByCategory,
 } from "./components/category-frame-slice";
 import { selectActiveCategoryName } from "./components/category-frame/category-tabs-slice";
+import { isMobileOnly } from "react-device-detect";
+import styles from "./app.module.scss";
 
 function App(): JSX.Element {
   // Get active category tab from store
@@ -17,13 +19,23 @@ function App(): JSX.Element {
     }),
     inSidebar: useAppSelector(selectAllArticles),
   };
-
-  return (
-    <Homepage
-      categoryArticles={articles.byCategory}
-      sidebarArticles={articles.inSidebar}
-    />
-  );
+  if (isMobileOnly) {
+    return (
+      <Homepage
+        className={styles.homepagemobile}
+        categoryArticles={articles.byCategory}
+        sidebarArticles={articles.inSidebar}
+      />
+    );
+  } else {
+    return (
+      <Homepage
+        className={styles.homepagedesktop}
+        categoryArticles={articles.byCategory}
+        sidebarArticles={articles.inSidebar}
+      />
+    );
+  }
 }
 
 export default App;

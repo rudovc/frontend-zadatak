@@ -12,8 +12,10 @@
   width: 100%;
   display: grid;
   gap: 1rem;
+  grid-template-rows: repeat(16, 1fr);
   @media (min-width: 500px) {
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(8, 1fr);
   }
 }
 
@@ -23,20 +25,18 @@
   padding-right: 1em;
   padding-top: 0.2em;
   border-radius: 10px;
-  height: calc(100vh - 100px);
+  height: calc(100vh);
   grid-column-start: 3;
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 3;
-  @media (max-width: 500px) {
-  }
 }
 
 .framelayout {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 1rem;
+  gap: 1.5rem;
   margin-left: 2%;
   margin-right: 2%;
 }

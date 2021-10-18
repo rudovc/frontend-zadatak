@@ -1,7 +1,6 @@
 import { CategoryTabs } from "./category-frame/CategoryTabs";
 import { ArticleGrid } from "./category-frame/ArticleGrid";
 import { useState, useCallback } from "react";
-import Stack from "@mui/material/Stack";
 import Pagination from "@mui/material/Pagination";
 import styles from "./categoryframe.module.scss";
 import { IProps } from "./component-interfaces";
@@ -47,42 +46,36 @@ export const CategoryFrame = (props: Articles & IProps): JSX.Element => {
   if (isMobileOnly) {
     return (
       <div className={props.className}>
-        <Stack direction="row" spacing={1}>
-          <Stack spacing={1} className={styles.articlegridcontainermobile}>
-            <ArticleGrid
-              articles={allArticles.slice(articleRange.start, articleRange.end)}
-              nameFilter={props.nameFilter}
-            />
-            <Pagination
-              className={styles.pagination}
-              page={currentPage}
-              count={paginationCount}
-              siblingCount={0}
-              onChange={handleChange}
-            />
-          </Stack>
-        </Stack>
+        <ArticleGrid
+          articles={allArticles.slice(articleRange.start, articleRange.end)}
+          nameFilter={props.nameFilter}
+        />
+        <Pagination
+          className={styles.pagination}
+          page={currentPage}
+          count={paginationCount}
+          siblingCount={0}
+          onChange={handleChange}
+        />
       </div>
     );
   } else {
     return (
       <div className={props.className}>
-        <Stack direction="row" spacing={1}>
-          <CategoryTabs className={styles.categorytabs} />
-          <Stack spacing={1} className={styles.articlegridcontainer}>
-            <ArticleGrid
-              articles={allArticles.slice(articleRange.start, articleRange.end)}
-              nameFilter={props.nameFilter}
-            />
-            <Pagination
-              className={styles.pagination}
-              page={currentPage}
-              count={paginationCount}
-              siblingCount={1}
-              onChange={handleChange}
-            />
-          </Stack>
-        </Stack>
+        <CategoryTabs className={styles.categorytabs} />
+        <div className={styles.articlegridcontainer}>
+          <ArticleGrid
+            articles={allArticles.slice(articleRange.start, articleRange.end)}
+            nameFilter={props.nameFilter}
+          />
+          <Pagination
+            className={styles.pagination}
+            page={currentPage}
+            count={paginationCount}
+            siblingCount={1}
+            onChange={handleChange}
+          />
+        </div>
       </div>
     );
   }

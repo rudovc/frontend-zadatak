@@ -1,7 +1,7 @@
 enum Category {
   Home = "home",
+  General = "general",
   Business = "business",
-  Entertainment = "entertainment",
   Health = "health",
   Science = "science",
   Technology = "technology",

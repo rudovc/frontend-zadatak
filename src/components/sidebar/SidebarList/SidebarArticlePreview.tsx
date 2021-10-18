@@ -1,7 +1,5 @@
 import { Article } from "../../../data-interfaces";
-import Paper from "@mui/material/Card";
 import Typography from "@mui/material/Typography";
-import Stack from "@mui/material/Stack";
 import styles from "./sidebararticlepreview.module.scss";
 
 export const SidebarArticlePreview = (props: Article): JSX.Element => {
@@ -34,20 +32,16 @@ export const SidebarArticlePreview = (props: Article): JSX.Element => {
   };
 
   return (
-    <div>
-      <Paper elevation={0} className={styles.sidebararticlepreview}>
-        <Stack spacing={0}>
-          <Typography variant="caption">{formatDate()}</Typography>
-          <a
-            className={styles.nostyle}
-            href={props.url}
-            target="_blank"
-            rel="noreferrer"
-          >
-            <Typography variant="body1">{props.title}</Typography>
-          </a>
-        </Stack>
-      </Paper>
+    <div className={styles.sidebararticlepreview}>
+      <Typography variant="caption">{formatDate()}</Typography>
+      <a
+        className={styles.nostyle}
+        href={props.url}
+        target="_blank"
+        rel="noreferrer"
+      >
+        <Typography variant="body1">{props.title}</Typography>
+      </a>
     </div>
   );
 };

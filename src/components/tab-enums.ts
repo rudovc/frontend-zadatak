@@ -1,7 +1,7 @@
 export enum CategoryTab {
   Home,
+  General,
   Business,
-  Entertainment,
   Health,
   Science,
   Technology,

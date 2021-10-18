@@ -13,6 +13,7 @@ export const categoryFrameSlice = createSlice({
   },
   reducers: {
     updateArticles: (state, action: PayloadAction<ArticlesPayload[]>) => {
+      // Map array of articles from payload and generate an ID for each of them
       const dataWithID = action.payload.flatMap((element) => {
         const name =
           element.article.title === null ? "" : element.article.title;
@@ -22,7 +23,7 @@ export const categoryFrameSlice = createSlice({
             : element.article.publishedAt;
         const link = element.article.url === null ? "" : element.article.url;
         const { title, publishedAt, url, ...rest } = element.article;
-        const result = {
+        const mappedArticle = {
           category: element.category,
           id: hash.sha1(element),
           publishedAt: date,
@@ -30,9 +31,21 @@ export const categoryFrameSlice = createSlice({
           url: link,
           ...rest,
         };
-        if (state.articles.includes(result) === false) {
-          return [result];
-        } else return [];
+        // Check if the mapped article already exists in the state and omit it if so
+        for (const element of state.articles) {
+          if (
+            element.title === mappedArticle.title &&
+            element.url === mappedArticle.url &&
+            element.author === mappedArticle.author
+          ) {
+            if (element.category === Category.General) {
+              state.articles.splice(state.articles.indexOf(element), 1);
+              return [mappedArticle];
+            }
+            return [];
+          } else return [mappedArticle];
+        }
+        return [mappedArticle];
       });
 
       // Sort the articles chronologically whenever a new set is added

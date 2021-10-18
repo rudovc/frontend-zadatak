@@ -10,6 +10,7 @@ a.nostyle:visited {
 
 .articlepreviewcard {
   border-radius: 10px;
+  height: 100%;
 }
 
 .categorylink {
@@ -21,24 +22,32 @@ a.nostyle:visited {
 }
 
 .cardcontent {
-  height: 130px;
+  // bilo je 140px
+  height: 50%;
   display: flex;
   flex-direction: column;
   padding-bottom: 0px;
 }
 
 .cardbottom {
+  display: flex;
   width: 100%;
   flex-grow: 1;
 }
 
-.authorname {
+.cardbottomcontainer {
+  display: flex;
+  width: 100%;
   align-self: flex-end;
+}
+
+.authorname {
+  align-self: center;
 }
 
 .favoritesbutton {
   margin-left: auto;
-  align-self: flex-end;
+  align-self: center;
 }
 
 .noimageloaded {

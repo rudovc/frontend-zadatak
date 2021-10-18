@@ -62,6 +62,22 @@ export const CategoryTabs = (props: IProps) => {
         </ButtonBase>
       </Paper>
       <Paper
+        className={isActiveTabStyle(CategoryTab.General)[0]}
+        elevation={paperElevation[CategoryTab.General]}
+      >
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.General);
+          }}
+          style={{ width: "100%" }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.General)[1]}>
+            TODO:ICON
+            <span>General</span>
+          </div>
+        </ButtonBase>
+      </Paper>
+      <Paper
         className={isActiveTabStyle(CategoryTab.Business)[0]}
         elevation={paperElevation[CategoryTab.Business]}
       >
@@ -74,22 +90,6 @@ export const CategoryTabs = (props: IProps) => {
           <div className={isActiveTabStyle(CategoryTab.Business)[1]}>
             <WorkIcon className={styles.categorytabicon} />
             <span>Business</span>
-          </div>
-        </ButtonBase>
-      </Paper>
-      <Paper
-        className={isActiveTabStyle(CategoryTab.Entertainment)[0]}
-        elevation={paperElevation[CategoryTab.Entertainment]}
-      >
-        <ButtonBase
-          onClick={() => {
-            handleClick(CategoryTab.Entertainment);
-          }}
-          style={{ width: "100%" }}
-        >
-          <div className={isActiveTabStyle(CategoryTab.Entertainment)[1]}>
-            <MovieIcon className={styles.categorytabicon} />
-            <span>Entertainment</span>
           </div>
         </ButtonBase>
       </Paper>
@@ -126,22 +126,6 @@ export const CategoryTabs = (props: IProps) => {
         </ButtonBase>
       </Paper>
       <Paper
-        className={isActiveTabStyle(CategoryTab.Technology)[0]}
-        elevation={paperElevation[CategoryTab.Technology]}
-      >
-        <ButtonBase
-          onClick={() => {
-            handleClick(CategoryTab.Technology);
-          }}
-          style={{ width: "100%" }}
-        >
-          <div className={isActiveTabStyle(CategoryTab.Technology)[1]}>
-            <MonitorIcon className={styles.categorytabicon} />
-            <span>Technology</span>
-          </div>
-        </ButtonBase>
-      </Paper>
-      <Paper
         className={isActiveTabStyle(CategoryTab.Sports)[0]}
         elevation={paperElevation[CategoryTab.Sports]}
       >
@@ -154,6 +138,22 @@ export const CategoryTabs = (props: IProps) => {
           <div className={isActiveTabStyle(CategoryTab.Sports)[1]}>
             <SportsSoccerIcon className={styles.categorytabicon} />
             <span>Sports</span>
+          </div>
+        </ButtonBase>
+      </Paper>
+      <Paper
+        className={isActiveTabStyle(CategoryTab.Technology)[0]}
+        elevation={paperElevation[CategoryTab.Technology]}
+      >
+        <ButtonBase
+          onClick={() => {
+            handleClick(CategoryTab.Technology);
+          }}
+          style={{ width: "100%" }}
+        >
+          <div className={isActiveTabStyle(CategoryTab.Technology)[1]}>
+            <MonitorIcon className={styles.categorytabicon} />
+            <span>Technology</span>
           </div>
         </ButtonBase>
       </Paper>
