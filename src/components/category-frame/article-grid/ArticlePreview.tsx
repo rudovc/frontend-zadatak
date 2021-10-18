@@ -19,9 +19,10 @@ import ButtonBase from "@mui/material/ButtonBase";
 import Fade from "@mui/material/Fade";
 import CircularProgress from "@mui/material/CircularProgress";
 import { useCallback } from "react";
+import { IProps } from "../../component-interfaces";
 
 // ima li koji drugi nacin osim ovaj '&'
-export const ArticlePreview = (props: Article) => {
+export const ArticlePreview = (props: Article & IProps) => {
   const dispatch = useAppDispatch();
   const favorites = useAppSelector((state) => state.sidebar.favorites);
 
@@ -80,7 +81,7 @@ export const ArticlePreview = (props: Article) => {
   }, [isInFavorites]);
 
   return (
-    <div className={styles.gridelement}>
+    <div className={props.className}>
       <Fade in={true} timeout={500}>
         <Card className={styles.articlepreviewcard}>
           {isImageLoading()}

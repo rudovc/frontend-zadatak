@@ -71,7 +71,7 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
                 articles={props.categoryArticles}
                 nameFilter={nameFilter}
               />
-              <Sidebar className={styles.sidebar} />
+              {/*<Sidebar className={styles.sidebar} />*/}
             </Stack>
           </Stack>
         </Container>

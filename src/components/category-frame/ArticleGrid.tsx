@@ -1,9 +1,9 @@
 import styles from "./articlegrid.module.scss";
 import { Articles } from "../../data-interfaces";
+import { Sidebar } from "../Sidebar";
 import { ArticlePreview } from "./article-grid/ArticlePreview";
-import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-import { isMobileOnly, useMobileOrientation } from "react-device-detect";
+import { isMobileOnly } from "react-device-detect";
 
 export const ArticleGrid = (props: Articles) => {
   const filteredArticleList = [...props.articles].filter((element) => {
@@ -24,30 +24,27 @@ export const ArticleGrid = (props: Articles) => {
     return -1;
   });
 
-  const { isPortrait } = useMobileOrientation();
-  const gridElementWidth = isMobileOnly ? (isPortrait ? 12 : 6) : 6;
-
-  const displayedArticleList = sortedArticleList.map((element) => (
-    <Grid item xs={gridElementWidth} key={`grid_item-${element.id}`}>
-      <ArticlePreview {...element} key={element.id} />
-    </Grid>
-  ));
+  const displayedArticles = sortedArticleList.map((element) => {
+    return (
+      <ArticlePreview
+        className={styles.articlecard}
+        {...element}
+        key={element.id}
+      />
+    );
+  });
 
   if (isMobileOnly) {
-    return (
-      <div className={styles.articlegrid}>
-        <Grid container spacing={3}>
-          {displayedArticleList}
-        </Grid>
-      </div>
-    );
+    return <div className={styles.articlegridmobile}>{displayedArticles}</div>;
   } else {
     return (
-      <div className={styles.articlegrid}>
+      <div className={styles.framelayout}>
         <Typography variant="h6">News</Typography>
-        <Grid container spacing={3}>
-          {displayedArticleList}
-        </Grid>
+        <div className={styles.articlegrid}>
+          {/*Moze li se ovo destrukturirat ili nesto (tipa [0,2], nez)*/}
+          {displayedArticles}
+          <Sidebar className={styles.sidebardesktop} />
+        </div>
       </div>
     );
   }

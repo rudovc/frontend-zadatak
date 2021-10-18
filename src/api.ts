@@ -14,7 +14,6 @@ function delayResolve(input: ArticlesRawData) {
     setTimeout(() => resolve({ data: input }), 300)
   );
 }
-
 /*const axiosApi = axios.create({
   baseURL: `https://newsapi.org/v2/top-headlines/`,
   params: {

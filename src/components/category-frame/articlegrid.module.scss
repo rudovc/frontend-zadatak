@@ -1,8 +1,64 @@
 .articlegrid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  @media (max-width: 500px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.articlegridmobile {
+  width: 100%;
+  display: grid;
+  gap: 1rem;
+  @media (min-width: 500px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.sidebardesktop {
+  background-color: #ffffff;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.2em;
+  border-radius: 10px;
+  height: calc(100vh - 100px);
+  grid-column-start: 3;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  @media (max-width: 500px) {
+  }
+}
+
+.framelayout {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  gap: 10px;
+  gap: 1rem;
   margin-left: 2%;
   margin-right: 2%;
+}
+
+.framecolumn {
+  gap: 1rem;
+  flex: 1 1 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.framebottom {
+  gap: 1rem;
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+}
+
+.articlecard {
+  height: 100%;
+}
+
+.articlecardtop {
+  height: 100%;
 }
