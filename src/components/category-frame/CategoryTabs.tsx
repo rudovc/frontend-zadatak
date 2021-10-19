@@ -1,11 +1,9 @@
 import HomeIcon from "@mui/icons-material/Home";
 import WorkIcon from "@mui/icons-material/Work";
-import MovieIcon from "@mui/icons-material/Movie";
 import LocalHospitalicon from "@mui/icons-material/LocalHospital";
 import ScienceIcon from "@mui/icons-material/Science";
 import MonitorIcon from "@mui/icons-material/Monitor";
 import SportsSoccerIcon from "@mui/icons-material/SportsSoccer";
-import Paper from "@mui/material/Paper";
 import ButtonBase from "@mui/material/Button";
 import { CategoryTab } from "../tab-enums";
 import { IProps } from "../component-interfaces";
@@ -44,119 +42,117 @@ export const CategoryTabs = (props: IProps) => {
   };
 
   return (
+    
     <div className={props.className}>
-      <Paper
+      <div
         className={isActiveTabStyle(CategoryTab.Home)[0]}
-        elevation={paperElevation[CategoryTab.Home]}
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Home);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Home)[1]}>
-            <HomeIcon className={styles.categorytabicon} />
+            <HomeIcon className={styles.categorytabicon}/>
             <span>Home</span>
           </div>
         </ButtonBase>
-      </Paper>
-      <Paper
+      </div>
+      <div
         className={isActiveTabStyle(CategoryTab.General)[0]}
-        elevation={paperElevation[CategoryTab.General]}
+        
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.General);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.General)[1]}>
             TODO:ICON
             <span>General</span>
           </div>
         </ButtonBase>
-      </Paper>
-      <Paper
+      </div>
+      <div
         className={isActiveTabStyle(CategoryTab.Business)[0]}
-        elevation={paperElevation[CategoryTab.Business]}
+        
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Business);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Business)[1]}>
             <WorkIcon className={styles.categorytabicon} />
             <span>Business</span>
           </div>
         </ButtonBase>
-      </Paper>
-      <Paper
+      </div>
+      <div
         className={isActiveTabStyle(CategoryTab.Health)[0]}
-        elevation={paperElevation[CategoryTab.Health]}
+       
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Health);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Health)[1]}>
             <LocalHospitalicon className={styles.categorytabicon} />
             <span>Health</span>
           </div>
         </ButtonBase>
-      </Paper>
-      <Paper
+      </div>
+      <div
         className={isActiveTabStyle(CategoryTab.Science)[0]}
-        elevation={paperElevation[CategoryTab.Science]}
+       
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Science);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Science)[1]}>
             <ScienceIcon className={styles.categorytabicon} />
             <span>Science</span>
           </div>
         </ButtonBase>
-      </Paper>
-      <Paper
+      </div>
+      <div
         className={isActiveTabStyle(CategoryTab.Sports)[0]}
-        elevation={paperElevation[CategoryTab.Sports]}
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Sports);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Sports)[1]}>
             <SportsSoccerIcon className={styles.categorytabicon} />
             <span>Sports</span>
           </div>
         </ButtonBase>
-      </Paper>
-      <Paper
+      </div>
+      <div
         className={isActiveTabStyle(CategoryTab.Technology)[0]}
-        elevation={paperElevation[CategoryTab.Technology]}
       >
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Technology);
           }}
-          style={{ width: "100%" }}
+          style={{ width: "100%", height:"100%", padding:"0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Technology)[1]}>
             <MonitorIcon className={styles.categorytabicon} />
             <span>Technology</span>
           </div>
         </ButtonBase>
-      </Paper>
+      </div>
     </div>
   );
 };
