@@ -2,17 +2,15 @@ import { CategoryTabs } from "./category-frame/CategoryTabs";
 import { ArticleGrid } from "./category-frame/ArticleGrid";
 import { useState, useCallback, useEffect } from "react";
 import Pagination from "@mui/material/Pagination";
-import styles from "./categoryframe.module.scss";
-import { CategoryFrameProps, IProps } from "./component-interfaces";
-import { selectPage } from "./category-frame-slice";
+import styles from "./styles/categoryframe.module.scss";
+import { CategoryFrameProps } from "../interfaces/component-interfaces";
+import { selectPage } from "./slices/category-frame-slice";
 import { useAppSelector } from "../hooks";
 import { loadArticlesRawDataPerPageFromAPI } from "../utilities";
 import { isMobileOnly } from "react-device-detect";
-import { current } from "immer";
+import { CategoryTab } from "./tab-enums";
 
-export const CategoryFrame = (
-  props: CategoryFrameProps & IProps
-): JSX.Element => {
+export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
   // Keep track of loading and pagination in grid (have 15 articles per page)
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
@@ -45,10 +43,16 @@ export const CategoryFrame = (
     }
   }, [currentPage, paginationCount]);
 
+  // Handle clicking on new category tab
+  const handleClick = <T extends unknown>(category: T) => {
+    if (typeof props.onCategoryTabChange !== "undefined") {
+      props.onCategoryTabChange(category as unknown as CategoryTab);
+    }
+  };
+
   // Handle switching to a new page
   const handleChange = useCallback(
     async (e: React.ChangeEvent<unknown>, page: number): Promise<void> => {
-      console.log(`page ${page} count ${paginationCount}`);
       if (props.nameFilter === "") {
         if (!isLoading) {
           setCurrentPage(page);
@@ -88,9 +92,14 @@ export const CategoryFrame = (
   } else {
     return (
       <div className={props.className}>
-        <CategoryTabs className={styles.categorytabs} />
+        <CategoryTabs
+          className={styles.categorytabs}
+          onClick={handleClick}
+          value={props.categoryTab}
+        />
         <div className={styles.articlegridcontainer}>
           <ArticleGrid
+            onCategoryClick={handleClick}
             articles={filteredArticleList.slice(
               articleRange.start,
               articleRange.end

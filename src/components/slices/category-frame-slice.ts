@@ -1,8 +1,8 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Article } from "../data-interfaces";
-import { ArticlesPayload } from "../payload-interfaces";
-import Category from "../category-enums";
-import { RootState } from "../store";
+import { Article } from "../../interfaces/data-interfaces";
+import { ArticlesPayload } from "../../interfaces/payload-interfaces";
+import Category from "../../category-enums";
+import { RootState } from "../../store";
 import { crc32 } from "crc";
 
 export const categoryFrameSlice = createSlice({
@@ -24,6 +24,8 @@ export const categoryFrameSlice = createSlice({
             : element.article.publishedAt;
         const link = element.article.url === null ? "" : element.article.url;
         const { title, publishedAt, url, ...rest } = element.article;
+
+        // Assign all of the processed elements back to a mapped article
         const mappedArticle = {
           category: element.category,
           id: crc32(Object.values({ ...rest }).toString()).toString(16),
@@ -33,6 +35,8 @@ export const categoryFrameSlice = createSlice({
           ...rest,
         };
         const articlesInState = state.articles;
+
+        // Manage duplicate cases
         if (state.idList.includes(mappedArticle.id)) {
           if (mappedArticle.category !== Category.General) {
             const index = articlesInState.findIndex(
@@ -59,7 +63,6 @@ export const categoryFrameSlice = createSlice({
   },
 });
 
-// Selectors
 export const selectPage = (state: RootState): number => {
   return Math.floor(state.categoryFrameArticles.page / 6);
 };

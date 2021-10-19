@@ -1,31 +1,32 @@
-import { useAppDispatch, useAppSelector } from "../../hooks";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import { SidebarTab } from "../tab-enums";
-import { selectActiveSidebarTab, setActiveSidebarTab } from "../sidebar-slice";
-import { useCallback } from "react";
-import { IProps } from "../component-interfaces";
+import { TabProps } from "../../interfaces/component-interfaces";
 
-export const SidebarTabs = (props: IProps): JSX.Element => {
-  // Active tab is part of redux store b/c it is shared between SidebarTab and SidebarList
-  const activeTab = useAppSelector(selectActiveSidebarTab);
-  const dispatch = useAppDispatch();
+export const SidebarTabs = (props: TabProps): JSX.Element => {
+  const activeTab = props.value;
 
-  // Handle clicking on LATEST tab
-  const latestClick = useCallback(async () => {
-    dispatch(setActiveSidebarTab(SidebarTab.Latest));
-  }, [dispatch]);
-
-  // Handle clicking on FAVORITES tab
-  const favoritesClick = useCallback(async () => {
-    dispatch(setActiveSidebarTab(SidebarTab.Favorites));
-  }, [dispatch]);
+  const handleClick = (newTab: SidebarTab) => {
+    if (typeof props.onClick !== "undefined") {
+      props.onClick<SidebarTab>(newTab);
+    }
+  };
 
   return (
     <div className={props.className}>
       <Tabs value={activeTab} aria-label="Tabs">
-        <Tab label="Latest" onClick={latestClick} />
-        <Tab label="Favorites" onClick={favoritesClick} />
+        <Tab
+          label="Latest"
+          onClick={() => {
+            handleClick(SidebarTab.Latest);
+          }}
+        />
+        <Tab
+          label="Favorites"
+          onClick={() => {
+            handleClick(SidebarTab.Favorites);
+          }}
+        />
       </Tabs>
     </div>
   );

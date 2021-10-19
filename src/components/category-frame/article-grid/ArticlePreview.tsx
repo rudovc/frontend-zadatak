@@ -4,9 +4,7 @@ import { useAppDispatch, useAppSelector } from "../../../hooks";
 import {
   addArticleToFavorites,
   removeArticleFromFavorites,
-} from "../../sidebar-slice";
-import { setActiveCategoryTab } from "../category-tabs-slice";
-import { Article } from "../../../data-interfaces";
+} from "../../slices/sidebar-slice";
 import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
@@ -18,34 +16,47 @@ import ButtonBase from "@mui/material/ButtonBase";
 import Fade from "@mui/material/Fade";
 import CircularProgress from "@mui/material/CircularProgress";
 import { useCallback } from "react";
-import { IProps } from "../../component-interfaces";
+import { ArticlePreviewProps } from "../../../interfaces/component-interfaces";
+import { isMobileOnly } from "react-device-detect";
+import { CategoryTab } from "../../tab-enums";
 
 // Ima li koji drugi nacin osim ovaj '&'
-export const ArticlePreview = (props: Article & IProps) => {
+export const ArticlePreview = (props: ArticlePreviewProps) => {
   const dispatch = useAppDispatch();
   const favorites = useAppSelector((state) => state.sidebar.favorites);
 
-  const title = props.title;
+  const title = props.article.title;
 
   const isInFavorites = useCallback(() => {
-    return Boolean(favorites.filter((element) => element === props.id).length);
-  }, [favorites, props.id]);
+    return Boolean(
+      favorites.filter((element) => element === props.article.id).length
+    );
+  }, [favorites, props.article.id]);
 
   const [isFavorite, setIsFavorite] = useState(isInFavorites());
 
-  const image = !props.urlToImage ? "" : props.urlToImage;
+  const image = !props.article.urlToImage ? "" : props.article.urlToImage;
 
   const handleFavoriteClick = () => {
     if (!isFavorite) {
-      dispatch(addArticleToFavorites({ ...props }));
+      dispatch(addArticleToFavorites({ ...props.article }));
     } else {
-      dispatch(removeArticleFromFavorites({ ...props }));
+      dispatch(removeArticleFromFavorites({ ...props.article }));
     }
     setIsFavorite(!isFavorite);
   };
 
   const handleCategoryClick = () => {
-    dispatch(setActiveCategoryTab(props.category));
+    if (!isMobileOnly) {
+      if (typeof props.onCategoryClick !== "undefined") {
+        const newCategory =
+          props.article.category.charAt(0).toUpperCase() +
+          props.article.category.slice(1);
+        props.onCategoryClick(
+          CategoryTab[newCategory as keyof typeof CategoryTab]
+        );
+      }
+    }
   };
 
   /*// Nesto ruzno pt.1
@@ -94,21 +105,21 @@ export const ArticlePreview = (props: Article & IProps) => {
               className={styles.categorybutton}
             >
               <Typography variant="overline" className={styles.categorylink}>
-                {props.category.toUpperCase()}
+                {props.article.category.toUpperCase()}
               </Typography>
             </ButtonBase>
             <a
               className={styles.nostyle}
               target="_blank"
               rel="noreferrer"
-              href={props.url}
+              href={props.article.url}
             >
               <Typography>{title}</Typography>
             </a>
             <div className={styles.cardbottom}>
               <div className={styles.cardbottomcontainer}>
                 <Typography variant="caption" className={styles.authorname}>
-                  {props.author}
+                  {props.article.author}
                 </Typography>
                 <div className={styles.favoritesbutton}>
                   <IconButton

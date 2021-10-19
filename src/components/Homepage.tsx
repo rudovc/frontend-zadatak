@@ -2,28 +2,39 @@ import { useState } from "react";
 import { CategoryFrame } from "./CategoryFrame";
 import { Sidebar } from "./Sidebar";
 import { Banner } from "./Banner";
-import { HomepageProps } from "./component-interfaces";
+import { HomepageProps } from "../interfaces/component-interfaces";
 import Divider from "@mui/material/Divider";
-import styles from "./homepage.module.scss";
+import styles from "./styles/homepage.module.scss";
 import { useAppSelector } from "../hooks";
-import { selectNameFilter } from "./homepage-slice";
+import { selectNameFilter } from "./slices/homepage-slice";
 import { isMobileOnly } from "react-device-detect";
 import { TitleBar } from "./TitleBar";
-import { MobileTab } from "./tab-enums";
+import { MobileTab, CategoryTab } from "./tab-enums";
 import { MobileTabs } from "./MobileTabs";
 
 export const Homepage = (props: HomepageProps): JSX.Element => {
   const nameFilter = useAppSelector(selectNameFilter);
-  const [activeTab, setActiveTab] = useState(MobileTab.Featured);
+  const [activeMobileTab, setActiveMobileTab] = useState(MobileTab.Featured);
 
-  const handleClick = (arg: MobileTab) => {
-    setActiveTab(arg);
+  // Nesto san ja tu zeznia,
+  // tj ocito ne kuzin kako funkcionira,
+  // tj koristin na krivi nacin...
+  // Zasad "radi" ali nemam pojma zasto i kako mora bit ovako?
+  // Tia san postic da ne moran radit 3 razlicita interfacea za SidebarTabs, MobileTabs i CategoryTabs
+  const handleMobileTabClick = <T extends unknown>(arg: T) => {
+    setActiveMobileTab(arg as unknown as MobileTab);
+  };
+
+  const handleCategoryTabChange = (arg: CategoryTab) => {
+    if (typeof props.onCategoryTabChange !== "undefined") {
+      props.onCategoryTabChange(arg);
+    }
   };
 
   const displayContentByTab = (): JSX.Element => {
-    if (activeTab === MobileTab.Featured) {
+    if (activeMobileTab === MobileTab.Featured) {
       return (
-        // Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka pa ne bi mora hakirat pola
+        // Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka, ovako nije ni blizu elegantno
         <CategoryFrame
           className={styles.categoryframemobile}
           articles={props.categoryArticles}
@@ -40,8 +51,8 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
       <div className={props.className}>
         <TitleBar className={styles.titlebarmobile} />
         <MobileTabs
-          value={activeTab}
-          onClick={handleClick}
+          value={activeMobileTab}
+          onClick={handleMobileTabClick}
           className={styles.tabsmobile}
         />
         <div className={styles.mainframemobile}>{displayContentByTab()}</div>
@@ -58,6 +69,8 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
             className={styles.categoryframe}
             articles={props.categoryArticles}
             nameFilter={nameFilter}
+            onCategoryTabChange={handleCategoryTabChange}
+            categoryTab={props.categoryTab}
           />
         </div>
       </div>

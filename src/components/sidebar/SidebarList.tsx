@@ -1,26 +1,26 @@
-import { UIEvent, useCallback, useState } from "react";
+import { useCallback, useState } from "react";
 import { useAppSelector } from "../../hooks";
 import List from "@mui/material/List";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
-import { IProps } from "../component-interfaces";
-import { Article } from "../../data-interfaces";
+import { SidebarListProps } from "../../interfaces/component-interfaces";
+import { Article } from "../../interfaces/data-interfaces";
 import {
   selectAllArticles,
   selectArticlesByID,
   selectPage,
-} from "../category-frame-slice";
-import { selectActiveSidebarTab, selectFavoriteIDs } from "../sidebar-slice";
+} from "../slices/category-frame-slice";
+import { selectFavoriteIDs } from "../slices/sidebar-slice";
 import { SidebarTab } from "../tab-enums";
 import { loadArticlesRawDataPerPageFromAPI } from "../../utilities";
 import CircularProgress from "@mui/material/CircularProgress";
 import ListItem from "@mui/material/ListItem";
 import Typography from "@mui/material/Typography";
 import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
-import styles from "./sidebarlist.module.scss";
+import styles from "./styles/sidebarlist.module.scss";
 
-export const SidebarList = (props: IProps) => {
+export const SidebarList = (props: SidebarListProps) => {
   // Get active tab and saved favorite ID keys from store and generate list of favorites by filtering w/ ID
-  const activeTab = useAppSelector(selectActiveSidebarTab);
+  const activeTab = props.activeTab;
   const favoriteIDs = useAppSelector(selectFavoriteIDs);
   const favorites = useAppSelector((state) =>
     selectArticlesByID(state, favoriteIDs)
@@ -73,7 +73,7 @@ export const SidebarList = (props: IProps) => {
 
   // Load more articles on scroll down
   const loadMoreArticles = useCallback(
-    async (e: UIEvent<HTMLUListElement>): Promise<void> => {
+    async (e): Promise<void> => {
       e.preventDefault();
       if (activeTab === SidebarTab.Latest) {
         if (!isLoading) {

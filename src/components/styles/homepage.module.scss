@@ -25,13 +25,16 @@
 }
 
 .sidebarmobile {
-  width: 100%;
+  width: calc(100% - 2em);
   height: calc(100vh - 200px);
   background-color: #ffffff;
+  border-radius: 10px;
   padding-left: 1em;
   padding-right: 1em;
   padding-top: 0.2em;
-  border-radius: 10px;
+  box-shadow: 0px 1px 1px -0.5px rgba(0, 0, 0, 0.05),
+    0px 0.5px 1px 0px rgba(0, 0, 0, 0.03),
+    0px 0.5px 2px 0.5px rgba(0, 0, 0, 0.03);
 }
 
 .titlebar {

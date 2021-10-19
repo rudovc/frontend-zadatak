@@ -1,4 +1,4 @@
-import Category from "./category-enums";
+import Category from "../category-enums";
 
 export interface ArticleRawData {
   source: {
@@ -29,8 +29,4 @@ export interface Article extends Required<NonNullable<ArticleRawData>> {
   urlToImage: string | null;
   publishedAt: string;
   content: string | null;
-}
-
-export interface Articles {
-  articles: Article[];
 }

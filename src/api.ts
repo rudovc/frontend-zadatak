@@ -1,6 +1,6 @@
 import axios from "axios";
 import Category from "./category-enums";
-import { ArticlesRawData } from "./data-interfaces";
+import { ArticlesRawData } from "./interfaces/data-interfaces";
 
 import dataBusiness from "./data/dummyData-business.json";
 import dataGeneral from "./data/dummyData-general.json";

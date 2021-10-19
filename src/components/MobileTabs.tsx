@@ -1,10 +1,10 @@
-import { MobileTabProps } from "./component-interfaces";
+import { TabProps } from "../interfaces/component-interfaces";
 import { MobileTab } from "./tab-enums";
-import styles from "./mobiletabs.module.scss";
+import styles from "./styles/mobiletabs.module.scss";
 import ButtonBase from "@mui/material/ButtonBase";
 import Typography from "@mui/material/Typography";
 
-export const MobileTabs = (props: MobileTabProps): JSX.Element => {
+export const MobileTabs = (props: TabProps): JSX.Element => {
   const isActiveTabStyle = (thisTab: MobileTab): string[] => {
     if (props.value === thisTab) {
       return [styles.buttonactive, styles.buttonbackgroundactive];
@@ -14,7 +14,9 @@ export const MobileTabs = (props: MobileTabProps): JSX.Element => {
   };
 
   const handleClick = (newTab: MobileTab) => {
-    props.onClick(newTab);
+    if (typeof props.onClick !== "undefined") {
+      props.onClick(newTab);
+    }
   };
 
   return (

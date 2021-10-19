@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { IProps } from "./component-interfaces";
+import { IProps } from "../interfaces/component-interfaces";
 import Button from "@mui/material/Button";
 import ButtonBase from "@mui/material/ButtonBase";
 import Typography from "@mui/material/Typography";
-import styles from "./banner.module.scss";
+import styles from "./styles/banner.module.scss";
 
 export const Banner = (props: IProps): JSX.Element => {
   // Pametniji nacin za pratit ovo?

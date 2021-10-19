@@ -1,7 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { Article } from "../data-interfaces";
-import { SidebarTab } from "./tab-enums";
-import { RootState } from "../store";
+import { Article } from "../../interfaces/data-interfaces";
+import { RootState } from "../../store";
 
 const serialisedFavorites = localStorage.getItem("storedFavorites");
 const loadedFavorites: string[] =
@@ -13,12 +12,8 @@ export const sidebarSlice = createSlice({
   name: "sidebarState",
   initialState: {
     favorites: loadedFavorites,
-    activeTab: SidebarTab.Latest,
   },
   reducers: {
-    setActiveSidebarTab: (state, action: PayloadAction<SidebarTab>) => {
-      state.activeTab = action.payload;
-    },
     addArticleToFavorites: (state, action: PayloadAction<Article>) => {
       const favorite = action.payload.id;
       state.favorites.push(favorite);
@@ -37,20 +32,12 @@ export const sidebarSlice = createSlice({
   },
 });
 
-// Selectors
-export const selectActiveSidebarTab = (state: RootState): SidebarTab => {
-  return state.sidebar.activeTab;
-};
-
 export const selectFavoriteIDs = (state: RootState): string[] => {
   return state.sidebar.favorites;
 };
 
 // Action creators are generated for each case reducer function
-export const {
-  addArticleToFavorites,
-  removeArticleFromFavorites,
-  setActiveSidebarTab,
-} = sidebarSlice.actions;
+export const { addArticleToFavorites, removeArticleFromFavorites } =
+  sidebarSlice.actions;
 
 export default sidebarSlice.reducer;

@@ -1,4 +1,4 @@
-import { Article } from "../../../data-interfaces";
+import { Article } from "../../../interfaces/data-interfaces";
 import Typography from "@mui/material/Typography";
 import styles from "./sidebararticlepreview.module.scss";
 

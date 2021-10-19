@@ -4,14 +4,21 @@ import { useAppSelector } from "./hooks";
 import {
   selectAllArticles,
   selectArticlesByCategory,
-} from "./components/category-frame-slice";
-import { selectActiveCategoryName } from "./components/category-frame/category-tabs-slice";
+} from "./components/slices/category-frame-slice";
+import { useState } from "react";
 import { isMobileOnly } from "react-device-detect";
+import Category from "./category-enums";
+import { CategoryTab } from "./components/tab-enums";
 import styles from "./app.module.scss";
 
 function App(): JSX.Element {
-  // Get active category tab from store
-  const activeCategory = useAppSelector(selectActiveCategoryName);
+  const [activeCategory, setActiveCategory] = useState(Category.Home);
+  const [activeCategoryTab, setActiveCategoryTab] = useState(CategoryTab.Home);
+  const handleCategoryTabChange = (category: CategoryTab) => {
+    const newCategory = Object.entries(Category)[category][1];
+    setActiveCategoryTab(category);
+    setActiveCategory(newCategory);
+  };
   // Get the filtered articles to send as a prop to Homepage, and additionally get all articles to send as a prop to the sidebar
   const articles = {
     byCategory: useAppSelector((state) => {
@@ -33,6 +40,8 @@ function App(): JSX.Element {
         className={styles.homepagedesktop}
         categoryArticles={articles.byCategory}
         sidebarArticles={articles.inSidebar}
+        onCategoryTabChange={handleCategoryTabChange}
+        categoryTab={activeCategoryTab}
       />
     );
   }

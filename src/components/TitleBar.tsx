@@ -1,7 +1,7 @@
-import { IProps } from "./component-interfaces";
+import { IProps } from "../interfaces/component-interfaces";
 import Typography from "@mui/material/Typography";
 import { SearchBar } from "./SearchBar";
-import styles from "./titlebar.module.scss";
+import styles from "./styles/titlebar.module.scss";
 import { isMobileOnly } from "react-device-detect";
 
 export const TitleBar = (props: IProps): JSX.Element => {

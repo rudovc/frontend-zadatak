@@ -1,3 +1,7 @@
+.categorytabbutton {
+  padding: 0px;
+}
+
 .categorytabinactive {
   height: 100%;
   width: 100%;
@@ -27,6 +31,7 @@
 }
 
 .categorytabbackgroundinactive {
+  display: flex;
   margin: 0 auto;
   background-color: inherit;
   border-radius: 5px;
@@ -35,6 +40,7 @@
 }
 
 .categorytabbackgroundactive {
+  display: flex;
   margin: 0 auto;
   background-color: #ffffff;
   border-radius: 5px;

@@ -1,12 +1,12 @@
-import { IProps } from "./component-interfaces";
+import { IProps } from "../interfaces/component-interfaces";
 import { useRef, useCallback } from "react";
 import { useAppDispatch } from "../hooks";
 import InputBase from "@mui/material/InputBase";
 import SearchIcon from "@mui/icons-material/Search";
 import Button from "@mui/material/Button";
 import { TextFieldProps } from "@mui/material/";
-import styles from "./searchbar.module.scss";
-import { updateFilter } from "./homepage-slice";
+import styles from "./styles/searchbar.module.scss";
+import { updateFilter } from "./slices/homepage-slice";
 import { isMobileOnly } from "react-device-detect";
 
 export const SearchBar = (props: IProps) => {
@@ -20,6 +20,16 @@ export const SearchBar = (props: IProps) => {
     dispatch(updateFilter(input));
   }, [dispatch]);
 
+  const handlePress = useCallback(
+    (e) => {
+      console.log("pressede");
+      if (e.key === "Enter") {
+        sendSearch();
+      }
+    },
+    [sendSearch]
+  );
+
   if (isMobileOnly) {
     return (
       <div className={props.className}>
@@ -30,6 +40,7 @@ export const SearchBar = (props: IProps) => {
           inputRef={searchBoxRef}
           placeholder="Search news"
           onChange={sendSearch}
+          onKeyDown={handlePress}
         />
       </div>
     );
