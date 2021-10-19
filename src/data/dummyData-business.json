@@ -1,266 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 582,
+  "totalResults": 660,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
+      {
+          "source": {
+              "id": null,
+              "name": "The Sun"
+          },
+          "author": "Joseph Gamp",
+          "title": "National Lottery results LIVE: Winning Lotto Set For Life numbers REVEALED with £3.6m jackpot up for grabs... - The Sun",
+          "description": "- Who are the biggest UK EuroMillions lottery winners ever?- What are the chances of winning the EuroMillions jackpot?- What time is the draw and how much is th",
+          "url": "https://www.thesun.co.uk/news/16428747/set-for-life-results-the-national-lottery-news-lotto/",
+          "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/10/Copy-of-Copy-of-Copy-of-Meghan-teaser-5.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "publishedAt": "2021-10-19T06:41:20Z",
+          "content": "£2m grant to restore South Downs' nature-rich chalk grassland\r\nRare and nature-rich chalk grassland will be restored with a £2.23 million National Lottery grant for the South Downs, the National Trus… [+956 chars]"
       },
-      "author": "Stanley Reed",
-      "title": "Nuclear Fusion Edges Toward the Mainstream - The New York Times",
-      "description": "Long-shot money is flowing into start-ups that seek the energy of the stars. Driving the investments is a rising alarm about global warming.",
-      "url": "https://www.nytimes.com/2021/10/18/business/fusion-energy.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/10/14/business/00fusion-1/00fusion-1-facebookJumbo.jpg",
-      "publishedAt": "2021-10-18T12:20:56Z",
-      "content": "Which one of them wins out in the end is hard to predict, but there will be lots of good R&amp;D, said Jonathan E. Menard, deputy director for research at the Princeton Plasma Physics Laboratory.\r\nTh… [+1419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "COVID: FDA Issues New Recommendations On Mixing Booster Shots - KPIX CBS SF Bay Area",
+          "description": "There is new information about mixing booster shots. Maria Cid Medina talked to a UCSF infectious disease expert.",
+          "url": "https://www.youtube.com/watch?v=16Ur-CAIJig",
+          "urlToImage": "https://i.ytimg.com/vi/16Ur-CAIJig/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T06:29:31Z",
+          "content": null
       },
-      "author": "Matthew J. Belvedere",
-      "title": "5 things to know before the stock market opens Monday - CNBC",
-      "description": "Dow futures dropped Monday against the backdrop of increasing U.S. oil prices and a tick-up in bond yields.",
-      "url": "https://www.cnbc.com/2021/10/18/5-things-to-know-before-the-stock-market-opens-monday-oct-18.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106961185-1634311751919-gettyimages-1346742542-dscf0126_20211015104006157.jpeg?v=1634311809",
-      "publishedAt": "2021-10-18T12:16:06Z",
-      "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Wall Street set to start the week lower after Friday's rally\r\nTraders work on the floor of th… [+4330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "Moneycontrol"
+          },
+          "author": null,
+          "title": "Market LIVE Updates: Indices near day's high led by IT, capital goods stocks; realty drags - Moneycontrol.com",
+          "description": "Stock Market LIVE Updates: On the sectoral front, IT and Capital Goods indices up 1-2 percent, while PSU Bank and Realty indices down 1-2 percent. BSE Midcap and Smallcap indices are trading flat.",
+          "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-october-19-latest-news-bse-nse-sensex-nifty-covid-coronavirus-hul-nestle-acc-network18-media-tv18-broadcast-lt-infotech-iex-ttk-prestige-tata-coffee-7596621.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/06/Sensex-3-770x433.jpg",
+          "publishedAt": "2021-10-19T06:28:52Z",
+          "content": "October 19, 2021 / 10:48 AM IST\r\nCoronavirus Update: Lowest rise in daily COVID-19 cases in 231 days\r\nIndia logged 13,058 new coronavirus infections, the lowest in 231 days, taking the total tally of… [+440 chars]"
       },
-      "author": null,
-      "title": "Money Saver: Walmart reveals their Black Friday deals - FOX 2 St. Louis",
-      "description": "Money Saver: Walmart reveals their Black Friday deals",
-      "url": "https://www.youtube.com/watch?v=HCJAjFm2wkk",
-      "urlToImage": "https://i.ytimg.com/vi/HCJAjFm2wkk/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T12:02:44Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
+      {
+          "source": {
+              "id": null,
+              "name": "Business Insider South Africa"
+          },
+          "author": null,
+          "title": "FlySafair wants longer weekends to promote travel – and aims to move public holidays - Business Insider South Africa",
+          "description": "South Africa’s Public Holidays Act could change if low-cost carrier FlySafair has its way.",
+          "url": "https://www.businessinsider.co.za/flysafair-wants-longer-weekends-and-public-holidays-in-south-africa-2021-10",
+          "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/4278/075f45d8c81742f0843fa5a0dc15acb5.jpg",
+          "publishedAt": "2021-10-19T06:06:50Z",
+          "content": "<ul><li>South Africans travel more when public holidays fall on either a Monday or Friday.</li><li>This is according to low-cost carrier FlySafair, which reports a 20% increase in passenger volumes o… [+2994 chars]"
       },
-      "author": "Kate Rooney",
-      "title": "Start-up Deel bets that Coinbase, Shopify and others will keep hiring overseas in the battle to find tech talent - CNBC",
-      "description": "Start-up Deel is betting that more tech companies will search for talent overseas as they continue to hire remotely.",
-      "url": "https://www.cnbc.com/2021/10/18/start-up-deel-bets-that-coinbase-shopify-and-others-will-keep-hiring-globally-to-find-tech-talent.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106891490-1622673078648-gettyimages-1304722850-sg200727_2021030131424893.jpeg?v=1622673325",
-      "publishedAt": "2021-10-18T12:00:02Z",
-      "content": "Start-up Deel is betting that more tech companies will search for talent overseas as many continue to hire remotely.\r\nThe San Francisco-based payments and software company announced a $425 million Se… [+2505 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": null,
+          "title": "Delivery Hero buys minority stake in grocery delivery startup Gorillas - Reuters",
+          "description": "Delivery Hero <a href=\"https://www.reuters.com/companies/DHER.DE\" target=\"_blank\">(DHER.DE)</a> on Tuesday said it had invested $235 million in Berlin-based grocery delivery company Gorillas, as the race to dominate the rapid delivery service sector picks up …",
+          "url": "https://www.reuters.com/technology/delivery-hero-buys-minority-stake-grocery-delivery-startup-gorillas-2021-10-19/",
+          "urlToImage": "https://www.reuters.com/resizer/QPRaeE41OE-topVJN8cq-Ur4S3U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JBIQCGJ5VKGFLB2QZ63T6N7PY.jpg",
+          "publishedAt": "2021-10-19T06:04:00Z",
+          "content": "The Delivery Hero's logo is pictured at its headquarters in Berlin, Germany, August 18, 2020. REUTERS/Fabrizio BenschBERLIN, Oct 19 (Reuters) - Delivery Hero (DHER.DE) on Tuesday said it had invested… [+1372 chars]"
       },
-      "author": "Emily McCormick",
-      "title": "Stock market news live updates: Stock futures drop as inflation concerns outweigh earnings optimism - Yahoo Finance",
-      "description": "Investors' concerns over elevated inflation offset hopes that more companies will follow the lead of the big banks last week and post strong quarterly...",
-      "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-october-18-2021-113809831.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EP1p6NMra6SwaicXv_FaXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/aa0e7720-2ad8-11ec-b4bb-0126b4cc7a8c",
-      "publishedAt": "2021-10-18T11:58:56Z",
-      "content": "Stock futures fell Monday morning to give back some gains after the S&amp;P 500's best week since July, with investors' concerns over elevated inflation offsetting hopes that more companies will foll… [+4327 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "CNBC.com staff",
+          "title": "Watch CNBC’s Sustainable Future Forum Asia: Providing Energy - CNBC",
+          "description": "CNBC takes a look at the energy transition, from the role incumbent energy providers will play, to the new start-ups looking to change the business model one.",
+          "url": "https://www.cnbc.com/2021/10/19/watch-cnbcs-sustainable-future-forum-apac-providing-energy.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106953077-1633520299771-SFF_Promo_Frame.jpg?v=1633520413",
+          "publishedAt": "2021-10-19T05:48:12Z",
+          "content": "[The stream is slated to start at 2 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nClick on the stream above to watch to CNBC's Sustainable Future Forum. Tuesday's … [+3050 chars]"
       },
-      "author": null,
-      "title": "Saudi fast-food franchise operator Alamar Foods considers IPO, sources say - Reuters",
-      "description": "Saudi Arabia's Alamar Foods, the regional franchise operator for Domino's Pizza <a href=\"https://www.reuters.com/companies/DPZ.N\" target=\"_blank\">(DPZ.N)</a>, is considering an initial public offering (IPO) that would allow The Carlyle Group <a href=\"https://…",
-      "url": "https://www.reuters.com/world/middle-east/saudi-fast-food-franchise-operator-alamar-foods-considers-ipo-sources-say-2021-10-18/",
-      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53",
-      "publishedAt": "2021-10-18T11:47:00Z",
-      "content": "DUBAI, Oct 18 (Reuters) - Saudi Arabia's Alamar Foods, the regional franchise operator for Domino's Pizza (DPZ.N), is considering an initial public offering (IPO) that would allow The Carlyle Group (… [+1840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Latest news updates: Alibaba unveils 'advanced' chip built on Arm's infrastructure - Financial Times",
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "url": "https://www.ft.com/content/e7e72227-f396-4c4f-a824-b134e2dbe55c",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:46:01Z",
+          "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
       },
-      "author": "Peter Schacknow",
-      "title": "Stocks making the biggest moves in the premarket: Zillow, Revance Therapeutics, Albertsons and more - CNBC",
-      "description": "The stocks making the biggest moves in premarket trading include Zillow, Revance Therapeutics, Albertsons and more.",
-      "url": "https://www.cnbc.com/2021/10/18/stocks-making-the-biggest-moves-in-the-premarket-zillow-revance-therapeutics-albertsons-and-more.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106943512-1631888926139-gettyimages-1232667332-ZILLOW_EARNS.jpeg?v=1631888959",
-      "publishedAt": "2021-10-18T11:41:58Z",
-      "content": "Take a look at some of the biggest movers in the premarket:\r\nZillow (Z) Zillow slid 6.4% in premarket trading, following a Bloomberg report that the company has temporarily stopped its home-buying se… [+2788 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
+      {
+          "source": {
+              "id": null,
+              "name": "Forbes"
+          },
+          "author": "Jonathan Burgos",
+          "title": "Australian Billionaire Andrew Forrest’s Wyloo Metals Beats BHP In Bidding War For Canada’s Noront - Forbes",
+          "description": "Noront Resources has agreed to accept the “superior” offer by Wyloo Metals—controlled by billionaire Andrew Forrest—in a deal that values the Canadian nickel miner at C$321 million ($260 million), trumping the offer from rival BHP Group.",
+          "url": "https://www.forbes.com/sites/jonathanburgos/2021/10/19/australian-billionaire-andrew-forrests-wyloo-metals-beats-bhp-in-bidding-war-for-canadas-noront/",
+          "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616e3bcb6b08d732c3252b6e%2F0x0.jpg",
+          "publishedAt": "2021-10-19T05:40:57Z",
+          "content": "Andrew \"Twiggy\" Forrest speaks during a business luncheon in Sydney on April 17, 2012. \r\nWILLIAM WEST/AFP via Getty Images\r\nNoront Resources has agreed to accept the superior offer by Wyloo Metalscon… [+2160 chars]"
       },
-      "author": null,
-      "title": "OPEC+ misses target again, as some members struggle to raise oil output - Reuters",
-      "description": "OPEC+ compliance with oil cuts fell slightly to 115% in September, sources said, indicating that as the alliance raises production targets, some members are still falling short as they face challenges in pumping more oil.",
-      "url": "https://www.reuters.com/business/energy/opec-compliance-with-oil-cuts-slips-115-september-sources-say-2021-10-18/",
-      "urlToImage": "https://www.reuters.com/resizer/9iB0FVRBZ0PQC0AvI5VXGrKkW0E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7TRRMWDEEJM67PAMGJ6SVFFJWE.jpg",
-      "publishedAt": "2021-10-18T11:36:00Z",
-      "content": "A 3D-printed oil pump jack is seen in front of a displayed OPEC logo in this illustration picture, April 14, 2020. REUTERS/Dado RuvicLONDON, Oct 18 (Reuters) - OPEC+ compliance with oil cuts fell sli… [+1745 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "China's economic growth could see a 'sharp slowdown' after 2022, says professor - CNBC International TV",
+          "description": "Michael Pettis of Peking University says growth in consumption would likely not fall as much even as China's GDP growth would \"drop a lot.\"",
+          "url": "https://www.youtube.com/watch?v=1p0KqLvYopk",
+          "urlToImage": "https://i.ytimg.com/vi/1p0KqLvYopk/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T05:37:13Z",
+          "content": null
       },
-      "author": "Caitlin Ostroff",
-      "title": "Stock Futures Fall After Weak China Growth Data - The Wall Street Journal",
-      "description": "China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period",
-      "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-10-18-2021-11634542924",
-      "urlToImage": "https://images.wsj.net/im-418606/social",
-      "publishedAt": "2021-10-18T11:32:00Z",
-      "content": "U.S. stock futures edged lower after data showed that Chinas economic growth slowed sharply in the third quarter, and investors weighed the risk to global growth from stickier-than-anticipated inflat… [+329 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Moody's upgrades outlook for Indian banking system - Mint",
+          "description": "The outlook for Indian banking system has been revised to stable from negative by Moody's",
+          "url": "https://www.livemint.com/industry/banking/moodys-upgrades-outlook-for-indian-banking-system-11634620444759.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/1ac67638-bd70-11eb-8e4b-0da8852bf742_1621968673646_1634620765026.jpg",
+          "publishedAt": "2021-10-19T05:20:40Z",
+          "content": "Moodys Investors Service has revised the outlook for the Indian banking system to stable from negative. Moody's expects India's economy to continue recover in the next 12-18 months, with GDP growing … [+2271 chars]"
       },
-      "author": "Devin Coldewey",
-      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing - TechCrunch",
-      "description": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of …",
-      "url": "http://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=595",
-      "publishedAt": "2021-10-18T11:31:30Z",
-      "content": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris… [+8260 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "ULEZ: New pollution charge zone to begin in London - BBC News",
+          "description": "Drivers of older, more polluting vehicles will have to pay a fee to enter an extended zone in the city.",
+          "url": "https://www.bbc.co.uk/news/uk-england-london-58932313",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141D5/production/_106298328_gettyimages-632572388.jpg",
+          "publishedAt": "2021-10-19T05:16:30Z",
+          "content": "By Tom EdwardsTransport and environment correspondent, London\r\nImage source, Getty Images\r\nImage caption, The original ULEZ in central London saw the number of cleaner vehicles increase from 39% in 2… [+2676 chars]"
       },
-      "author": "Manish Singh",
-      "title": "Lawmakers accuse Amazon executives of misleading or lying to Congress about its business practices - TechCrunch",
-      "description": "Five members of the Congressional Committee have accused Amazon’s top executives of either misleading or blatantly lying to it about its business practices and said they are considering an investigation.",
-      "url": "http://techcrunch.com/2021/10/18/lawmakers-accuse-amazon-executives-of-misleading-or-lying-to-congress-about-its-business-practices/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1227831354.jpeg?w=600",
-      "publishedAt": "2021-10-18T11:27:48Z",
-      "content": "Five members of the Congressional Committee have accused Amazons top executives of either misleading or blatantly lying to it about its business practices and said they are considering an investigati… [+2492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": null,
+          "title": "Bill Gates was warned in 2008 over 'inappropriate emails' to female Microsoft employee - News24",
+          "description": "Microsoft co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008 over emails to a female staff member that were deemed inappropriate.",
+          "url": "https://www.news24.com/fin24/companies/ict/microsoft-bill-gates-was-warned-in-2008-over-inappropriate-emails-to-female-employee-20211019",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11361/5a91764f84ef41bda4b15993f922e7b4.jpg",
+          "publishedAt": "2021-10-19T05:15:45Z",
+          "content": "Microsoft co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008 over emails to a femal… [+1013 chars]"
       },
-      "author": null,
-      "title": "Gainers & Losers: 10 stocks that moved the most on October 18 - Moneycontrol.com",
-      "description": "The market ended in the green for the seventh consecutive session, with the Sensex closing 459.64 points higher at 61,765.59 and the Nifty 138.50 points at 18,477",
-      "url": "https://www.moneycontrol.com/news/photos/business/stocks/gainers-losers-10-stocks-that-moved-the-most-on-october-18-7594911.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/10/stocks_sensex_nifty_stockmarket3-2-770x433.jpg",
-      "publishedAt": "2021-10-18T11:21:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Manish Singh",
+          "title": "Indian fintech CRED valued at $4 billion following $251 million fundraise - TechCrunch",
+          "description": "Indian fintech CRED said on Tuesday it has raised $251 million in a new financing round, its third funding this year, at a valuation of $4.01 billion. Existing investors Tiger Global and Falcon Edge Capital co-led the three year-old Bangalore-based startup’s …",
+          "url": "http://techcrunch.com/2021/10/18/indian-fintech-cred-valued-at-4-billion-following-251-million-fundraise/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/india-cred-techcrunch.jpg?w=664",
+          "publishedAt": "2021-10-19T05:12:44Z",
+          "content": "Indian fintech CRED said on Tuesday it has raised $251 million in a new financing round, its third funding this year, at a valuation of $4.01 billion.\r\nExisting investors Tiger Global and Falcon Edge… [+2532 chars]"
       },
-      "author": "Mary West",
-      "title": "Does a bone density test show arthritis? - Medical News Today",
-      "description": "A bone density test measures the strength of bone in the hip and lumbar spine. We examine whether a bone density test can show arthritis.",
-      "url": "https://www.medicalnewstoday.com/articles/does-a-bone-density-test-show-arthritis",
-      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/09/GettyImages-1137542241_thumb.jpg",
-      "publishedAt": "2021-10-18T11:21:12Z",
-      "content": "A bone density test does not indicate arthritis but suggests a persons bone strength. Doctors use it to diagnose osteoporosis, a condition where the bones weaken and become prone to fractures.\r\nSince… [+6261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Hannah Paine",
+          "title": "Cult $10 drink hits Woolies - NEWS.com.au",
+          "description": "<p>With more than 100 stores across the country, it&rsquo;s one of Australia&rsquo;s most popular types of bubble tea.</p>",
+          "url": "https://www.news.com.au/lifestyle/food/drink/premium-10-bubble-tea-drink-hits-woolies/news-story/a57a1a093b387548345e4d9bfccf96b9",
+          "urlToImage": "https://content.api.news/v3/images/bin/21c0225d381112182c001df157a2fd48",
+          "publishedAt": "2021-10-19T05:03:58Z",
+          "content": "The supermarket is now selling a popular cafe-style product in response to a growing demand for the popular beverage.With more than 100 stores across the country, it’s one of Australia’s most popular… [+2342 chars]"
       },
-      "author": null,
-      "title": "DOH preparing for third dose of COVID-19 vaccines for priority sectors | ANC - ANC 24/7",
-      "description": "The Philippine Health Department says it is now planning for a third shot of COVID-19 vaccine for healthcare workers, the elderly, and persons with comorbidi...",
-      "url": "https://www.youtube.com/watch?v=RBRSqwiU_kM",
-      "urlToImage": "https://i.ytimg.com/vi/RBRSqwiU_kM/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:17:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Richard Partington",
+          "title": "Interest rates dilemma puts spotlight on Bank of England's credibility - The Guardian",
+          "description": "As markets bet on an increase, economists give their view after Andrew Bailey’s mixed messages",
+          "url": "https://amp.theguardian.com/business/2021/oct/19/interest-rates-dilemma-puts-spotlight-on-bank-of-england-credibility",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "Bank of EnglandAs markets bet on an increase, economists give their view after Andrew Baileys mixed messages\r\nLess than a month ago Andrew Bailey warned the hard yards were still to come. Britains ec… [+7046 chars]"
       },
-      "author": null,
-      "title": "Yes, at-home COVID-19 tests can be as accurate as professionally administered tests - WHAS11",
-      "description": "As long as the test is accurately administered, it should give you the same results as a test from a healthcare provider.",
-      "url": "https://www.youtube.com/watch?v=6kfahe9A5iM",
-      "urlToImage": "https://i.ytimg.com/vi/6kfahe9A5iM/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:09:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MarketWatch"
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Paul Brown",
+          "title": "England's wind energy potential remains untapped - The Guardian",
+          "description": "Despite overwhelming support for onshore windfarms, planning rules mean it is possible for only one person to prevent development",
+          "url": "https://amp.theguardian.com/news/2021/oct/19/england-wind-energy-potential-onshore-windfarms-planning-development",
+          "urlToImage": "https://i.guim.co.uk/img/media/cdf99f87900645ab98cd357f2db782b5c68d8418/0_149_4832_2899/master/4832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f798c3ec8460d5930a225a45b8ba5d38",
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "The UK, being a windy island, has vast potential to produce more electricity from onshore windfarms. With urgent action required on the climate crises, the latest renewable prospectus is that substan… [+1060 chars]"
       },
-      "author": "Barbara Kollmeyer",
-      "title": "Here's 'one of the most bullish signals' ever for bitcoin that many investors may have missed - MarketWatch",
-      "description": "Critical information for the U.S. trading day",
-      "url": "https://www.marketwatch.com/story/heres-one-of-the-most-bullish-signals-ever-for-bitcoin-that-many-investors-may-have-missed-11634555398",
-      "urlToImage": "https://images.mktw.net/im-418640/social",
-      "publishedAt": "2021-10-18T11:09:00Z",
-      "content": "Stocks are looking somewhat tepid to start the week as bond yields and oil prices climb, and Chinas growth let down. But the real thrills may be in the crypto universe, with expectations for the firs… [+5628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+      {
+          "source": {
+              "id": null,
+              "name": "Telegraph.co.uk"
+          },
+          "author": null,
+          "title": "Tesco ditches checkouts to take on Amazon - Telegraph.co.uk",
+          "description": "Supermarket giant opens rival to Amazon Fresh that lets London shoppers shop and pay without scanning goods or using a checkout",
+          "url": "https://www.telegraph.co.uk/business/2021/10/19/tesco-ditches-checkouts-take-amazon/",
+          "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2021/10/18/tesco-to-go_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?impolicy=logo-overlay",
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "Tesco has opened its first checkout-free store in central London as Britain's biggest supermarket counters Amazon's \"just-walk-out\" technology.\r\nBritain's biggest supermarket chain has expanded a tec… [+957 chars]"
       },
-      "author": "Esha Dey and Thyagaraju Adinarayan",
-      "title": "Tesla Shares Are Roaring Back - Yahoo Finance",
-      "description": "(Bloomberg) -- Tesla Inc. shares are staging a comeback as investors expect the Elon Musk-led electric carmaker to navigate the crippling semiconductor...",
-      "url": "https://finance.yahoo.com/news/tesla-shares-roaring-back-081557874.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Au6Llth73E1.g2UElBVQmQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/c256222af75c09e11624ba3445631562",
-      "publishedAt": "2021-10-18T11:08:12Z",
-      "content": "(Bloomberg) -- Tesla Inc. shares are staging a comeback as investors expect the Elon Musk-led electric carmaker to navigate the crippling semiconductor shortage better than rivals that have been seve… [+3538 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Jillian Ambrose",
+          "title": "Drax dropped from index of green energy firms amid biomass doubts - The Guardian",
+          "description": "Doubts over sustainability of company’s wood-burning power plant mount within financial sector",
+          "url": "https://amp.theguardian.com/business/2021/oct/19/drax-dropped-from-index-of-green-energy-firms-amid-biomass-doubts",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "DraxDoubts over sustainability of companys wood-burning power plant mount within financial sector\r\nTue 19 Oct 2021 06.00 BST\r\nDrax has been booted from an investment index of clean energy companies a… [+4507 chars]"
       },
-      "author": null,
-      "title": "Amazon may have lied to Congress, five U.S. lawmakers say - Reuters",
-      "description": "Five members of the U.S. House Judiciary committee wrote to Amazon.com Inc's chief executive Sunday, and accused the company's top executives, including founder Jeff Bezos, of either misleading Congress or possibly lying to it about Amazon's business practice…",
-      "url": "https://www.reuters.com/technology/five-us-lawmakers-accuse-amazon-possibly-lying-congress-following-reuters-report-2021-10-18/",
-      "urlToImage": "https://www.reuters.com/resizer/tmnUM37lboUMWbJ_Q4s50sDdgfg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TQU2IL5YMRKL5J2W6C4X36XRDU.jpg",
-      "publishedAt": "2021-10-18T11:03:00Z",
-      "content": "The Amazon logo is seen outside its JFK8 distribution center in Staten Island, New York, U.S. November 25, 2020. REUTERS/Brendan McDermidLONDON, Oct 18 (Reuters) - Five members of the U.S. House Judi… [+5670 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Daniella Genovese",
+          "title": "These are the best places to retire in the US for 2021-2022 - Fox Business",
+          "description": "For this year's ranking, US News evaluated retirement expectations in the 150 most populous metropolitan areas based on factors including housing affordability, health care and overall happiness.",
+          "url": "https://www.foxbusiness.com/lifestyle/best-places-retire-us-2021-2022",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/Sarasota-Florida-iStock.jpg?ve=1&tl=1",
+          "publishedAt": "2021-10-19T04:56:31Z",
+          "content": "Retirees are setting their sights on Florida more than any other state across the nation, according to a new study from U.S. News &amp; World Report. \r\nThe Sunshine State occupies seven of the top 10… [+2031 chars]"
       },
-      "author": "https://www.engadget.com/about/editors/steve-dent",
-      "title": "Foxconn unveils three new EV prototypes - Engadget",
-      "description": "At its HHTD21 event, Foxconn unveiled three electric vehicle prototypes including two sedans and an electric bus..",
-      "url": "https://www.engadget.com/foxconn-makes-moves-in-the-automotive-sector-with-three-new-ev-prototypes-110010919.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/4cc225c0-2fde-11ec-bdfb-f0e5a9dbcdb3",
-      "publishedAt": "2021-10-18T11:01:04Z",
-      "content": "At its HHTD21 event, Foxconn unveiled three electric vehicle prototypes including two sedans and an electric bus, according to a Nikkei report and YouTube video. The company said it is \"no longer the… [+2013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky.com"
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Route Mobile shares slip post Q2 results. Good time to buy? - Mint",
+          "description": "Route Mobile share price slipped over 2% to  ₹2,218 per share on the BSE in Tuesday's early session",
+          "url": "https://www.livemint.com/market/stock-market-news/route-mobile-share-price-slips-post-q2-results-good-time-to-buy-11634616675759.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/8f7eab62-fdb8-11ea-8138-f17bb4c2909b_1604568952688_1604568974641_1634617585689.jpg",
+          "publishedAt": "2021-10-19T04:54:29Z",
+          "content": "Enterprise communication services firm Route Mobile on Monday posted around 28 per cent increase in its consolidated net profit to 42 crore in the second quarter ended on September 30, 2021. The comp… [+1780 chars]"
       },
-      "author": "James Sillars",
-      "title": "Global shipping disruption could last 'another 18 months', UK boss warns - Sky News",
-      "description": "",
-      "url": "https://news.sky.com/story/global-shipping-disruption-could-last-another-18-months-uk-boss-warns-12437323",
-      "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-containers-drne-aerial_5545319.jpg?20211013150102",
-      "publishedAt": "2021-10-18T11:00:32Z",
-      "content": null
-    }
+      {
+          "source": {
+              "id": null,
+              "name": "Entrackr"
+          },
+          "author": "Soumyarendra Barik",
+          "title": "CRED raises $251 Mn in Series E at over $4 Bn valuation - Entrackr",
+          "description": "Credit card payment app CRED has raised $251 million in its Series E round, valuing the fintech startup at $4.01 billion. The round was co-led by existing investors Tiger Global and Falcon Edge.  The company also added two new investors to its captable in Lon…",
+          "url": "https://entrackr.com/2021/10/cred-raises-251-mn-in-series-e-at-over-4-bn-valuation/",
+          "urlToImage": "https://entrackr.com/wp-content/uploads/2021/02/CRED-image.jpg",
+          "publishedAt": "2021-10-19T04:49:03Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Moneycontrol"
+          },
+          "author": null,
+          "title": "What should investors do with L&T Infotech: buy, sell or hold post Q2 results? - Moneycontrol.com",
+          "description": "The IT firm's September quarter profit rose 11.1 percent at Rs 551.7 crore from Rs 496.8 crore and rupee revenue was up 8.8 percent at Rs 3,767 crore from Rs 3,462.5 crore from the previous quarter",
+          "url": "https://www.moneycontrol.com/news/business/stocks/what-should-investors-do-with-lt-infotech-buy-sell-or-hold-post-q2-results-7597631.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/10/software3-6-770x433.jpg",
+          "publishedAt": "2021-10-19T04:39:12Z",
+          "content": "Larsen &amp; Toubro Infotech share price touched a 52-week high of Rs 6,680, rising nearly 14 percent on October 19 after the company reported better numbers in the quarter ended September 2021.\r\nLar… [+2308 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "FXStreet"
+          },
+          "author": null,
+          "title": "Gold Price Forecast: XAU/USD eyes $1,780 amid recent USD weakness - FXStreet",
+          "description": "Gold edged higher during the Asian session on Tuesday and moved back above the $1,770 level in the last hour. The XAU/USD, for now, seems to have snap",
+          "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-moves-back-above-1-770-level-upside-potential-seems-limited-202110190224",
+          "urlToImage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/gold-on-weight-scale-gm165418687-21879510_Large.jpg",
+          "publishedAt": "2021-10-19T04:32:00Z",
+          "content": "<ul><li>Gold gained some positive traction on Tuesday and snapped two days of the losing streak.</li><li>Retreating US bone yields undermined the USD and extended some support to the metal.</li><li>H… [+4243 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Ravindra N. Sonavane",
+          "title": "IRCTC becomes ninth PSU firm to cross market capitalization of ₹1 trillion - Mint",
+          "description": "The stock hit a record high of  ₹6,287.95, gaining as much as 7.1%",
+          "url": "https://www.livemint.com/market/stock-market-news/irctc-becomes-ninth-psu-firm-to-cross-market-capitalization-of-1-trillion-11634615987609.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/irctcrestaurant_1631941706440_1634617755881.jpg",
+          "publishedAt": "2021-10-19T04:30:25Z",
+          "content": "MUMBAI :\r\nIndian Railway Catering and Tourism Corporation Ltd (IRCTC) has become the ninth public sector entity to join the elite club of 1 trillion market capitalization (m-cap) with its shares surg… [+2872 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Manila Times"
+          },
+          "author": "Agence France-Presse",
+          "title": "Microsoft: Bill Gates warned in 2008 over 'inappropriate emails' to female employee - The Manila Times",
+          "description": "MICROSOFT co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008...",
+          "url": "https://www.manilatimes.net/2021/10/19/news/microsoft-bill-gates-warned-in-2008-overinappropriate-emails-to-female-employee/1818949",
+          "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2021/10/19/21253.jpg",
+          "publishedAt": "2021-10-19T04:24:56Z",
+          "content": "MICROSOFT co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008 over emails to a femal… [+1027 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Brittany Chain",
+          "title": "Jimmy Brings bombarded woman with promotions and discounts after she revealed she was an alcoholic - Daily Mail",
+          "description": "Jimmy Brings were provided the woman's home address, phone number and account details as she urged them never to accept further future orders.",
+          "url": "https://www.dailymail.co.uk/news/article-10105773/Jimmy-Brings-bombarded-woman-promotions-discounts-revealed-alcoholic.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/19/03/49347477-0-image-a-76_1634612007240.jpg",
+          "publishedAt": "2021-10-19T04:20:56Z",
+          "content": "An alcoholic who pleaded with home delivery booze service Jimmy Brings to stop serving her was instead repeatedly sent promotional messages and discount codes by the drink delivery service.  \r\nThe wo… [+7250 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Manila Times"
+          },
+          "author": "The Manila Times",
+          "title": "Nissan unveils 'intelligent' factory in Japan - The Manila Times",
+          "description": "YOKOHAMA, Japan: Nissan has unveiled a production line at its Tochigi Plant featuring the Nissan Intelligent Factory initiative. This unique initiative supports the manufacture of...",
+          "url": "https://www.manilatimes.net/2021/10/19/fast-times/nissan-unveils-intelligent-factory-in-japan/1818842",
+          "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2021/10/19/21245.jpg",
+          "publishedAt": "2021-10-19T04:12:27Z",
+          "content": "YOKOHAMA, Japan: Nissan has unveiled a production line at its Tochigi Plant featuring the Nissan Intelligent Factory initiative. This unique initiative supports the manufacture of next-generation veh… [+3023 chars]"
+      },
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": "Neil Hume",
+          "title": "China's magnesium shortage threatens global car industry - Financial Times",
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "url": "https://www.ft.com/content/1611e936-08a5-4654-987e-664f50133a4b",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T04:01:05Z",
+          "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+      },
+      {
+          "source": {
+              "id": "financial-times",
+              "name": "Financial Times"
+          },
+          "author": "Philip Stafford",
+          "title": "France tests crypto assets in series of government bond deals - Financial Times",
+          "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+          "url": "https://www.ft.com/content/23c2572a-29a2-4ef4-aa8a-27f8ad30ba09",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T04:00:28Z",
+          "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNA"
+          },
+          "author": null,
+          "title": "PUB launches S$6.5 million 'carbon zero' challenge to remove emissions from water treatment facilities - CNA",
+          "description": "SINGAPORE: As part of its strategy to achieve net-zero emissions by the middle of this century, PUB will award S$6.5 million for “game-changing solutions” that can eliminate carbon emissions from water treatment facilities.\r\n\r\nThis is the prize purse for the …",
+          "url": "https://www.channelnewsasia.com/singapore/pub-carbon-zero-challenge-water-treatment-2253456",
+          "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--PxTpX3UN--/c_crop%2Ch_2698%2Cw_4797%2Cx_1%2Cy_500/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2021/10/18/high_res_-_lower_seletar_reservoir_floating_solar_farm_1.jpg?itok=31cZ5JRh",
+          "publishedAt": "2021-10-19T04:00:26Z",
+          "content": "SINGAPORE: As part of its strategy to achieve net-zero emissions by the middle of this century, PUB will award S$6.5 million for game-changing solutions that can eliminate carbon emissions from water… [+1788 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Manila Times"
+          },
+          "author": "The Manila Times",
+          "title": "Unioil to raffle off a brand new car, motorcycles and fuel vouchers - The Manila Times",
+          "description": "In celebration of its 55th aniversary, Unioil launched its 'Fill and Win' promo on Oct. 15, 2021 to reward its customers with a chance to win a brand new Suzuki Jimny, Honda ADV...",
+          "url": "https://www.manilatimes.net/2021/10/19/fast-times/unioil-to-raffle-off-a-brand-new-car-motorcycles-and-fuel-vouchers/1818840",
+          "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2021/10/18/21107.jpg",
+          "publishedAt": "2021-10-19T04:00:22Z",
+          "content": "In celebration of its 55th aniversary, Unioil launched its \"Fill and Win\" promo on Oct. 15, 2021 to reward its customers with a chance to win a brand new Suzuki Jimny, Honda ADV 150, Yamaha YZF R-15,… [+2132 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Brunswick News"
+          },
+          "author": "GORDON JACKSON gjackson@thebrunswicknews.com",
+          "title": "Small business grants offered | Local News - Brunswick News",
+          "description": "One-time grants of up to $10,000 are being offered to small businesses in the Golden Isles to help with the adverse impacts from the COVID-19.",
+          "url": "https://thebrunswicknews.com/news/local_news/small-business-grants-offered/article_2e75d471-8495-5205-a975-05c0db5582bd.html",
+          "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/custom/image/17237472-7076-11e7-8882-cfed82647412.jpg",
+          "publishedAt": "2021-10-19T04:00:00Z",
+          "content": "One-time grants of up to $10,000 are being offered to small businesses in the Golden Isles to help with the adverse impacts from the COVID-19.\r\nThe Glynn County Finance Department is managing the Sma… [+1537 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "IEX shares surge on bonus issue announcement. Should you buy at current level? - Mint",
+          "description": "Shares of Indian Energy Exchange (IEX) surged 15% in Tuesday's opening deals to  ₹916 per share on the BSE",
+          "url": "https://www.livemint.com/market/stock-market-news/iex-shares-surge-15-as-board-to-consider-bonus-shares-issue-this-week-11634615213028.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/stock-kItE--621x414@LiveMint_1634615351112.jpg",
+          "publishedAt": "2021-10-19T03:57:43Z",
+          "content": "Indian Energy Exchange (IEX) on Tuesday informed that its board will meet on Thursday, October 21, 2021 to consider the proposal of bonus issue of shares. Shares of IEX surged over 15% in Tuesday's o… [+1331 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Sanctuary Food Hall development at BullStreet confirmed, company seeks local food and beverage vendo - News 19 WLTX",
+          "description": "The company behind the creation of the latest addition to the BullStreet District has confirmed the location of the planned Sanctuary Food Hall and set an op...",
+          "url": "https://www.youtube.com/watch?v=mI5k5GmRrHY",
+          "urlToImage": "https://i.ytimg.com/vi/mI5k5GmRrHY/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T03:54:22Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sydney Morning Herald"
+          },
+          "author": "Tom Rabe",
+          "title": "Transport chaos predicted for Sydney ahead of train strike - Sydney Morning Herald",
+          "description": "Sydney’s public transport network will be thrown into disarray on Wednesday with rail workers refusing to staff close to 70 per cent of the city’s trains amid an ongoing industrial dispute with the state government.",
+          "url": "https://www.smh.com.au/national/nsw/transport-chaos-predicted-for-sydney-ahead-of-train-strike-20211019-p591b6.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_0.1902%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_53/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/16d70e6c71fb8cef29980c417b134289a8bc705c",
+          "publishedAt": "2021-10-19T03:47:37Z",
+          "content": "Sydneys public transport network will be thrown into disarray on Wednesday with rail workers refusing to staff close to 70 per cent of the citys trains amid an ongoing industrial dispute with the sta… [+1549 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Bitcoin.com"
+          },
+          "author": null,
+          "title": "Financial Advisors Managing $110 Trillion Can Now Offer Crypto Trading to Clients via Interactive Brokers – Featured Bitcoin News - Bitcoin News",
+          "description": "Registered investment advisors (RIAs) with about $110 trillion under management can now offer their clients cryptocurrency trading through Interactive Brokers. RIAs manage portfolios of almost 61 million clients.",
+          "url": "https://news.bitcoin.com/financial-advisors-managing-110-trillion-offer-cryptocurrencies-clients-interactive-brokers/",
+          "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/ria.jpg",
+          "publishedAt": "2021-10-19T03:46:03Z",
+          "content": "Registered investment advisors (RIAs) with about $110 trillion under management can now offer their clients cryptocurrency trading through Interactive Brokers. RIAs manage portfolios of almost 61 mil… [+2801 chars]"
+      },
+      {
+          "source": {
+              "id": "cbc-news",
+              "name": "CBC News"
+          },
+          "author": null,
+          "title": "Hot demand for 'ghost kitchens' rides on popularity of food delivery apps during pandemic - CBC.ca",
+          "description": "The concept of ghost kitchens is proving popular as food delivery apps continue their run. The model means allows owners to avoid the high costs of labour and real estate needed for brick-and-mortar restaurants.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/hot-demand-for-ghost-kitchens-rides-on-popularity-of-food-delivery-apps-during-pandemic-1.6214802",
+          "urlToImage": "https://i.cbc.ca/1.6214857.1634566064!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ghost-kitchen.jpg",
+          "publishedAt": "2021-10-19T03:43:00Z",
+          "content": "The \"pick-up here\" sign on a bright turquoise wall hints at what's bustling under the roof  of a warehouse on an industrial street in East Vancouver.\r\nInside, 23-year-old Andrew Nguyen is making sush… [+4662 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Dailytrust.com"
+          },
+          "author": null,
+          "title": "FG urged to tame inflationary pressure - Daily Trust",
+          "description": "To tame the current inflationary pressure on the economy, the government has been advised to reform the foreign exchange market in a bid to stabilize the",
+          "url": "https://dailytrust.com/fg-urged-to-tame-inflationary-pressure",
+          "urlToImage": "https://cms.dailytrust.com.ng/wp-content/uploads/2021/10/Yusuf.jpg",
+          "publishedAt": "2021-10-19T03:38:34Z",
+          "content": "To tame the current inflationary pressure on the economy, the government has been advised to reform the foreign exchange market in a bid to stabilize the exchange rate and reduce volatility.\r\nThe Chi… [+2007 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Rakesh Jhunjhunwala sells stake in MCX, cuts stake in these 3 portfolio stocks - Mint",
+          "description": "Rakesh Jhunjhunwala held 25,00,000 shares or 4.90% stake in the commodity exchange as of June 2021, BSE data showed",
+          "url": "https://www.livemint.com/market/stock-market-news/rakesh-jhunjhunwala-sells-stake-in-mcx-after-lupin-cuts-stake-in-these-3-portfolio-stocks-11634612012920.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/1a9ace72-1570-11ec-be4f-85d8035c1697_1634612512372_1634612538298.jpg",
+          "publishedAt": "2021-10-19T03:36:57Z",
+          "content": "Indian ace investor and stock market trader Rakesh Jhunjhunwala's name does not appear in the recent shareholding pattern released by Multi Commodity Exchange of India (MCX) for the July-September pe… [+1783 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Julius Young",
+          "title": "Jennifer Gates on wedding planning in midst of medical school, Nayel Nassar’s Olympic trials: ‘No small feat’ - Fox Business",
+          "description": "With Jennifer Gates' wedding day behind her, the daughter of exes Bill Gates and Melinda French is reflecting on the organized chaos that went into planning her and her husband Nayel Nassar's special day.",
+          "url": "https://www.foxbusiness.com/lifestyle/jennifer-gates-wedding-planning-medical-school-nayel-nassars-olympics",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/Jennifer-Gates_Nayel-Nassar_Getty-Horses.jpg?ve=1&tl=1",
+          "publishedAt": "2021-10-19T03:33:28Z",
+          "content": "With Jennifer Gates' wedding day behind her, the daughter of exes Bill Gates and Melinda French is reflecting on the organized chaos that went into planning her and her husband Nayel Nassar's special… [+5076 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Newscorpaustralia.com"
+          },
+          "author": null,
+          "title": "Female ridesharing service Shebah hits roadblock - The Australian",
+          "description": "Subscribe to The Australian to get unrestricted digital access, home paper delivery, Apps for iPad and Android, member only +Rewards and much more...",
+          "url": "https://dsf.newscorpaustralia.com/theaustralian/subscription/",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Straits Times"
+          },
+          "author": "KENNY CHEE",
+          "title": "First S'pore Govt 5G trials in Sentosa, like remote-controlled roadsweeper tests, launched - The Straits Times",
+          "description": "The trials will allow government agencies to track the capabilities of 5G for various smart nation applications.. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/tech/tech-news/first-spore-govt-5g-trials-in-sentosa-like-driverless-roadsweeper-tests-launched",
+          "urlToImage": "https://www.straitstimes.com/sites/default/files/media-youtube/YzVeVaA5tn0.jpg",
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": "SINGAPORE - Driverless roadsweeper vehicles that an operator can control from elsewhere and digital signboards that act as shopfronts for consumers to buy goods from are some new applications tapping… [+4264 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Inflation shock may hit mortgage holders hard and soon - Stuff.co.nz",
+          "description": "ANZ tips inflation to reach 5.8% early next year and the OCR 2% by August; sees real pressure for mortgage rate rises 'before long'.",
+          "url": "https://www.stuff.co.nz/business/126727285/inflation-shock-may-hit-mortgage-holders-hard-and-soon",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/o/v/i/h/image.related.StuffLandscapeSixteenByNine.1420x800.23g7ed.png/1634613663774.jpg",
+          "publishedAt": "2021-10-19T03:21:00Z",
+          "content": "Home-owners may start paying a price for higher inflation sooner rather than later, the countrys biggest bank believes. \r\n ANZ is tipping inflation will reach 5.8 per cent early next year and the off… [+1955 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Alex Turner-Cohen",
+          "title": "‘Kill it’: Crypto boss’ bleak outlook - NEWS.com.au",
+          "description": "<p>A top crypto boss has issued a grim warning about the digital currency despite record windfalls in the past week. </p>",
+          "url": "https://www.news.com.au/finance/money/investing/cardano-founders-bleak-crypto-outlook/news-story/b8cd8c7509d2cdfaee1d1a5621316d74",
+          "urlToImage": "https://content.api.news/v3/images/bin/60c0883d67b8f4c76ebb384933a3283a",
+          "publishedAt": "2021-10-19T03:17:41Z",
+          "content": "A crypto founder has issued a grim warning about the digital currency despite record windfalls in the past week, with worse on the horizon.A top crypto boss has issued a grim warning about the digita… [+4031 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": null,
+          "title": "'Disgraceful': Lemon on Fox News coverage of Powell's death - CNN",
+          "description": "Minutes after learning about the death of Gen. Colin Powell, Fox News used his death to share Covid-19 vaccine misinformation. CNN's Don Lemon reacts.",
+          "url": "https://www.cnn.com/videos/media/2021/10/19/fox-news-colin-powell-death-dons-take-sot-dlt-vpx.cnn",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018225037-don-lemon-1018-super-tease.jpeg",
+          "publishedAt": "2021-10-19T03:13:51Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Www.rfi.fr"
+          },
+          "author": "RFI",
+          "title": "Microsoft: Bill Gates warned in 2008 over 'inappropriate emails' to female employee - RFI",
+          "description": "",
+          "url": "https://www.rfi.fr/en/business-and-tech/20211019-microsoft-bill-gates-warned-in-2008-over-inappropriate-emails-to-female-employee",
+          "urlToImage": "https://s.rfi.fr/media/display/b1bb547e-3088-11ec-bc36-005056bf30b7/w:1280/p:16x9/Part-GTY-1252191631-1-1-0.jpg",
+          "publishedAt": "2021-10-19T03:00:20Z",
+          "content": "Washington (AFP)\r\nMicrosoft co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008 over… [+1044 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Moneycontrol"
+          },
+          "author": null,
+          "title": "Hindustan Unilever Q2 Results Preview | Double-digit growth in topline likely with support from all... - Moneycontrol.com",
+          "description": "Largely every segment is expected to show better growth for the quarter ended September 2021 with double digit growth in home care segment, experts feel.",
+          "url": "https://www.moneycontrol.com/news/business/earnings/hindustan-unilever-q2-results-preview-double-digit-growth-in-topline-likely-with-support-from-all-segments-7596531.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/11/Unilever-770x433.jpg",
+          "publishedAt": "2021-10-19T02:58:41Z",
+          "content": "FMCG major Hindustan Unilever has seen a 22-percent rally in its share price amid consolidation in the last one year and, it gained 9 percent in the year so far. The stock hit a record high of Rs 2,8… [+3104 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Philippine Star"
+          },
+          "author": "Ian Nicolas Cigaral",
+          "title": "Philippines' mobile internet speed improves in September — Ookla - Philstar.com",
+          "description": "Mobile internet speed in the Philippines improved in September,  but fixed broadband performance weakened.",
+          "url": "https://www.philstar.com/business/2021/10/19/2135217/philippines-mobile-internet-speed-improves-september-ookla",
+          "urlToImage": "https://media.philstar.com/photos/2021/10/19/texting-file_2021-10-19_10-59-59.jpg",
+          "publishedAt": "2021-10-19T02:57:00Z",
+          "content": "MANILA, Philippines — Mobile internet speed in the Philippines improved in September compared to the previous month, but fixed broadband performance weakened, according to a new report from network i… [+2481 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Bitcoinist"
+          },
+          "author": "Julia Arvelaiz",
+          "title": "Banned Bitcoin Miners Found Exploding China's State Resources - bitcoinist.com",
+          "description": "Banned Bitcoin (BTC) miners were recently found using China's state resources to carry on with their operations per report.",
+          "url": "https://bitcoinist.com/banned-bitcoin-miners-found-exploding-chinas-state-resources/",
+          "urlToImage": "https://bitcoinist.com/wp-content/uploads/2021/07/China-ecny-CBDC.jpg",
+          "publishedAt": "2021-10-19T02:45:16Z",
+          "content": "Banned bitcoin miners were found using China’s state resources to carry on with their operations. This happens in the midst of a severe power shortage and the country’s fierce attempt to shut down al… [+3188 chars]"
+      },
+      {
+          "source": {
+              "id": "australian-financial-review",
+              "name": "Australian Financial Review"
+          },
+          "author": "James Thomson",
+          "title": "BHP's reminder it's not all woe in iron ore - The Australian Financial Review",
+          "description": "BHP is taking its foot off the pedal in iron ore. It’s a reminder that the commodity’s price plunge doesn’t tell the whole story.",
+          "url": "https://www.afr.com/chanticleer/bhp-s-reminder-it-s-not-all-woe-in-iron-ore-20211019-p591a7",
+          "urlToImage": "https://static.ffx.io/images/$zoom_0.7936%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_140/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/655250b80d129da37e9efa976e38571c5f9f095b",
+          "publishedAt": "2021-10-19T02:45:00Z",
+          "content": "BHPs September quarter numbers were largely in line with expectations, with long-planned maintenance weighing on production volumes.\r\nIron ore production was down slightly due to a combination of mai… [+1342 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBCTV18"
+          },
+          "author": null,
+          "title": "Tuesday's top brokerage calls: UltraTech, Jindal Steel and L&T Infotech - CNBCTV18",
+          "description": "Earnings upgrade cycle for UltraTech Cement has likely come to an end for now, JP Morgan believes, whereas CLSA has initiated coverage on Jindal Steel & Power's stock with a 'buy' rating. Here are the top brokerage calls for the day:",
+          "url": "https://www.cnbctv18.com/photos/market/stocks/tuesdays-top-brokerage-calls-ultratech-jindal-steel-and-lt-infotech-11147252.htm",
+          "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2018/03/shutterstock_174273320-1019x573.jpg",
+          "publishedAt": "2021-10-19T02:38:21Z",
+          "content": "<li>\r\nJP Morgan on UltraTech Cement | Earnings upgrade cycle for UltraTech Cement has likely come to an end for now, the brokerage believes. JP Morgan expects cement price hikes to offset most of the… [+808 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "DOH: More than 2400 children with comorbidities vaccinated against COVID-19 | ANC - ANC 24/7",
+          "description": "Rundown: The Health Department says the pilot inoculation of the pediatric sector has gone smoothly so far.For more ANC Interviews, click the link below:http...",
+          "url": "https://www.youtube.com/watch?v=2UsCYV91S8g",
+          "urlToImage": "https://i.ytimg.com/vi/2UsCYV91S8g/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T02:36:15Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Japan Times"
+          },
+          "author": "Elaine Lies, Rocky Swift",
+          "title": "Lack of unified vaccination passport and testing threaten Japan's reopening - The Japan Times",
+          "description": "If botched, the reopening could also prove costly for new Prime Minister Fumio Kishida, who faces an election in under two weeks.",
+          "url": "https://www.japantimes.co.jp/news/2021/10/19/national/covid-reopening/",
+          "urlToImage": "https://cdn-japantimes.com/wp-content/uploads/2021/10/np_file_118576-870x489.jpeg",
+          "publishedAt": "2021-10-19T02:35:48Z",
+          "content": "Japan’s lack of a unified vaccination passport and limited testing capacity is threatening ambitions to reopen the economy at a crucial year-end period when restaurants earn up to a half of their ann… [+5052 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "South Bay's first public market opens in National City - CBS 8 San Diego",
+          "description": "The flavors of San Diego’s diverse culture are being showcased in National City.Market on 8th is the South Bay’s first food hall featuring more than a dozen ...",
+          "url": "https://www.youtube.com/watch?v=LDLHQ0whrMA",
+          "urlToImage": "https://i.ytimg.com/vi/LDLHQ0whrMA/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T02:35:25Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9News"
+          },
+          "author": "Stuart Marsh",
+          "title": "Qantas charged with workplace breaches after standing down aircraft cleaner who had COVID-19 concerns - 9News",
+          "description": "<p>Qantas has been charged with breaches of the NSW Work Health and Safety Act after standing down a worker who raised concerns about the exposure of workers to COVID-19.</p>",
+          "url": "https://www.9news.com.au/national/qantas-charged-with-work-health-safety-breaches-after-standing-down-aircraft-cleaner-over-covid-concerns/308626dc-ffaa-4b86-9170-81022f7b983a",
+          "urlToImage": "https://imageresizer.static9.net.au/RW0QeIxZThPor3vJw-uRZIEE7gQ=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F29baf43e-6121-48e2-a4e6-48667bdd0f51",
+          "publishedAt": "2021-10-19T02:35:13Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Catherine Shu",
+          "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A - TechCrunch",
+          "description": "Founded in 2017, Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.6 million in Series A funding led by East …",
+          "url": "http://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/Geniebook_iPhone_iPad_Interface-copy.jpg?w=463",
+          "publishedAt": "2021-10-19T02:30:31Z",
+          "content": "Founded in 2017, Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each students education. The company announced today i… [+4213 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Castanet.net"
+          },
+          "author": null,
+          "title": "Should B.C. mandate employers provide paid sick leave? - Castanet.net",
+          "description": "Many employers already provide staff with paid sick leave, and additional regulations could \"impact an organization’s ability to hire new staff, provide raises, or remain viable,\" the Greater Vernon Chamber of Commerce says.",
+          "url": "https://www.castanet.net/news/Poll/348945/Should-B-C-mandate-employers-provide-paid-sick-leave-",
+          "urlToImage": "https://www.castanet.net/content/2021/10/sick_p3556914_p3556920.jpg",
+          "publishedAt": "2021-10-19T02:30:00Z",
+          "content": "Many employers already provide staff with paid sick leave, and additional regulations could \"impact an organization’s ability to hire new staff, provide raises, or remain viable,\" the Greater Vernon … [+1393 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Business Insider Australia"
+          },
+          "author": "David Adams",
+          "title": "Don't expect wage growth any time soon, the RBA says, as it maintains interest rates will stay put until 2024 - Business Insider Australia",
+          "description": "There is little to suggest Australian wage growth in the short-term, despite reports of industry labour shortages, the Reserve Bank of Australia said.",
+          "url": "https://www.businessinsider.com.au/reserve-bank-wage-growth-interest",
+          "urlToImage": "https://imgix.businessinsider.com.au/content/uploads/sites/5/2021/10/05/GettyImages-1212653544-e1633386748270.jpg?ar=4%3A3&auto=format&fit=crop&q=65&w=1200",
+          "publishedAt": "2021-10-19T02:28:00Z",
+          "content": "<ul><li>The Reserve Bank of Australia has explained its decision to once again leave interest rates at 0.10%.</li><li>Wage growth is yet to hit its target bounds, and further increases are unlikely i… [+3120 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Straits Times"
+          },
+          "author": "hermesauto",
+          "title": "Raffles Education calls for trading halt pending announcement, after shares sink a day earlier - The Straits Times",
+          "description": "On Monday, the mainboard-listed stock tumbled 2.1 cents or 25.6 per cent to 6.1 cents - its lowest ever.. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/business/companies-markets/raffles-education-in-trading-halt-pending-announcement-after-shares-sink",
+          "urlToImage": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/10/19/md_prep1_191021.jpg?itok=-2RMFYQo",
+          "publishedAt": "2021-10-19T02:20:30Z",
+          "content": "SINGAPORE - Shares of Raffles Education Corporation (REC) were halted from trading on Tuesday morning (Oct 19), following a 26 per cent dive on Monday in the wake of a widely circulated letter by tyc… [+2065 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "AP",
+          "title": "'In 2008, warned Bill Gates against sending flirtatious email to employee': Microsoft - Hindustan Times",
+          "description": "The case, however, was dropped after Gates said he would refrain from doing so, the company said. | World News",
+          "url": "https://www.hindustantimes.com/world-news/in-2008-warned-gates-against-sending-flirtatious-email-to-employee-microsoft-101634608979645.html",
+          "urlToImage": "https://images.hindustantimes.com/img/2021/10/19/1600x900/files-india-health-virus-vaccine_f47ba9a6-07fa-11eb-adc0-f7cc04e39ce3_1634609112870.jpg",
+          "publishedAt": "2021-10-19T02:14:03Z",
+          "content": "Microsoft executives in 2008 warned Bill Gates to stop sending flirtatious emails to a female employee but dropped the matter after he told them he would stop, the company revealed Monday.\r\nThe Wall … [+2855 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Arjun Kharpal",
+          "title": "Alibaba launches new server chip to boost its cloud business in challenge to Amazon and Microsoft - CNBC",
+          "description": "Alibaba sees cloud computing as a key part of its future growth and is looking to challenge U.S. giants including Amazon and Microsoft on the global stage.",
+          "url": "https://www.cnbc.com/2021/10/19/alibaba-launches-new-server-chip-to-boost-its-cloud-business.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106882356-1620884021692-gettyimages-1231916423-CHINA_ALIBABA.jpeg?v=1620884134",
+          "publishedAt": "2021-10-19T02:14:00Z",
+          "content": "Signage at the Alibaba Group Holdings Ltd. headquarters in Hangzhou, China, on Wednesday, March 24, 2021.\r\nGUANGZHOU, China Chinese e-commerce giant Alibaba launched a new server chip on Tuesday, as … [+838 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sky.com"
+          },
+          "author": "Connor Sephton",
+          "title": "Bill Gates was warned to stop sending flirtatious emails to female colleague in 2008, Microsoft reveals - Sky News",
+          "description": "",
+          "url": "https://news.sky.com/story/bill-gates-was-warned-to-stop-sending-flirtatious-emails-to-female-colleague-in-2008-microsoft-reveals-12437925",
+          "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-bill-gates-microsoft_5551296.jpg?20211019025957",
+          "publishedAt": "2021-10-19T02:11:14Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Cointelegraph"
+          },
+          "author": "Brian Quarmby",
+          "title": "Analysts predict Valkyrie will launch Bitcoin Futures ETF this week - Cointelegraph",
+          "description": "Despite the SEC giving the green light to ProShares’ Bitcoin Futures-based ETF last week, Invesco has withdrawn its own application for a futures-backed Bitcoin fund.",
+          "url": "https://cointelegraph.com/news/analysts-predict-valkyrie-will-launch-bitcoin-futures-etf-this-week",
+          "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvM2VmMTRkOTUtOGJhNC00MjBmLWIxZGQtNzE3ODQxYjY2NzJlLmpwZw==.jpg",
+          "publishedAt": "2021-10-19T02:03:28Z",
+          "content": "Commentators are predicting that a second futures-based Bitcoin exchange-traded fund (ETF) will go live by the end of the week following the launch of ProShares Bitcoin Strategy ETF later today.\r\nOn … [+2439 chars]"
+      },
+      {
+          "source": {
+              "id": "techcrunch",
+              "name": "TechCrunch"
+          },
+          "author": "Ingrid Lunden",
+          "title": "Primer raises $50M at a $425M valuation for a framework designed to help merchants build more powerful payment flows - TechCrunch",
+          "description": "Primer — a UK startup that has built a drag-and-drop framework to help merchants easily build payment stacks to sell online — has seen rapid take-up of its services in the 20 months since it launched. Now the company is announcing a Series B of $50 million at…",
+          "url": "http://techcrunch.com/2021/10/18/primer-raises-50m-at-a-425m-valuation-for-a-framework-designed-to-help-merchants-build-more-powerful-payment-flows/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/workflow1.png?w=764",
+          "publishedAt": "2021-10-19T02:00:17Z",
+          "content": "Primer — a UK startup that has built a drag-and-drop framework to help merchants easily build payment stacks to sell online — has seen rapid take-up of its services in the 20 months since it launched… [+4165 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Business"
+          },
+          "author": "Breck Dumas",
+          "title": "UAW's John Deere strike threatens supply chain, food supply - Fox Business",
+          "description": "United Auto Workers' strike at John Deere plants could have a significant impact on a supply chain and food supply that are already in crisis.",
+          "url": "https://www.foxbusiness.com/economy/uaws-john-deere-strike-threatens-supply-chain-food-supply",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/john-deere-strike.jpg?ve=1&tl=1",
+          "publishedAt": "2021-10-19T01:55:30Z",
+          "content": "The ongoing United Auto Workers' strike at John Deere plants in several states could do serious damage to already fragile supply chains in the U.S. – and the longer it continues, the worse the proble… [+2957 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Ontario.ca"
+          },
+          "author": null,
+          "title": "How to get your COVID-19 vaccine certificate - Government of Ontario News",
+          "description": "Enter some information to learn how to get your enhanced vaccination certificate (with QR code) if you are an Ontario resident.",
+          "url": "https://covid-19.ontario.ca/get-proof/",
+          "urlToImage": "https://covid-19.ontario.ca/c19-get-proof-assets/social_image_en.png",
+          "publishedAt": "2021-10-19T01:54:10Z",
+          "content": "Enter some information to learn how to get your enhanced vaccine certificate (with an official QR code) if you are an Ontario resident.\r\nYou can get your certificate no matter where you were vaccinat… [+3972 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Bitcoin.com"
+          },
+          "author": null,
+          "title": "NY Attorney General Targets 5 Crypto Companies: 2 Lending Platforms Ordered to Shut Down – Regulation Bitcoin News - Bitcoin News",
+          "description": "New York Attorney General Letitia James has ordered two cryptocurrency lending platforms to shut down and requested three other platforms to answer questions regarding their activities immediately. The letters to the companies published on the attorney genera…",
+          "url": "https://news.bitcoin.com/ny-attorney-general-5-crypto-companies-2-lending-platforms-shut-down/",
+          "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2021/10/nyag.jpg",
+          "publishedAt": "2021-10-19T01:49:50Z",
+          "content": "New York Attorney General Letitia James has ordered two cryptocurrency lending platforms to shut down and requested three other platforms to answer questions regarding their activities immediately. T… [+3538 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Covid-19: Concern over lack of data on how many pregnant women are vaccinated, but five have been hospitalised - Stuff.co.nz",
+          "description": "In the UK, a fifth of the sickest Covid patients are pregnant and unimmunised. In NZ, five pregnant women have been hospitalised in the current outbreak.",
+          "url": "https://www.stuff.co.nz/national/health/coronavirus/126709733/covid19-concern-over-lack-of-data-on-how-many-pregnant-women-are-vaccinated-as-five-are-hospitalised",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/u/z/f/h/image.related.StuffLandscapeSixteenByNine.1420x800.23ftut.png/1634611635651.jpg",
+          "publishedAt": "2021-10-19T01:48:00Z",
+          "content": "Concern is growing about the lack of data on Covid-19 vaccination rates of pregnant women, as statistics from the United Kingdom show nearly 20 per cent of the most ill Covid patients are pregnant an… [+4592 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Independent.ie"
+          },
+          "author": "Jon Ihle",
+          "title": "Soaring job vacancies put workers in driving seat - Independent.ie",
+          "description": "The employment market is tilting heavily in favour of workers, with job vacancies soaring as businesses recruit new staff to take advantage of strong post-Covid growth.",
+          "url": "https://www.independent.ie/business/irish/soaring-job-vacancies-put-workers-in-driving-seat-40961558.html",
+          "urlToImage": "https://www.independent.ie/business/irish/ed0d3/40961557.ece/AUTOCROP/w1240h700/JOb%20vacancies.jpg",
+          "publishedAt": "2021-10-19T01:30:00Z",
+          "content": "The employment market is tilting heavily in favour of workers, with job vacancies soaring as businesses recruit new staff to take advantage of strong post-Covid growth.\r\nThe job vacancy rate in the t… [+2863 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Independent.ie"
+          },
+          "author": "Charlie Weston",
+          "title": "Insurance costs soar 15pc despite drop in payouts - Independent.ie",
+          "description": "Overall insurance costs have shot up by 15pc since new guidelines on award levels were introduced, a survey of motorists, businesses and community groups has found.",
+          "url": "https://www.independent.ie/business/personal-finance/insurance/insurance-costs-soar-15pc-despite-drop-in-payouts-40962074.html",
+          "urlToImage": "https://www.independent.ie/business/personal-finance/insurance/e2da9/40962073.ece/AUTOCROP/w1240h700/6109022018Peter%20Bol",
+          "publishedAt": "2021-10-19T01:30:00Z",
+          "content": "Overall insurance costs have shot up by 15pc since new guidelines on award levels were introduced, a survey of motorists, businesses and community groups has found.\r\nFollowing the findings of the res… [+2662 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": "Sarah Sharples",
+          "title": "The Great Resignation: Millions of Aussies predicted to leave jobs - New Zealand Herald",
+          "description": "The Great Resignation is happening across the US - and set to hit this part of the world.",
+          "url": "https://www.nzherald.co.nz/business/the-great-resignation-millions-of-aussies-predicted-to-leave-jobs/E27G3Q3YBYJFS7BR7GPUDSHNXI/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/TR_ZLz3rEbJm-98zNVgAGNimHJ0=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/CJS4WFKAAJ73ILEZI4QE6MB2IM.jpg",
+          "publishedAt": "2021-10-19T01:28:47Z",
+          "content": "Microsoft research revealed that 40 per cent of the workplace globally is considering bidding farewell to their employers this year. Photo / 123RFKelly Knowles* sees resigning from her senior leaders… [+12000 chars]"
+      },
+      {
+          "source": {
+              "id": "the-globe-and-mail",
+              "name": "The Globe And Mail"
+          },
+          "author": null,
+          "title": "Edward Rogers requests list of shareholders, discussed replacing Rogers board members, source says - The Globe and Mail",
+          "description": "The move comes amid a power struggle at Canada’s largest wireless carrier, in which the company chair tried to oust the CEO and several members of the executive team",
+          "url": "https://www.theglobeandmail.com/business/article-edward-rogers-requests-list-of-shareholders-discussed-replacing-rogers/",
+          "urlToImage": "https://www.theglobeandmail.com/resizer/UdhwOMS0q_n9i2Volun9YXax0y4=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/657NWXAOIBFONMMICJV2HRWFAU.JPG",
+          "publishedAt": "2021-10-19T01:27:14Z",
+          "content": "Rogers Communications Inc. has been in a power struggle, in which Edward Rogers tried to oust chief executive officer Joe Natale and several members of the executive team, but was thwarted by the boa… [+5091 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Ctvnews.ca"
+          },
+          "author": null,
+          "title": "Dexter says loan to Halifax Shipyard was 'most lucrative investment' N.S. has ever made - CTV News Atlantic",
+          "description": "In an interview with CTV Atlantic on Monday evening, Dexter says $260-million forgivable loan made to the Irving-owned Halifax Shipyard was a good investment.",
+          "url": "https://atlantic.ctvnews.ca/dexter-says-loan-to-halifax-shipyard-was-most-lucrative-investment-n-s-has-ever-made-1.5628456",
+          "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2021/10/18/darrell-dexter-1-5628432-1634604646075.jpg",
+          "publishedAt": "2021-10-19T01:25:00Z",
+          "content": "HALIFAX - \r\nFormer Nova Scotia premier Darrell Dexter said the province put a \"full-court press\" on to convince the federal government to award the national shipbuilding contract to the Halifax Shipy… [+1972 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "9News"
+          },
+          "author": "Stuart Marsh",
+          "title": "Westpac hikes fixed rate home loan rates, signalling the end of ultra-cheap financing - 9News",
+          "description": "<p>Westpac is the latest big four bank to hike up its fixed home loan rates, prompting experts to warn that the days of ultra-low property financing are numbered.</p>",
+          "url": "https://www.9news.com.au/national/westpac-hikes-fixed-rate-home-loan-rates-signalling-end-to-ultra-cheap-financing/d9484124-5ac4-4103-a2b1-87b4d65e807b",
+          "urlToImage": "https://imageresizer.static9.net.au/UqhIwON9w-U0dXb6mQ6YNc8qj8M=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F32ba63c3-608c-4642-ab57-73583dc58e52",
+          "publishedAt": "2021-10-19T01:14:31Z",
+          "content": "Property News: House prices in some school catchments explode by up to $367,000 - domain.com.au"
+      },
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Laurie McGinley",
+          "title": "FDA to allow 'mix-and-match' approach on coronavirus booster vaccines - The Washington Post",
+          "description": "The agency is rushing to make the announcement Wednesday as part of its authorization of boosters for Moderna and Johnson & Johnson vaccines.",
+          "url": "https://www.washingtonpost.com/health/2021/10/18/covid-booster-shots-mix-and-match/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7QAZJRLR4I6ZML5TBOBQ3PDHA.jpg&w=1440",
+          "publishedAt": "2021-10-19T01:11:52Z",
+          "content": "Johnson &amp; Johnsons vaccine has been shown to be less effective than the Pfizer-BioNTech and Moderna vaccines, so there is intense focus on how to boost protection for recipients of the single-sho… [+2961 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Stephen Johnson",
+          "title": "Why Australian house prices could soon fall with only a third of people excited about buying home - Daily Mail",
+          "description": "Just a third of Australians believe now is a good time to buy despite the fastest annual surge in property prices since 1989. Now a major bank is expecting price growth to slow next year and fall in 2023.",
+          "url": "https://www.dailymail.co.uk/news/article-10105565/Why-Australian-house-prices-soon-fall-people-excited-buying-home.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/19/01/49344471-0-image-a-6_1634603941082.jpg",
+          "publishedAt": "2021-10-19T01:06:57Z",
+          "content": "House prices could soon start falling as buyer sentiment sours toward real estate investment.\r\nNew figures from Finder showed only a third of people believed now is a good time to buy and the vast ma… [+6462 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Covid: Why are UK cases so high? - BBC News",
+          "description": "The UK has higher infections than most of its neighbours, as scientists fear a difficult winter.",
+          "url": "https://www.bbc.com/news/health-58954793",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66B4/production/_121129262_gettyimages-1235932169.jpg",
+          "publishedAt": "2021-10-19T01:03:32Z",
+          "content": "By Reality Check teamBBC News\r\nImage source, Getty Images\r\nCovid cases in the UK are higher now than they were this time last year when parts of England were under local lockdowns. Thanks to the vacc… [+5257 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sydney Morning Herald"
+          },
+          "author": "Stephen Bartholomeusz",
+          "title": "China’s economy is cooling rapidly and Australia could feel the chill - Sydney Morning Herald",
+          "description": "China’s economy is confronting many challenges, some of its own making. How it deals with them will have flow-on effects to the rest of the world and, most particularly, Australia.",
+          "url": "https://www.smh.com.au/business/the-economy/china-s-economy-is-cooling-rapidly-and-australia-could-feel-the-chill-20211019-p5918i.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_0.2119%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/q_86%2Cf_auto/t_smh_opinion_no_age_social_wm/eda3dbc958b6cb0cddef714803f6e8513b3e6393",
+          "publishedAt": "2021-10-19T00:59:41Z",
+          "content": "Slowing growth and high levels of inflation threaten stagflation, a phenomenon last seen during the oil crisis in the 1970s and one that would pose a dilemma for central banks, given that raising int… [+4915 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Andrew Brown",
+          "title": "Telstra, Optus: Australian phone and internet companies to avoid as problem resolution time doubles - Daily Mail",
+          "description": "The Australian Communications and Media Authority found that while the number of complaints to telcos has fallen, the time taken to fix the issues has risen 49 per cent in two years.",
+          "url": "https://www.dailymail.co.uk/news/article-10105847/Telstra-Optus-Australian-phone-internet-companies-avoid-problem-resolution-time-doubles.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/19/01/49344431-0-image-a-5_1634604283930.jpg",
+          "publishedAt": "2021-10-19T00:52:17Z",
+          "content": "Australian telcos are taking longer to resolve customer complaints, with most taking almost two weeks to complete, the communications watchdog says.\r\nThe Australian Communications and Media Authority… [+2532 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Some OPEC+ members falling short in terms of oil production in September - Arirang News",
+          "description": "OPEC+, 9월 재차 생산목표 미달...\"일부 산유국 증산에 어려움\"OPEC-Plus' compliance to its pledged oil cuts fell slightly in September,... showing that while it raised production t...",
+          "url": "https://www.youtube.com/watch?v=y7WYjZTnqvs",
+          "urlToImage": "https://i.ytimg.com/vi/y7WYjZTnqvs/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T00:49:23Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "Alnoor Peermohamed",
+          "title": "Devas Multimedia eyeing foreign assets of Indian govt to enforce $1.3 bn arbitral award - Economic Times",
+          "description": "Earlier this year, NCLT ordered the winding up of Devas Multimedia, ruling that the incorporation of the company itself was done with fraudulent motives to siphon off funds to foreign accounts. The order was upheld by the National Company Law Appellate Tribun…",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/devas-multimedia-eyeing-foreign-assets-of-indian-govt-to-enforce-1-3-bn-arbitral-award/articleshow/87125719.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-87125775,width-1070,height-580,imgsize-20184,overlay-economictimes/photo.jpg",
+          "publishedAt": "2021-10-19T00:49:00Z",
+          "content": "Devas Multimedia's investors are eyeing several properties owned by the Indian government across the world, as they seek to enforce a $1.3 billion arbitral award the satellite company won against Ant… [+3702 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "KETV Omaha"
+          },
+          "author": "Michelle Bandur",
+          "title": "'They will hurt somebody bad': Striking Kellogg's workers get hit by buses on picket line - KETV Omaha",
+          "description": "Workers say buses carrying non-union workers hit three workers in two weeks, none seriously hurt",
+          "url": "https://www.ketv.com/article/they-will-hurt-somebody-bad-striking-kelloggs-workers-get-hit-by-buses-on-picket-line/37994857",
+          "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/ketv/24654002-24654002.jpg?crop=0.982xw:0.983xh;0,0&resize=1200:*",
+          "publishedAt": "2021-10-19T00:46:00Z",
+          "content": "OMAHA, Neb. —Omaha police said officers have been called to the Omaha Kellogg's plant in the past two weeks several times for disturbances, blocking traffic and even assaults.\r\nKellogg's employees sa… [+2205 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Drive.com.au"
+          },
+          "author": null,
+          "title": "Mercedes dealers in Australia launch legal action over fixed-price business model - Drive",
+          "description": "Mercedes-Benz dealers in Australia are taking legal action against the German car giant over a new fixed-price business structure. The outcome could set a",
+          "url": "https://www.drive.com.au/news/mercedes-dealers-in-australia-launch-legal-action-over-fixed-price-business-model/",
+          "urlToImage": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_720,q_auto:best,w_1280/v1/cms/uploads/ntdmlgo3fu7lparw5ttr",
+          "publishedAt": "2021-10-19T00:45:00Z",
+          "content": "Mercedes has forced its dealers to sign oppressive new agreements at short notice with the threat they could lose their businesses and without paying any compensation for the value built up in these … [+184 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CoinDesk"
+          },
+          "author": "Sebastian Sinclair",
+          "title": "Australia Has Third Highest Rate of Crypto Adoption in the World: Finder Survey - CoinDesk",
+          "description": "Finder’s survey found Australia has the third-highest rate of crypto ownership above 17%.",
+          "url": "https://www.coindesk.com/markets/2021/10/19/australia-has-third-highest-rate-of-crypto-adoption-in-the-world-finder-survey/",
+          "urlToImage": "https://www.coindesk.com/resizer/Io8fQ6H9vNMzWOGhYaclHNW-JTQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HQX3K7EX4RHHXELJZU6DBEQP3Y.jpg",
+          "publishedAt": "2021-10-19T00:45:00Z",
+          "content": "Australians love to gamble, Fred Schebesta, CEO of Finder, told CoinDesk via Signal on Monday. They are also super savvy in terms of finance ... the laws around crypto make it super smooth to buy and… [+5 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Business Standard"
+          },
+          "author": "Twesh Mishra",
+          "title": "BPCL privatisation likely to face a bump on rising fuel prices in India - Business Standard",
+          "description": "A major chunk of the auto fuel price in the country consists of state and central taxes",
+          "url": "https://www.business-standard.com/article/companies/bpcl-privatisation-likely-to-face-a-bump-on-rising-fuel-prices-in-india-121101801252_1.html",
+          "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/18/full/1634575909-3954.jpg",
+          "publishedAt": "2021-10-19T00:38:00Z",
+          "content": "Business Standard has always strived hard to provide up-to-date information and commentary on developments that are of interest to you and have wider political and economic implications for the count… [+1029 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sun Daily"
+          },
+          "author": null,
+          "title": "Pfizer seeks green light for Covid jab for children aged 5-11 in Canada - The Sun Daily",
+          "description": "MONTREAL: Pfizer-BioNTech submitted an authorization request to Health Canada on Monday for the use of its Covid-19 vaccine in children aged 5-11, the...",
+          "url": "https://www.thesundaily.my/world/pfizer-seeks-green-light-for-covid-jab-for-children-aged-5-11-in-canada-EC8477655",
+          "urlToImage": "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/VEIS/pfizer-reuters_1955088_20211019083831.jpg",
+          "publishedAt": "2021-10-19T00:38:00Z",
+          "content": "MONTREAL: Pfizer-BioNTech submitted an authorization request to Health Canada on Monday for the use of its Covid-19 vaccine in children aged 5-11, the companies and the Canadian government said.\r\nThi… [+1296 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "nj.com"
+          },
+          "author": "Nicolette Accardi | NJ Advance Media for NJ.com",
+          "title": "Walmart’s Black Friday 2021 ad has leaked, and some items are already discounted - NJ.com",
+          "description": "Here are all the deals that Walmart has leaked on its Black Friday 2021 ad so far",
+          "url": "https://www.nj.com/shopping-deals/2021/10/walmarts-black-friday-2021-ad-has-leaked-and-some-items-are-already-discounted.html",
+          "urlToImage": "https://www.nj.com/resizer/HuDtspv2nbd8hI1eabqVA3psog0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/C7IODY3RKJDEZNZTKL5FRMJXVQ.png",
+          "publishedAt": "2021-10-19T00:30:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Philippine Star"
+          },
+          "author": null,
+          "title": "Stock Commentary: Basic Energy board approves 60% acquisition of Filoil - Philstar.com",
+          "description": "This is a company that will have its future closely tied to our economic growth.",
+          "url": "https://www.philstar.com/business/stock-commentary/2021/10/19/2135208/basic-energy-board-approves-60-acquisition-filoil",
+          "urlToImage": "https://media.philstar.com/photos/2021/07/01/stock-commentary-thumbv3jpg_2021-07-01_08-58-57.jpg",
+          "publishedAt": "2021-10-19T00:30:00Z",
+          "content": "After a special board meeting, Basic Energy Corporation [BSC 0.60 5.26%] disclosed that its directors had approved a motion to acquire “up to 60%” of the Filoil Energy Company (FEC), and that the boa… [+2065 chars]"
+      },
+      {
+          "source": {
+              "id": "cbc-news",
+              "name": "CBC News"
+          },
+          "author": null,
+          "title": "Vancouver Island man accused of selling fake $1 million share in legendary hotel - CBC.ca",
+          "description": "The B.C. Securities Commission claims a Vancouver Island man defrauded an investor of $1 million through the sale of a fake ownership interest in a legendary Vancouver Island hotel.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/durkin-bcsc-sooke-harbour-fraud-1.6215810",
+          "urlToImage": "https://i.cbc.ca/1.4886070.1541008240!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/timothy-durkin.JPG",
+          "publishedAt": "2021-10-19T00:29:00Z",
+          "content": "The B.C. Securities Commission claims a Vancouver Island man defrauded an investor of $1 million through the sale of a fake ownership interest in a legendary hotel.\r\nThe BCSC's allegation against Tim… [+3680 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Sarah Sharples",
+          "title": "‘Devalued’: Millions of Aussies to quit work - NEWS.com.au",
+          "description": "<p>Kelly Knowles* sees resigning from her senior leadership role at a major bank, where she earns a six-figure salary, as leaving an &ldquo;abusive relationship&rdquo;.</p>",
+          "url": "https://www.news.com.au/finance/work/at-work/the-great-resignation-millions-of-aussies-predicted-to-leave-jobs/news-story/36aaf2081cc6a17c095b9dd0105814c3",
+          "urlToImage": "https://content.api.news/v3/images/bin/45481e77addd07b1833cc38abfcbbd54",
+          "publishedAt": "2021-10-19T00:25:20Z",
+          "content": "A trend called the Great Resignation is happening across the US, with staff from all types of industries leaving their jobs and exhausted Aussies could follow.Kelly Knowles* sees resigning from her s… [+12407 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "FBC News"
+          },
+          "author": null,
+          "title": "Massive demand from overseas for Fiji travel - FBC News",
+          "description": null,
+          "url": "https://www.fbcnews.com.fj/business/massive-demand-from-overseas-for-fiji-travel/",
+          "urlToImage": "https://www.fbcnews.com.fj/wp-content/uploads/2021/09/fiji-airways.jpg",
+          "publishedAt": "2021-10-19T00:24:17Z",
+          "content": "Fiji Airways has so far received over 19,000 bookings from people wanting to travel when the airline hits the skies on December 1.\r\nAnd this also includes those Fijians who reside in overseas countri… [+1459 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The New Daily"
+          },
+          "author": null,
+          "title": "Retail Food Group sued by Michel’s Patisserie franchisees over ‘disgusting’ frozen food - The New Daily",
+          "description": "Embattled franchisor Retail Food Group is facing a multimillion-dollar class action over claims its franchisees were left financially ruined.",
+          "url": "https://thenewdaily.com.au/finance/finance-news/2021/10/19/rfg-class-action/",
+          "urlToImage": "https://1v1d1e1lmiki1lgcvx32p49h8fe-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/1634598949-michels-patisserie-2-960x600.jpeg",
+          "publishedAt": "2021-10-19T00:23:50Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": "Chris Keall",
+          "title": "'No security breach' says Mitre 10 as multi-day website outage grinds on - New Zealand Herald",
+          "description": "Foul-up means no click-and-collect for customers in level 3-restricted Auckland.",
+          "url": "https://www.nzherald.co.nz/business/no-security-breach-says-mitre-10-as-multi-day-website-outage-grinds-on/APLIH6LM7C2RMGDHD2KKDKPAUY/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/7Dlc1PxUZXATw4LQc9C2tdKaFvI=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/WBK6AJKL75IZQULJI6P6ZAQ66I.jpg",
+          "publishedAt": "2021-10-19T00:18:00Z",
+          "content": "There's good news, of sorts, for Mitre 10 customers and franchisees as the hardware chain's multi-day website outage grinds on.\r\nThe company's corporate office says the e-tail blackout is due to \"tec… [+3162 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "BRUCE SCHREINER",
+          "title": "Bourbon producer signals intent to hire replacement workers - Yahoo News",
+          "description": "Declaring an impasse in contract talks with striking union workers, global spirits producer Heaven Hill said Monday it will start hiring permanent...",
+          "url": "https://news.yahoo.com/bourbon-producer-signals-intent-hire-001239666.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rutIm21zYSa554Te1YO38g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/bQxGjFE1TwiyDzqkFV23.A--~B/aD00NDgwO3c9NjcyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/0440905775f152847bd84da925dfb9c0",
+          "publishedAt": "2021-10-19T00:15:17Z",
+          "content": "Declaring an impasse in contract talks with striking union workers, global spirits producer Heaven Hill said Monday it will start hiring permanent replacement workers for bottling and warehouse opera… [+2937 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Theregister.com"
+          },
+          "author": "Katyanna Quach",
+          "title": "Canon makes 'all-in-one' printers that refuse to scan when out of ink, lawsuit claims - The Register",
+          "description": "We can't wait to see the logic gymnastics needed to justify this",
+          "url": "https://www.theregister.com/2021/10/19/canon_lawsuit_ink/",
+          "urlToImage": "https://regmedia.co.uk/2019/11/27/printer.jpg",
+          "publishedAt": "2021-10-19T00:15:00Z",
+          "content": "Canon USA has been accused of forcing customers to buy ink cartridges when they only want to scan and fax documents using the manufacturer's so-called All-In-One multi-function printers.\r\nDavid Leacr… [+1778 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Star Online"
+          },
+          "author": "GANESHWARAN KANA",
+          "title": "Brace for crude palm oil price correction - The Star Online",
+          "description": "PETALING JAYA: The plantation industry has been going on a joyride with crude palm oil (CPO) prices surging to record-high levels, but this trend may shift to a lower gear over the next few months.",
+          "url": "https://www.thestar.com.my/business/business-news/2021/10/19/brace-for-crude-palm-oil-price-correction",
+          "urlToImage": "https://apicms.thestar.com.my/uploads/images/2021/10/19/1336768.jpg",
+          "publishedAt": "2021-10-19T00:01:55Z",
+          "content": "PETALING JAYA: The plantation industry has been going on a joyride with crude palm oil (CPO) prices surging to record-high levels, but this trend may shift to a lower gear over the next few months.\r\n… [+3542 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CryptoPotato"
+          },
+          "author": "Dimitar Dzhondzhorov",
+          "title": "Crypto Frauds in The UK Resulted in $200 Million Stolen in 2021: Report - CryptoPotato",
+          "description": "Victims of crypto-related frauds in the UK have lost around $200 million between January and October this year, a report stated.",
+          "url": "https://cryptopotato.com/crypto-frauds-in-the-uk-resulted-in-200-million-stolen-in-2021-report/",
+          "urlToImage": "https://cryptopotato.com/wp-content/uploads/2020/12/ScamAlert-min.jpg",
+          "publishedAt": "2021-10-18T23:46:27Z",
+          "content": "The number of cryptocurrency-related crimes in the United Kingdom has significantly surged in the first nine months of 2021 comparing to last year, reads a recent report. The local police warned that… [+2616 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Times"
+          },
+          "author": "Neil Vigdor",
+          "title": "Washington Metro Pulls Most Train Cars From Service After Derailment - The New York Times",
+          "description": "The Washington Metropolitan Area Transit Authority idled 748 Metro cars on Monday after one train derailed at least three times on Oct. 12, officials said.",
+          "url": "https://www.nytimes.com/2021/10/18/us/dc-metro-train-axles.html",
+          "urlToImage": "https://static01.nyt.com/images/2021/10/18/us/18xp-dcmetro/18xp-dcmetro-facebookJumbo-v3.jpg",
+          "publishedAt": "2021-10-18T23:42:40Z",
+          "content": "We are concerned about other transit agencies in the United States, Ms. Homendy said. We may at some point issue an urgent recommendation, or Id say if youre a transit agency operating in the United … [+1710 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "THISDAY Newspapers"
+          },
+          "author": null,
+          "title": "RentSmallSmall Joins Techstars Accelerator with Pay-as-you-Stay Rental Solution - THISDAY Newspapers",
+          "description": "Fadekemi Ajakaiye RentSmallSmall, a Nigerian property technology startup that is reorganising the home rental market in Nigeria, has been accepted to join the Techstars Toronto Accelerator Programm…",
+          "url": "https://www.thisdaylive.com/index.php/2021/10/19/rentsmallsmall-joins-techstars-accelerator-with-pay-as-you-stay-rental-solution/",
+          "urlToImage": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/276e6e6f-screen-shot-2021-10-18-at-1.42.55-pm.png",
+          "publishedAt": "2021-10-18T23:42:13Z",
+          "content": "Fadekemi Ajakaiye\r\nRentSmallSmall, a Nigerian property technology startup that is reorganising the home rental market in Nigeria, has been accepted to join the Techstars Toronto Accelerator Programme… [+4173 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Eustance Huang",
+          "title": "Asia-Pacific shares rise as investors watch Apple supplier stocks - CNBC",
+          "description": "The Reserve Bank of Australia is set to release minutes from its October monetary policy meeting minutes on Tuesday morning.",
+          "url": "https://www.cnbc.com/2021/10/19/asia-markets-reserve-bank-of-australia-meeting-minutes-apple-suppliers-currencies-oil.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106868547-1618443427035-gettyimages-1230415697-JAPAN_STOCK.jpeg?v=1634600041",
+          "publishedAt": "2021-10-18T23:40:32Z",
+          "content": "SINGAPORE Shares in Asia-Pacific rose in Tuesday morning trade following overnight gains on Wall Street that saw the S&amp;P 500 notching its fourth day of gains.\r\nThe Nikkei 225 in Japan gained 0.46… [+1320 chars]"
+      }
   ]
 }

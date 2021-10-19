@@ -1,266 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 586,
+  "totalResults": 682,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Earth.com"
+      {
+          "source": {
+              "id": null,
+              "name": "The Weather Channel"
+          },
+          "author": null,
+          "title": "NASA's Perseverance Rover Captures a Panoramic View of Mars' South Seitah Region, Offering Clues To Its Mysterious Past | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
+          "description": "Composed of 84 individual enhanced-colour images later stitched together, the mosaic was taken on September 12 by the Mastcam-Z camera system. - Articles from The Weather Channel | weather.com",
+          "url": "https://weather.com/en-IN/india/space/news/2021-10-19-perseverance-rover-captures-a-panoramic-view-of-mars-south-seitah",
+          "urlToImage": "https://s.w-x.co/in-mars_11.jpg",
+          "publishedAt": "2021-10-19T06:30:43Z",
+          "content": "NASA's Perseverance rover has clicked a panorama view of the \"South Seitah\" region of Mars' Jezero Crater, offering clues to the area's mysterious past.\r\nComposed of 84 individual enhanced-colour ima… [+2696 chars]"
       },
-      "author": null,
-      "title": "Strange radio waves are coming from the center of our galaxy - Earth.com",
-      "description": "Strange radio waves are coming from the center of our galaxy • Earth.com",
-      "url": "https://www.earth.com/news/strange-radio-waves-are-coming-from-the-center-of-our-galaxy/",
-      "urlToImage": "https://cff2.earth.com/uploads/2021/10/18061643/Galaxy-scaled.jpg",
-      "publishedAt": "2021-10-18T12:30:53Z",
-      "content": "Astronomers from the University of Sydney have recently detected a very unusual radio signal coming from the direction of the center of our galaxy. These radio waves fit no currently understood patte… [+2365 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": null,
+              "name": "ScienceAlert"
+          },
+          "author": "Michelle Starr",
+          "title": "Astronomers May Have Just Found Evidence of The Very First Stars in Our Universe - ScienceAlert",
+          "description": "Back when the Universe was young – around 13.7 billion years ago – the first stars formed in the soupy darkness, setting the cosmos alight.",
+          "url": "https://www.sciencealert.com/astronomers-may-have-just-found-evidence-of-the-first-stars-in-the-universe",
+          "urlToImage": "https://www.sciencealert.com/images/2021-10/processed/sculptor_1024.jpg",
+          "publishedAt": "2021-10-19T06:27:21Z",
+          "content": "Back when the Universe was young around 13.7 billion years ago the first stars formed in the soupy darkness, setting the cosmos alight.\r\nWe've yet to find any of these very first stars, known as Popu… [+4133 chars]"
       },
-      "author": "Oliver Stoner",
-      "title": "Africa is the key to ending the harmful use of polluting fuels in the home - Phys.org",
-      "description": "In wealthy countries, most people can barely imagine using anything other than electricity or gas to cook in their homes. But billions of people around the world, including the majority of Africans and most of the world's rural population, rely on polluting f…",
-      "url": "https://phys.org/news/2021-10-africa-key-polluting-fuels-home.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/africa-is-the-key-to-e.jpg",
-      "publishedAt": "2021-10-18T12:30:01Z",
-      "content": "In wealthy countries, most people can barely imagine using anything other than electricity or gas to cook in their homes. But billions of people around the world, including the majority of Africans a… [+5633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": "Edited by Gadgets 360 Newsdesk",
+          "title": "NASA Shares Stunning Panorama Shot of Milky Way's Galactic Centre - Gadgets 360",
+          "description": "NASA never stops surprising us with stunning images from outer space. In a new Instagram post, the space agency has released a new photo of Milky Way on October 19. The colourful image is a panorama of the Milky Way's galactic centre.",
+          "url": "https://gadgets.ndtv.com/science/news/nasa-milky-way-photo-instagram-galactic-centre-colours-2580197",
+          "urlToImage": "https://i.gadgets360cdn.com/large/nasa_milky_way_instagram_1634624359051.jpg",
+          "publishedAt": "2021-10-19T06:23:19Z",
+          "content": "NASA never stops surprising us with stunning images from outer space. In a new Instagram post, the space agency has released a new photo of Milky Way on October 19. The colourful image is a panorama … [+2093 chars]"
       },
-      "author": "Elizabeth C. Turner",
-      "title": "A new fossil discovery may add hundreds of millions of years to the evolutionary history of animals - Phys.org",
-      "description": "Ever wonder how and when animals swanned onto the evolutionary stage? When, where and why did animals first appear? What were they like?",
-      "url": "https://phys.org/news/2021-10-fossil-discovery-hundreds-millions-years.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/a-new-fossil-discovery.jpg",
-      "publishedAt": "2021-10-18T12:10:04Z",
-      "content": "Ever wonder how and when animals swanned onto the evolutionary stage? When, where and why did animals first appear? What were they like?\r\nLife has existed for much of Earth's 4.5-billion-year history… [+5737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
+      {
+          "source": {
+              "id": null,
+              "name": "Presstories.com"
+          },
+          "author": "Cary Douglas",
+          "title": "The meteorite fell on the woman's bed while she was asleep - The Press Stories",
+          "description": "The meteorite fell on the woman's bed while she was asleep The Press Stories",
+          "url": "https://presstories.com/2021/10/19/the-meteorite-fell-on-the-womans-bed-while-she-was-asleep/",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T06:09:28Z",
+          "content": "A woman in Canada is said to have been awakened by a meteorite falling through the roof and falling into bed while she was asleep.\r\nAccording to The New York TimesRuth Hamilton, 66, was sleeping well… [+2268 chars]"
       },
-      "author": "Buzz Staff",
-      "title": "Did Venus Ever Have Oceans Like Earth? Study Aims to Answer Once and for All - News18",
-      "description": "The results of the analysis showed that the climatic conditions did not allow water vapour to condense in the atmosphere of Venus.",
-      "url": "https://www.news18.com/news/buzz/did-venus-ever-have-oceans-like-earth-study-aims-to-answer-once-and-for-all-4336025.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/09/venus-clouds-life-form-163299369116x9.jpg",
-      "publishedAt": "2021-10-18T12:09:16Z",
-      "content": "Scientists have hinted at how Earths neighbouring planet Venus may have once had water bodies and perfect conditions for life to exist. Now, a team of astrophysicists led by the University of Geneva … [+1826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": "ign",
+              "name": "IGN"
+          },
+          "author": "Adele Ankers",
+          "title": "Meteorite Fell Onto Woman's Bed While She Was Sleeping - IGN India",
+          "description": "Something went bump in the night — and the odds of it happening were about 1 in 100 billion.",
+          "url": "https://in.ign.com/science-1/168959/news/meteorite-fell-onto-womans-bed-while-she-was-sleeping",
+          "urlToImage": "https://sm.ign.com/t/ign_in/news/m/meteorite-/meteorite-fell-onto-womans-bed-while-she-was-sleeping_5vtd.1200.jpg",
+          "publishedAt": "2021-10-19T06:01:25Z",
+          "content": "A woman in Canada was allegedly woken by a meteorite crashing through her roof and landing on her bed while she was asleep.\r\nAccording to The New York Times, 66-year-old Ruth Hamilton was sound aslee… [+2547 chars]"
       },
-      "author": "Science X staff",
-      "title": "Team discovers a new approach to unveil the Origin of Life: Evaporation - Phys.org",
-      "description": "What is the origin of life? It is a question that has consumed the work and time of scientists for centuries. Recently a group of researchers from the University of Hong Kong (HKU) has shed light on the possible ways forward to examine how living things are f…",
-      "url": "https://phys.org/news/2021-10-team-approach-unveil-life-evaporation.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/team-discovers-a-new-a.jpg",
-      "publishedAt": "2021-10-18T12:06:58Z",
-      "content": "What is the origin of life? It is a question that has consumed the work and time of scientists for centuries. Recently a group of researchers from the University of Hong Kong (HKU) has shed light on … [+5890 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": null,
+              "name": "Big Think"
+          },
+          "author": "Ethan Siegel",
+          "title": "Humanity is completely unprepared for the next giant solar flare - Big Think",
+          "description": "For the past 150+ years, the big ones have all missed us. At some point, our good luck will run out.",
+          "url": "https://bigthink.com/starts-with-a-bang/giant-solar-flare/",
+          "urlToImage": "https://bigthink.com/wp-content/uploads/2021/10/https___specials-images.forbesimg.com_imageserve_584833e14bbe6f1f20e88918_A-solar-flare-at-right-occurs-when-magnetic-field-lines-split-apart-and-reconnect-_960x0.jpg",
+          "publishedAt": "2021-10-19T06:00:00Z",
+          "content": null
       },
-      "author": "Meaghan MacSween",
-      "title": "Astronomer's research suggests 'magnetic tunnel' surrounds our solar system - Phys.org",
-      "description": "A University of Toronto astronomer's research suggests the solar system is surrounded by a magnetic tunnel that can be seen in radio waves.",
-      "url": "https://phys.org/news/2021-10-astronomer-magnetic-tunnel-solar.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/astronomers-research-s-1.jpg",
-      "publishedAt": "2021-10-18T12:05:03Z",
-      "content": "A University of Toronto astronomer's research suggests the solar system is surrounded by a magnetic tunnel that can be seen in radio waves.\r\nJennifer West, a research associate at the Dunlap Institut… [+4247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "Bharat Sharma",
+          "title": "Are Humans Lab Rats? Harvard Professor Says Aliens Created Universe In A Lab - India Times",
+          "description": "Listen up, fellow Earthlings. Your alien-flavoured speculations may now be supported by a well-revered Harvard professor who claims that aliens created the Milky Way galaxy and all life, including humans in it.Abraham (Avi) Loeb once headed Harvard University…",
+          "url": "https://www.indiatimes.com/technology/science-and-future/harvard-professor-aliens-created-universe-551945.html",
+          "urlToImage": "https://im.indiatimes.in/content/2021/Oct/Social-image_616e531e9ed46.jpg",
+          "publishedAt": "2021-10-19T05:30:03Z",
+          "content": "Listen up, fellow Earthlings. Your alien-flavoured speculations may now be supported by a well-revered Harvard professor who claims that aliens created the Milky Way galaxy and all life, including hu… [+2527 chars]"
       },
-      "author": "Science X staff",
-      "title": "The orbital flatness of planetary systems - Phys.org",
-      "description": "The planets of the solar system all orbit the Sun more-or-less in a plane. Compared to the Earth's orbit, which defines the plane at zero degrees, the orbit with the largest angle is Mercury's whose inclination is 7 degrees (the angle of the orbit of the dwar…",
-      "url": "https://phys.org/news/2021-10-orbital-flatness-planetary.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/the-orbital-flatness-o.jpg",
-      "publishedAt": "2021-10-18T12:03:07Z",
-      "content": "The planets of the solar system all orbit the Sun more-or-less in a plane. Compared to the Earth's orbit, which defines the plane at zero degrees, the orbit with the largest angle is Mercury's whose … [+3380 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
+      {
+          "source": {
+              "id": null,
+              "name": "Devdiscourse"
+          },
+          "author": "ANI",
+          "title": "Gamma-ray Telescope selected by NASA to chart Milky Way evolution - Devdiscourse",
+          "description": "The US space agency National Aeronautics and Space Administration (NASA) has selected a new space telescope proposal to study the recent history of star birth, star death, and the formation of chemical elements in the Milky Way.",
+          "url": "https://www.devdiscourse.com/article/science-environment/1773098-gamma-ray-telescope-selected-by-nasa-to-chart-milky-way-evolution",
+          "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_10_2021_05_11_38_8376816.jpg?width=920&format=jpeg",
+          "publishedAt": "2021-10-19T05:11:57Z",
+          "content": "The US space agency National Aeronautics and Space Administration (NASA) has selected a new space telescope proposal to study the recent history of star birth, star death, and the formation of chemic… [+2187 chars]"
       },
-      "author": "Adele Ankers",
-      "title": "Meteorite Fell Onto Woman's Bed While She Was Sleeping - IGN SOUTH EAST ASIA",
-      "description": "Something went bump in the night — and the odds of it happening were about 1 in 100 billion.",
-      "url": "https://sea.ign.com/science-1/177820/news/meteorite-fell-onto-womans-bed-while-she-was-sleeping",
-      "urlToImage": "https://sm.ign.com/t/ign_ap/news/m/meteorite-/meteorite-fell-onto-womans-bed-while-she-was-sleeping_t6vd.1200.jpg",
-      "publishedAt": "2021-10-18T12:00:21Z",
-      "content": "A woman in Canada was allegedly woken by a meteorite crashing through her roof and landing on her bed while she was asleep.\r\nAccording to The New York Times, 66-year-old Ruth Hamilton was sound aslee… [+2547 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Tara Conlan",
+          "title": "Earth’s demise could rid galaxy of meaning, warns Brian Cox ahead of Cop26 - The Guardian",
+          "description": "Unique events that led to civilisation mean its demise could ‘eliminate meaning in galaxy for ever’",
+          "url": "https://amp.theguardian.com/science/2021/oct/19/earths-demise-could-rid-galaxy-of-meaning-warns-brian-cox-ahead-of-cop26",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:01:00Z",
+          "content": "Brian CoxUnique events that led to civilisation mean its demise could eliminate meaning in galaxy for ever\r\nTue 19 Oct 2021 06.01 BST\r\nHumans might be the only intelligent beings in our galaxy, so de… [+4226 chars]"
       },
-      "author": "Adele Ankers",
-      "title": "Meteorite Fell Onto Woman's Bed While She Was Sleeping - IGN Nordics",
-      "description": "Something went bump in the night — and the odds of it happening were about 1 in 100 billion.",
-      "url": "https://nordic.ign.com/science-1/50606/news/meteorite-fell-onto-womans-bed-while-she-was-sleeping",
-      "urlToImage": "https://sm.ign.com/t/ign_nordic/news/m/meteorite-/meteorite-fell-onto-womans-bed-while-she-was-sleeping_bb83.1200.jpg",
-      "publishedAt": "2021-10-18T11:48:11Z",
-      "content": "A woman in Canada was allegedly woken by a meteorite crashing through her roof and landing on her bed while she was asleep.\r\nAccording to The New York Times, 66-year-old Ruth Hamilton was sound aslee… [+2547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZME Science"
+      {
+          "source": {
+              "id": null,
+              "name": "Cgtn.com"
+          },
+          "author": "",
+          "title": "China in space – an inspiration for the world - CGTN",
+          "description": "It is hoped that the world will see space exploration as an opportunity to put some of our disputes behind and begin cooperation on an important journey in securing the future for mankind.",
+          "url": "https://news.cgtn.com/news/2021-10-19/China-in-space-an-inspiration-for-the-world-14tS13lQVLG/index.html",
+          "urlToImage": "https://news.cgtn.com/news/2021-10-19/China-in-space-an-inspiration-for-the-world-14tS13lQVLG/img/a5b6867e69c741518faa57883706b972/a5b6867e69c741518faa57883706b972-750.png",
+          "publishedAt": "2021-10-19T04:25:55Z",
+          "content": "Editor's note: William Jones is a Washington policy analyst and a non-resident fellow of the Chongyang Institute for Financial Studies. The article reflects the author's views and not necessarily tho… [+4889 chars]"
       },
-      "author": "Mihai Andrei",
-      "title": "Venus is a no-lifer -- and probably always was - ZME Science",
-      "description": "Ancient aliens may have not found Venus that appealing.",
-      "url": "https://www.zmescience.com/space/venus-habitability-bad-18102021/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2021/10/imagesvenus20191211venus20191211-16.jpeg",
-      "publishedAt": "2021-10-18T11:05:06Z",
-      "content": "A new study modeled the conditions on the early days of Venus and found little that would be suitable to life as we know it.\r\nImage credits: Venus.\r\nVenus is as hellish a planet as you can imagine, b… [+4183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
+      {
+          "source": {
+              "id": null,
+              "name": "Republic World"
+          },
+          "author": "Aanchal Nigam",
+          "title": "White dwarf star found 'switching on and off' in just 30 minutes for the first time - Republic World",
+          "description": "In a remarkable discovery using NASA’s TESS, astronomers have spotted a white dwarf star ‘switching on and off’ in just 30 minutes for the first time.",
+          "url": "https://www.republicworld.com/technology-news/science/white-dwarf-star-found-switching-on-and-off-in-just-30-minutes-for-the-first-time.html",
+          "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e2ltehbd2vagmppc_1634613632.jpeg",
+          "publishedAt": "2021-10-19T03:48:00Z",
+          "content": "In a remarkable discovery, astronomers have spotted a white dwarf star switching on and off in just 30 minutes for the first time. The researchers led by Durham University in the UK said on 18 Octobe… [+1927 chars]"
       },
-      "author": "Mike Wall",
-      "title": "Water vapor detected on Jupiter's ocean moon Europa - Space.com",
-      "description": "But only on one side of the mysterious moon.",
-      "url": "https://www.space.com/jupiter-moon-europa-atmosphere-water-vapor",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fgUk92s9Z45b753rgYCFyG-1200-80.jpg",
-      "publishedAt": "2021-10-18T11:02:51Z",
-      "content": "NASA's Hubble Space Telescope has spotted water vapor on Jupiter's ocean moon Europa, potentially revealing new clues about icy satellites in our solar system and beyond.\r\nHubble had previously detec… [+2927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
+      {
+          "source": {
+              "id": null,
+              "name": "Borsonline.hu"
+          },
+          "author": "BorsOnline",
+          "title": "Megviselte Tilla szervezetét a harmadik oltás – mégsem bánta meg döntését - Bors",
+          "description": "BorsOnline",
+          "url": "https://www.borsonline.hu/celeb/koronavirus-harmadik-oltas-sztarok/244282",
+          "urlToImage": "https://media.borsonline.hu/cikk/26/251710/big-lead/650x360/2676004_metropol-mg-1.jpg",
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": "Tilla az elsk között kapta meg az emlékeztetoltást\r\nA msorvezet a két AstraZeneca vakcina után Modernát kapott, ami rendesen megviselte a szervezetét. Ám Tilla ezt egy cseppet sem bánta, ugyanis nagy… [+2829 chars]"
       },
-      "author": "Ben Turner",
-      "title": "Astronomers spot dark matter creating eerie clones of a distant galaxy - Livescience.com",
-      "description": "It took more than eight years for the scientists to explain the bizarre finding.",
-      "url": "https://www.livescience.com/dark-matter-causing-galaxy-clones",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iX6Xj6zgXkY7PXhFVsuxvU-1200-80.png",
-      "publishedAt": "2021-10-18T11:00:00Z",
-      "content": "Astronomers have finally explained  three perfectly identical galaxies in the deepest recesses of space — the cosmic triplets are actually just one galaxy, but its image has been multiplied by dark m… [+3853 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TweakTown"
+      {
+          "source": {
+              "id": null,
+              "name": "Indianweb2.com"
+          },
+          "author": "PRNewsWire India",
+          "title": "CGTN: China's space station welcomes Shenzhou-13 crew for a six-month stay - IndianWeb2.com",
+          "description": "BEIJING, Oct. 16, 2021 /PRNewswire/ -- The three Chinese astronauts or taikonauts, carried into space on board the Shenzhou-13 spaceship, en...",
+          "url": "https://www.indianweb2.com/2021/10/cgtn-chinas-space-station-welcomes_19.html",
+          "urlToImage": "https://lh4.googleusercontent.com/proxy/25F9yT8n8vNh7NSrNOoRVnk7wC5maQT5MbhuocOjorEF3xSniqEsr7699shqJUQXH7fUYlOXIzxI4I0Evht4wkPpWNY",
+          "publishedAt": "2021-10-19T03:19:00Z",
+          "content": "PRNewsWire IndiaTuesday, October 19, 20210\r\nComments\r\nBEIJING, Oct. 16, 2021 /PRNewswire/ -- The three Chinese astronauts or taikonauts, carried into space on board the Shenzhou-13 spaceship, entered… [+2831 chars]"
       },
-      "author": "Jak Connor",
-      "title": "Solar storm hits Earth, sounds of its impact recorded for the 1st time - TweakTown",
-      "description": "Researchers have recorded the sounds of a solar storm impacting Earth's magnetic field and recorded a song for the first time.",
-      "url": "https://www.tweaktown.com/news/82239/solar-storm-hits-earth-sounds-of-its-impact-recorded-for-the-1st-time/index.html",
-      "urlToImage": "https://static.tweaktown.com/news/8/2/82239_01_solar-storm-hits-earth-sounds-of-its-impact-recorded-for-the-1st-time_full.png",
-      "publishedAt": "2021-10-18T10:32:02Z",
-      "content": "For the first time, researchers have captured the sounds of a solar storm from the Sun impacting Earth's magnetic field.\r\nThe sounds were released by the European Space Agency (ESA) back in 2019, and… [+810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Commentaryboxsports.com"
+      {
+          "source": {
+              "id": null,
+              "name": "Digital Trends"
+          },
+          "author": "Trevor Mogg",
+          "title": "NASA’s Mars sounds open up whole new world for scientists - Digital Trends",
+          "description": "A new NASA video features some of the fascinating sounds collected by its Mars rover, and also explains how the recordings are assisting scientists.",
+          "url": "https://www.digitaltrends.com/news/nasas-mars-sounds-open-up-whole-new-world-for-scientists/",
+          "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/mars2020-perseverence-rover.jpg",
+          "publishedAt": "2021-10-19T03:15:24Z",
+          "content": "Perseverance is the first Mars rover to include microphones, an advancement that’s opened up a whole new world of discovery for NASA scientists keen to learn more about the distant planet.\r\nThis week… [+2118 chars]"
       },
-      "author": "Faye Welch",
-      "title": "Fossil footprints on Crete may be the oldest in the world - Commentary Box Sports",
-      "description": "The study of the age of Crete’s footprints is based on three methods. First, the",
-      "url": "https://commentaryboxsports.com/fossil-footprints-on-crete-may-be-the-oldest-in-the-world/",
-      "urlToImage": null,
-      "publishedAt": "2021-10-18T10:02:39Z",
-      "content": "The study of the age of Crete’s footprints is based on three methods. First, the geological history of the site was considered, says Professor Madeleine Boehme, a geologist and paleontologist at the … [+1312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TweakTown"
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Eric Mack",
+          "title": "SpaceX Starship proposal draws vocal public support, some criticism in FAA hearing - CNET",
+          "description": "The US government is collecting public comment on an environmental review of the company's launch program at Boca Chica.",
+          "url": "https://www.cnet.com/news/spacex-starship-proposal-draws-vocal-public-support-some-criticism-in-faa-hearing/",
+          "urlToImage": "https://www.cnet.com/a/img/xVH3_FYyVWrqQPcTbqL0OMxGoDQ=/1200x630/2021/06/01/b2416355-9973-4b40-b09e-2fe0c78d22d3/starship-render-twitter.jpg",
+          "publishedAt": "2021-10-19T03:00:25Z",
+          "content": "Starship gets stacked on Super Heavy.\r\nElon Musk\r\nDozens of people had the chance Monday to let the US government know how they feel about SpaceX's plan to begin orbital flights of Starship from \"Sta… [+3342 chars]"
       },
-      "author": "Jak Connor",
-      "title": "Asteroids 500+ feet in diameter are fast-approaching Earth very soon - TweakTown",
-      "description": "NASA's asteroid tracker indicates that a series of asteroids larger than the Great Pyramid of Giza will be approaching Earth.",
-      "url": "https://www.tweaktown.com/news/82238/asteroids-500-feet-in-diameter-are-fast-approaching-earth-very-soon/index.html",
-      "urlToImage": "https://static.tweaktown.com/news/8/2/82238_014_asteroids-larger-than-great-pyramid-of-giza-will-approach-earth-soon_full.jpg",
-      "publishedAt": "2021-10-18T10:02:02Z",
-      "content": "NASA's asteroid trackers are indicating that multiple asteroids will approach Earth in the next few weeks, some close to the size of the Great Pyramid of Giza located in Egypt.\r\nFor reference, the Gr… [+1913 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "SciTechDaily"
+          },
+          "author": null,
+          "title": "NASA’s Perseverance Rover Captures the Sounds of Mars – Listen In - SciTechDaily",
+          "description": "Two microphones aboard the six-wheeled spacecraft add a new dimension to the way scientists and engineers explore the Red Planet. Thanks to two microphones aboard NASA’s Perseverance rover, the mission has recorded nearly five hours of Martian wind gusts, rov…",
+          "url": "https://scitechdaily.com/nasas-perseverance-rover-captures-the-sounds-of-mars-listen-in/",
+          "urlToImage": "https://scitechdaily.com/images/NASAs-Perseverance-Rover-Operating-on-the-Surface-of-Mars.jpg",
+          "publishedAt": "2021-10-19T02:47:27Z",
+          "content": "ByJet Propulsion LaboratoryOctober 18, 2021\r\nThis illustration depicts NASA’s Perseverance rover operating on the surface of Mars. Credit: NASA\r\nTwo microphones aboard the six-wheeled spacecraft add … [+7711 chars]"
       },
-      "author": null,
-      "title": "Russian film crew returns to Earth after making movie on International Space Station - The Independent",
-      "description": "The Soyuz MS-18 returns to Earth from the International Space Station (ISS), where an actress and film director were welcomed aboard.The cosmonaut Oleg Novit...",
-      "url": "https://www.youtube.com/watch?v=tirCgFLfhVg",
-      "urlToImage": "https://i.ytimg.com/vi/tirCgFLfhVg/hqdefault.jpg",
-      "publishedAt": "2021-10-18T09:48:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Maxwellgunterdispatch.com"
+      {
+          "source": {
+              "id": null,
+              "name": "News-Medical.Net"
+          },
+          "author": null,
+          "title": "Researchers reveal the mechanism of artificial chromosome formation in C. elegans' embryos - News-Medical.net",
+          "description": "A research team led by Dr Karen Wing Yee YUEN, Associate Professor from the School of Biological Sciences at the University of Hong Kong (HKU), revealed the mechanism of artificial chromosome (AC) formation in the embryos of the model organism Caenorhabditis …",
+          "url": "https://www.news-medical.net/news/20211018/Researchers-reveal-the-mechanism-of-artificial-chromosome-formation-in-C-elegans-embryos.aspx",
+          "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Gene-620x480.jpg",
+          "publishedAt": "2021-10-19T02:45:00Z",
+          "content": "A research team led by Dr Karen Wing Yee YUEN, Associate Professor from the School of Biological Sciences at the University of Hong Kong (HKU), revealed the mechanism of artificial chromosome (AC) fo… [+6854 chars]"
       },
-      "author": "anita",
-      "title": "Carbon Nanotubes Market To Witness the Highest Growth Globally in Coming Years 2020-2025 | Nanocyl SA, SHOWA DENKO KK, Cnano Technology, Arry International Group Limited, Arkema, Carbon Solutions, Inc., CNT Co., Ltd., Cheap Tubes, OCSiAl – M - Maxwell Gunter Dispatch",
-      "description": "Carbon Nanotubes Market research report is the new statistical data source added by Adroit Market Research. Carbon Nanotubes Market is growing at a High CAGR during the forecast period 2021-2027. The",
-      "url": "https://maxwellgunterdispatch.com/uncategorized/15216/carbon-nanotubes-market-to-witness-the-highest-growth-globally-in-coming-years-2020-2025-nanocyl-sa-showa-denko-k-k-cnano-technology-arry-international-group-limited-arkema-carbon-solutio/",
-      "urlToImage": null,
-      "publishedAt": "2021-10-18T09:38:50Z",
-      "content": "Carbon Nanotubes Market research report is the new statistical data source added by Adroit Market Research. Carbon Nanotubes Market is growing at a High CAGR during the forecast period 2021-2027. The… [+8188 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
+      {
+          "source": {
+              "id": "the-jerusalem-post",
+              "name": "The Jerusalem Post"
+          },
+          "author": "By  JERUSALEM POST STAFF",
+          "title": "Oldest known prehistoric footprints found in Crete - The Jerusalem Post",
+          "description": "The six-million-year-old footprints potentially challenge beliefs about the evolution of humanity.",
+          "url": "https://www.jpost.com/archaeology/oldest-known-prehistoric-footprints-found-in-crete-682416",
+          "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/445679",
+          "publishedAt": "2021-10-19T02:42:00Z",
+          "content": null
       },
-      "author": "Gaurav Sonavane",
-      "title": "Russian Film Crew Creates History; Lands Successfully After Shooting First Movie On International Space Station - Mashable India",
-      "description": "Russian director Klim Shipenko returns to Earth after wrapping the shoot of his upcoming space movie, featuring actress Yulia Peresild.",
-      "url": "https://in.mashable.com/science/25388/russian-film-crew-creates-history-lands-successfully-after-shooting-first-movie-on-international-spa",
-      "urlToImage": "https://sm.mashable.com/t/mashable_in/photo/default/soyuz-ms-18-crew-copy_bpk5.1200.jpg",
-      "publishedAt": "2021-10-18T09:15:07Z",
-      "content": "Russian actress Yulia Peresild and filmmaker Klim Shipenko have successfully returned to Earth after filming a couple of scenes for their upcoming movie on the International Space Station. Accompanie… [+2863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Interesting Engineering"
+      {
+          "source": {
+              "id": null,
+              "name": "Techstory.in"
+          },
+          "author": null,
+          "title": "NASA studying about building Wi-Fi network on the moon - Techstory",
+          "description": "A new study by NASA reveals that they are working on making Wi-Fi work on the moon known as \"lunar Wi-Fi\".",
+          "url": "https://techstory.in/nasa-studying-about-building-wi-fi-network-on-the-moon/",
+          "urlToImage": "https://techstory.in/wp-content/uploads/2021/10/nasa-lunarnet-concept-image.jpg",
+          "publishedAt": "2021-10-19T02:37:01Z",
+          "content": "A new study by NASA reveals that they are working on making Wi-Fi work on the moon known as “lunar Wi-Fi”. This research is part of bringing solutions to the areas across parts of the US where there … [+1225 chars]"
       },
-      "author": "Fabienne Lang",
-      "title": "A Russian Spacecraft Pushed the ISS Out of Position, Again - Interesting Engineering",
-      "description": "Emergency protocols were issued onboard the ISS on October 15, after the Russian Soyuz thruster unexpectedly continued firing after initial tests.",
-      "url": "https://interestingengineering.com/a-russian-spacecraft-pushed-the-iss-out-of-position-again",
-      "urlToImage": "https://inteng-storage.s3.amazonaws.com/img/iea/EBwmj7yLO0/sizes/a-russian-spacecraft-pushed-the-iss-out-of-position-again_md.jpg",
-      "publishedAt": "2021-10-18T09:06:19Z",
-      "content": "For just under 30 minutes on October 15, the International Space Station (ISS) lost attitude control. The incident was caused by a thruster firing test on the Russian Soyuz MS-18 spacecraft, which \"u… [+1647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BroadcastProME.com"
+      {
+          "source": {
+              "id": null,
+              "name": "News-Medical.Net"
+          },
+          "author": null,
+          "title": "Researchers illustrate the importance and value of sharing negative research results - News-Medical.Net",
+          "description": "In the era of \"publish or perish,\" research results that disprove the hypothesis tested often go unpublished. In addition, many researchers who have been unable to reproduce results from other laboratories have found it difficult to publish their findings.",
+          "url": "https://www.news-medical.net/news/20211018/Researchers-illustrate-the-importance-and-value-of-sharing-negative-research-results.aspx",
+          "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+          "publishedAt": "2021-10-19T01:32:00Z",
+          "content": "In the era of \"publish or perish,\" research results that disprove the hypothesis tested often go unpublished. In addition, many researchers who have been unable to reproduce results from other labora… [+6743 chars]"
       },
-      "author": "Staff Reporter",
-      "title": "NASA launches robotic archaeologist Lucy on 12-year mission to Trojan asteroids - BroadcastProME.com",
-      "description": "NASA's newest asteroid probe, named Lucy, blasted off from Kennedy Space Center here in Florida to embark on a 12-year",
-      "url": "https://www.broadcastprome.com/news/satellite/nasa-launches-robotic-archaeologist-lucy-on-12-year-mission-to-trojan-asteroids/",
-      "urlToImage": "https://www.broadcastprome.com/wp-content/uploads/2021/10/NASA-launches-robotic.jpg",
-      "publishedAt": "2021-10-18T09:05:47Z",
-      "content": "The spacecraft is named after the Lucy fossil of a human ancestor found in Ethiopia in 1974.\r\nNASA’s newest asteroid probe, named Lucy, blasted off from Kennedy Space Center here in Florida to embark… [+4282 chars]"
-    }
+      {
+          "source": {
+              "id": null,
+              "name": "Wales Online"
+          },
+          "author": "Rebecca Black, Matt Gibson",
+          "title": "Call for armchair astronomers to help search for new planets - MyLondon",
+          "description": "The online citizen project is enlisting the help of the public to examine five years’ worth of digital footage showing some of the brightest stars in the sky",
+          "url": "https://www.walesonline.co.uk/news/uk-news/call-armchair-astronomers-help-search-21898132",
+          "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article21174175.ece/ALTERNATES/s1200/1_Milky-Way.jpg",
+          "publishedAt": "2021-10-19T01:24:00Z",
+          "content": "A call has been made for armchair astronomers to help in a search for extrasolar planets.\r\nThe online citizen project is enlisting the help of the public to examine five years worth of digital footag… [+2462 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Emily DeCiccio",
+          "title": "How NASA’s Lucy asteroid mission will help tell the story of our solar system - CNBC",
+          "description": "Lori Glaze, director of NASA’s planetary science division, talks about the agency's Lucy asteroid mission.",
+          "url": "https://www.cnbc.com/2021/10/18/how-nasas-lucy-asteroid-mission-will-help-tell-the-story-of-our-solar-system.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106961973-1634573010039-51532439738_830a4683cb_k.jpg?v=1634573053",
+          "publishedAt": "2021-10-19T00:38:00Z",
+          "content": "Lori Glaze, director of NASA's planetary science division, explained how the agency's Lucy asteroid mission will help illuminate the solar system's formation. \r\n\"The Lucy mission is really exciting, … [+1518 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "AlterNet"
+          },
+          "author": "Nicole Karlis, Salon",
+          "title": "A mysterious and powerful radio signal from space is repeating itself - AlterNet",
+          "description": "Outer space is chirping, and no one quite knows why. Known as fast radio bursts, or FRBs for short, these very brief yet incredibly powerful bursts of radio wave energy appear to be coming from all corners of the universe. And while astronomers can pick up su…",
+          "url": "https://www.alternet.org/2021/10/mysterious-space-radio-signal/",
+          "urlToImage": "https://www.alternet.org/media-library/by-hubble-esa-new-shot-of-proxima-centauri-our-nearest-neighbour-cc-by-2-0-https-commons-wikimedia-org-w-index-php-curid-97380635.jpg?id=27700062&width=1200&coordinates=0%2C31%2C0%2C32&height=600",
+          "publishedAt": "2021-10-19T00:33:35Z",
+          "content": "Outer space is chirping, and no one quite knows why. \r\nKnown as fast radio bursts, or FRBs for short, these very brief yet incredibly powerful bursts of radio wave energy appear to be coming from all… [+3688 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "NASA finds evidence of water on one of Jupiter's moons - 9NEWS",
+          "description": "Scientists have found evidence of water in the atmosphere of Jupiter's icy moon 'Europa.' NASA said its Hubble space telescope observed the presence of persi...",
+          "url": "https://www.youtube.com/watch?v=w_7jNwQvEBQ",
+          "urlToImage": "https://i.ytimg.com/vi/w_7jNwQvEBQ/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T00:04:06Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nintendo-power.com"
+          },
+          "author": "Ebenezer Robbins",
+          "title": "A spherical cluster is a remnant of a galaxy - Nintendo-Power",
+          "description": "The “hierarchical model of galaxy formation” describes, to a lesser extent technically, the principle of...",
+          "url": "https://nintendo-power.com/a-spherical-cluster-is-a-remnant-of-a-galaxy/",
+          "urlToImage": "https://nintendo-power.com/wp-content/uploads/2021/10/A-spherical-cluster-is-a-remnant-of-a-galaxy.jpeg",
+          "publishedAt": "2021-10-18T23:56:22Z",
+          "content": "The “hierarchical model of galaxy formation” describes, to a lesser extent technically, the principle of “big eats small”: large galaxies grow together with smaller galaxies. Researchers working with… [+1652 chars]"
+      },
+      {
+          "source": {
+              "id": "independent",
+              "name": "Independent"
+          },
+          "author": "Andrew Griffin",
+          "title": "Astronomers see White Dwarf star ‘switching on and off’ in major finding - The Independent",
+          "description": "Scientists have watched a white dwarf blinking on and off for the first time.",
+          "url": "https://www.independent.co.uk/space/nasa-white-dwarf-on-off-tess-b1940414.html",
+          "urlToImage": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?width=1200&auto=webp&quality=75",
+          "publishedAt": "2021-10-18T23:32:06Z",
+          "content": "Scientists have watched a white dwarf blinking on and off for the first time.\r\nIn what they described as unexpected findings that do not fit with existing understandings of the universe, researchers … [+3646 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Swordstoday.ie"
+          },
+          "author": "Jake Pearson",
+          "title": "2019 Black hole ripping stars and emitting radio waves, the source of the \"ghost particles\" can not be found | Stand Science | Stand News - SwordsToday.ie",
+          "description": "The cosmic radio wave AT2019dsg, discovered in 2019, is said to be high-energy neutrinos known as “ghost particles” that create black holes that tear...",
+          "url": "https://swordstoday.ie/2019-black-hole-ripping-stars-and-emitting-radio-waves-the-source-of-the-ghost-particles-can-not-be-found-stand-science-stand-news/",
+          "urlToImage": null,
+          "publishedAt": "2021-10-18T23:11:10Z",
+          "content": "The cosmic radio wave AT2019dsg, discovered in 2019, is said to be high-energy neutrinos known as “ghost particles” that create black holes that tear stars apart.Research guidelines published in the … [+3767 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Inverse"
+          },
+          "author": "Passant Rabie",
+          "title": "Look: NASA photo reveals unusual supernova event - Inverse",
+          "description": "A new image by Chandra reveals a rare supernova remanent created by a white dwarf accumulating material from another star until it explodes.",
+          "url": "https://www.inverse.com/science/look-nasa-photo-reveals-unusual-supernova-event",
+          "urlToImage": "https://imgix.bustle.com/uploads/image/2021/10/18/350ddc6e-5454-43a4-8e0e-da9daf15694c-c4c4bdc6-b542-410c-a995-99574007db8b-g344.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "publishedAt": "2021-10-18T23:00:25Z",
+          "content": "The universe often behaves in human-like ways. \r\nGluttonous stars can swallow too much material and end up exploding in a rather dramatic fashion.\r\nNASAs Chandra X-ray observatory recently caught a g… [+3109 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Thrillist"
+          },
+          "author": "Opheli Garcia Lawler",
+          "title": "The Colorful Remains of This Supernova May Look Familiar - Thrillist",
+          "description": "What does this supernova look like to you?",
+          "url": "https://www.thrillist.com/news/nation/nasa-photographed-colorful-remnants-of-a-supernova",
+          "urlToImage": "https://assets3.thrillist.com/v1/image/3019571/1200x600/scale;",
+          "publishedAt": "2021-10-18T22:13:12Z",
+          "content": "NASA is doing good, hard, and important work. Yes, its employees are exploring the secrets of our universe and using science to make sense of everything up there in space. They also warn us when aste… [+1350 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Ferret.com.au"
+          },
+          "author": null,
+          "title": "Australia to rove with NASA to the Moon - Ferret",
+          "description": "Australia will follow NASA to the Moon, with an Australian made rover set to be included in a future mission, backed by $50 million in government funding.",
+          "url": "https://www.ferret.com.au/?p=31076",
+          "urlToImage": "https://www.ferret.com.au/wp-content/uploads/2021/10/49D598DE-0DED-4137-9D55-5B5614E7F436_4_5005_c.jpeg",
+          "publishedAt": "2021-10-18T22:08:34Z",
+          "content": "Australia will accompany NASA to the Moon, with an Australian made rover set to be included in a future mission. This will be backed by $50 million in funding from the federal governments Trailblazer… [+3325 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Live Science"
+          },
+          "author": "Helen Alexander",
+          "title": "How to remove mold from your basement - Livescience.com",
+          "description": "Damp, water leaks and excess moisture in the air can all cause mold to grow. Here’s how to remove mold from your basement.",
+          "url": "https://www.livescience.com/how-to-remove-mold-from-your-basement",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/jViyow5Tz3cBiX7knSUhQJ-1200-80.jpg",
+          "publishedAt": "2021-10-18T22:00:30Z",
+          "content": "If you want to know how to remove mold from your basement, this article takes you through the tools you need to get rid of it. According to the Environmental Protection Agency\r\n (EPA), it only takes … [+4689 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Universe Today"
+          },
+          "author": "https://www.facebook.com/evan.gough.3",
+          "title": "What’s Causing the Mysterious Radio Waves Coming From the Center of the Milky Way? - Universe Today",
+          "description": "Astronomers have found puzzling new radio waves emanating from the Milky Way's center. Could it be a pulsar? Magnetar? Galactic Center Radio Transient?",
+          "url": "https://www.universetoday.com/152972/whats-causing-the-mysterious-radio-waves-coming-from-the-center-of-the-milky-way/",
+          "urlToImage": "https://www.universetoday.com/wp-content/uploads/2021/10/Center-radio-waves.jpg",
+          "publishedAt": "2021-10-18T21:52:25Z",
+          "content": "The center of the Milky Way is a mysterious place. Astronomers think there’s a supermassive black hole there, though it could be dark matter instead. The region is densely packed with stars, dominate… [+6920 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "KGBT-TV"
+          },
+          "author": "Gaby Moreno",
+          "title": "FAA to host virtual public hearing regarding SpaceX environmental assessment - KGBT-TV",
+          "description": "Editor’s note: This article has been updated with details about the hearing.  BROWNSVILLE, Texas (ValleyCentral) – The Federal Aviation Administration (FAA) held a virtual public hearing regarding the SpaceX Draft Programmatic Environmental Assessment (PEA), …",
+          "url": "https://www.valleycentral.com/news/local-news/faa-to-host-virtual-public-hearing-regarding-spacex-environmental-assessment/",
+          "urlToImage": "https://www.valleycentral.com/wp-content/uploads/sites/39/2021/07/IMG_2172-1.jpg?w=1280",
+          "publishedAt": "2021-10-18T21:51:50Z",
+          "content": "Editor’s note: This article has been updated with details about the hearing. \r\nBROWNSVILLE, Texas (ValleyCentral) – The Federal Aviation Administration (FAA) held a virtual public hearing regarding t… [+5017 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Opticflux.com"
+          },
+          "author": "Cristian Antonescu",
+          "title": "Magnetic Tunnel Surrounds the Solar System, Says Scientist - Optic Flux",
+          "description": "The Solar System is indeed a huge enigma. Astronomers learn more and more about it as time passes, but even so, there are more things to discover. What lies on the edges of the Solar System could also turn out to become an amazing field of exploration. Futuri…",
+          "url": "https://www.opticflux.com/magnetic-tunnel-surrounds-the-solar-system-says-scientist/12000/",
+          "urlToImage": "https://www.opticflux.com/wp-content/uploads/2021/08/solar-system-11111_12801.jpg",
+          "publishedAt": "2021-10-18T21:47:07Z",
+          "content": "The Solar System is indeed a huge enigma. Astronomers learn more and more about it as time passes, but even so, there are more things to discover. What lies on the edges of the Solar System could als… [+1437 chars]"
+      },
+      {
+          "source": {
+              "id": "cbc-news",
+              "name": "CBC News"
+          },
+          "author": null,
+          "title": "Our entire solar system may exist inside a giant magnetic tunnel, says astrophysicist - CBC.ca",
+          "description": "You and everyone know you live inside a massive magnetic tunnel, according to new research from the University of Toronto.",
+          "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.6215149/our-entire-solar-system-may-exist-inside-a-giant-magnetic-tunnel-says-astrophysicist-1.6215150",
+          "urlToImage": "https://i.cbc.ca/1.6215366.1634585485!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jennifer-west.jpg",
+          "publishedAt": "2021-10-18T21:02:02Z",
+          "content": "You and everyone you know live inside a massive magnetic tunnel, according to new research from the University of Toronto.\r\nThat's because Earth, the entire solar system and a few nearby stars are al… [+3790 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "EurekAlert"
+          },
+          "author": null,
+          "title": "The positive impact of sharing negative research results - EurekAlert",
+          "description": "Amsterdam, October 18, 2021 – In the era of “publish or perish,” research results that disprove the hypothesis tested often go unpublished. In addition, many researchers who have been unable to reproduce results from other laboratories have found it difficult…",
+          "url": "https://www.eurekalert.org/news-releases/931896",
+          "urlToImage": "https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png",
+          "publishedAt": "2021-10-18T20:45:14Z",
+          "content": "Amsterdam, October 18, 2021 – In the era of “publish or perish,” research results that disprove the hypothesis tested often go unpublished. In addition, many researchers who have been unable to repro… [+6779 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Twinfinite"
+          },
+          "author": "Dylan Chaundy",
+          "title": "Only True Big Bang Theory Fans Can Name These Ten Side Characters - Twinfinite",
+          "description": "",
+          "url": "https://twinfinite.net/2021/10/only-true-big-bang-theory-fans-can-name-these-ten-side-characters/",
+          "urlToImage": "https://twinfinite.net/wp-content/uploads/2021/10/Big-Bang-Theory-Quiz-14.jpg",
+          "publishedAt": "2021-10-18T20:37:46Z",
+          "content": "Even though the smash hit CBS television show ended back in 2019, The Big Bang Theory still remains one of the biggest sitcoms ever created. \r\nFrom the loveable camaraderie of the ragtag bunch of pal… [+1027 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Space.com"
+          },
+          "author": "Samantha Mathewson",
+          "title": "Giant space bubble reveals reverse shockwaves from a catastrophic star explosion - Space.com",
+          "description": "This delicate, colorful bubble in space hides the remains of a supernova.",
+          "url": "https://www.space.com/supernova-space-bubble-reveals-reverse-shock-waves-photo",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/MB8juaVMHeuA6bjxij3G2m-1200-80.jpg",
+          "publishedAt": "2021-10-18T20:34:31Z",
+          "content": "NASA telescopes have captured the colorful blast of a stellar explosion thousands of years ago, shedding new light on the evolution of such cosmic remains. \r\nWhen a star reaches the end of its life, … [+3306 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "Powerful new technique allows scientists to study how proteins change shape inside cells - Phys.org",
+          "description": "Understanding how proteins bend, twist, and shape-shift as they go about their work in cells is enormously important for understanding normal biology and diseases. But a deep understanding of protein dynamics has generally been elusive due to the lack of good…",
+          "url": "https://phys.org/news/2021-10-powerful-technique-scientists-proteins-cells.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/proteins.jpg",
+          "publishedAt": "2021-10-18T20:31:49Z",
+          "content": "Understanding how proteins bend, twist, and shape-shift as they go about their work in cells is enormously important for understanding normal biology and diseases. But a deep understanding of protein… [+5587 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NASA"
+          },
+          "author": null,
+          "title": "NASA Selects Gamma-ray Telescope to Chart Milky Way Evolution - NASA",
+          "description": "NASA has selected a new space telescope proposal that will study the recent history of star birth, star death, and the formation of chemical elements in the Milky Way.",
+          "url": "https://www.nasa.gov/press-release/nasa-selects-gamma-ray-telescope-to-chart-milky-way-evolution/",
+          "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/main_milkyway-full_nasa_jpl-caltech.jpg",
+          "publishedAt": "2021-10-18T20:30:24Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Clarepeople.com"
+          },
+          "author": "cpadmin",
+          "title": "Looks like Jupiter was hit by a space object — and there's a picture of it! – The Clare People - The Clare People",
+          "description": "A group of Japanese astronomers may have identified what is perhaps the most recent impact on Jupiter. The event was registered last Friday (11) and, if it is confirmed that it really is comes to a co",
+          "url": "https://www.clarepeople.com/8673-looks-like-jupiter-was-hit-by-a-space-object-and-theres-a-picture-of-it/",
+          "urlToImage": "https://www.clarepeople.com/wp-content/uploads/2021/10/8673-looks-like-jupiter-was-hit-by-a-space-object-and-theres-a-picture-of-it-780x470.png",
+          "publishedAt": "2021-10-18T20:15:09Z",
+          "content": "A group of Japanese astronomers may have identified what is perhaps the most recent impact on Jupiter. The event was registered last Friday (11) and, if it is confirmed that it really is comes to a c… [+2855 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "SciTechDaily"
+          },
+          "author": null,
+          "title": "How Do Ice Giants Like Uranus and Neptune Maintain Their Magnetic Fields? - SciTechDaily",
+          "description": "Probing the structures and properties of superionic ice. A layer of “hot,” electrically conductive ice could be responsible for generating the magnetic fields of ice giant planets like Uranus and Neptune. New work from Carnegie and the University of Chicago’s…",
+          "url": "https://scitechdaily.com/how-do-ice-giants-like-uranus-and-neptune-maintain-their-magnetic-fields/",
+          "urlToImage": "https://scitechdaily.com/images/Voyager-2-Image-of-Neptune.jpg",
+          "publishedAt": "2021-10-18T20:13:05Z",
+          "content": "ByCarnegie Institution for ScienceOctober 18, 2021\r\nImage of Neptune taken by NASA’s Voyager 2 mission. Credit: NASA/JPL-Caltech\r\nProbing the structures and properties of superionic ice.\r\nA layer of … [+4818 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Itnewsonline.com"
+          },
+          "author": null,
+          "title": "CGTN America: China's First Female Astronaut on Tiangong Space Station is Making History - IT News Online",
+          "description": "CGTN America: China's First Female Astronaut on Tiangong Space Station is Making History",
+          "url": "http://www.itnewsonline.com/PRNewswire/CGTN-America-Chinas-First-Female-Astronaut-on-Tiangong-Space-Station-is-Making-History/791509",
+          "urlToImage": null,
+          "publishedAt": "2021-10-18T20:08:08Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "nbc-news",
+              "name": "NBC News"
+          },
+          "author": "Tom Metcalfe",
+          "title": "How will our solar system end? A distant planet offers hints - NBC News",
+          "description": "A darkened planet circling the feeble remnant of a burned-out star about 6,000 light-years from Earth shows what our own solar system will look like at the end.",
+          "url": "https://www.nbcnews.com/science/space/will-solar-system-end-distant-planet-offers-hints-rcna3187",
+          "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-10/211018-white-dwarf-planet-mn-1047-f536cd.jpg",
+          "publishedAt": "2021-10-18T19:48:13Z",
+          "content": "A darkened planet circling the feeble remnant of a burned-out star about 6,000 light-years from Earth shows what our own solar system will look like at the end of its existence, according to astronom… [+4608 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "Hear sounds captured from Mars by NASA's Perseverance rover - Phys.org",
+          "description": "Thanks to two microphones aboard NASA's Perseverance rover, the mission has recorded nearly five hours of Martian wind gusts, rover wheels crunching over gravel, and motors whirring as the spacecraft moves its arm. These sounds allow scientists and engineers …",
+          "url": "https://phys.org/news/2021-10-captured-mars-nasa-perseverance-rover.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/hear-sounds-captured-f.jpg",
+          "publishedAt": "2021-10-18T19:46:34Z",
+          "content": "Thanks to two microphones aboard NASA's Perseverance rover, the mission has recorded nearly five hours of Martian wind gusts, rover wheels crunching over gravel, and motors whirring as the spacecraft… [+6088 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Riotimesonline.com"
+          },
+          "author": null,
+          "title": "Harvard scientist says it is possible that our universe was created in a laboratory - The Rio Times",
+          "description": "RIO DE JANEIRO, BRAZIL - A Harvard scientist has an interesting theory about how our universe was formed: in a laboratory, by a \"superior class of life",
+          "url": "https://riotimesonline.com/brazil-news/miscellaneous/harvard-scientist-says-it-is-possible-that-our-universe-was-created-in-a-laboratory/",
+          "urlToImage": "https://riotimesonline.com/wp-content/uploads/2021/10/oumuamua-spaceship.jpg",
+          "publishedAt": "2021-10-18T19:29:01Z",
+          "content": "RIO DE JANEIRO, BRAZIL - A Harvard scientist has an interesting theory about how our universe was formed: in a laboratory, by a \"superior class of life forms.\" Best-selling author and former chair of… [+527 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Chris Ciaccia",
+          "title": "Rivers on Saturn's moon Titan could help NASA determine whether moon is ripe to host life - Daily Mail",
+          "description": "The rivers and tributaries on Saturn's moon Titan could be helpful for NASA's upcoming mission, according to a new study, which spent weeks analyzing images taken by the Cassini spacecraft.",
+          "url": "https://www.dailymail.co.uk/sciencetech/article-10104683/Rivers-Saturns-moon-Titan-help-NASA-determine-moon-ripe-host-life.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/18/20/49333293-0-image-a-106_1634583838719.jpg",
+          "publishedAt": "2021-10-18T19:24:35Z",
+          "content": "The rivers and tributaries on Saturn's moon Titan could help NASA's upcoming mission to the celestial satellite learn more about its geology and whether it's capable of supporting life, a new study s… [+6701 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science Daily"
+          },
+          "author": null,
+          "title": "Powerful technique allows scientists to study how proteins change shape inside cells - Science Daily",
+          "description": "The scientists' new 'binder-tag' technique allows researchers to pinpoint and track proteins that are in a desired shape or 'conformation,' and to do so in real time inside living cells. The scientists demonstrated the technique in, essentially, movies that t…",
+          "url": "https://www.sciencedaily.com/releases/2021/10/211018150652.htm",
+          "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "publishedAt": "2021-10-18T19:24:21Z",
+          "content": "Understanding how proteins bend, twist, and shape-shift as they go about their work in cells is enormously important for understanding normal biology and diseases. But a deep understanding of protein… [+4748 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Post"
+          },
+          "author": "Alexa Santiago",
+          "title": "Asteroid the size of Empire State Building to make 'close' encounter with Earth - New York Post ",
+          "description": "Massive asteroids — including one the size of the Empire State Building — are predicted to make “close” encounters with Earth in the coming weeks, with one set to whiz by as early as We…",
+          "url": "https://nypost.com/2021/10/18/nasa-says-7-asteroids-to-make-close-encounter-with-earth/",
+          "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/shutterstock_1141450829.jpg?quality=90&strip=all&w=1024",
+          "publishedAt": "2021-10-18T19:14:00Z",
+          "content": "Massive asteroids — including one the size of the Empire State Building — are predicted to make close encounters with Earth in the coming weeks, with one set to whiz by as early as Wednesday night.\r\n… [+2384 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "EurekAlert"
+          },
+          "author": null,
+          "title": "Two Brookhaven Lab physicists named APS Fellows - EurekAlert",
+          "description": "The American Physical Society (APS) has elected two scientists from the U.S. Department of Energy’s (DOE) Brookhaven National Laboratory as 2021 APS fellows. The honorees—Kétévi Adiklè Assamagan and Swagato Mukherjee—represent experiments, computational model…",
+          "url": "https://www.eurekalert.org/news-releases/931903",
+          "urlToImage": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6c219c0a-d75d-47dd-852d-ce9edff40b2d/Rendition/thumbnail/Content/Public",
+          "publishedAt": "2021-10-18T19:07:02Z",
+          "content": "image: Kétévi Adiklè Assamaganview more \r\nCredit: Brookhaven National Laboratory\r\nUPTON, NY—The American Physical Society (APS) has elected two scientists from the U.S. Department of Energy’s (DOE) B… [+9227 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Salon"
+          },
+          "author": "Nicole Karlis",
+          "title": "A mysterious and powerful radio signal from space is repeating itself - Salon",
+          "description": "A rare repeating fast radio burst signal is helping astronomers to probe the mysterious phenomenon in more depth",
+          "url": "https://www.salon.com/2021/10/18/fast-radio-burst-repeating-study/",
+          "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/10/radio-tower-signal-waves-1014211.jpg",
+          "publishedAt": "2021-10-18T19:07:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "So-called junk DNA plays critical role in mammalian development - Phys.org",
+          "description": "Nearly half of our DNA has been written off as junk, the discards of evolution: Sidelined or broken genes, viruses that got stuck in our genome and were dismembered or silenced, none of it relevant to the human organism or human evolution.",
+          "url": "https://phys.org/news/2021-10-so-called-junk-dna-critical-role.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/so-called-junk-dna-pla-2.jpg",
+          "publishedAt": "2021-10-18T18:54:22Z",
+          "content": "Nearly half of our DNA has been written off as junk, the discards of evolution: Sidelined or broken genes, viruses that got stuck in our genome and were dismembered or silenced, none of it relevant t… [+11254 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Theregister.com"
+          },
+          "author": "Richard Speed",
+          "title": "Engineers investigating iffy solar array latch on NASA's Lucy as probe begins long journey to Trojan asteroids - The Register",
+          "description": "Spacecraft otherwise stable and working well",
+          "url": "https://www.theregister.com/2021/10/18/lucy_solar_array_issue/",
+          "urlToImage": "https://regmedia.co.uk/2020/01/10/jovian_trojans.jpg",
+          "publishedAt": "2021-10-18T18:46:00Z",
+          "content": "NASA's Lucy is on its way to the Trojan asteroids, but engineers have already spotted a problem with one of the probe's 7.3-metre solar arrays.\r\nThe spacecraft was sent on its way from Cape Canaveral… [+2349 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Newswise"
+          },
+          "author": "University of Birmingham",
+          "title": "Uncovering the secrets of ultra-low frequency gravitational waves - Newswise",
+          "description": "New methods of detecting ultra-low frequency gravitational waves can be combined with other, less sensitive measurements to deliver fresh insights into the earl",
+          "url": "https://www.newswise.com/articles/uncovering-the-secrets-of-ultra-low-frequency-gravitational-waves",
+          "urlToImage": "https://www.newswise.com/legacy/image.php?image=/images/uploads/2021/10/18/616dba78df98b_gravity.JPG&width=600&height=600",
+          "publishedAt": "2021-10-18T18:20:00Z",
+          "content": "Newswise — New methods of detecting ultra-low frequency gravitational waves can be combined with other, less sensitive measurements to deliver fresh insights into the early development of our univers… [+3249 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Futurism"
+          },
+          "author": null,
+          "title": "Gaze in Awe at This Fiery Pac-Man Shaped Supernova, Gobbling Stars - Futurism",
+          "description": "NASA's Hubble telescope just snapped a photo of a supernova's aftermath, which is shaped like Pac-Man, as it goes about gobbling up stars.",
+          "url": "https://futurism.com/the-byte/pac-man-supernova",
+          "urlToImage": "https://wp-assets.futurism.com/2021/10/pacgal.jpg",
+          "publishedAt": "2021-10-18T18:11:43Z",
+          "content": "Okay, wow.\r\nSnacky Supernova\r\nChances are, at some point, youve looked towards the sky and been awestruck by a cloud that resembles a worldly object. It takes the right place, the right time, and the… [+2673 chars]"
+      },
+      {
+          "source": {
+              "id": "ign",
+              "name": "IGN"
+          },
+          "author": "Adele Ankers",
+          "title": "Meteorite Fell Onto Woman's Bed While She Was Sleeping - IGN SOUTH AFRICA",
+          "description": "Something went bump in the night — and the odds of it happening were about 1 in 100 billion.",
+          "url": "https://za.ign.com/scitech/158253/news/meteorite-fell-onto-womans-bed-while-she-was-sleeping",
+          "urlToImage": "https://sm.ign.com/t/ign_za/news/m/meteorite-/meteorite-fell-onto-womans-bed-while-she-was-sleeping_pqck.1200.jpg",
+          "publishedAt": "2021-10-18T18:02:36Z",
+          "content": "A woman in Canada was allegedly woken by a meteorite crashing through her roof and landing on her bed while she was asleep.\r\nAccording to The New York Times, 66-year-old Ruth Hamilton was sound aslee… [+2547 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Times"
+          },
+          "author": "Robin George Andrews",
+          "title": "How a nuclear bomb could save Earth from a stealthy asteroid - WION",
+          "description": "An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario.",
+          "url": "https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html",
+          "urlToImage": "https://static01.nyt.com/images/2021/10/19/science/15TB-ASTEROID/15TB-ASTEROID-facebookJumbo.jpg",
+          "publishedAt": "2021-10-18T17:59:48Z",
+          "content": "Using high-fidelity simulations, scientists reported in a study published earlier this month that a stealthy asteroid as long as 330 feet could be annihilated by a one-megaton nuclear device, with 99… [+1449 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science Daily"
+          },
+          "author": null,
+          "title": "Titan's river maps may advise Dragonfly's 'sedimental' journey - Science Daily",
+          "description": "With future space exploration in mind, a team of astronomers has published the final maps of Titan's liquid methane rivers and tributaries -- as seen by NASA's late Cassini mission -- so that may help provide context for Dragonfly's upcoming 2030s expedition.",
+          "url": "https://www.sciencedaily.com/releases/2021/10/211018130346.htm",
+          "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "publishedAt": "2021-10-18T17:54:01Z",
+          "content": "With future space exploration in mind, a Cornell-led team of astronomers has published the final maps of Titan's liquid methane rivers and tributaries -- as seen by NASA's late Cassini mission -- so … [+3267 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Space.com"
+          },
+          "author": "Elizabeth Howell",
+          "title": "An asteroid zipped past Earth closer than the moon's orbit yesterday - Space.com",
+          "description": "There was never a threat to our planet.",
+          "url": "https://www.space.com/asteroid-2021-tg14-flyby-earth",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/mkhFX3g7LkM5kgzTsujjUE-1200-80.jpg",
+          "publishedAt": "2021-10-18T17:48:01Z",
+          "content": "A bus-sized asteroid made a harmless close pass by our planet on Sunday (Oct. 17).\r\nAsteroid 2021 TG14 passed by Earth at a distance of roughly 155,000 miles (250,000 km). That's well within the orbi… [+2315 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science Daily"
+          },
+          "author": null,
+          "title": "Four-legged swarm robots - Science Daily",
+          "description": "Engineers have built multi-legged robots capable of maneuvering in challenging environments and accomplishing difficult tasks collectively, mimicking their natural-world counterparts.",
+          "url": "https://www.sciencedaily.com/releases/2021/10/211018130343.htm",
+          "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "publishedAt": "2021-10-18T17:47:28Z",
+          "content": "As a robotics engineer, Yasemin Ozkan-Aydin, assistant professor of electrical engineering at the University of Notre Dame, gets her inspiration from biological systems. The collective behaviors of a… [+4817 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Space.com"
+          },
+          "author": "Elizabeth Howell",
+          "title": "Astronauts capture stunning aurora from International Space Station - Space.com",
+          "description": "The sky show took place over Antarctica and New Zealand.",
+          "url": "https://www.space.com/space-station-auroras-october-2021",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/qouZTvsmXj4b9Wx7cMtyuL-1200-80.jpg",
+          "publishedAt": "2021-10-18T17:45:41Z",
+          "content": "Astronauts got to see an amazing display of southern lights over New Zealand and Antarctica earlier this month.\r\nSpectacular images and footage of the green-hued aurora flowed from the International … [+2719 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Jonathan Amos - BBC Science Correspondent",
+          "title": "$10bn James Webb Space Telescope unpacked in Kourou - Yahoo News Canada",
+          "description": "The successor to the Hubble space observatory will now be prepared for launch on 18 December.",
+          "url": "https://ca.news.yahoo.com/10bn-james-webb-space-telescope-164433125.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/t6V2YxPSe2XkvdtFQD5egg--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bbc_us_articles_995/0c571cdff9c5bee18bffe0a829b0a87b",
+          "publishedAt": "2021-10-18T17:41:58Z",
+          "content": "The big telescope has been removed from its shipping container\r\nEngineers have unboxed the James Webb Space Telescope in French Guiana and will now prepare it for launch.\r\nThe $10bn successor to the … [+1999 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Thewillnigeria.com"
+          },
+          "author": null,
+          "title": "Russian Movie Actress, Director, Making First Film In Space, Return To Earth After 12 Days - thewillnigeria",
+          "description": "October 18, (THEWILL) - A Russian actress and a film director, who made the first movie in space, returned to Earth on Sunday after spending 12 days on the International Space Station (ISS). The Soyuz MS-18 space capsule carrying Russian ISS crew member Oleg …",
+          "url": "https://thewillnigeria.com/news/russian-movie-actress-director-making-first-film-in-space-return-to-earth-after-12-days/",
+          "urlToImage": "https://thewillnigeria.com/news/wp-content/uploads/2020/12/cropped-NEW-LOGO-FAV-SMALL.png",
+          "publishedAt": "2021-10-18T17:29:36Z",
+          "content": "October 18, (THEWILL) – A Russian actress and a film director, who made the first movie in space, returned to Earth on Sunday after spending 12 days on the International Space Station (ISS).\r\nThe Soy… [+1265 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NASA"
+          },
+          "author": null,
+          "title": "Five Facts to Help You Understand Sea Ice - NASA",
+          "description": "Here are five facts to help you better understand Arctic sea ice.",
+          "url": "https://www.nasa.gov/feature/esnt/2021/five-facts-to-help-you-understand-sea-ice/",
+          "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/0603_seaicelow.jpg",
+          "publishedAt": "2021-10-18T17:23:21Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hot Hardware"
+          },
+          "author": "Tim Sweezy",
+          "title": "NASA LunaNet Will Light Up The Moon With Wi-Fi And Mars May Be Next - Hot Hardware",
+          "description": "NASA plans to connect our Moon to Earth via a Lunar Network (LunaNet).",
+          "url": "https://amp.hothardware.com/news/nasa-lunanet-will-light-up-the-moon-with-wi-fi-and-mars-may-be-next",
+          "urlToImage": "https://images.hothardware.com/contentimages/newsitem/56535/content/small_nasaartemis.jpg",
+          "publishedAt": "2021-10-18T17:17:09Z",
+          "content": "Neil Armstrong spoke the first words from the moon, “That’s one small step for man, one giant leap for mankind”, on July 20, 1969. Five decades later NASA plans to connect the moon to Earth via a Lun… [+2879 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Clarepeople.com"
+          },
+          "author": "cpadmin",
+          "title": "Meteorites indicate that the primordial Solar System had a “gap” – The Clare People - The Clare People",
+          "description": "The most accepted theory to explain the formation of the Solar System describes that our “space backyard” came from a protoplanetary disk, formed by gas and dust, that revolved around the young Sun .",
+          "url": "https://www.clarepeople.com/8611-meteorites-indicate-that-the-primordial-solar-system-had-a-gap/",
+          "urlToImage": "https://www.clarepeople.com/wp-content/uploads/2021/10/8611-meteorites-indicate-that-the-primordial-solar-system-had-a-gap-780x470.jpeg",
+          "publishedAt": "2021-10-18T17:10:58Z",
+          "content": "The most accepted theory to explain the formation of the Solar System describes that our space backyard came from a protoplanetary disk, formed by gas and dust, that revolved around the young Sun . T… [+4333 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science Daily"
+          },
+          "author": null,
+          "title": "Optimum pressure to improve the performance of lithium metal batteries - Science Daily",
+          "description": "A team of materials scientists and chemists has determined the proper stack pressure that lithium metal batteries, or LMBs, need to be subjected to during battery operation in order to produce optimal performance.",
+          "url": "https://www.sciencedaily.com/releases/2021/10/211018112517.htm",
+          "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "publishedAt": "2021-10-18T17:08:57Z",
+          "content": "A team of materials scientists and chemists has determined the proper stack pressure that lithium metal batteries, or LMBs, need to be subjected to during battery operation in order to produce optima… [+3674 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hot Hardware"
+          },
+          "author": "Tim Sweezy",
+          "title": "NASA LunaNet Will Light Up The Moon With Wi-Fi And Mars May Be Next - Hot Hardware",
+          "description": "NASA plans to connect our Moon to Earth via a Lunar Network (LunaNet).",
+          "url": "https://hothardware.com/news/nasa-lunanet-will-light-up-the-moon-with-wi-fi-and-mars-may-be-next",
+          "urlToImage": "https://images.hothardware.com/contentimages/newsitem/56535/content/small_nasaartemis.jpg",
+          "publishedAt": "2021-10-18T17:07:00Z",
+          "content": "Neil Armstrong spoke the first words from the moon, “That’s one small step for man, one giant leap for mankind”, on July 20, 1969. Five decades later NASA plans to connect the moon to Earth via a Lun… [+2879 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Borsonline.hu"
+          },
+          "author": "BorsOnline",
+          "title": "Most jelentette be a NASA: egyenesen felénk száguld egy hatalmas aszteroida - Bors",
+          "description": "BorsOnline",
+          "url": "https://www.borsonline.hu/aktualis/most-jelentette-be-a-nasa-egyenesen-felenk-szaguld-egy-hatalmas-aszteroida/244245",
+          "urlToImage": "https://media.borsonline.hu/cikk/26/251673/big-lead/650x360/2675690_asteroid-g5c6e7db78-1920.jpg",
+          "publishedAt": "2021-10-18T17:00:00Z",
+          "content": "Több nagy méret aszteroida közeledik a következ hetekben a Föld felé. Noha csillagászati értelemben közel jönnek majd, de a Föld mellett így is több millió kilométerre suhannak el számolt be az ABC N… [+800 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Jonathan Amos - BBC Science Correspondent",
+          "title": "$10bn James Webb Space Telescope unpacked in Kourou - Yahoo News Australia",
+          "description": "The successor to the Hubble space observatory will now be prepared for launch on 18 December.",
+          "url": "https://news.yahoo.com/10bn-james-webb-space-telescope-164433125.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/t6V2YxPSe2XkvdtFQD5egg--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bbc_us_articles_995/0c571cdff9c5bee18bffe0a829b0a87b",
+          "publishedAt": "2021-10-18T16:57:10Z",
+          "content": "The big telescope has been removed from its shipping container\r\nEngineers have unboxed the James Webb Space Telescope in French Guiana and will now prepare it for launch.\r\nThe $10bn successor to the … [+1999 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Times"
+          },
+          "author": "Joey Roulette",
+          "title": "NASA’s Lucy Launches on 12-Year Mission to Jupiter’s Trojan Asteroids - The New York Times",
+          "description": "The elaborate journey of the robotic spacecraft will offer close encounters with some of the solar system’s least understood objects.",
+          "url": "https://www.nytimes.com/2021/10/16/science/nasa-lucy-launch.html",
+          "urlToImage": "https://static01.nyt.com/images/2021/10/16/science/16lucylaunch-lift-b/16lucylaunch-lift-b-facebookJumbo.jpg",
+          "publishedAt": "2021-10-18T16:56:17Z",
+          "content": "NASA embarked on a 12-year mission to study a group of asteroids on Saturday with the launch of Lucy, a robotic explorer that will meander through the unexplored caverns of deep space to find new clu… [+1117 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Stacy Liberatore",
+          "title": "Giant magnetic tunnel made of rope-like objects surrounds our solar system, study finds - Daily Mail",
+          "description": "An astronomer with the University of Toronto designed a model that found the North Polar Spur and the Fan Region are connected and form a massive magnetic funnel around our solar system.",
+          "url": "https://www.dailymail.co.uk/sciencetech/article-10104183/Giant-magnetic-tunnel-rope-like-objects-surrounds-solar-study-finds.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/18/17/49326953-0-image-a-17_1634573075669.jpg",
+          "publishedAt": "2021-10-18T16:45:06Z",
+          "content": "A new model suggests the solar system is surrounded by a gigantic magnetic tunnel.\r\nThe proposal comes from University of Toronto astronomer Jennifer West, who is basing the hypothesis on two structu… [+3543 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Tech Xplore"
+          },
+          "author": "Science X staff",
+          "title": "Researchers successfully build four-legged swarm robots - Tech Xplore",
+          "description": "As a robotics engineer, Yasemin Ozkan-Aydin, assistant professor of electrical engineering at the University of Notre Dame, gets her inspiration from biological systems. The collective behaviors of ants, honeybees and birds to solve problems and overcome obst…",
+          "url": "https://techxplore.com/news/2021-10-successfully-four-legged-swarm-robots.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/researchers-successful.jpg",
+          "publishedAt": "2021-10-18T16:44:57Z",
+          "content": "As a robotics engineer, Yasemin Ozkan-Aydin, assistant professor of electrical engineering at the University of Notre Dame, gets her inspiration from biological systems. The collective behaviors of a… [+5440 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "$10bn James Webb Space Telescope unpacked in Kourou - BBC News",
+          "description": "The successor to the Hubble space observatory will now be prepared for launch on 18 December.",
+          "url": "https://www.bbc.com/news/science-environment-58960575",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C84/production/_121129451_52109.jpg",
+          "publishedAt": "2021-10-18T16:44:32Z",
+          "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage source, ESA/CNES/Arianespace/P.Piron\r\nImage caption, The big telescope has been removed from its shipping container\r\nEngineers have unboxed… [+2200 chars]"
+      },
+      {
+          "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "$10bn James Webb Space Telescope unpacked in Kourou - BBC News",
+          "description": "The successor to the Hubble space observatory will now be prepared for launch on 18 December.",
+          "url": "https://www.bbc.co.uk/news/science-environment-58960575",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C84/production/_121129451_52109.jpg",
+          "publishedAt": "2021-10-18T16:44:32Z",
+          "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage source, ESA/CNES/Arianespace/P.Piron\r\nImage caption, The big telescope has been removed from its shipping container\r\nEngineers have unboxed… [+2200 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science Daily"
+          },
+          "author": null,
+          "title": "Lakes are changing worldwide: Human activities to blame - Science Daily",
+          "description": "Worldwide, lake temperatures are rising and seasonal ice cover is shorter and thiner. This effects lake ecosystems, drinking water supply and fishing. International research now shows that these global changes in lake temperature and ice cover are not due to …",
+          "url": "https://www.sciencedaily.com/releases/2021/10/211018112456.htm",
+          "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "publishedAt": "2021-10-18T16:39:22Z",
+          "content": "International research led by Luke Grant, Inne Vanderkelen and Prof Wim Thiery of the VUB research group BCLIMATE shows that global changes in lake temperature and ice cover are not due to natural cl… [+3063 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Blaine Friedlander",
+          "title": "Titan's river maps may advise Dragonfly's sedimental journey - Phys.org",
+          "description": "With future space exploration in mind, a Cornell-led team of astronomers has published the final maps of Titan's liquid methane rivers and tributaries—as seen by NASA's late Cassini mission—so that may help provide context for Dragonfly's upcoming 2030s exped…",
+          "url": "https://phys.org/news/2021-10-titan-river-dragonfly-sedimental-journey.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/titans-river-maps-may.jpg",
+          "publishedAt": "2021-10-18T16:34:34Z",
+          "content": "With future space exploration in mind, a Cornell-led team of astronomers has published the final maps of Titan's liquid methane rivers and tributariesas seen by NASA's late Cassini missionso that may… [+3795 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "India Education Diary"
+          },
+          "author": "iednewsdesk",
+          "title": "Caltech: Caltech Honors 2020 and 2021 Graduates with In-Person Fall Commencement Event - India Education Diary",
+          "description": "\"This is a long and eagerly awaited opportunity to honor you, Caltech's newest alumni, on this stage,\" President Thomas F. Rosenbaum, holder of the Sonja and William Davidow Presidential Chair and professor of physics, said as he began the celebratio",
+          "url": "https://indiaeducationdiary.in/caltech-caltech-honors-2020-and-2021-graduates-with-in-person-fall-commencement-event/",
+          "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2020/12/caltech-campus-entrance-sign.jpg",
+          "publishedAt": "2021-10-18T16:32:50Z",
+          "content": "“This is a long and eagerly awaited opportunity to honor you, Caltech’s newest alumni, on this stage,” President Thomas F. Rosenbaum, holder of the Sonja and William Davidow Presidential Chair and pr… [+3649 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Ingrid Fadelli",
+          "title": "Researchers observe translation symmetry breaking in twisted bilayer graphene - Phys.org",
+          "description": "Magic-angle twisted bilayer graphene is a material made of two sheets of graphene placed on top of each other, with one sheet twisted at precisely 1.05 degrees with respect to the other. This material has been found to be a very promising platform for studyin…",
+          "url": "https://phys.org/news/2021-10-symmetry-bilayer-graphene.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-observe-tr.jpg",
+          "publishedAt": "2021-10-18T16:20:01Z",
+          "content": "Magic-angle twisted bilayer graphene is a material made of two sheets of graphene placed on top of each other, with one sheet twisted at precisely 1.05 degrees with respect to the other. This materia… [+4514 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ExtremeTech"
+          },
+          "author": "Jessica Hall",
+          "title": "Quantum Analysis of Ancient Space Dust Reveals Why the Inner and Outer Planets Differ - ExtremeTech",
+          "description": "New analysis of ancient meteorite dust has provided evidence for a physical gap in the sun's protoplanetary disk. It may explain two old problems in planetary astronomy.",
+          "url": "https://www.extremetech.com/extreme/328305-quantum-analysis-of-ancient-space-dust-reveals-why-the-inner-and-outer-planets-differ",
+          "urlToImage": "https://www.extremetech.com/wp-content/uploads/2018/01/PIA21974-640x353.jpg",
+          "publishedAt": "2021-10-18T16:20:00Z",
+          "content": "When the solar system was first organizing itself, a disk of gas and dust took shape around the sun’s central mass. It eventually sorted itself into the system of planets we see today. But there are … [+5333 chars]"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "John Loeffler",
+          "title": "Dog-sized scorpion once roamed the waters off prehistoric China - Techradar",
+          "description": "The massive mixopterid was nearly a meter in length",
+          "url": "https://www.techradar.com/news/dog-sized-scorpion-once-roamed-the-waters-off-prehistoric-china",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/xiWQcAAdMydW3xreELZigP-1200-80.jpg",
+          "publishedAt": "2021-10-18T16:19:26Z",
+          "content": "A prehistoric fossil of a sea scorpion the size of a dog has been uncovered in the Lower Silurian region of South China, the first time a large eurypterid has been found in this part of the world.\r\nT… [+2743 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Chris Ciaccia",
+          "title": "Hubble finds 'burst' of star formation in spiral galaxy 80 million light-years from Earth - Daily Mail",
+          "description": "The Hubble Space Telescope snapped a photo of a galaxy, known as NGC 4666, showing a 'burst of star formation,' approximately 80 million light-years from Earth.",
+          "url": "https://www.dailymail.co.uk/sciencetech/article-10104027/Hubble-finds-burst-star-formation-spiral-galaxy-80-million-light-years-Earth.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/18/16/49324495-0-image-a-96_1634571832372.jpg",
+          "publishedAt": "2021-10-18T16:09:25Z",
+          "content": "NASA's Hubble Space Telescope, on the verge of being replaced later this year, is showing no signs of slowing down, taking an incredible image of a galaxy 80 million light-years from Earth which depi… [+5105 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Cristina Agrigoroae",
+          "title": "Successful beam pipe installation at LHCb - Phys.org",
+          "description": "The LHC experiments are nearing the completion of maintenance and upgrade works carried out in the framework of the second long shutdown of CERN's accelerator complex. Of all the experiments, LHCb is undergoing the most significant metamorphosis during these …",
+          "url": "https://phys.org/news/2021-10-successful-pipe-lhcb.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/successful-beam-pipe-i.jpg",
+          "publishedAt": "2021-10-18T16:07:42Z",
+          "content": "The LHC experiments are nearing the completion of maintenance and upgrade works carried out in the framework of the second long shutdown of CERN's accelerator complex. Of all the experiments, LHCb is… [+3672 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Irish Examiner"
+          },
+          "author": "Nina Massey, PA Science Correspondent",
+          "title": "Astronomers see white dwarf 'switch on and off' for the first time - Irish Examiner",
+          "description": "",
+          "url": "https://www.irishexaminer.com/world/arid-40724064.html",
+          "urlToImage": "https://www.irishexaminer.com/cms_media/module_img/5401/2700885_1_seoimage16x9_203be3ee-c13a-4552-8531-82dd252988b8.jpg.jpg",
+          "publishedAt": "2021-10-18T16:04:00Z",
+          "content": "A planet-hunting satellite has allowed astronomers to see a white dwarf abruptly switching on and off for the first time.White dwarfs are what most stars become after they have burned off the hydroge… [+3449 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Boeing's Starliner Spaceship Delays, Explained | WSJ - Wall Street Journal",
+          "description": "Boeing’s Starliner spaceship has been hampered by a string of errors and delays. In this video, WSJ’s Micah Maidenberg explains why Boeing has struggled to l...",
+          "url": "https://www.youtube.com/watch?v=FA2LUUIcTUY",
+          "urlToImage": "https://i.ytimg.com/vi/FA2LUUIcTUY/maxresdefault.jpg",
+          "publishedAt": "2021-10-18T16:00:06Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Interesting Engineering"
+          },
+          "author": "Chris Young",
+          "title": "Our Solar System Might be Surrounded by a 'Giant Magnetic Tunnel' - Interesting Engineering",
+          "description": "And it is only observable in radio waves.",
+          "url": "https://interestingengineering.com/our-solar-system-might-be-surrounded-by-a-giant-magnetic-tunnel",
+          "urlToImage": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl9M1OW/sizes/magnetic-field-1_md.jpg",
+          "publishedAt": "2021-10-18T15:55:41Z",
+          "content": "Our entire solar system might be surrounded by an enormous magnetic tunnel viewable only as radio waves. An astronomer from the University of Toronto, Jennifer West, believes that two objects in spac… [+2142 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Dan Avery",
+          "title": "Earth's poles 'wandered' 12 degrees 84 million years ago - but eventually snapped back into place - Daily Mail",
+          "description": "Paleomagnetic records in limestone from Central Italy suggest the Earth's outer mantle titled toward the equator between 86 and 80 million years ago, in a phenomenon known as 'true polar wander.'",
+          "url": "https://www.dailymail.co.uk/sciencetech/article-10103665/Earths-poles-wandered-12-degrees-84-million-years-ago-eventually-snapped-place.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/18/15/49320167-0-image-a-2_1634568818543.jpg",
+          "publishedAt": "2021-10-18T15:43:18Z",
+          "content": "Earth's hard outer shell 'wobbles' over the eons have occurred to an extent much greater than previously thought, according to a new report. \r\nResearchers led by geologist Joe Kirschvink at Tokyo Uni… [+6385 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nd.edu"
+          },
+          "author": "Marketing Communications: Web // University of Notre Dame",
+          "title": "Researchers successfully build four-legged swarm robots | News | Notre Dame News | University of Notre Dame - ND Newswire",
+          "description": "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning.",
+          "url": "https://news.nd.edu/news/researchers-successfully-build-four-legged-swarm-robots/",
+          "urlToImage": "https://news.nd.edu/assets/447647/1200x630/fig1_1_feature.jpg",
+          "publishedAt": "2021-10-18T15:38:34Z",
+          "content": "As a robotics engineer, Yasemin Ozkan-Aydin, assistant professor of electrical engineering at the University of Notre Dame, gets her inspiration from biological systems. The collective behaviors of a… [+4897 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "Volcanic memories: Black holes give shape to bubbles, rings and 'intergalactic smoke' filaments - Phys.org",
+          "description": "An international team of researchers, including scholars from the University of Bologna and the Italian National Astrophysics Institute (INAF), observed for the first time the evolution of warm gas coming from an active black hole. They were able to look at t…",
+          "url": "https://phys.org/news/2021-10-volcanic-memories-black-holes-intergalactic.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/volcanic-memories-blac.jpg",
+          "publishedAt": "2021-10-18T15:32:40Z",
+          "content": "An international team of researchers, including scholars from the University of Bologna and the Italian National Astrophysics Institute (INAF), observed for the first time the evolution of warm gas c… [+7390 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Times"
+          },
+          "author": "Kaya Burgess",
+          "title": "Evolution stops us taking the best city shortcuts - The Times",
+          "description": "If you have ever struggled to find your bearings in a maze of city streets, constantly hoping that the next turning will be the one that leads to your destinati",
+          "url": "https://www.thetimes.co.uk/article/evolution-stops-us-taking-the-best-city-shortcuts-klwnt2pfw",
+          "urlToImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F30156f14-3023-11ec-820f-e2be9b2cb5fd.jpg?crop=6676%2C3755%2C342%2C576&resize=1200",
+          "publishedAt": "2021-10-18T15:30:00Z",
+          "content": "If you have ever struggled to find your bearings in a maze of city streets, constantly hoping that the next turning will be the one that leads to your destination, you are not alone and scientists ha… [+511 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Ucsd.edu"
+          },
+          "author": null,
+          "title": "Researchers Determine Optimum Pressure to Improve the Performance of Lithium Metal Batteries - UC San Diego Health",
+          "description": "A team of materials scientists  and chemists has determined the proper stack pressure that lithium metal batteries, or LMBs, need to be subjected to during battery operation in order to produce optimal performance.",
+          "url": "https://ucsdnews.ucsd.edu/pressrelease/Meng_NatureEnergy_Oct2021",
+          "urlToImage": "https://ucsdnews.ucsd.edu/news_uploads/chengcheng_portrait.jpeg",
+          "publishedAt": "2021-10-18T15:27:27Z",
+          "content": "Top row: top view and cross sections of deposited lithium at 70 kilo-Pascal or kPa (less than one atmosphere)Bottom row: top view and cross sections of deposited lithium at 350 kPa, or 3.5 atmosphere… [+4398 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Science Daily"
+          },
+          "author": null,
+          "title": "Scientists discover method to boost energy generation from microalgae - Science Daily",
+          "description": "The variety of humble algae that cover the surface of ponds and seas could hold the key to boosting the efficiency of artificial photosynthesis, allowing scientists to produce more energy and lower waste in the process. A study showed how encasing algae prote…",
+          "url": "https://www.sciencedaily.com/releases/2021/10/211018105926.htm",
+          "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+          "publishedAt": "2021-10-18T15:22:27Z",
+          "content": "The variety of humble algae that cover the surface of ponds and seas could hold the key to boosting the efficiency of artificial photosynthesis, allowing scientists to produce more energy and lower w… [+5866 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Earth.com"
+          },
+          "author": null,
+          "title": "Global warming will have major consequences for lakes worldwide - Earth.com",
+          "description": "Global warming will have major consequences for lakes worldwide • Earth.com",
+          "url": "https://www.earth.com/news/global-warming-will-have-major-consequences-for-lakes-worldwide/",
+          "urlToImage": "https://cff2.earth.com/uploads/2021/10/18085807/Lakes-scaled.jpg",
+          "publishedAt": "2021-10-18T15:18:46Z",
+          "content": "A new study led by Vrije University Brussel (VUB) has found that climate change severely affects lakes all over the world. According to the research team, global changes in lake temperatures and ice … [+1919 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "Ultrafast control of quantum materials - Phys.org",
+          "description": "An international team with participation of the Paul Scherrer Institute PSI shows how light can fundamentally change the properties of solids and how these effects can be used for future applications. The researchers summarize their progress in this field, wh…",
+          "url": "https://phys.org/news/2021-10-ultrafast-quantum-materials.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/ultrafast-control-of-q.jpg",
+          "publishedAt": "2021-10-18T15:13:20Z",
+          "content": "An international team with participation of the Paul Scherrer Institute PSI shows how light can fundamentally change the properties of solids and how these effects can be used for future applications… [+5883 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Swordstoday.ie"
+          },
+          "author": "Jake Pearson",
+          "title": "Quantum gravity theory revives ancient ideas \"a universe without beginnings\" - New News - SwordsToday.ie",
+          "description": "The “big bang” or the massive expansion of things 14 billion years ago. Many believe that this is the origin of the universe. It’s...",
+          "url": "https://swordstoday.ie/quantum-gravity-theory-revives-ancient-ideas-a-universe-without-beginnings-new-news/",
+          "urlToImage": "https://swordstoday.ie/wp-content/uploads/2021/06/NASA-aims-to-expand-the-use-of-space-forecasting-successfully.svg.svg+xml",
+          "publishedAt": "2021-10-18T15:10:15Z",
+          "content": "The “big bang” or the massive expansion of things 14 billion years ago. Many believe that this is the origin of the universe. It’s hard to imagine that without the Big Bang, would there still be a un… [+3174 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ScienceAlert"
+          },
+          "author": "Michelle Starr",
+          "title": "Busted! Astronomers Confirm The Large Magellanic Cloud Totally Ate Another Galaxy - ScienceAlert",
+          "description": "The Milky Way galaxy has a history of violence.",
+          "url": "https://www.sciencealert.com/the-large-magellanic-cloud-totally-once-ate-another-galaxy",
+          "urlToImage": "https://www.sciencealert.com/images/2021-10/processed/ngc-2005_1024.jpg",
+          "publishedAt": "2021-10-18T15:03:40Z",
+          "content": "The Milky Way galaxy has a history of violence.\r\nOver the Universe's 13.8-billion-year lifespan, it has repeatedly collided with and subsumed multiple other galaxies and it's not done. It's in the pr… [+4405 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Ryan Morrison",
+          "title": "White dwarf star is spotted 'switching on and off' in 30 minutes - Daily Mail",
+          "description": "Using data from NASA's Transiting Exoplanet Survey Satellite (TESS), the team from Durham University witnessed the  phenomena in the star system TW Pictoris, 1,400 light years from Earth.",
+          "url": "https://www.dailymail.co.uk/sciencetech/article-10103493/White-dwarf-star-spotted-switching-30-minutes.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/18/12/49316375-0-image-a-23_1634558190114.jpg",
+          "publishedAt": "2021-10-18T15:00:46Z",
+          "content": "A white dwarf star has been spotted 'switching on and off' in just 30 minutes.\r\nAstronomers say the event has previously only been seen to happen over a period of days and months. \r\nUsing data from N… [+7199 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Tech Xplore"
+          },
+          "author": "Science X staff",
+          "title": "How the brain navigates cities: We seem to be wired to calculate not the shortest path but the 'pointiest' one - Tech Xplore",
+          "description": "Everyone knows the shortest distance between two points is a straight line. However, when you're walking along city streets, a straight line may not be possible. How do you decide which way to go?",
+          "url": "https://techxplore.com/news/2021-10-brain-cities-wired-shortest-path.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/how-the-brain-navigate.jpg",
+          "publishedAt": "2021-10-18T15:00:30Z",
+          "content": "Everyone knows the shortest distance between two points is a straight line. However, when you're walking along city streets, a straight line may not be possible. How do you decide which way to go?\r\nA… [+6400 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "Uncovering the secrets of ultra-low frequency gravitational waves - Phys.org",
+          "description": "New methods of detecting ultra-low frequency gravitational waves can be combined with other, less sensitive measurements to deliver fresh insights into the early development of our universe, according to researchers at the University of Birmingham.",
+          "url": "https://phys.org/news/2021-10-uncovering-secrets-ultra-low-frequency-gravitational.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/uncovering-the-secrets.jpg",
+          "publishedAt": "2021-10-18T15:00:27Z",
+          "content": "New methods of detecting ultra-low frequency gravitational waves can be combined with other, less sensitive measurements to deliver fresh insights into the early development of our universe, accordin… [+3882 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Phys.Org"
+          },
+          "author": "Science X staff",
+          "title": "Dwarf galaxy catches even smaller galaxy - Phys.org",
+          "description": "Astronomers know that the Milky Way grew by taking in smaller galaxies. But now, a team of Italian-Dutch researchers has shown that a small galaxy neighboring the Milky Way has in turn absorbed an even smaller galaxy from its vicinity. The researchers will pu…",
+          "url": "https://phys.org/news/2021-10-dwarf-galaxy-smaller.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/dwarf-galaxy-catches-g.jpg",
+          "publishedAt": "2021-10-18T15:00:14Z",
+          "content": "Astronomers know that the Milky Way grew by taking in smaller galaxies. But now, a team of Italian-Dutch researchers has shown that a small galaxy neighboring the Milky Way has in turn absorbed an ev… [+2700 chars]"
+      }
   ]
 }

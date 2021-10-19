@@ -1,266 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 456,
+  "totalResults": 458,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
+      {
+          "source": {
+              "id": null,
+              "name": "The Weather Channel"
+          },
+          "author": null,
+          "title": "NASA's Perseverance Rover Captures a Panoramic View of Mars' South Seitah Region, Offering Clues To Its Mysterious Past | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
+          "description": "Composed of 84 individual enhanced-colour images later stitched together, the mosaic was taken on September 12 by the Mastcam-Z camera system. - Articles from The Weather Channel | weather.com",
+          "url": "https://weather.com/en-IN/india/space/news/2021-10-19-perseverance-rover-captures-a-panoramic-view-of-mars-south-seitah",
+          "urlToImage": "https://s.w-x.co/in-mars_11.jpg",
+          "publishedAt": "2021-10-19T06:30:43Z",
+          "content": "NASA's Perseverance rover has clicked a panorama view of the \"South Seitah\" region of Mars' Jezero Crater, offering clues to the area's mysterious past.\r\nComposed of 84 individual enhanced-colour ima… [+2696 chars]"
       },
-      "author": "Ed Pilkington",
-      "title": "Colin Powell, former US secretary of state, dies at 84 of Covid complications - The Guardian",
-      "description": "Retired four-star general, who served in role under George W Bush, dies from Covid complications",
-      "url": "https://amp.theguardian.com/us-news/2021/oct/18/colin-powell-us-secretary-of-state-dies-covid-84",
-      "urlToImage": "https://i.guim.co.uk/img/media/11a09cf201afbed1af753a064eeb16a0027a8bbe/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4278ef0e215930ab2771d9385d7ebaa",
-      "publishedAt": "2021-10-18T12:33:00Z",
-      "content": "Colin Powell, the former US secretary of state who played a pivotal role in attempting to justify the 2003 invasion of Iraq, has died from complications from Covid-19 aged 84, it was announced on Mon… [+2924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abplive.com"
+      {
+          "source": {
+              "id": null,
+              "name": "Moneycontrol"
+          },
+          "author": null,
+          "title": "Market LIVE Updates: Indices near day's high led by IT, capital goods stocks; realty drags - Moneycontrol.com",
+          "description": "Stock Market LIVE Updates: On the sectoral front, IT and Capital Goods indices up 1-2 percent, while PSU Bank and Realty indices down 1-2 percent. BSE Midcap and Smallcap indices are trading flat.",
+          "url": "https://www.moneycontrol.com/news/business/markets/share-market-live-updates-stock-market-today-october-19-latest-news-bse-nse-sensex-nifty-covid-coronavirus-hul-nestle-acc-network18-media-tv18-broadcast-lt-infotech-iex-ttk-prestige-tata-coffee-7596621.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/06/Sensex-3-770x433.jpg",
+          "publishedAt": "2021-10-19T06:28:52Z",
+          "content": "October 19, 2021 / 10:48 AM IST\r\nCoronavirus Update: Lowest rise in daily COVID-19 cases in 231 days\r\nIndia logged 13,058 new coronavirus infections, the lowest in 231 days, taking the total tally of… [+440 chars]"
       },
-      "author": "ABP News Bureau",
-      "title": "Garena Free Fire Redeem Codes for August 18th October, 2021: How to redeem the codes - ABP Live",
-      "description": "Garena Free Fire Redeem Codes for October 18, 2021: Here is all you need to know about the new active codes for the list of New Garena Free Fire Redeem codes and steps to redeem them.",
-      "url": "https://news.abplive.com/lifestyle/garena-free-fire-redeem-codes-for-august-18th-october-2021-how-to-redeem-the-codes-step-wise-process-1488447",
-      "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/10/18/66d9c391c99025c910f6d949820a08e3_original.png?impolicy=abp_cdn&imwidth=1200&imheight=628",
-      "publishedAt": "2021-10-18T12:30:35Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": null,
+              "name": "ScienceAlert"
+          },
+          "author": "Michelle Starr",
+          "title": "Astronomers May Have Just Found Evidence of The Very First Stars in Our Universe - ScienceAlert",
+          "description": "Back when the Universe was young – around 13.7 billion years ago – the first stars formed in the soupy darkness, setting the cosmos alight.",
+          "url": "https://www.sciencealert.com/astronomers-may-have-just-found-evidence-of-the-first-stars-in-the-universe",
+          "urlToImage": "https://www.sciencealert.com/images/2021-10/processed/sculptor_1024.jpg",
+          "publishedAt": "2021-10-19T06:27:21Z",
+          "content": "Back when the Universe was young around 13.7 billion years ago the first stars formed in the soupy darkness, setting the cosmos alight.\r\nWe've yet to find any of these very first stars, known as Popu… [+4133 chars]"
       },
-      "author": "Oliver Stoner",
-      "title": "Africa is the key to ending the harmful use of polluting fuels in the home - Phys.org",
-      "description": "In wealthy countries, most people can barely imagine using anything other than electricity or gas to cook in their homes. But billions of people around the world, including the majority of Africans and most of the world's rural population, rely on polluting f…",
-      "url": "https://phys.org/news/2021-10-africa-key-polluting-fuels-home.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/africa-is-the-key-to-e.jpg",
-      "publishedAt": "2021-10-18T12:30:01Z",
-      "content": "In wealthy countries, most people can barely imagine using anything other than electricity or gas to cook in their homes. But billions of people around the world, including the majority of Africans a… [+5633 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-post",
-        "name": "Financial Post"
+      {
+          "source": {
+              "id": null,
+              "name": "New York Times"
+          },
+          "author": "Choe Sang-Hun",
+          "title": "North Korea Tests First Submarine-Launched Missile in Two Years - The New York Times",
+          "description": "The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities.",
+          "url": "https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html",
+          "urlToImage": "https://static01.nyt.com/images/2021/10/19/world/19nkorea/19nkorea-facebookJumbo.jpg",
+          "publishedAt": "2021-10-19T06:25:00Z",
+          "content": "Last month, South Korea conducted its first submarine-launched ballistic missile test. At the time, it called itself the seventh country in the world with S.L.B.M.s, after the United States, Russia, … [+1960 chars]"
       },
-      "author": "Reuters",
-      "title": "Apple expected to unveil new Macs with more powerful chips - Financial Post",
-      "description": "Some analysts believe Apple will also update its AirPods wireless ear buds",
-      "url": "https://financialpost.com/technology/apple-expected-to-unveil-new-macs-with-more-powerful-chips",
-      "urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/10/apple1018.jpg",
-      "publishedAt": "2021-10-18T12:22:17Z",
-      "content": "Article content\r\nBloomberg has previously reported that Apple plans to release two new MacBook Pro models with 14-inch and 16-inch screens. The Cupertino, California-based company introduced some new… [+1424 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Apple takes break from previous supplier intel |World Business Watch| WION News |Latest English News - WION",
+          "description": "Apple has announced its two new Macbook Pro models that run on more powerful in-house chips furthering its break from previous supplier Intel.#WorldBusinessW...",
+          "url": "https://www.youtube.com/watch?v=rJ4sYt4NtLg",
+          "urlToImage": "https://i.ytimg.com/vi/rJ4sYt4NtLg/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T06:23:39Z",
+          "content": null
       },
-      "author": "Devan Cole, CNN",
-      "title": "Colin Powell, military leader and first Black US secretary of state, dies after complications from Covid-19 - CNN",
-      "description": "Colin Powell, the first Black US secretary of state whose leadership in several Republican administrations helped shape American foreign policy in the last years of the 20th century and the early years of the 21st, has died from complications from Covid-19, h…",
-      "url": "https://www.cnn.com/2021/10/18/politics/colin-powell-dies/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018070806-01-colin-powell-super-tease.jpg",
-      "publishedAt": "2021-10-18T12:14:00Z",
-      "content": "(CNN)Colin Powell, the first Black US secretary of state whose leadership in several Republican administrations helped shape American foreign policy in the last years of the 20th century and the earl… [+11658 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
+      {
+          "source": {
+              "id": null,
+              "name": "Leadership.ng"
+          },
+          "author": "Chris",
+          "title": "Your Clock Of Ultimate Destruction Is Ticking, President Buhari Tells Bandits - LEADERSHIP NEWS",
+          "description": "President Muhammadu Buhari has sent a tough warning to bandits, saying that “the clock of your ultimate destruction is ticking as you will no longer have a place to hide.” Reacting to the killing of over 30 people in Goronyo in Sokoto State on Sunday by bandi…",
+          "url": "https://leadership.ng/your-clock-of-ultimate-destruction-is-ticking-president-buhari-tells-bandits/",
+          "urlToImage": "https://i0.wp.com/leadership.ng/wp-content/uploads/2020/09/E8BA7F0C-9CCA-4DFC-991B-324B70E44428.png?fit=500%2C300&ssl=1",
+          "publishedAt": "2021-10-19T06:19:45Z",
+          "content": "President Muhammadu Buhari has sent a tough warning to bandits, saying that the clock of your ultimate destruction is ticking as you will no longer have a place to hide.\r\nReacting to the killing of o… [+1358 chars]"
       },
-      "author": "Darren Allan",
-      "title": "New MacBook Pro models could have M1 Pro and M1 Max chips (not M1X) - TechRadar",
-      "description": "Apple might go a different naming route with the refreshed M1, though we wouldn’t bank on it",
-      "url": "https://www.techradar.com/news/new-macbook-pro-models-could-have-m1-pro-and-m1-max-chips-not-m1x",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5iP9jeJVyYLCq5xQeBfDv5-1200-80.jpg",
-      "publishedAt": "2021-10-18T12:11:29Z",
-      "content": "Apple’s purported new MacBook Pros (theoretically 14-inch and 16-inch models) could arrive later today not toting the M1X chip, but rather they might be built around CPUs with different names: the M1… [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "P.M. News"
+      {
+          "source": {
+              "id": null,
+              "name": "Newscorpaustralia.com"
+          },
+          "author": null,
+          "title": "Ex-MAFS star sets sights on Warnie’s son - Herald Sun",
+          "description": "Subscribe to the Herald Sun to get unrestricted digital access, home paper delivery, Foxsports.com.au subscription,  Apps for iPad and Android and much more...",
+          "url": "https://dsf.newscorpaustralia.com/heraldsun/subscription/",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T06:10:23Z",
+          "content": null
       },
-      "author": null,
-      "title": "Efe opens up on relationship with BBNaija organisers - P.M. News",
-      "description": "Efe, the winner of Big Brother Naija Season two, has said he has a cordial relationship with organizers of Big Brother Naija.",
-      "url": "https://pmnewsnigeria.com/2021/10/18/efe-opens-up-on-relationship-with-bbnaija-organisers/",
-      "urlToImage": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2021/10/Efe.jpg",
-      "publishedAt": "2021-10-18T12:10:35Z",
-      "content": "Michael Ejeba alias Efe, the winner of Big Brother Naija Season two, has said he has a cordial relationship with Multichoice Nigeria, organizers of Big Brother Naija.\r\nEfe made this known in a statem… [+1408 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
+      {
+          "source": {
+              "id": null,
+              "name": "Business Insider South Africa"
+          },
+          "author": null,
+          "title": "FlySafair wants longer weekends to promote travel – and aims to move public holidays - Business Insider South Africa",
+          "description": "South Africa’s Public Holidays Act could change if low-cost carrier FlySafair has its way.",
+          "url": "https://www.businessinsider.co.za/flysafair-wants-longer-weekends-and-public-holidays-in-south-africa-2021-10",
+          "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/4278/075f45d8c81742f0843fa5a0dc15acb5.jpg",
+          "publishedAt": "2021-10-19T06:06:50Z",
+          "content": "<ul><li>South Africans travel more when public holidays fall on either a Monday or Friday.</li><li>This is according to low-cost carrier FlySafair, which reports a 20% increase in passenger volumes o… [+2994 chars]"
       },
-      "author": "Elizabeth C. Turner",
-      "title": "A new fossil discovery may add hundreds of millions of years to the evolutionary history of animals - Phys.org",
-      "description": "Ever wonder how and when animals swanned onto the evolutionary stage? When, where and why did animals first appear? What were they like?",
-      "url": "https://phys.org/news/2021-10-fossil-discovery-hundreds-millions-years.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2021/a-new-fossil-discovery.jpg",
-      "publishedAt": "2021-10-18T12:10:04Z",
-      "content": "Ever wonder how and when animals swanned onto the evolutionary stage? When, where and why did animals first appear? What were they like?\r\nLife has existed for much of Earth's 4.5-billion-year history… [+5737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rappler"
+      {
+          "source": {
+              "id": null,
+              "name": "The Punch"
+          },
+          "author": "Ademola Olonilua",
+          "title": "Ghanian police search for Shatta Wale after being shot - Punch Newspapers",
+          "description": "The Ghana Police Service is currently searching for popular Ghanaian dancehall musician, Shatta Wale, who has been reportedly shot by some unknown gunmen.",
+          "url": "https://punchng.com/ghanian-police-search-for-shatta-wale-after-being-shot/",
+          "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/10/19080427/Shatta-Wale.jpeg",
+          "publishedAt": "2021-10-19T06:06:48Z",
+          "content": "The Ghana Police Service is currently searching for popular Ghanaian dancehall musician, Shatta Wale, who has been reportedly shot by some unknown gunmen.\r\nAccording to several posts which have surfa… [+1439 chars]"
       },
-      "author": "Rappler.com",
-      "title": "China denies report of hypersonic missile test, says tested space vehicle - Rappler",
-      "description": "'It was not a missile, it was a space vehicle,' says foreign ministry spokesperson Zhao Lijian",
-      "url": "https://www.rappler.com/world/asia-pacific/china-denies-report-hypersonic-missile-test-says-tested-space-vehicle",
-      "urlToImage": "https://assets2.rappler.com/2021/10/Zhao-Lijian-commons-1634558887048.jpg",
-      "publishedAt": "2021-10-18T12:09:00Z",
-      "content": "Quoting five people familiar with the matter, the Financial Times reported on Saturday, October 16, that China had tested a nuclear-capable hypersonic missile that flew through space, circling the gl… [+151 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "David Zita",
+          "title": "‘Absolute tragedy’: The hidden truth behind AFL Legend’s shock retirement - Fox Sports",
+          "description": "‘Absolute tragedy’: The hidden truth behind AFL Legend’s shock retirement",
+          "url": "https://www.foxsports.com.au/afl/teams/essendon-bombers/afl-news-2021-essendon-documentary-how-to-watch-date-and-time-john-coleman-retirement-how-old-was-he/news-story/99eba5737fec8b325c9762ef3f608323",
+          "urlToImage": "https://content.api.news/v3/images/bin/0523942afe11900bf45c967009852ab0",
+          "publishedAt": "2021-10-19T06:03:00Z",
+          "content": "Essendon stalwart Ted Fordham has revealed a debate with the club over an insurance policy was what slammed the door shut on teammate John Colemans remarkable career at just 25 years of age. \r\nThe Bo… [+3271 chars]"
       },
-      "author": "Adele Ankers",
-      "title": "Meteorite Fell Onto Woman's Bed While She Was Sleeping - IGN SOUTH EAST ASIA",
-      "description": "Something went bump in the night — and the odds of it happening were about 1 in 100 billion.",
-      "url": "https://sea.ign.com/science-1/177820/news/meteorite-fell-onto-womans-bed-while-she-was-sleeping",
-      "urlToImage": "https://sm.ign.com/t/ign_ap/news/m/meteorite-/meteorite-fell-onto-womans-bed-while-she-was-sleeping_t6vd.1200.jpg",
-      "publishedAt": "2021-10-18T12:00:21Z",
-      "content": "A woman in Canada was allegedly woken by a meteorite crashing through her roof and landing on her bed while she was asleep.\r\nAccording to The New York Times, 66-year-old Ruth Hamilton was sound aslee… [+2547 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Post Nigeria"
+          },
+          "author": "Seun Opejobi",
+          "title": "Buhari govt amend charges against Nnamdi Kanu ahead of Thursday trial – Lawyer - Daily Post Nigeria",
+          "description": "The President Muhammadu Buhari-led Federal Government has amended the charges against pro-Biafra agitator, Nnamdi Kanu. The amended charges were served to Kanu's lawyers ahead of Thursday. Lead counsel to Kanu, Ifeanyi Ejiofor disclosed this in a statement he…",
+          "url": "https://dailypost.ng/2021/10/19/buhari-govt-amend-charges-against-nnamdi-kanu-ahead-of-thursday-trial-lawyer/",
+          "urlToImage": "https://dailypost.ng/wp-content/uploads/2020/09/Nnamdi-Kanu.jpg",
+          "publishedAt": "2021-10-19T06:01:49Z",
+          "content": "The President Muhammadu Buhari-led Federal Government has amended the charges against pro-Biafra agitator, Nnamdi Kanu.\r\nThe amended charges were served to Kanu’s lawyers ahead of Thursday.\r\nLead cou… [+1378 chars]"
       },
-      "author": null,
-      "title": "This woman was diagnosed with ADHD in her 50s. She says it shouldn't have taken so long - CBC.ca",
-      "description": "With October being ADHD Awareness Month, patients and doctors in B.C. are highlighting the stigma associated with the disorder and the difficulty accessing support.",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/adhd-awareness-month-bc-1.6214539",
-      "urlToImage": "https://i.cbc.ca/1.6214547.1634508202!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/roberta-mcdonald.jpg",
-      "publishedAt": "2021-10-18T12:00:00Z",
-      "content": "Robbie McDonald wasn't diagnosed with ADHD until she was in her 50s, but says she had always suspected she had the disorder, after years of difficulty with her career and escalating issues relating t… [+3710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vanguard"
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "5 Dead As Rain Batters Uttarakhand, Pics, Videos Show Flooding, Damage - NDTV",
+          "description": "Heavy rainfall in Uttarakhand over the past two-three days has led to scenes of chaos and disaster across the hilly state, with flooded roads and buildings, destroyed bridges and overflowing rivers leaving five dead and several people stranded.",
+          "url": "https://www.ndtv.com/india-news/uttarakhad-floods-5-dead-as-rain-batters-uttarakhand-pics-videos-show-flooding-damage-2580252",
+          "urlToImage": "https://c.ndtvimg.com/2021-10/lhc7bndo_uttarakhand-floods_625x300_19_October_21.jpg",
+          "publishedAt": "2021-10-19T06:00:00Z",
+          "content": "The weather department has issued a 'red alert' for Uttarakhand\r\nNew Delhi: Heavy rainfall in Uttarakhand over the past three days has led to scenes of chaos and disaster across the hilly state, with… [+6009 chars]"
       },
-      "author": null,
-      "title": "REDTV, PASUMA, Jumoke Odetola, Lateef Adedimeji, others for HAPAwards 2021 - Vanguard",
-      "description": "Africa's Lifestyle and Entertainment channel – REDTV alongside Fuji Maestro, Wasiu Alabi Pasuma, Nollywood celebrities like Jumoke Odetola, Lateef Adedimeji, Etinosa Idemudia and Ayoola Ayoola have been nominated for the 5th edition of Hollywood and African p…",
-      "url": "https://www.vanguardngr.com/2021/10/redtv-pasuma-jumoke-odetola-lateef-adedimeji-others-for-hapawards-2021/",
-      "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2021/10/hapawrds.jpg",
-      "publishedAt": "2021-10-18T11:58:35Z",
-      "content": "Africa’s Lifestyle and Entertainment channel REDTV alongside Fuji Maestro, Wasiu Alabi Pasuma, Nollywood celebrities like Jumoke Odetola, Lateef Adedimeji, Etinosa Idemudia and Ayoola Ayoola have bee… [+2572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deccan Herald"
+      {
+          "source": {
+              "id": null,
+              "name": "Sky Sports"
+          },
+          "author": "Gary Neville",
+          "title": "Newcastle owners' treatment of Steve Bruce 'totally wrong', says Gary Neville - Sky Sports",
+          "description": "Jamie Carragher and Gary Neville gave a critical assessment of Newcastle's new ownership, with Neville calling their treatment of Steve Bruce \"totally wrong\".",
+          "url": "https://www.skysports.com/football/news/11678/12437720/newcastle-owners-treatment-of-steve-bruce-totally-wrong-says-gary-neville",
+          "urlToImage": "https://e0.365dm.com/21/10/1600x900/skysports-steve-bruce-gary-neville_5551045.jpg?20211018201011",
+          "publishedAt": "2021-10-19T06:00:00Z",
+          "content": null
       },
-      "author": "Mrityunjay Bose",
-      "title": "Doctors suggest getting flu shots despite side effects - Deccan Herald",
-      "description": "Taking a flu shot is the need of the hour as it reduces one’s chances of getting sick from flu, the serious complications caused due to it, reduces chances of Covid-19, hospitalisation, and mortality rates.  Anyone above six months can get a flu shot every ye…",
-      "url": "https://www.deccanherald.com/national/doctors-suggest-getting-flu-shots-despite-side-effects-1041751.html",
-      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/10/18/vaccine-istock-1036043-1633041527-1041751-1634557359.jpg",
-      "publishedAt": "2021-10-18T11:42:39Z",
-      "content": "Taking a flu shot is the need of the hour as it reduces ones chances of getting sick from flu, the serious complications caused due to it, reduces chances of Covid-19, hospitalisation, and mortality … [+2067 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Councillor criticises own council for ordering businessman to take down signs - Stuff.co.nz",
+          "description": "A Southland District councillor has accused his own council of being “heavy-handed” for insisting a businessman take down large signs on his property.",
+          "url": "https://www.stuff.co.nz/national/126719946/councillor-criticises-own-council-for-ordering-businessman-to-take-down-signs",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/v/c/7/j/image.related.StuffLandscapeSixteenByNine.1420x800.23g1qi.png/1634623130867.jpg",
+          "publishedAt": "2021-10-19T05:58:00Z",
+          "content": "A Southland District councillor has accused his own council of being heavy-handed for insisting a businessman takes down large signs on his property.\r\n But council staff are sticking to their guns, s… [+2965 chars]"
       },
-      "author": null,
-      "title": "VERIFY: Antibody testing is not recommended to check immunity getting the Covid vaccine - 11Alive",
-      "description": "Some people are turning to the Verify team asking whether they can check their immunity via an antibody test before getting a booster dose of the vaccine.",
-      "url": "https://www.youtube.com/watch?v=XaMWuRYPcfc",
-      "urlToImage": "https://i.ytimg.com/vi/XaMWuRYPcfc/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:41:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
+      {
+          "source": {
+              "id": null,
+              "name": "The Sun Daily"
+          },
+          "author": null,
+          "title": "Pandemic makes it tougher for Malaysians to retire comfortably - The Sun Daily",
+          "description": "PETALING JAYA: The Covid-19 pandemic has made it harder for Malaysians to retire comfortably. Low interest rates and an increasing life expectancy hav...",
+          "url": "https://www.thesundaily.my/local/pandemic-makes-it-tougher-for-malaysians-to-retire-comfortably-BJ8478298",
+          "urlToImage": "https://www.thesundaily.my/binrepository/480x348/0c49/480d250/none/11808/XXUA/mercer-retirement_1955313_20211019135713.jpg",
+          "publishedAt": "2021-10-19T05:57:00Z",
+          "content": "PETALING JAYA: The Covid-19 pandemic has made it harder for Malaysians to retire comfortably.\r\nLow interest rates and an increasing life expectancy have put unprecedented pressure on both public and … [+2931 chars]"
       },
-      "author": "Gabija Gataveckaite",
-      "title": "Next 24 hours pivotal as ministers prepare to make decisions on October 22 lifting of restrictions - Independent.ie",
-      "description": "THE next 24 hours will be crucial as ministers make their final decisions on what restrictions will be lifted this Friday.",
-      "url": "https://www.independent.ie/news/next-24-hours-pivotal-as-ministers-prepare-to-make-decisions-on-october-22-lifting-of-restrictions-40959378.html",
-      "urlToImage": "https://www.independent.ie/news/09e3a/40959377.ece/AUTOCROP/w1240h700/CC%20TAOISEACH%20AT%20CITYWEST",
-      "publishedAt": "2021-10-18T11:40:00Z",
-      "content": "THE next 24 hours will be crucial as ministers make their final decisions on what restrictions will be lifted this Friday.\r\nThe National Public Health Emergency Team (Nphet) will meet this afternoon … [+3267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Covid-19 vaccines at schools: An imposition or making the most of a 'captive audience' - Stuff.co.nz",
+          "description": "Some health workers are calling for Covid-19 vaccinations to be rolled out in schools, but caution is advised to ensure whānau do not feel it being “imposed” on them.",
+          "url": "https://www.stuff.co.nz/national/health/coronavirus/126710469/covid19-vaccines-at-schools-an-imposition-or-making-the-most-of-a-captive-audience",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/v/c/a/2/image.related.StuffLandscapeSixteenByNine.1420x800.23fuf9.png/1634623258624.jpg",
+          "publishedAt": "2021-10-19T05:52:00Z",
+          "content": "Some health workers are calling for Covid-19 vaccinations to be rolled out in schools, but caution is advised to ensure whnau do not feel it being imposed on them.\r\n Associate Health Minister Peeni H… [+3983 chars]"
       },
-      "author": "Aamna Mohdin, Tobi Thomas",
-      "title": "Youth homelessness has risen 40% in five years, says UK charity - The Guardian",
-      "description": "Centrepoint estimates 121,000 homeless or at risk, with analysis showing black people disproportionally affected",
-      "url": "https://amp.theguardian.com/society/2021/oct/18/youth-homelessness-up-40-per-cent-in-five-years-says-uk-charity-centrepoint",
-      "urlToImage": null,
-      "publishedAt": "2021-10-18T11:39:00Z",
-      "content": "HomelessnessCentrepoint estimates 121,000 homeless or at risk, with analysis showing black people disproportionally affected\r\nYouth homeless in the UK has increased by an estimated two-fifths in five… [+4266 chars]"
-    },
-    {
-      "source": {
-        "id": "news24",
-        "name": "News24"
+      {
+          "source": {
+              "id": null,
+              "name": "The Punch"
+          },
+          "author": "Agency Report",
+          "title": "New Cape Verde president Neves pledges to work with rival prime minister - Punch Newspapers",
+          "description": null,
+          "url": "https://punchng.com/new-cape-verde-president-neves-pledges-to-work-with-rival-prime-minister/",
+          "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/10/19075331/Jose-Maria-Neves.jpg",
+          "publishedAt": "2021-10-19T05:46:50Z",
+          "content": "Left-winger Jose Maria Neves vowed on Monday to work together with his centre-right prime minister after winning the Cape Verde presidential election in the first round of voting.\r\nNeves garnered 51.… [+3216 chars]"
       },
-      "author": "Juniour Khumalo",
-      "title": "Mangaung Metro instructed to dissolve ill-advised Metro Police service and discipline all involved - News24",
-      "description": "National Treasury has given an order for the Mangaung Metro Police Service to be dissolved and for disciplinary procedures to be instituted against 'everyone involved in this process of constituting the metro police service, including members of the mayoral c…",
-      "url": "https://www.news24.com/news24/southafrica/news/mangaung-metro-instructed-to-dissolve-ill-advised-metro-police-service-and-discipline-all-involved-20211018",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8686/696c8c7c62d94c80a95262f41a30e8ce.jpg",
-      "publishedAt": "2021-10-18T11:35:46Z",
-      "content": "<ul><li>National Treasury has ordered that the process used to create the Mangaung Metro Police Service should be abandoned.</li><li>It says this is because the metro can barely handle its finances a… [+7157 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+      {
+          "source": {
+              "id": null,
+              "name": "IOL"
+          },
+          "author": "Se-Anne Rall",
+          "title": "Yet another bus crash in KZN, this time 58 wounded after coach overturns on R56 - IOL",
+          "description": "At least 56 people were injured in a bus crash on the R56 near Umkomaas Valley near Ixopo late on Monday evening.",
+          "url": "https://www.iol.co.za/news/south-africa/kwazulu-natal/yet-another-bus-crash-in-kzn-this-time-58-wounded-after-coach-overturns-on-r56-0c6f5061-ec0e-4a92-9180-ef9e2d40066d",
+          "urlToImage": "https://image-prod.iol.co.za/resize/650x366/A-total-of-58-people-were-injured-in-a-bus-crash-on-the-R56-on-Monday-Picture-KZPA?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/6208ab06-1b92-5db2-ab3a-beda8d8922ad&operation=CROP&offset=0x116&resize=689x388",
+          "publishedAt": "2021-10-19T05:44:53Z",
+          "content": "Durban - At least 56 people were injured in a bus crash on the R56 near Umkomaas Valley near Ixopo late on Monday evening.\r\nParamedics arrived at the scene to find that the bus had veered off the roa… [+1322 chars]"
       },
-      "author": "AFP",
-      "title": "Ireland's Curtis Campher takes four wickets in four balls at T20 World Cup - Times of India",
-      "description": "Cricket News: Ireland fast bowler Curtis Campher claimed 4 wickets in 4 balls to rattle the Netherlands in a first round match of the T20 World Cup. Campher sent ba",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/irelands-curtis-campher-takes-four-wickets-in-four-balls-at-t20-world-cup/articleshow/87108062.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-87108081,width-1070,height-580,imgsize-37498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2021-10-18T11:35:00Z",
-      "content": "Curtis Campher has four in four Colin Ackermann Ryan ten Doeschate Scott Edwards Roelof van der Mer https://t.co/ONveEHvZQw\r\n— T20 World Cup (@T20WorldCup) 1634554643000"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
+      {
+          "source": {
+              "id": null,
+              "name": "Hollywood Reporter"
+          },
+          "author": "Abid Rahman",
+          "title": "Marvel’s ‘Eternals’: First Reactions to Chloé Zhao’s Film From the World Premiere - Hollywood Reporter",
+          "description": "After a pandemic-enforced delay of almost a year, Marvel’s Eternals was finally unveiled to its first audience following its world premiere at the iconic El Capitan Theatre in Los Angeles on Monday night. The official review embargo for Eternals lifts at 11 a…",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/eternals-first-reactions-from-premiere-1235033330/",
+          "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/08/Eternals_Payoff_1-Sheet_v6_Lg-H-2021.jpg?w=1024",
+          "publishedAt": "2021-10-19T05:37:30Z",
+          "content": "After a pandemic-enforced delay of almost a year, Marvel’s Eternals was finally unveiled to its first audience following its world premiere at the iconic El Capitan Theatre in Los Angeles on Monday n… [+6724 chars]"
       },
-      "author": null,
-      "title": "Study assesses T-cell responses directed against highly conserved regions of SARS-CoV-2 - News-Medical.Net",
-      "description": "The study aimed to assess whether highly conserved regions within coronaviruses harbor CD8+ T-cell epitopes, capable of being cross-recognized between different coronaviruses.",
-      "url": "https://www.news-medical.net/news/20211018/Study-assesses-T-cell-responses-directed-against-highly-conserved-regions-of-SARS-CoV-2.aspx",
-      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/10/shutterstock_1640566693.jpg",
-      "publishedAt": "2021-10-18T11:34:00Z",
-      "content": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) belongs to the beta-coronavirus family, which is one among the four most common human coronaviruses, beta coronaviruses human coronavirus … [+5521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Irish Examiner"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "China's economic growth could see a 'sharp slowdown' after 2022, says professor - CNBC International TV",
+          "description": "Michael Pettis of Peking University says growth in consumption would likely not fall as much even as China's GDP growth would \"drop a lot.\"",
+          "url": "https://www.youtube.com/watch?v=1p0KqLvYopk",
+          "urlToImage": "https://i.ytimg.com/vi/1p0KqLvYopk/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T05:37:13Z",
+          "content": null
       },
-      "author": "Naomi Clarke, PA Entertainment Reporter",
-      "title": "Penny Lancaster feared she would lose sex appeal due to menopause - Irish Examiner",
-      "description": "",
-      "url": "https://www.irishexaminer.com/lifestyle/people/arid-40723749.html",
-      "urlToImage": "https://www.irishexaminer.com/cms_media/module_img/5400/2700297_6_seoimage16x9_2.34623766.jpg.jpg",
-      "publishedAt": "2021-10-18T11:30:00Z",
-      "content": "TV presenter Penny Lancaster has said she thought she would lose her sex appeal due to menopause.The Loose Women star and model, 50, who is married to Rod Stewart, spoke about her experiences of meno… [+1985 chars]"
-    }
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": "AFP",
+          "title": "Jones says exiles must show 'will' to win World Cup as England name squad for Bok Test - News24",
+          "description": "England coach Eddie Jones has said his dropped veterans must prove to him they have what it takes to win a World Cup, rather than just be merely involved at the global showpiece.",
+          "url": "https://www.news24.com/sport/rugby/jones-says-exiles-must-show-will-to-win-world-cup-as-england-name-squad-for-bok-test-20211019",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/4344/7c1c5af2f7ec4723ae5676b27de18b56.jpg",
+          "publishedAt": "2021-10-19T05:35:07Z",
+          "content": "England coach Eddie Jones has said his dropped veterans must prove to him they have what it takes to win a World Cup, rather than just be merely involved at the global showpiece, if they are to regai… [+5066 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sydney Morning Herald"
+          },
+          "author": "Michaela Whitbourn",
+          "title": "Berejiklian inquiry LIVE updates: Paul Doorn tells ICAC former NSW premier’s relationship with Daryl Maguire would have been a ‘red flag’ - The Sydney Morning Herald",
+          "description": "The ICAC’s public hearing starts at 10am on Tuesday. The corruption watchdog is expected to hear from former NSW Premier Mike Baird and Trade and Industry Minister Stuart Ayres this week.",
+          "url": "https://www.smh.com.au/politics/nsw/berejiklian-inquiry-live-updates-paul-doorn-to-appear-as-icac-investigation-into-conduct-of-former-nsw-premier-continues-20211018-p590zt.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_449%2C$y_175/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/a5a80be880462fb4ccdaa1cf9cb00277266eed60",
+          "publishedAt": "2021-10-19T05:34:58Z",
+          "content": "As we have heard throughout the morning at the ICAC, and indeed in yesterdays evidence, the NSW Office of Sport was sceptical about the merits of a proposal to fund a multimillion-dollar upgrade of f… [+1798 chars]"
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "TIMESOFINDIA.COM",
+          "title": "How to tell if your long flu case was actually COVID - Times of India",
+          "description": "With a sudden change in season and influx of viruses circulating right now, there's been a rampant rise in seasonal flu cases, just as we are beginning to worry a little less about COVID.",
+          "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/how-to-tell-if-your-long-flu-case-was-actually-covid/photostory/87128903.cms",
+          "urlToImage": "https://static.toiimg.com/photo/87129087.cms",
+          "publishedAt": "2021-10-19T05:30:00Z",
+          "content": "Flu season this year around is swelling, and for those who have been affected, the intensity and duration of the infection can be severe, lasting for a long time.\r\nWhile cases of extreme severity can… [+746 chars]"
+      },
+      {
+          "source": {
+              "id": "associated-press",
+              "name": "Associated Press"
+          },
+          "author": "Nick Perry",
+          "title": "New Zealand hits virus high, pushes vaccination as way out - Associated Press",
+          "description": "WELLINGTON, New Zealand (AP) — New Zealand counted its most new coronavirus cases of the pandemic Tuesday as an outbreak in its largest city grew and officials urged vaccinations as a way out of Auckland's two-month lockdown.",
+          "url": "https://apnews.com/article/coronavirus-pandemic-business-health-new-zealand-pandemics-ad47f457c0461259b70dc1849e2dbf2e",
+          "urlToImage": "https://storage.googleapis.com/afs-prod/media/43a5f1594a654933b08518230dcaeefd/3000.jpeg",
+          "publishedAt": "2021-10-19T05:29:55Z",
+          "content": "WELLINGTON, New Zealand (AP) New Zealand counted its most new coronavirus cases of the pandemic Tuesday as an outbreak in its largest city grew and officials urged vaccinations as a way out of Auckla… [+2675 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ESPN"
+          },
+          "author": "Joon Lee",
+          "title": "Red Sox pitcher Eduardo Rodriguez mimics Carlos Correa's watch gesture, drawing rebuke from Boston manager Alex Cora - ESPN",
+          "description": "After inducing a groundout by Carlos Correa, Red Sox pitcher Eduardo Rodriguez pointed to his wrist in reference to the Astros player's Game 1 celebration. The gesture drew a rebuke from Boston manager Alex Cora, but Correa thought it was \"kind of cool.\"",
+          "url": "https://www.espn.com/mlb/story/_/id/32428045/red-sox-pitcher-eduardo-rodriguez-mimics-carlos-correa-watch-gesture-drawing-rebuke-boston-manager-alex-cora",
+          "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1019%2Fr925051_1296x729_16%2D9.jpg",
+          "publishedAt": "2021-10-19T05:28:51Z",
+          "content": "BOSTON -- The new and old school ways of baseball etiquette clashed during the Boston Red Sox's 12-3 victory over the Houston Astros in Game 3 of the ALCS on Monday night when Carlos Correa grounded … [+2121 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Malay Mail"
+          },
+          "author": "Radzi Razak",
+          "title": "DAP says no to letting former rep Norhizam run under Pakatan banner in Melaka polls - Malay Mail",
+          "description": "KUALA LUMPUR, Oct 19 — Former Pengkalan Batu assemblyman Datuk Norhizam Hassan Baktee will not get the chance to contest next month’s Melaka state election as a Pakatan Harapan (PH) candidate if DAP has its say. DAP secretary-general Lim Guan Eng said his par…",
+          "url": "https://www.malaymail.com/news/malaysia/2021/10/19/dap-says-no-to-letting-former-rep-norhizam-run-under-pakatan-banner-in-mela/2014440",
+          "urlToImage": "https://media2.malaymail.com/resize_cache/uploads/articles/2020/2020-05/Norhizam_Hassan_Baktee_1205-seo.jpg",
+          "publishedAt": "2021-10-19T05:28:46Z",
+          "content": "Datuk Norhizam Hassan Baktee won the seat in the 2018 general election on a DAP ticket, only to declare himself an independent assemblyman in support of Umno in March last year, leading to the Perika… [+2158 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Manchester Evening News"
+          },
+          "author": "Ben Perrin, Sophie Halle-Richards",
+          "title": "Man City's Jack Grealish pays tribute to 'beautiful' young woman killed in tunnel horror crash - Manchester Evening News",
+          "description": "Paige Rice, 22, originally from Birmingham, died following a crash in Liverpool on Sunday",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-citys-jack-grealish-pays-21897789",
+          "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article21895974.ece/ALTERNATES/s1200/2_image0jpeg.jpg",
+          "publishedAt": "2021-10-19T05:28:19Z",
+          "content": "Manchester City and England football star Jack Grealish has paid tribute to a young woman who was killed following a horror crash in Liverpool this weekend.\r\nPaige Rice, 22, from Marston Green in Bir… [+3547 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Age"
+          },
+          "author": "David Estcourt, Simone Fox Koob",
+          "title": "Former partner charged with murdering mother of two - The Age",
+          "description": "Appearing in court from hospital, the man is accused of killing his former partner, who was the mother of their two children and expecting their third.",
+          "url": "https://www.theage.com.au/national/victoria/former-partner-charged-with-murder-over-death-of-mother-of-two-20211019-p591ac.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_1.204%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_241/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/eacaef0c01dc2b991a84637f6c4095c2330827d3",
+          "publishedAt": "2021-10-19T05:27:10Z",
+          "content": "A Bayswater North man has been charged with murdering his former partner, who was the mother of their two children and expecting their third.\r\nMichelle Darragh, 32, died at the home of her ex-partner… [+1164 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "AllAfrica - Top Africa News"
+          },
+          "author": null,
+          "title": "Africa: Covid-19 Shows Why African Data Is Key for the Continent's Response to Pandemics - AllAfrica - Top Africa News",
+          "description": "Analysis - Early predictions of the impact of the COVID-19 pandemic by some public health scientists painted a gloomy picture for Africa. The continent was expected to suffer a huge burden of disease and death. These predictions have not held true. The contin…",
+          "url": "https://allafrica.com/stories/202110190027.html",
+          "urlToImage": "https://cdn06.allafrica.com/download/pic/main/main/csiid/00590805:5b14cd318e5c3cee82978014d80764b8:arc614x376:w1200.jpg",
+          "publishedAt": "2021-10-19T05:21:56Z",
+          "content": "Early predictions of the impact of the COVID-19 pandemic by some public health scientists painted a gloomy picture for Africa. The continent was expected to suffer a huge burden of disease and death.… [+7528 chars]"
+      },
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": null,
+          "title": "Bill Gates was warned in 2008 over 'inappropriate emails' to female Microsoft employee - News24",
+          "description": "Microsoft co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008 over emails to a female staff member that were deemed inappropriate.",
+          "url": "https://www.news24.com/fin24/companies/ict/microsoft-bill-gates-was-warned-in-2008-over-inappropriate-emails-to-female-employee-20211019",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11361/5a91764f84ef41bda4b15993f922e7b4.jpg",
+          "publishedAt": "2021-10-19T05:15:45Z",
+          "content": "Microsoft co-founder Bill Gates, whose departure from the tech giant in 2020 followed revelations of an affair with an employee 20 years before, had already been warned in 2008 over emails to a femal… [+1013 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Malaysiakini"
+          },
+          "author": "",
+          "title": "Maszlee urges Dong Zong to ask 'new lover' about UEC issue - Malaysiakini",
+          "description": "I’m no longer in the govt my dear, says the former minister.",
+          "url": "https://www.malaysiakini.com/news/595953",
+          "urlToImage": "https://icf.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2020/08/8651609be12b57bb08a6d674d443bf14.jpg",
+          "publishedAt": "2021-10-19T05:13:00Z",
+          "content": "Chinese education development group Dong Zong was told to ask the current government about recognising the Unified Examination Certificate (UEC) instead of taking a former education minister to task … [+329 chars]"
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Story by Reuters",
+          "title": "India moves thousands of Kashmir migrants to secure locations after deadly attacks - CNN",
+          "description": "Indian authorities have moved thousands of migrant workers in Kashmir to safer locations overnight, while hundreds have fled the Himalayan valley after a wave of targeted killings, two security officials said on Monday.",
+          "url": "https://www.cnn.com/2021/10/19/india/kashmir-india-migrant-workers-flee-intl-hnk/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019005248-01-migrant-workers-flee-kashmir-1018-restricted-super-tease.jpg",
+          "publishedAt": "2021-10-19T05:12:00Z",
+          "content": "Srinagar, IndiaIndian authorities have moved thousands of migrant workers in Kashmir to safer locations overnight, while hundreds have fled the Himalayan valley after a wave of targeted killings, two… [+1937 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Devdiscourse"
+          },
+          "author": "ANI",
+          "title": "Gamma-ray Telescope selected by NASA to chart Milky Way evolution - Devdiscourse",
+          "description": "The US space agency National Aeronautics and Space Administration (NASA) has selected a new space telescope proposal to study the recent history of star birth, star death, and the formation of chemical elements in the Milky Way.",
+          "url": "https://www.devdiscourse.com/article/science-environment/1773098-gamma-ray-telescope-selected-by-nasa-to-chart-milky-way-evolution",
+          "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_10_2021_05_11_38_8376816.jpg?width=920&format=jpeg",
+          "publishedAt": "2021-10-19T05:11:57Z",
+          "content": "The US space agency National Aeronautics and Space Administration (NASA) has selected a new space telescope proposal to study the recent history of star birth, star death, and the formation of chemic… [+2187 chars]"
+      },
+      {
+          "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+          },
+          "author": "ABC News",
+          "title": "NRL issue fines to Panthers trio for post-grand final incidents, Penrith stand down Tyrone May - ABC News",
+          "description": "Tyrone May is stood down, while Nathan Cleary and Stephen Crichton are fined over their behaviour during Penrith's NRL grand final celebrations.",
+          "url": "https://www.abc.net.au/news/2021-10-19/tyrone-may-stood-down-nrl-fines-panthers-trio/100551000",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7c757b2c3678ffbcb19fced0d4b2443a?impolicy=wcms_crop_resize&cropH=1139&cropW=2024&xPos=0&yPos=21&width=862&height=485",
+          "publishedAt": "2021-10-19T05:09:25Z",
+          "content": "Penrith utility Tyrone May has been stood down indefinitely after receiving an NRL breach notice and a $7,500 fine for a social media post during the Panthers' grand final celebrations.\r\n<ul><li>The … [+2348 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Inquirer.net"
+          },
+          "author": "Christia Marie Ramos",
+          "title": "Senate recommends charges vs Michael Yang, Pharmally, PS-DBM execs for pandemic fund mess - INQUIRER.net",
+          "description": "MANILA, Philippines — Senator Richard Gordon on Tuesday bared the Senate blue ribbon committee’s partial findings which included the recommendation of possible charges against Pharmally",
+          "url": "https://www.inquirer.net",
+          "urlToImage": "https://newsinfo.inquirer.net/files/2021/09/0-02-06-2991a215092ba1332511af14a4bbb54895599668d82fbcba88736c4cf02ebbeb_1c6da6269171fb-620x412.jpg",
+          "publishedAt": "2021-10-19T05:05:00Z",
+          "content": "FILE PHOTO Senate Sergeant-at-Arms MGen. Rene C. Samonte (Ret.) and security staff escort Pharmally Pharmaceutical Corp. Executive Linconn Ong inside the Senate building on September 21, 2021. Ong wa… [+3504 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Calgary Herald"
+          },
+          "author": "Madeline Smith",
+          "title": "Jyoti Gondek will be first woman to serve as Calgary's mayor - Calgary Herald",
+          "description": "Jyoti Gondek stepped out of the debris of an acrimonious campaign set to become the first woman elected mayor in Calgary’s history.",
+          "url": "https://calgaryherald.com/news/local-news/jyoti-gondek-poised-for-win-will-be-first-woman-to-serve-as-calgarys-mayor",
+          "urlToImage": "https://smartcdn.prod.postmedia.digital/calgaryherald/wp-content/uploads/2021/10/1018-jyoti-gondek-4.jpg",
+          "publishedAt": "2021-10-19T05:03:45Z",
+          "content": "The mayor-elects political ascent began in 2017, when she was among a group of four newcomers to city council \r\nMadeline Smith, Meghan Potkins\r\nMayoral candidate Jyoti Gondek poses for a photo outsid… [+8547 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": "Emma Russell",
+          "title": "Covid 19 Delta outbreak: Positive Waiheke Island case travelled by ferry, isolating at their home - New Zealand Herald",
+          "description": "They are a close contact of an existing case in Auckland, a spokesman told the Herald.",
+          "url": "https://www.nzherald.co.nz/nz/covid-19-delta-outbreak-positive-waiheke-island-case-travelled-by-ferry-isolating-at-their-home/3NYFACENGALOR7PLMXBMVSS2TY/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/-BIVIqfze-SHxWbuVDGBO389-N0=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NJT7QI3VLYLVT6XTAUHFU2LJKI.jpg",
+          "publishedAt": "2021-10-19T05:03:45Z",
+          "content": "Auckland has seen a surge in Covid cases with 94 reported today - the highest daily number since the pandemic arrived in this country in March last year. A total of 87 are in Auckland and seven in Wa… [+4226 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Tara Conlan",
+          "title": "Earth’s demise could rid galaxy of meaning, warns Brian Cox ahead of Cop26 - The Guardian",
+          "description": "Unique events that led to civilisation mean its demise could ‘eliminate meaning in galaxy for ever’",
+          "url": "https://amp.theguardian.com/science/2021/oct/19/earths-demise-could-rid-galaxy-of-meaning-warns-brian-cox-ahead-of-cop26",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:01:00Z",
+          "content": "Brian CoxUnique events that led to civilisation mean its demise could eliminate meaning in galaxy for ever\r\nTue 19 Oct 2021 06.01 BST\r\nHumans might be the only intelligent beings in our galaxy, so de… [+4226 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "GSMArena.com"
+          },
+          "author": "Ricky",
+          "title": "Huawei teases Enjoy 20e with 6.3-inch display and 5,000 mAh battery - GSMArena.com news - GSMArena.com",
+          "description": "The entry-level Huawei phone will reportedly launch on Singles' Day.",
+          "url": "https://www.gsmarena.com/huawei_teases_enjoy_20e_with_63inch_display_and_5000_mah_battery-news-51482.php",
+          "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/10/huawei-enjoy-20e-teased/-952x498w6/gsmarena_000.jpg",
+          "publishedAt": "2021-10-19T05:00:01Z",
+          "content": "Huawei has the Enjoy 20e, an entry-level smartphone that succeeds the Enjoy 10e. According to the release poster, The Huawei Enjoy 20e will arrive with a 6.3-inch HD LCD display with a u-shaped notch… [+523 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Richard Partington",
+          "title": "Interest rates dilemma puts spotlight on Bank of England's credibility - The Guardian",
+          "description": "As markets bet on an increase, economists give their view after Andrew Bailey’s mixed messages",
+          "url": "https://amp.theguardian.com/business/2021/oct/19/interest-rates-dilemma-puts-spotlight-on-bank-of-england-credibility",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "Bank of EnglandAs markets bet on an increase, economists give their view after Andrew Baileys mixed messages\r\nLess than a month ago Andrew Bailey warned the hard yards were still to come. Britains ec… [+7046 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Telegraph.co.uk"
+          },
+          "author": null,
+          "title": "Tesco ditches checkouts to take on Amazon - Telegraph.co.uk",
+          "description": "Supermarket giant opens rival to Amazon Fresh that lets London shoppers shop and pay without scanning goods or using a checkout",
+          "url": "https://www.telegraph.co.uk/business/2021/10/19/tesco-ditches-checkouts-take-amazon/",
+          "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2021/10/18/tesco-to-go_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?impolicy=logo-overlay",
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "Tesco has opened its first checkout-free store in central London as Britain's biggest supermarket counters Amazon's \"just-walk-out\" technology.\r\nBritain's biggest supermarket chain has expanded a tec… [+957 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Jillian Ambrose",
+          "title": "Drax dropped from index of green energy firms amid biomass doubts - The Guardian",
+          "description": "Doubts over sustainability of company’s wood-burning power plant mount within financial sector",
+          "url": "https://amp.theguardian.com/business/2021/oct/19/drax-dropped-from-index-of-green-energy-firms-amid-biomass-doubts",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "DraxDoubts over sustainability of companys wood-burning power plant mount within financial sector\r\nTue 19 Oct 2021 06.00 BST\r\nDrax has been booted from an investment index of clean energy companies a… [+4507 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Lexie Cartwright",
+          "title": "‘I was shocked by how he spoke to me’ - NEWS.com.au",
+          "description": "<p>Gal Gadot has opened up about her clash with disgraced Hollywood director Joss Whedon.</p>",
+          "url": "https://www.news.com.au/entertainment/celebrity-life/gal-gadot-opens-up-about-infamous-joss-whedon-clash-on-justice-league/news-story/acd60baeaeb926b6192cd32219a1d3e7",
+          "urlToImage": "https://content.api.news/v3/images/bin/ec7ac2ccde386c54b8366d430a821ba1",
+          "publishedAt": "2021-10-19T04:57:57Z",
+          "content": "Actress Gal Gadot says she was shaking trees after an ugly clash with director Joss Whedon on set of the 2017 film, Justice League.Gal Gadot has opened up about her clash with disgraced Hollywood dir… [+3096 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "News18"
+          },
+          "author": "Tech Desk",
+          "title": "Pixel 6, Pixel 6 Pro Launch Today: How To Watch Live, What To Expect At Google Event - News18",
+          "description": "The Google Pixel 6 series launch event will begin at 10:30PM IST tonight. The event will be livestreamed on Made By Google YouTube channel, but you can follow live updates here at News18.",
+          "url": "https://www.news18.com/news/tech/pixel-6-pixel-6-pro-launch-today-how-to-watch-live-what-to-expect-at-google-event-4338617.html",
+          "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/09/pixel-6-pro-ad-163221462116x9.jpg",
+          "publishedAt": "2021-10-19T04:56:46Z",
+          "content": "Google Pixel 6 and Google Pixel 6 Pro will be launched tonight at 10:30PM IST. During tonight’s event, Google will also unvieil the Google Tensor silicon chip that will power the Pixel 6 and Pixel 6 … [+2065 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ESPN"
+          },
+          "author": "Mechelle Voepel",
+          "title": "Diana Taurasi says 'magic slipped away' from Phoenix Mercury in WNBA Finals loss - ESPN",
+          "description": "Diana Taurasi said the \"magic slipped away\" from the Phoenix Mercury in addressing their loss to the Sky in the WNBA Finals.",
+          "url": "https://www.espn.com/nba/story/_/id/32427995/diana-taurasi-says-magic-slipped-away-phoenix-mercury-wnba-finals-loss",
+          "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1019%2Fr925048_1296x729_16%2D9.jpg",
+          "publishedAt": "2021-10-19T04:55:34Z",
+          "content": "A day after blowing a fourth quarter lead while facing elimination in Game 4 of the WNBA Finals, the Phoenix Mercury players addressed what went wrong after deciding not to speak to the media immedia… [+3407 chars]"
+      },
+      {
+          "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+          },
+          "author": "Danny Tran, Richard Willingham",
+          "title": "Supreme Court dismisses challenges by unions, MP, in the wake of ALP branch stacking scandal - ABC News",
+          "description": "A group of 10 powerful unions and MP Marlene Kairouz have lost their legal challenges against the federal ALP's intervention in the Victorian branch after serious allegations emerged.",
+          "url": "https://www.abc.net.au/news/2021-10-19/supreme-court-dismisses-unions-kairouz-branch-stacking/100549764",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/589cf2684cf9b7249155d1dee3a87128?impolicy=wcms_crop_resize&cropH=576&cropW=1023&xPos=0&yPos=0&width=862&height=485",
+          "publishedAt": "2021-10-19T04:55:13Z",
+          "content": "Australia's most powerful unions have failed to convince the Supreme Court that their members were disenfranchised when Labor's national executive suspended voting for Victorian preselections, as the… [+4420 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sky.com"
+          },
+          "author": "Amar Mehta",
+          "title": "Apple unveils big changes to Macbook Pro laptops and AirPods at latest launch event - Sky News",
+          "description": "",
+          "url": "https://news.sky.com/story/apple-unveils-big-changes-to-macbook-pro-laptops-and-airpods-at-latest-launch-event-12437912",
+          "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-macbook-apple-airpods_5551279.png?20211019011824",
+          "publishedAt": "2021-10-19T04:54:53Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "TIMESOFINDIA.COM",
+          "title": "Shah Rukh Khan's wife Gauri Khan instructs staff at Mannat to not cook sweets till son Aryan Khan gets ba - Times of India",
+          "description": "Shah Rukh Khan and Gauri Khan’s son Aryan Khan’s arrest shocked everyone across the country. He was nabbed by the N",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-wife-gauri-khan-instructs-staff-at-mannat-to-not-cook-sweets-till-son-aryan-khan-gets-bail-report/articleshow/87128734.cms",
+          "urlToImage": "https://static.toiimg.com/thumb/msid-87128720,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-48922/87128720.jpg",
+          "publishedAt": "2021-10-19T04:53:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Global News"
+          },
+          "author": "Emily Mertz",
+          "title": "Edmonton election 2021: Amarjeet Sohi elected mayor - Global News",
+          "description": "Mayor-elect Amarjeet Sohi is a familiar face, having previously served Edmonton both municipally and federally.",
+          "url": "https://globalnews.ca/news/8266564/edmonton-election-2021-mayor-amarjeet-sohi/",
+          "urlToImage": "https://globalnews.ca/wp-content/uploads/2021/10/amarjeet-sohi.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+          "publishedAt": "2021-10-19T04:52:10Z",
+          "content": "Amarjeet Sohi is projected to be Edmonton’s next mayor. He is making history as the first person of colour to be elected as Edmonton’s mayor.\r\n“I hope with my win, and the community’s win, that we ca… [+7068 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Punch"
+          },
+          "author": "Bola Bamigbola",
+          "title": "Initiate reconciliation in Osun APC, group urges Oyetola, others - Punch Newspapers",
+          "description": "A group within the Osun state chapter of the All Progressives Congress called 'Opomulero Osun' has urged Governor Adegboyega Oyetola and the newly elected state executives of APC to initiate genuine reconciliation within the party.",
+          "url": "https://punchng.com/initiate-reconciliation-in-osun-apc-group-urges-oyetola-others/",
+          "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/08/04054155/Gboyega-Oyetola1.jpg",
+          "publishedAt": "2021-10-19T04:46:40Z",
+          "content": "A group within the Osun state chapter of the All Progressives Congress called ‘Opomulero Osun’ has urged Governor Adegboyega Oyetola and the newly elected state executives of APC to initiate genuine … [+1257 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Birkenhead disorder incident: Victim was owner of Auckland hotpot restaurant chain - Stuff.co.nz",
+          "description": "Qiang Xin, 31, was found dead outside an apartment on Auckland's North Shore on October 7.",
+          "url": "https://www.stuff.co.nz/auckland/300433894/birkenhead-disorder-incident-victim-was-owner-of-auckland-hotpot-restaurant-chain",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/v/5/l/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yvc9y.png/1634622424431.jpg",
+          "publishedAt": "2021-10-19T04:44:00Z",
+          "content": "A man who died during an alleged disorder incident is the owner of a hotpot restaurant chain in Auckland.\r\n Police have named the man as 31-year-old Qiang Xin from Aucklands North Shore.\r\n Xin was fo… [+2358 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": null,
+          "title": "How Kourtney Kardashian's ex Scott Disick feels about her engagement - New Zealand Herald",
+          "description": "A source has let slip how Scott Disick has responded to the news about his ex.",
+          "url": "https://www.nzherald.co.nz/entertainment/how-kourtney-kardashians-ex-scott-disick-feels-about-her-engagement/J5AXM6GCVRUEI6QCZMGHUZ23VA/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/dxUBRVlYQIx3NnByHHwQIhSljls=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/3H6XNOX375BZPVSPL2TM5RV5OY.jpg",
+          "publishedAt": "2021-10-19T04:40:20Z",
+          "content": "Fans are wondering how Scott Disick is taking the news his ex Kourtney Kardashian is engaged. Photo / Getty ImagesKourtney Kardashian's ex is reportedly not happy about her engagement.\r\nScott Disick,… [+3334 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Moneycontrol"
+          },
+          "author": null,
+          "title": "What should investors do with L&T Infotech: buy, sell or hold post Q2 results? - Moneycontrol.com",
+          "description": "The IT firm's September quarter profit rose 11.1 percent at Rs 551.7 crore from Rs 496.8 crore and rupee revenue was up 8.8 percent at Rs 3,767 crore from Rs 3,462.5 crore from the previous quarter",
+          "url": "https://www.moneycontrol.com/news/business/stocks/what-should-investors-do-with-lt-infotech-buy-sell-or-hold-post-q2-results-7597631.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/10/software3-6-770x433.jpg",
+          "publishedAt": "2021-10-19T04:39:12Z",
+          "content": "Larsen &amp; Toubro Infotech share price touched a 52-week high of Rs 6,680, rising nearly 14 percent on October 19 after the company reported better numbers in the quarter ended September 2021.\r\nLar… [+2308 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Terror attack victim urges kindness after woman granted diversion for racist rant - Stuff.co.nz",
+          "description": "A woman whose brother died in the Christchurch terror attack urges everyone to “embrace diversity” after she and her mother were racially abused in a store.",
+          "url": "https://www.stuff.co.nz/national/crime/126723988/terror-attack-victim-urges-kindness-after-woman-granted-diversion-for-racist-rant",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/n/x/v/i/image.related.StuffLandscapeSixteenByNine.1420x800.23g4us.png/1634618214238.jpg",
+          "publishedAt": "2021-10-19T04:36:00Z",
+          "content": "A woman whose brother died in the Christchurch terror attack urges everyone to embrace diversity and learn from each other after she and her mother were racially abused in a store.\r\n Two videos poste… [+2238 chars]"
+      },
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": "Cebelihle Mthethwa",
+          "title": "City of Johannesburg warns of power interruption after substation fire - News24",
+          "description": "The City of Johannesburg says parts of the city is experiencing power interruptions due to a fire at the Robertsham sub-station.",
+          "url": "https://www.news24.com/news24/southafrica/news/city-of-johannesburg-warns-of-power-interruption-after-substation-fire-20211019",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1365/b73016b67a5040ec9b4f15c191a42ade.jpg",
+          "publishedAt": "2021-10-19T04:35:46Z",
+          "content": "The City of Johannesburg says parts of the city is experiencing power interruptions due to a fire at the Robertsham sub-station.\r\nThe power outage occurred on Monday at around 20:30.\r\nAccording to th… [+591 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "Karnataka Congress Deletes Tweet Against PM, Blames It On \"Novice\" - NDTV",
+          "description": "The Congress in Karnataka has deleted a tweet labelling Prime Minister Narendra Modi as an \"angootha-chhaap\" or illiterate, also expressing regret for what it called an \"uncivil tweet\" posted by a \"novice social media manager\".",
+          "url": "https://www.ndtv.com/india-news/karnataka-congress-deletes-angootha-chhaap-tweet-against-pm-narendra-modi-blames-it-on-novice-social-media-manager-2580136",
+          "urlToImage": "https://c.ndtvimg.com/2021-10/47o8pee8_pm-modi_625x300_15_October_21.jpg",
+          "publishedAt": "2021-10-19T04:35:44Z",
+          "content": "The Karnataka Congress had directed a personal attack at PM Modi in the now-deleted tweet.\r\nHighlights\r\n<ul><li>Karnataka Congress deleted a tweet labelling PM Modi as \"angootha-chhaap\"\r\n</li><li>Twe… [+2779 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Ravindra N. Sonavane",
+          "title": "IRCTC becomes ninth PSU firm to cross market capitalization of ₹1 trillion - Mint",
+          "description": "The stock hit a record high of  ₹6,287.95, gaining as much as 7.1%",
+          "url": "https://www.livemint.com/market/stock-market-news/irctc-becomes-ninth-psu-firm-to-cross-market-capitalization-of-1-trillion-11634615987609.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/irctcrestaurant_1631941706440_1634617755881.jpg",
+          "publishedAt": "2021-10-19T04:30:25Z",
+          "content": "MUMBAI :\r\nIndian Railway Catering and Tourism Corporation Ltd (IRCTC) has become the ninth public sector entity to join the elite club of 1 trillion market capitalization (m-cap) with its shares surg… [+2872 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "SowetanLIVE"
+          },
+          "author": "Mawande AmaShabalala",
+          "title": "Drama as ANC councillor turned independent candidate tries to counter Ramaphosa campaign rally - SowetanLIVE",
+          "description": "There was drama on Monday when the ANC elections campaign trail — led by its president Cyril Ramaphosa — landed in one of Free State’s most dysfunctional municipalities.",
+          "url": "https://www.sowetanlive.co.za/news/south-africa/2021-10-19-drama-as-anc-councillor-turned-independent-candidate-tries-to-counter-ramaphosa-campaign-rally/",
+          "urlToImage": "https://lh3.googleusercontent.com/_x5km6bQQZHK0xE6hbV6rZtUwzBk5AjWF6BSxcMmacqezgGd3SMoQefC5e2BPFFrc4MXCZyK5jFyq0_5X8-o_yKB30VzOx5r6oOzv3k5yFZxzp0=s1000",
+          "publishedAt": "2021-10-19T04:29:40Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Otago Daily Times"
+          },
+          "author": null,
+          "title": "Gang associates jailed after brutal Christchurch killing - Otago Daily Times",
+          "description": "The family of a man hammered and stabbed to death in his Christchurch home have faced down his killers - both Mongrel Mob associates - lambasting...",
+          "url": "https://www.odt.co.nz/news/national/gang-associates-jailed-after-brutal-christchurch-killing",
+          "urlToImage": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2021/10/juan_marshcurtis_wealleansnzh.jpg?itok=faO3ZrpI",
+          "publishedAt": "2021-10-19T04:24:26Z",
+          "content": "The family of a man hammered and stabbed to death in his Christchurch home have faced down his killers - both Mongrel Mob associates - lambasting them in court for their callous, cruel and \"revolting… [+13428 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sydney Morning Herald"
+          },
+          "author": "Robert Moran",
+          "title": "Meet Tsehay Hawkins, the teenager who’s the new Yellow Wiggle - Sydney Morning Herald",
+          "description": "The Sydney high school student takes up the yellow skivvy after Emma Watkins’ surprise departure.",
+          "url": "https://www.smh.com.au/culture/music/meet-tsehay-hawkins-the-teenager-who-s-the-new-yellow-wiggle-20211019-p591as.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_0.40897741594503395%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_792%2C$y_69/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/d115010c5648aa341e9a66779ec1946128a9ab9c",
+          "publishedAt": "2021-10-19T04:22:38Z",
+          "content": "Besides her teenage exuberance, the tenth-grader brings a unique perspective to the Wiggles franchise.\r\nBorn in Ethiopia, she was adopted as a baby and moved to Sydney with her Australian parents whe… [+2069 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "News-Medical.Net"
+          },
+          "author": null,
+          "title": "Professor Liston’s latest book helps young children to learn about vaccines - News-Medical.Net",
+          "description": "The Professor Adrian Liston, Senior Group Leader at the Babraham Institute, and artist Dr Sonia Agüera-Gonzalez have published a captivating story book to teach children about the immune system and why vaccinations are important.",
+          "url": "https://www.news-medical.net/news/20211019/Professor-Listone28099s-latest-book-helps-young-children-to-learn-about-vaccines.aspx",
+          "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+          "publishedAt": "2021-10-19T04:22:00Z",
+          "content": "The Professor Adrian Liston, Senior Group Leader at the Babraham Institute, and artist Dr Sonia Agüera-Gonzalez have published a captivating story book to teach children about the immune system and w… [+2490 chars]"
+      },
+      {
+          "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+          },
+          "author": "Rhiannon Shine",
+          "title": "WA to reclassify Queensland as 'very low risk' in easing of COVID-19 border restrictions - ABC News",
+          "description": "WA stands firm on its hard border with Victoria and NSW, refusing to open to those states before Christmas, as other jurisdictions roll out clear roadmaps for reopening. But travellers from Queensland will no longer need to quarantine from Friday.",
+          "url": "https://www.abc.net.au/news/2021-10-19/wa-stands-firm-on-hard-border-with-nsw-and-victoria/100548710",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/65c52401fe0d28c685cf934f4ed7b1ae?impolicy=wcms_crop_resize&cropH=1238&cropW=2200&xPos=0&yPos=0&width=862&height=485",
+          "publishedAt": "2021-10-19T04:19:59Z",
+          "content": "The WA Premier has again ruled out opening the border to higher risk states in time for Christmas, while announcing travellers from Queensland will no longer need to quarantine from this Friday. \r\nKe… [+5494 chars]"
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "Kris Maher, Juan Montes, Clare Ansberry",
+          "title": "Haiti Kidnap Gang Seeks $17 Million Ransom for Abducted American Missionaries - The Wall Street Journal",
+          "description": "FBI and Haitian police are in contact with the kidnappers and seeking the release of the missionaries; victims include five children",
+          "url": "https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701",
+          "urlToImage": "https://images.wsj.net/im-419206/social",
+          "publishedAt": "2021-10-19T04:19:00Z",
+          "content": "BERLIN, OhioThe Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday… [+235 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Stephen Shankland",
+          "title": "Apple 16-inch MacBook Pro's 140-watt USB-C charger is its most powerful yet - CNET",
+          "description": "The beefy brick can charge with the laptop's USB-C or MagSafe ports, pioneering a new high-power charging standard.",
+          "url": "https://www.cnet.com/tech/computing/apple-16-inch-macbook-pros-140-watt-usb-c-charger-is-its-most-powerful-yet/",
+          "urlToImage": "https://www.cnet.com/a/img/YccruIyrBxqL3Lb5oWX0S0IXSIU=/1200x630/2021/10/19/7cde1f1f-199f-46c5-bdf6-f9d790bcffe0/macbook-pro-16-inch-gradient-3.jpg",
+          "publishedAt": "2021-10-19T04:18:00Z",
+          "content": "Apple MacBook Pro\r\nIllustration by Stephen Shankland/CNET\r\nApple boasted about how efficient its new MacBook Pro laptops are during their debut Monday, but it takes Apple's most power-hungry laptop c… [+2956 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "How UP's Kushinagar International Airport will prove to be a game-changer - Mint",
+          "description": "How UP's Kushinagar International Airport will prove to be a game-changer",
+          "url": "https://www.livemint.com/news/india/how-up-s-kushinagar-international-airport-will-prove-to-be-a-gamechanger-11634615206930.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/Kushinagar_airport_1634616336639_1634616367845.png",
+          "publishedAt": "2021-10-19T04:17:03Z",
+          "content": "Prime Minister Narendra Modi will inaugurate the Kushinagar International Airport tomorrow,  20 October 2021. According to the Ministry of Civil Aviation Uttar Pradesh Governor Anandiben Patel, Chief… [+2082 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "News18"
+          },
+          "author": "Amrita Nayak Dutta",
+          "title": "LAC Dispatch: Indian Soldiers Along China Border Get Tibetology Training to Aid Soft Power, Intel Gathering - News18",
+          "description": "From history and language to its demography, Indian soldiers posted along the Line of Actual Control are being taught all about Tibet to help devise informed military strategies.",
+          "url": "https://www.news18.com/news/india/lac-dispatch-indian-soldiers-along-china-border-get-tibetology-training-to-boost-soft-power-intel-gathering-4338335.html",
+          "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/10/tibet-1-163461678116x9.jpg",
+          "publishedAt": "2021-10-19T04:13:00Z",
+          "content": "Indian Army soldiers posted along the Line of Actual Control (LAC) are being taught all about Tibet — from its culture, language and history to the Buddhist philosophy followed by its sparse populati… [+2434 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "India's 1 Billion Vaccines Milestone Hides A Worrying Disparity - NDTV",
+          "description": "India will soon have administered 1 billion COVID-19 vaccine doses, but the milestone masks a worry disparity between the number of people who have been fully vaccinated and those that have had just one shot.",
+          "url": "https://www.ndtv.com/world-news/india-to-hit-billion-doses-this-week-but-only-20-are-fully-vaccinated-2580124",
+          "urlToImage": "https://c.ndtvimg.com/2021-10/13ccmroc_india-covid-vaccine-bloomberg_625x300_19_October_21.jpg",
+          "publishedAt": "2021-10-19T04:13:00Z",
+          "content": "PM Modi's government is aiming to fully vaccinate India's adult population by year-end.\r\nIndia will soon have administered one billion COVID-19 vaccine doses, but the milestone masks a yawning gap be… [+4139 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Mb.com.ph"
+          },
+          "author": null,
+          "title": "Kim Seon-ho’s agency issues statement on accusations by his alleged ex-GF - Manila Bulletin",
+          "description": "The Nation's Leading Newspaper",
+          "url": "https://mb.com.ph/2021/10/19/kim-seon-hos-agency-issues-statement-on-accusations-by-his-alleged-ex-gf/",
+          "urlToImage": "https://mb.com.ph/wp-content/uploads/2021/10/38203.jpeg",
+          "publishedAt": "2021-10-19T04:10:00Z",
+          "content": "After two days of silence, Salt Entertainment, the agency of Hometown Cha-Cha-Cha star Kim Seon-ho, finally issued a statement on the accusations contained in a post on Oct. 17 by a woman who claimed… [+2967 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNA"
+          },
+          "author": null,
+          "title": "PUB launches S$6.5 million 'carbon zero' challenge to remove emissions from water treatment facilities - CNA",
+          "description": "SINGAPORE: As part of its strategy to achieve net-zero emissions by the middle of this century, PUB will award S$6.5 million for “game-changing solutions” that can eliminate carbon emissions from water treatment facilities.\r\n\r\nThis is the prize purse for the …",
+          "url": "https://www.channelnewsasia.com/singapore/pub-carbon-zero-challenge-water-treatment-2253456",
+          "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--PxTpX3UN--/c_crop%2Ch_2698%2Cw_4797%2Cx_1%2Cy_500/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2021/10/18/high_res_-_lower_seletar_reservoir_floating_solar_farm_1.jpg?itok=31cZ5JRh",
+          "publishedAt": "2021-10-19T04:00:26Z",
+          "content": "SINGAPORE: As part of its strategy to achieve net-zero emissions by the middle of this century, PUB will award S$6.5 million for game-changing solutions that can eliminate carbon emissions from water… [+1788 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Castanet.net"
+          },
+          "author": null,
+          "title": "North Korea fires ballistic missile into sea in latest test - World News - Castanet.net",
+          "description": "North Korea fired a ballistic missile into the sea on Tuesday in a continuation of its recent weapons tests, the South Korean and Japanese militaries said, hours after the U.S. reaffirmed its offer to resume diplomacy on the North’s nuclear weapons program.",
+          "url": "https://www.castanet.net/news/World/348993/North-Korea-fires-ballistic-missile-into-sea-in-latest-test",
+          "urlToImage": "https://www.castanet.net/content/2021/10/missile_p3557004.jpg",
+          "publishedAt": "2021-10-19T04:00:00Z",
+          "content": "North Korea fired a ballistic missile into the sea on Tuesday in a continuation of its recent weapons tests, the South Korean and Japanese militaries said, hours after the U.S. reaffirmed its offer t… [+3850 chars]"
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "Reuters",
+          "title": "Australia's Covid-19 cases remain subdued as vaccinations rise - Times of India",
+          "description": "Rest of World News: Sydney and the national capital Canberra exited a months-long lockdown last week after racing through its inoculation targets while Melbourne is on tr",
+          "url": "https://timesofindia.indiatimes.com/world/rest-of-world/australias-covid-19-cases-remain-subdued-as-vaccinations-rise/articleshow/87127727.cms",
+          "urlToImage": "https://static.toiimg.com/thumb/msid-87127888,width-1070,height-580,imgsize-144314,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "publishedAt": "2021-10-19T04:00:00Z",
+          "content": "Australia's Covid-19 cases remain subdued as vaccinations rise"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "TimesLIVE"
+          },
+          "author": "Kgaugelo Masweneng",
+          "title": "'She would have been proud': maths prodigy dedicates win to mom - TimesLIVE",
+          "description": "A mathematics prodigy in grade 11 has dazzled the South Africa Mathematics Olympiad (Samo) with his innovative approach to problem-solving.",
+          "url": "https://www.timeslive.co.za/news/south-africa/2021-10-19-she-would-have-been-proud-maths-prodigy-dedicates-win-to-mom/",
+          "urlToImage": "https://lh3.googleusercontent.com/7M3MclMtByPNAIeU4MABmdETrIShBukjqJJUD7V2bA1iMn8cM-L2ouSAqqDIOcev5uY7Nw4jXv9qaAzK7t-xN9_JA6z4_UQC3lF0=s1000",
+          "publishedAt": "2021-10-19T04:00:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Associated Press",
+          "title": "Texas lawmakers pass new congressional maps bolstering GOP - Fox News",
+          "description": "Texas Republicans approved on Monday redrawn U.S. House maps that favor incumbents and decrease political representation for growing minority communities, even as Latinos drive much of the growth in the nation’s largest red state.",
+          "url": "https://www.foxnews.com/politics/texas-lawmakers-pass-new-congressional-maps-bolstering-gop",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/GettyImages-1233964215.jpg",
+          "publishedAt": "2021-10-19T03:59:12Z",
+          "content": "Texas Republicans approved on Monday redrawn U.S. House maps that favor incumbents and decrease political representation for growing minority communities, even as Latinos drive much of the growth in … [+4178 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Doudrop vs. Shayna Baszler – Queen's Crown Tournament Semifinals Match: Raw, Oct. 18, 2021 - WWE",
+          "description": "Zelina Vega makes her presence felt as Doudrop and Shayna Baszler battle to advance to the Finals of the Queen’s Crown Tournament. Catch WWE action on Peacoc...",
+          "url": "https://www.youtube.com/watch?v=uzhXjm1H0QQ",
+          "urlToImage": "https://i.ytimg.com/vi/uzhXjm1H0QQ/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T03:56:39Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Guardian staff reporter",
+          "title": "‘Devastating’: Jason Galleghan’s mother breaks silence over Sydney teen’s death after 13-year-olds charged - The Guardian Australia",
+          "description": "Six teenagers havebeen charged over the alleged murder in Doonside as police release CCTV images",
+          "url": "https://amp.theguardian.com/australia-news/2021/oct/19/devastating-jason-galleghans-mother-breaks-silence-over-sydney-teens-death-after-13-year-olds-charged",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:54:00Z",
+          "content": "SydneySix teenagers have been charged over the alleged murder in Doonside as police release CCTV images\r\nAustralian Associated Press\r\nTue 19 Oct 2021 04.54 BST\r\nA mother has spoken of her disbelief a… [+2438 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sports Illustrated"
+          },
+          "author": "Nick Selbe",
+          "title": "Bills Gamble on Fourth Down, Titans Stand Tall in Wild 'Monday Night Football' Finish - Sports Illustrated",
+          "description": "Trailing by three points with under 30 seconds to play, Bills coach Sean McDermott went for it on 4th-and-1 inside the 5-yard line, but the Titans defense stood tall.",
+          "url": "https://www.si.com/nfl/2021/10/19/titans-bills-monday-night-football-josh-allen-qb-sneak-sean-mcdermott",
+          "urlToImage": "https://www.si.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg0NjY0NzExNzA5NTk5MjA3/titans-bills.jpg",
+          "publishedAt": "2021-10-19T03:52:00Z",
+          "content": "As the Bills and Titans traded scoring drives in a Monday Night Football shoot-out, it seemed like a no-brainer for Buffalo to go for it on 4th-and-1 inside the Tennessee 5-yard line, trailing by thr… [+1336 chars]"
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Ryan Gaydos",
+          "title": "Titans stop Josh Allen on crucial 4th down to hold on for win, fans debate whether Bills made right play - Fox News",
+          "description": "The Buffalo Bills found out Monday night football is truly a game of inches.",
+          "url": "https://www.foxnews.com/sports/titans-stop-josh-allen-4th-down-win-fans-debate-play",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Josh-Allen5.jpg",
+          "publishedAt": "2021-10-19T03:51:52Z",
+          "content": "The Buffalo Bills found out Monday night football is truly a game of inches.\r\nThe phrase may be one of the oldest cliches in sports, but it was Bills quarterback Josh Allen who got the lesson in a 34… [+2684 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sydney Morning Herald"
+          },
+          "author": "Eryk Bagshaw",
+          "title": "Fake families and neighbourhood spies: China’s 24-hour repression of Uighurs - Sydney Morning Herald",
+          "description": "In the campaign to remake Xinjiang into a region of ‘perfect stability’, household managers are trained in intelligence and ideological instability is punished with re-education.",
+          "url": "https://www.smh.com.au/world/asia/fake-families-and-neighbourhood-spies-as-repression-of-uighurs-turns-personal-20211018-p5912p.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_0.3775%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/c6a58ab260a36b94d16d1882874b35cba5d19e6c",
+          "publishedAt": "2021-10-19T03:50:43Z",
+          "content": "Xu, Leibold and Impiombato said authorities have sought to permanently remould Xinjiang society and reach a perfect state of comprehensive stability by the end of 2021.\r\nThe Chinese Foreign Ministry … [+4456 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Republic World"
+          },
+          "author": "Aanchal Nigam",
+          "title": "White dwarf star found 'switching on and off' in just 30 minutes for the first time - Republic World",
+          "description": "In a remarkable discovery using NASA’s TESS, astronomers have spotted a white dwarf star ‘switching on and off’ in just 30 minutes for the first time.",
+          "url": "https://www.republicworld.com/technology-news/science/white-dwarf-star-found-switching-on-and-off-in-just-30-minutes-for-the-first-time.html",
+          "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e2ltehbd2vagmppc_1634613632.jpeg",
+          "publishedAt": "2021-10-19T03:48:00Z",
+          "content": "In a remarkable discovery, astronomers have spotted a white dwarf star switching on and off in just 30 minutes for the first time. The researchers led by Durham University in the UK said on 18 Octobe… [+1927 chars]"
+      },
+      {
+          "source": {
+              "id": "nbc-news",
+              "name": "NBC News"
+          },
+          "author": "Tim Fitzsimons",
+          "title": "Australia starts chlamydia vaccine trial in koalas - NBC News",
+          "description": "Australia's University of the Sunshine Coast announced it is enrolling 400 koalas in a trial to see whether a vaccine can prevent infection with chlamydia pecorum.",
+          "url": "https://www.nbcnews.com/science/science-news/australia-starts-chlamydia-vaccine-trial-koalas-n1281796",
+          "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_42/3513413/211018-koala-vaccine-jm-1712.jpg",
+          "publishedAt": "2021-10-19T03:44:00Z",
+          "content": "Scientists at an Australian university hope to help make the island's dwindling and beloved koala population healthier with a chlamydia vaccine for the marsupials.\r\nThe University of the Sunshine Coa… [+1906 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New York Post"
+          },
+          "author": "Patrick Reilly",
+          "title": "5 tons of cocaine worth $232 million seized by Portuguese authorities - New York Post ",
+          "description": "More than five tons of cocaine worth an estimated $232 million was seized off a 79-foot yacht by Portuguese authorities in the Atlantic Ocean on Sunday.",
+          "url": "https://nypost.com/2021/10/18/portuguese-authorities-seize-5-tons-of-cocaine-worth-232-million/",
+          "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/portugal-cocaine-bust-index.jpg?quality=90&strip=all&w=1024",
+          "publishedAt": "2021-10-19T03:44:00Z",
+          "content": "More than five tons of cocaine worth an estimated $232 million was seized off a 79-foot yacht by Portuguese authorities in the Atlantic Ocean on Sunday.\r\nPortuguese authorities said the drug bust was… [+1493 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sun Daily"
+          },
+          "author": null,
+          "title": "Myanmar frees hundreds of political prisoners after Asean pressure - The Sun Daily",
+          "description": "MYANMAR’S military government has freed hundreds of political prisoners from the notorious Insein prison, including Aung San Suu Kyi’s party spokesman...",
+          "url": "https://www.thesundaily.my/world/myanmar-frees-hundreds-of-political-prisoners-after-asean-pressure-AJ8478046",
+          "urlToImage": "https://www.thesundaily.my/binrepository/480x321/0c0/480d250/none/11808/QPSO/myanmar-prison-release-reuters_1955201_20211019113848.jpg",
+          "publishedAt": "2021-10-19T03:38:00Z",
+          "content": "MYANMARS military government has freed hundreds of political prisoners from the notorious Insein prison, including Aung San Suu Kyis party spokesman and a famous comedian Zarganar, local media report… [+2548 chars]"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "Nick Pino",
+          "title": "The 6 AirPods 3 features we wanted from Apple – but didn’t get - TechRadar",
+          "description": "ANALYSIS: No noise cancellation or fitness features this time around, sadly",
+          "url": "https://www.techradar.com/news/the-6-airpods-3-features-we-wanted-from-apple-but-didnt-get",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/86nmLbT7LGAKyKY5mp4bMY-1200-80.jpg",
+          "publishedAt": "2021-10-19T03:32:09Z",
+          "content": "After months of rumors, Apple finally announced the new AirPods 3\r\n during its Unleashed event\r\n, where we were also treated to new colors for the Apple HomePod mini, the Apple M1 Pro and M1 Max, Mac… [+5383 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Malaysiakini"
+          },
+          "author": "",
+          "title": "PKR MP blames Harapan for Malacca fiasco - Malaysiakini",
+          "description": "Hassan Karim slams central leadership for failing to handle crisis.",
+          "url": "https://www.malaysiakini.com/news/595945",
+          "urlToImage": "https://i.malaysiakini.com/1292/4f80115848a6e069b435603421d81e3c.jpeg",
+          "publishedAt": "2021-10-19T03:31:27Z",
+          "content": "A PKR lawmaker has issued a scathing rebuke to Pakatan Harapan for the political instability in Malacca.\r\nPasir Gudang MP Hassan Karim (above) said Malacca Harapan had been too opportunistic, while t… [+108 chars]"
+      },
+      {
+          "source": {
+              "id": "espn-cric-info",
+              "name": "ESPN Cric Info"
+          },
+          "author": "Nagraj Gollapudi",
+          "title": "Can MS Dhoni help Virat Kohli clinch elusive global title in T20I captaincy swansong? - ESPNcricinfo",
+          "description": "Will the team management risk playing Hardik Pandya as a specialist batter?",
+          "url": "https://www.espncricinfo.com/story/t20-world-cup-india-preview-can-ms-dhoni-help-virat-kohli-clinch-global-title-in-t20i-captaincy-swansong-1283523",
+          "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/328900/328910.6.jpg",
+          "publishedAt": "2021-10-19T03:30:08Z",
+          "content": "Bhuvneshwar's experience will be priceless, says Kohli"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Entertainment Tonight"
+          },
+          "author": "Mona Khalifeh‍",
+          "title": "Angelina Jolie on Going All Vintage With Her Kids in Upcycled Dresses at 'Eternals' Premiere (Exclusive) - Entertainment Tonight",
+          "description": "Jolie brought her kids to the red carpet premiere of her new Marvel film, 'Eternals,' Monday night.",
+          "url": "https://www.etonline.com/angelina-jolie-on-going-all-vintage-with-her-kids-in-upcycled-dresses-at-eternals-premiere",
+          "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2021-10/Blank%201280%20x%20720%20%2847%29.jpg?h=c673cd1c&itok=Iu3zjhXX",
+          "publishedAt": "2021-10-19T03:30:04Z",
+          "content": "Angelina Jolie hit the red carpet premiere for Eternals in style, and she did it with her kids in tow. Jolie spoke with ET's Nischelle Turner about how the whole family went vintage in her some looks… [+2939 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CBS Sports"
+          },
+          "author": "Brent Brookhouse",
+          "title": "WWE Raw results, recap, grades: Charlotte Flair and Bianca Belair battle for Raw women's title in main event - CBSSports.com",
+          "description": "Flair managed to use some underhanded tactics to retain her title",
+          "url": "https://www.cbssports.com/wwe/news/wwe-raw-results-recap-grades-charlotte-flair-and-bianca-belair-battle-for-raw-womens-title-in-main-event/live/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/19/4dcd5f18-ed8d-43b2-9158-aacb8586ed26/thumbnail/1200x675/af74d5d8a73aa8e8088fafae6744c968/charlotte-flair-wwe-raw.jpg",
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": "With Charlotte Flair set to move to SmackDown on Friday night as a result of the WWE Draft, many were curious if Flair would retain her Raw women's championship in her match with Bianca Belair in the… [+4499 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Straits Times"
+          },
+          "author": "KENNY CHEE",
+          "title": "First S'pore Govt 5G trials in Sentosa, like remote-controlled roadsweeper tests, launched - The Straits Times",
+          "description": "The trials will allow government agencies to track the capabilities of 5G for various smart nation applications.. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/tech/tech-news/first-spore-govt-5g-trials-in-sentosa-like-driverless-roadsweeper-tests-launched",
+          "urlToImage": "https://www.straitstimes.com/sites/default/files/media-youtube/YzVeVaA5tn0.jpg",
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": "SINGAPORE - Driverless roadsweeper vehicles that an operator can control from elsewhere and digital signboards that act as shopfronts for consumers to buy goods from are some new applications tapping… [+4264 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Record"
+          },
+          "author": "Tara Fitzpatrick",
+          "title": "Ayr explosion: Neighbour describes terror as blast tremors smashed up her home after house next door blew up - Daily Record",
+          "description": "A 23-year-old described being terrified as her floor shook and she saw toys and clothing being blown from her neighbour's home as it blew up.",
+          "url": "https://www.dailyrecord.co.uk/news/scottish-news/ayr-explosion-neighbour-describes-terror-25245248",
+          "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article25244365.ece/ALTERNATES/s1200/0_JS248220514_censored.jpg",
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": "A neighbour described the horror she witnessed as the house next to her exploded before the blast shook her own home and smashed her windows. \r\n At least three homes have been destroyed with several … [+2820 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": "Dubby Henry",
+          "title": "Covid 19 Delta outbreak: Senior school students in Auckland likely to return first, Chris Hipkins signals - New Zealand Herald",
+          "description": "Education Minister says seniors are under pressure with exams, assessments coming up.",
+          "url": "https://www.nzherald.co.nz/nz/covid-19-delta-outbreak-senior-school-students-in-auckland-likely-to-return-first-chris-hipkins-signals/Y3ENWLVCWR5CAQU3LYX2BXNNXI/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/3EIDWAaP-Wq0og8Sh9MovocUPGo=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VBUV6N26VFHHSGXZITF3BCXDTM.jpg",
+          "publishedAt": "2021-10-19T03:27:12Z",
+          "content": "Education Minister Chris Hipkins was asked when Auckland schools can resume normally.\r\nVideo / Mark MitchellSenior students are likely to be first through the gates when Auckland's schools begin to r… [+4294 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Otago Daily Times"
+          },
+          "author": null,
+          "title": "Fire at Palmerston North landmark treated as suspicious - Otago Daily Times",
+          "description": "Emergency services are today continuing to investigate a fire in a landmark inner-city Palmerston North building. This story was first published by...",
+          "url": "https://www.odt.co.nz/news/national/rnz/fire-palmerston-north-landmark-treated-suspicious",
+          "urlToImage": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2021/10/palmerstonnorthfirernz1.jpg?itok=S_apJ6T7",
+          "publishedAt": "2021-10-19T03:26:04Z",
+          "content": "Emergency services are today continuing to investigate a fire in a landmark inner-city Palmerston North building.Emergency services rushed to the High Flyers building on the corner of The Square and … [+2026 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sky.com"
+          },
+          "author": "Gerard Tubb",
+          "title": "Gracie Spinks: Woman killed after making stalking complaint was 'let down' by police, her family say - Sky News",
+          "description": "",
+          "url": "https://news.sky.com/story/gracie-spinks-woman-killed-after-making-stalking-complaint-was-let-down-by-police-her-family-say-12437876",
+          "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-gracie-spinks_5551217.png?20211018224444",
+          "publishedAt": "2021-10-19T03:24:03Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Eva Corlett",
+          "title": "Sweeping housing legislation could reshape New Zealand cities for decades to come - The Guardian",
+          "description": "Housing campaigners welcome changes, saying they will boost businesses, lower emissions and enable better transport links",
+          "url": "https://amp.theguardian.com/world/2021/oct/19/sweeping-housing-legislation-could-reshape-new-zealand-cities-for-decades-to-come",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:23:00Z",
+          "content": "New ZealandHousing campaigners welcome changes, saying they will boost businesses, lower emissions and enable better transport links\r\nTue 19 Oct 2021 04.23 BST\r\nNew Zealands cities could be reshaped … [+5044 chars]"
+      },
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": "Zakiyah Ebrahim",
+          "title": "Sahpra did not approve the Sputnik V Covid-19 vaccine - the regulator highlighted a major concern - News24",
+          "description": "The health regulator says it has concerns about the vaccine in high-HIV prevalence settings, referring to two past HIV vaccine studies.",
+          "url": "https://www.news24.com/health24/medical/infectious-diseases/coronavirus/sahpra-did-not-approve-the-sputnik-v-covid-19-vaccine-the-regulator-highlighted-a-major-concern-20211019-2",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10888/0161ac45217943ba800af6dbccbce4fe.jpg",
+          "publishedAt": "2021-10-19T03:22:18Z",
+          "content": "<ul><li>One of the adenoviruses used in the Sputnik V vaccine has raised red flags in HIV vaccine trials.</li><li>In two studies, the Ad5 vector was linked to an increased risk of HIV infection in so… [+5576 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "North Korea Fires Ballistic Missile: South Korea's Military - NDTV",
+          "description": "North Korea fired a ballistic missile into the sea, the South Korean military said on Tuesday, the latest in a series of tests by the capital Pyongyang over recent weeks.",
+          "url": "https://www.ndtv.com/world-news/north-korea-fires-unidentified-projectile-south-koreas-military-2580054",
+          "urlToImage": "https://c.ndtvimg.com/2021-03/ae2q6m7o_north-korea-projectile650_625x300_26_March_21.jpg",
+          "publishedAt": "2021-10-19T03:22:00Z",
+          "content": "The \"unidentified ballistic missile\" was fired into the sea east of the peninsula. (Representational)\r\nSeoul: North Korea fired a ballistic missile into the sea on Tuesday, South Korea's military sai… [+4151 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Inflation shock may hit mortgage holders hard and soon - Stuff.co.nz",
+          "description": "ANZ tips inflation to reach 5.8% early next year and the OCR 2% by August; sees real pressure for mortgage rate rises 'before long'.",
+          "url": "https://www.stuff.co.nz/business/126727285/inflation-shock-may-hit-mortgage-holders-hard-and-soon",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/o/v/i/h/image.related.StuffLandscapeSixteenByNine.1420x800.23g7ed.png/1634613663774.jpg",
+          "publishedAt": "2021-10-19T03:21:00Z",
+          "content": "Home-owners may start paying a price for higher inflation sooner rather than later, the countrys biggest bank believes. \r\n ANZ is tipping inflation will reach 5.8 per cent early next year and the off… [+1955 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Guardian Nigeria"
+          },
+          "author": null,
+          "title": "Finally, government scraps DPR, PPPRA, PEF for new agencies - Guardian Nigeria",
+          "description": "The Federal Government, yesterday, officially scrapped the Department of Petroleum Resources (DPR), PPPRA and the PEF",
+          "url": "https://guardian.ng/news/finally-government-scraps-dpr-pppra-pef-for-new-agencies/",
+          "urlToImage": "https://guardian.ng/wp-content/uploads/2020/02/Department-of-Petroleum-Resources-1.jpg",
+          "publishedAt": "2021-10-19T03:20:00Z",
+          "content": "The Federal Government, yesterday, officially scrapped the Department of Petroleum Resources (DPR), Petroleum Products Pricing Regulatory Agency (PPPRA) and the Petroleum Equalisation Fund (PEF).\r\nFo… [+1852 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Indian Express"
+          },
+          "author": "Lakshana N Palat",
+          "title": "Rehnaa Hai Terre Dil Mein turns 20: How Dia Mirza, R Madhavan film showed Bollywood’s love for the brash and abusive hero - The Indian Express",
+          "description": "Rehnaa Hai Terre Dil Mein released 20 years ago. The Dia Mirza, R Madhavan and Saif Ali Khan film celebrated all the problematic tropes that Bollywood falls prey to, including stalking and abusive behaviour.",
+          "url": "https://indianexpress.com/article/entertainment/bollywood/rehnaa-hai-terre-dil-mein-20-years-r-madhavan-dia-mirza-bollywoods-love-for-the-brash-and-abusive-hero-7578921/",
+          "urlToImage": "https://images.indianexpress.com/2021/10/canva-photo-editor-18.jpg",
+          "publishedAt": "2021-10-19T03:19:17Z",
+          "content": "In Rehnaa Hai Terre Dil Mein, Dia Mirzas character Reena is faced with a peculiar predicament. She has to choose between two men: One is Maddy (played by R Madhavan), who stalked her and pretended to… [+4968 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Indianweb2.com"
+          },
+          "author": "PRNewsWire India",
+          "title": "CGTN: China's space station welcomes Shenzhou-13 crew for a six-month stay - IndianWeb2.com",
+          "description": "BEIJING, Oct. 16, 2021 /PRNewswire/ -- The three Chinese astronauts or taikonauts, carried into space on board the Shenzhou-13 spaceship, en...",
+          "url": "https://www.indianweb2.com/2021/10/cgtn-chinas-space-station-welcomes_19.html",
+          "urlToImage": "https://lh4.googleusercontent.com/proxy/25F9yT8n8vNh7NSrNOoRVnk7wC5maQT5MbhuocOjorEF3xSniqEsr7699shqJUQXH7fUYlOXIzxI4I0Evht4wkPpWNY",
+          "publishedAt": "2021-10-19T03:19:00Z",
+          "content": "PRNewsWire IndiaTuesday, October 19, 20210\r\nComments\r\nBEIJING, Oct. 16, 2021 /PRNewswire/ -- The three Chinese astronauts or taikonauts, carried into space on board the Shenzhou-13 spaceship, entered… [+2831 chars]"
+      },
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": "Jan Gerber",
+          "title": "News24's Out of Order index: Which party runs the best municipalities? - News24",
+          "description": "The DA's assertion that it runs the best local governments and the ANC's admission that it made mistakes are borne out by News24's Out of Order index.",
+          "url": "https://www.news24.com/news24/southafrica/news/news24s-out-of-order-index-which-party-runs-the-best-municipalities-20211019",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11692/1b35e4b228c846109d379bc64b7c4114.jpg",
+          "publishedAt": "2021-10-19T03:18:23Z",
+          "content": "The DA's assertion that it runs the best local governments and the ANC's admission that it made mistakes are borne out by News24's Out of Order index.\r\nThe index's five top-performing municipalities … [+250 chars]"
+      }
   ]
 }

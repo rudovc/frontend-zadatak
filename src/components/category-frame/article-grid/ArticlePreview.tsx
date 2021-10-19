@@ -56,6 +56,7 @@ export const ArticlePreview = (props: Article & IProps) => {
   const isImageLoading = () => {
     if (image !== "") {
       return (
+        // Kako prikazat fallback ako dobijen error
         <CardMedia component="img" height="140" image={image} alt="image" />
       );
     } else {

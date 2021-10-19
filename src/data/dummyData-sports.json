@@ -1,266 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 759,
+  "totalResults": 781,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "Sky Sports"
+          },
+          "author": "Sky Sports",
+          "title": "Novak Djokovic at risk of missing Australian Open with unvaccinated players unlikely to get visa - Sky Sports",
+          "description": "Novak Djokovic's participation at the Australian Open is in doubt after a government official said unvaccinated players are unlikely to get a visa.",
+          "url": "https://www.skysports.com/tennis/news/12110/12437950/novak-djokovic-at-risk-of-missing-australian-open-with-unvaccinated-players-unlikely-to-get-visa",
+          "urlToImage": "https://e2.365dm.com/21/09/1600x900/skysports-novak-djokovic-tennis_5511019.jpg",
+          "publishedAt": "2021-10-19T06:17:09Z",
+          "content": "Novak Djokovic's Australian Open title defence and bid for the Grand Slam record are in doubt after a government official said unvaccinated players are unlikely to get visas to enter the country.\r\nWo… [+1761 chars]"
       },
-      "author": null,
-      "title": "Clemson Baseball || 2021 Pro Day - Clemson Tigers",
-      "description": "2021 Pro Day = Time to show out. 👀 🔥 💯",
-      "url": "https://www.youtube.com/watch?v=RyMy3aDVMa8",
-      "urlToImage": "https://i.ytimg.com/vi/RyMy3aDVMa8/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T12:30:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "CBS Sports"
+          },
+          "author": null,
+          "title": "2021 Zozo Championship odds, picks, field, bets: PGA insider says back Xander Schauffele, fade Tommy Fleetwood - CBSSports.com",
+          "description": "Sal Johnson just made his PGA picks, best bets and golf predictions for the Zozo Championship 2021",
+          "url": "https://www.cbssports.com/golf/news/2021-zozo-championship-odds-picks-field-bets-pga-insider-says-back-xander-schauffele-fade-tommy-fleetwood/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/19/781c83a6-0570-4ab2-b971-b2580dcdb677/thumbnail/1200x675/1b38be362d4e112f0a8617f0bbfb464d/xander-schauffele-pga-tour.jpg",
+          "publishedAt": "2021-10-19T06:05:50Z",
+          "content": "Many of the PGA Tour's best golfers will be playing in Japan for the first time in two years when the 2021 Zozo Championship tees off Thursday at Narashino Country Club. The event was held at Sherwoo… [+6402 chars]"
       },
-      "author": null,
-      "title": "T20 World Cup: Bhajji, Danny and Shoaib's Leaked Video Call | SK Yorked - Sportskeeda India",
-      "description": "Banter, Masti, and lots more only on SK Yorked!We caught Danny Morrison, Harbhajan Singh and Shoaib Akhtar red-handed on a video call together, talking about...",
-      "url": "https://www.youtube.com/watch?v=Iz-qn2l2hGs",
-      "urlToImage": "https://i.ytimg.com/vi/Iz-qn2l2hGs/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T12:29:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GIVEMESPORT"
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "David Zita",
+          "title": "‘Absolute tragedy’: The hidden truth behind AFL Legend’s shock retirement - Fox Sports",
+          "description": "‘Absolute tragedy’: The hidden truth behind AFL Legend’s shock retirement",
+          "url": "https://www.foxsports.com.au/afl/teams/essendon-bombers/afl-news-2021-essendon-documentary-how-to-watch-date-and-time-john-coleman-retirement-how-old-was-he/news-story/99eba5737fec8b325c9762ef3f608323",
+          "urlToImage": "https://content.api.news/v3/images/bin/0523942afe11900bf45c967009852ab0",
+          "publishedAt": "2021-10-19T06:03:00Z",
+          "content": "Essendon stalwart Ted Fordham has revealed a debate with the club over an insurance policy was what slammed the door shut on teammate John Colemans remarkable career at just 25 years of age. \r\nThe Bo… [+3271 chars]"
       },
-      "author": "Kobe Tong",
-      "title": "Messi, Ronaldo, Jorginho: Selecting the 2021 FIFA FIFPro World XI, featuring Man Utd trio - GIVEMESPORT",
-      "description": "Messi, Ronaldo, Jorginho: Selecting the 2021 FIFA FIFPro World XI, featuring Man Utd trio",
-      "url": "https://www.givemesport.com/1770457-messi-ronaldo-jorginho-selecting-the-2021-fifa-fifpro-world-xi-featuring-man-utd-trio",
-      "urlToImage": "https://site-cdn.givemesport.com/images/21/10/18/d5b1230102b467df8d0938af0ca45777/1200.jpg",
-      "publishedAt": "2021-10-18T12:18:04Z",
-      "content": "The Ballon d'Or is leading the charge into football's awards season for 2021.\r\nWith France Football revealing the 30 nominees for the top male prize, football fans are starting to brainstorm who out … [+5635 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
+      {
+          "source": {
+              "id": null,
+              "name": "Sky Sports"
+          },
+          "author": null,
+          "title": "Premier League clubs impose temporary freeze on sponsorship deals linked to their owners - Sky Sports",
+          "description": "PL clubs impose a temporary freeze on any of them signing commercial and sponsorship deals with businesses that have links to their club's owners.",
+          "url": "https://www.skysports.com/football/news/11678/12437945/premier-league-clubs-impose-temporary-freeze-on-sponsorship-deals-linked-to-their-owners",
+          "urlToImage": "https://e0.365dm.com/21/10/1600x900/skysports-amanda-staveley-newcastle_5538639.jpg?20211007180548",
+          "publishedAt": "2021-10-19T06:02:10Z",
+          "content": null
       },
-      "author": "Nic Savage",
-      "title": "World in disbelief after World Cup ‘carnage’ - NEWS.com.au",
-      "description": "<p>Irish all-rounder Curtis Campher has become the third cricketer to take a double hat-trick in men&rsquo;s international cricket, achieving the rare feat during Monday&rsquo;s T20 World Cup match against the Netherlands.</p>",
-      "url": "https://www.news.com.au/sport/cricket/carnage-irish-cricketer-curtis-campher-claims-double-hattrick-at-t20-world-cup/news-story/7fbfe2fbcf03259a3afb6e86d5452eea",
-      "urlToImage": "https://content.api.news/v3/images/bin/7ac9ddd28656e42d4bc52f2d1a1e9ba8",
-      "publishedAt": "2021-10-18T12:11:15Z",
-      "content": "This unknown Irish bowler Curtis Campher has stunned the cricket world with a mind-boggling bowling spell at the T20 World Cup.Irish all-rounder Curtis Campher has become the third cricketer to take … [+2593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sporting News"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "MESSI, NUÑEZ, GRIEZMANN | #UCL Best Goals, Matchday 2 - UEFA",
+          "description": "Watch the best goals from the likes of Lionel Messi, Darwin Nuñez and Antoine Griezmann from Matchday 2 of the UEFA Champions League 2021/22.--Watch More: ww...",
+          "url": "https://www.youtube.com/watch?v=z4fm-rKh4qA",
+          "urlToImage": "https://i.ytimg.com/vi/z4fm-rKh4qA/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T06:00:15Z",
+          "content": null
       },
-      "author": "Sporting News",
-      "title": "Cuánto costará el Espai Barça y cómo se pagará - Goal.com",
-      "description": "Newcastle United and Tottenham Hotspur's Premier League clash on Sunday was temporarily suspended following a medical emergency involving a fan just before half-time at St James' Park.",
-      "url": "https://www.sportingnews.com/ca/soccer",
-      "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
-      "publishedAt": "2021-10-18T11:59:00Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "Sky Sports"
+          },
+          "author": "Gary Neville",
+          "title": "Newcastle owners' treatment of Steve Bruce 'totally wrong', says Gary Neville - Sky Sports",
+          "description": "Jamie Carragher and Gary Neville gave a critical assessment of Newcastle's new ownership, with Neville calling their treatment of Steve Bruce \"totally wrong\".",
+          "url": "https://www.skysports.com/football/news/11678/12437720/newcastle-owners-treatment-of-steve-bruce-totally-wrong-says-gary-neville",
+          "urlToImage": "https://e0.365dm.com/21/10/1600x900/skysports-steve-bruce-gary-neville_5551045.jpg?20211018201011",
+          "publishedAt": "2021-10-19T06:00:00Z",
+          "content": null
       },
-      "author": null,
-      "title": "TotalEnergies BWF Thomas & Uber Cup Finals 2020 | Top Backhands of the Tournament - BWF TV",
-      "description": "TotalEnergies BWF Thomas & Uber Cup Finals 2020 | Top Backhands of the Tournament#TotalEnergiesBadminton #ThomasUberCups #Aarhus2020Subscribe: http://smartur...",
-      "url": "https://www.youtube.com/watch?v=stdHUYh1ZHs",
-      "urlToImage": "https://i.ytimg.com/vi/stdHUYh1ZHs/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:58:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
+      {
+          "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+          },
+          "author": "Danny Tran",
+          "title": "Shane Tuck's widow criticises coronial investigation into the footballer's death at age 38 - ABC News",
+          "description": "Lawyers representing Katherine Tuck say it's \"unlikely\" she will continue to be involved in a coronial investigation into her husband's suicide after raising concerns about how he was treated during his time with the club.",
+          "url": "https://www.abc.net.au/news/2021-10-19/shane-tuck-coronial-investigation-widow/100550006",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3d57e4bb62814bfcf950d2769ca0e3a0?impolicy=wcms_crop_resize&cropH=1060&cropW=1887&xPos=196&yPos=880&width=862&height=485",
+          "publishedAt": "2021-10-19T05:51:28Z",
+          "content": "The devastated widow of former AFL player Shane Tuck has revealed that she no longer wants any part of an investigation into her husband's suicide, after Victoria's coroner told her it was not his ro… [+4156 chars]"
       },
-      "author": "Mark Ogden",
-      "title": "Pogba and Fernandes' comments piling pressure on under-fire Man United boss Solskjaer - ESPN",
-      "description": "There can be no positive spin for Ole Gunnar Solskjaer after Paul Pogba and Bruno Fernandes publicly called for things to change at Old Trafford.",
-      "url": "https://www.espn.com/soccer/manchester-united-engman_utd/story/4500015/pogba-and-fernandes-comments-piling-pressure-on-under-fire-man-united-boss-solskjaer",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1018%2Fr924646_1296x729_16%2D9.jpg",
-      "publishedAt": "2021-10-18T11:57:51Z",
-      "content": "It's never a good sign for a manager when his most high-profile players begin to talk openly about a need for improvement, so for Ole Gunnar Solskjaer at Manchester United, there can be no positive s… [+5467 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Essentially Sports"
+      {
+          "source": {
+              "id": "news24",
+              "name": "News24"
+          },
+          "author": "AFP",
+          "title": "Jones says exiles must show 'will' to win World Cup as England name squad for Bok Test - News24",
+          "description": "England coach Eddie Jones has said his dropped veterans must prove to him they have what it takes to win a World Cup, rather than just be merely involved at the global showpiece.",
+          "url": "https://www.news24.com/sport/rugby/jones-says-exiles-must-show-will-to-win-world-cup-as-england-name-squad-for-bok-test-20211019",
+          "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/4344/7c1c5af2f7ec4723ae5676b27de18b56.jpg",
+          "publishedAt": "2021-10-19T05:35:07Z",
+          "content": "England coach Eddie Jones has said his dropped veterans must prove to him they have what it takes to win a World Cup, rather than just be merely involved at the global showpiece, if they are to regai… [+5066 chars]"
       },
-      "author": null,
-      "title": "“Gilbert Burns Wants To Fight” – Dana White Explains What’s Happening With Gilbert Burns Right Now - EssentiallySports",
-      "description": "UFC President Dana White in an interview addressed the situation of Gilbert Burns and said that he wants to fight but everyone is booked.",
-      "url": "https://www.essentiallysports.com/ufc-mma-news-gilbert-burns-wants-to-fight-dana-white-explains-whats-happening-with-gilbert-burns-right-now/",
-      "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/GettyImages-1332589443.jpg",
-      "publishedAt": "2021-10-18T11:54:00Z",
-      "content": "Gilbert Burns last fought in the UFC on July 10, 2021, at UFC 264. He fought the #5 ranked welterweight Stephen Thompson and won the fight via unanimous decision.\r\nADVERTISEMENT\r\nArticle continues be… [+2729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Guardian"
+      {
+          "source": {
+              "id": null,
+              "name": "Afl.com.au"
+          },
+          "author": "Staff writer",
+          "title": "New deals for trio, but tall Pie remains in limbo - AFL",
+          "description": "Mason Cox remains without a contract for 2022",
+          "url": "https://www.afl.com.au/news/685197/new-deals-for-trio-but-tall-pie-mason-cox-remains-in-limbo",
+          "urlToImage": "https://resources.afl.com.au/photo-resources/2021/03/19/25bdd8b3-fa20-4c69-a9da-4abaf99b9090/1kRfsuvn.jpg?width=1200&height=630",
+          "publishedAt": "2021-10-19T05:34:00Z",
+          "content": "THE FUTURE of Mason Cox remains in limbo after Collingwood announced a trio of new deals on Tuesday. \r\nJohn Noble has inked a two-year extension, while Jack Madgen and Tom Wilson have both signed unt… [+1193 chars]"
       },
-      "author": "Hunter Felt",
-      "title": "Diana Taurasi lost in the WNBA finals but her greatness remains secure - The Guardian",
-      "description": "The Chicago Sky defeated Diana Taurasi’s Phoenix Mercury in the WNBA finals, but that shouldn’t alter her reputation as one of basketball’s all-time greats",
-      "url": "https://amp.theguardian.com/sport/2021/oct/18/diana-taurasi-lost-in-the-wnba-finals-but-her-greatness-is-remains-secure",
-      "urlToImage": null,
-      "publishedAt": "2021-10-18T11:54:00Z",
-      "content": "WNBAThe Chicago Sky defeated Diana Taurasis Phoenix Mercury in the WNBA finals, but that shouldnt alter her reputation as one of basketballs all-time greats\r\nMon 18 Oct 2021 12.56 BST\r\nIt was all set… [+5255 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "ESPN"
+          },
+          "author": "Joon Lee",
+          "title": "Red Sox pitcher Eduardo Rodriguez mimics Carlos Correa's watch gesture, drawing rebuke from Boston manager Alex Cora - ESPN",
+          "description": "After inducing a groundout by Carlos Correa, Red Sox pitcher Eduardo Rodriguez pointed to his wrist in reference to the Astros player's Game 1 celebration. The gesture drew a rebuke from Boston manager Alex Cora, but Correa thought it was \"kind of cool.\"",
+          "url": "https://www.espn.com/mlb/story/_/id/32428045/red-sox-pitcher-eduardo-rodriguez-mimics-carlos-correa-watch-gesture-drawing-rebuke-boston-manager-alex-cora",
+          "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1019%2Fr925051_1296x729_16%2D9.jpg",
+          "publishedAt": "2021-10-19T05:28:51Z",
+          "content": "BOSTON -- The new and old school ways of baseball etiquette clashed during the Boston Red Sox's 12-3 victory over the Houston Astros in Game 3 of the ALCS on Monday night when Carlos Correa grounded … [+2121 chars]"
       },
-      "author": null,
-      "title": "The NEW CAMP NOU (OFFICIAL) - FC Barcelona",
-      "description": "We’re building a dream, the new “Espai Barça”. The best club in the world deserves a stadium that is at the avant-garde of technology with FC Barcelona membe...",
-      "url": "https://www.youtube.com/watch?v=MpjUIFBowIM",
-      "urlToImage": "https://i.ytimg.com/vi/MpjUIFBowIM/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:47:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liverpool Echo"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "FULL Maple Leafs and Rangers 3-On-3 Overtime Thriller - SPORTSNET",
+          "description": "Re-Live the entire 3-on-3 overtime between the Toronto Maple Leafs and New York Rangers---------------------------------------------- Subscribe to Sportsnet ...",
+          "url": "https://www.youtube.com/watch?v=5GDeZh22jng",
+          "urlToImage": "https://i.ytimg.com/vi/5GDeZh22jng/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T05:28:10Z",
+          "content": null
       },
-      "author": "Tom Cavilla",
-      "title": "Klopp press conference LIVE - Atletico preview, Fabinho and Alisson update - Liverpool Echo",
-      "description": "Liverpool boss Jurgen Klopp will be addressing the media at 2pm ahead of tomorrow's Champions League clash with Atletico Madrid",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-press-conference-live-klopp-21889273",
-      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article21889219.ece/ALTERNATES/s1200/0_GettyImages-1340261871.jpg",
-      "publishedAt": "2021-10-18T11:37:01Z",
-      "content": "Hello and welcome to our dedicated live blog for Jurgen Klopp's pre-match press conference.\r\n The Liverpool boss will be previewing tomorrow's Champions League meeting with Atletico Madrid from 2pm. … [+684 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Patrick Reilly, New York Post",
+          "title": "US anti-vax football coach fired - NEWS.com.au",
+          "description": "<p>Washington State football coach Nick Rolovich has been fired for refusing to comply with the state&rsquo;s vaccination mandate.</p>",
+          "url": "https://www.news.com.au/sport/american-sports/nfl/washington-state-football-coach-fired-for-refusing-covid-vaccine/news-story/9529b2ec3d314e35c14c2eea19a6ee58",
+          "urlToImage": "https://content.api.news/v3/images/bin/82dbc4bf3f1ee6c086ae31e6b6e27b85",
+          "publishedAt": "2021-10-19T05:19:59Z",
+          "content": "The head coach of a football team in the US state of Washington has been sacked for refusing to abide by the states vaccine rules.Washington State football coach Nick Rolovich has been fired for refu… [+2252 chars]"
       },
-      "author": "AFP",
-      "title": "Ireland's Curtis Campher takes four wickets in four balls at T20 World Cup - Times of India",
-      "description": "Cricket News: Ireland fast bowler Curtis Campher claimed 4 wickets in 4 balls to rattle the Netherlands in a first round match of the T20 World Cup. Campher sent ba",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/irelands-curtis-campher-takes-four-wickets-in-four-balls-at-t20-world-cup/articleshow/87108062.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-87108081,width-1070,height-580,imgsize-37498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2021-10-18T11:35:00Z",
-      "content": "Curtis Campher has four in four Colin Ackermann Ryan ten Doeschate Scott Edwards Roelof van der Mer https://t.co/ONveEHvZQw\r\n— T20 World Cup (@T20WorldCup) 1634554643000"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Kostin: 'I just closed my eyes' and shot on first goal - Bally Sports Midwest",
+          "description": "Can we expect Klim Kostin to score two goals a game from now on? \"I'll try.\"",
+          "url": "https://www.youtube.com/watch?v=PPZhhUUVOtM",
+          "urlToImage": "https://i.ytimg.com/vi/PPZhhUUVOtM/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T05:17:23Z",
+          "content": null
       },
-      "author": null,
-      "title": "Giannis & KD Best Plays of the 2020-21 Season - NBA",
-      "description": "The #NBA75 Anniversary Season starts Tuesday on TNT! #KiaTipOff21Subscribe to the NBA: https://on.nba.com/2JX5gSNFull Game Highlights Playlist: https://on.nb...",
-      "url": "https://www.youtube.com/watch?v=qVNS1CNjTHM",
-      "urlToImage": "https://i.ytimg.com/vi/qVNS1CNjTHM/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:30:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Football365.com"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Blues @ Coyotes 10/18/21 | NHL Highlights - NHL",
+          "description": "Extended highlights of the St. Louis Blues at the Arizona Coyotes",
+          "url": "https://www.youtube.com/watch?v=aTYCJmWF7DQ",
+          "urlToImage": "https://i.ytimg.com/vi/aTYCJmWF7DQ/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T05:11:16Z",
+          "content": null
       },
-      "author": "Joe Williams",
-      "title": "Raiola offers Man Utd star to four clubs with one rejection over wages - Football365",
-      "description": "Man Utd have started to offer Paul Pogba out to clubs ahead of the January transfer window, according to reports in Spain.",
-      "url": "https://www.football365.com/news/man-utd-offer-paul-pogba-four-clubs-real-madrid-juventus-barcelona-psg",
-      "urlToImage": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2021/10/18114229/Paul-Pogba-Man-Utd-F365-22.jpg",
-      "publishedAt": "2021-10-18T11:25:07Z",
-      "content": "Mino Raiola has started to offer Man Utd star Paul Pogba out to clubs ahead of the January transfer window, according to reports in Spain.\r\nThe France international’s deal expires at the end of the s… [+1860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+          },
+          "author": "ABC News",
+          "title": "NRL issue fines to Panthers trio for post-grand final incidents, Penrith stand down Tyrone May - ABC News",
+          "description": "Tyrone May is stood down, while Nathan Cleary and Stephen Crichton are fined over their behaviour during Penrith's NRL grand final celebrations.",
+          "url": "https://www.abc.net.au/news/2021-10-19/tyrone-may-stood-down-nrl-fines-panthers-trio/100551000",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7c757b2c3678ffbcb19fced0d4b2443a?impolicy=wcms_crop_resize&cropH=1139&cropW=2024&xPos=0&yPos=21&width=862&height=485",
+          "publishedAt": "2021-10-19T05:09:25Z",
+          "content": "Penrith utility Tyrone May has been stood down indefinitely after receiving an NRL breach notice and a $7,500 fine for a social media post during the Panthers' grand final celebrations.\r\n<ul><li>The … [+2348 chars]"
       },
-      "author": null,
-      "title": "2022 COMMONWEALTH GAMES : Osinbajo receives Queen's baton - TV360 Nigeria",
-      "description": "TV360 is Nigeria's first exclusive online television news channel based in Lagos. Our focus is news. There is no limit to the kind of news we cover. Our goal...",
-      "url": "https://www.youtube.com/watch?v=rmiF2Atu5Tk",
-      "urlToImage": "https://i.ytimg.com/vi/rmiF2Atu5Tk/maxresdefault.jpg",
-      "publishedAt": "2021-10-18T11:17:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wales Online"
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "hindustantimes.com",
+          "title": "'There is no CSK without MS Dhoni,' says N Srinivasan - Hindustan Times",
+          "description": "India Cements Ltd (ICL) vice-chairman and managing director N Srinivasan, owner of CSK, was recently asked about Dhoni's future with the franchise, and he emphatically stated that there is no CSK without MS Dhoni. | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/there-is-no-csk-without-ms-dhoni-says-n-srinivasan-101634619509029.html",
+          "urlToImage": "https://images.hindustantimes.com/img/2021/10/19/1600x900/dhoni-csk-screengrab_1634307035461_1634619555355.jpg",
+          "publishedAt": "2021-10-19T05:05:10Z",
+          "content": "Despite MS Dhoni leading Chennai Super Kings to their fourth Indian Premier League title win this season in the UAE, questions continue to circle around his future in the IPL with CSK. Dhoni may not … [+1261 chars]"
       },
-      "author": "Philip Dewey",
-      "title": "Live updates as David Henderson pleads guilty to Emiliano Sala flight charge but faces trial on other count - WalesOnline",
-      "description": "David Henderson denies a charge in relation to the aircraft which crashed and killed footballer Emiliano Sala",
-      "url": "https://www.walesonline.co.uk/news/wales-news/live-updates-emiliano-sala-trial-21887929",
-      "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article21889255.ece/ALTERNATES/s1200/0_JS248173718.jpg",
-      "publishedAt": "2021-10-18T11:16:22Z",
-      "content": "A man is set to go on trial over an offence linked to the fatal plane crash that killed Cardiff city striker Emiliano Sala.\r\nThe 28-year-old Argentinian footballer was on a flight from France to Wale… [+1530 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": "Shireen Khalil",
+          "title": "Bartender quits after boss bans him from drinking on his day off - New Zealand Herald",
+          "description": "Need to arrange cover at work? Here's how not to do it.",
+          "url": "https://www.nzherald.co.nz/lifestyle/bartender-quits-after-boss-bans-him-from-drinking-on-his-day-off/S7GZ6YETKTVASEEOSVJHIV57DI/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/0fyp59Tf5Eor7deHR6LqXduGIv0=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UHQG6TZVMVMQNTKI54IPFXGGHU.jpg",
+          "publishedAt": "2021-10-19T05:00:29Z",
+          "content": "A bartender's text exchange with his boss has gone viral. Screenshot / RedditScreenshots of a bartender's exchange with his boss have gone viral after he revealed the \"shocking\" text messages he rece… [+2132 chars]"
       },
-      "author": "Miguel Delaney",
-      "title": "Newcastle’s grand vision hit by reality of relegation battle with Steve Bruce’s authority eroded - The Independent",
-      "description": "After a damaging defeat to Tottenham, the Magpies face a dilemma over short and long-term goals since the Saudi takeover",
-      "url": "https://www.independent.co.uk/sport/football/newcastle-takeover-relegation-steve-bruce-tottenham-b1940090.html",
-      "urlToImage": "https://static.independent.co.uk/2021/10/18/08/GettyImages-1347131174.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-10-18T11:13:00Z",
-      "content": "During one of the many testing points of Sundays game, new Newcastle United chairman Yasir Al-Rumayyan again reached for his phone. Its going to need to be recharged a lot over the next few weeks. Th… [+4609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "NRL: Panthers star Tyrone May stood down, Nathan Cleary and Stephen Crichton fined over final celebrations - Stuff.co.nz",
+          "description": "One Panthers star stood down, two others fined over NRL grand final celebrations.",
+          "url": "https://www.stuff.co.nz/sport/league/300433939/nrl-panthers-star-tyrone-may-stood-down-nathan-cleary-and-stephen-crichton-fined-over-final-celebrations",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/v/3/i/1/image.related.StuffLandscapeSixteenByNine.1420x800.4yvcb7.png/1634619445880.jpg",
+          "publishedAt": "2021-10-19T04:57:00Z",
+          "content": "Penrith utility Tyrone May has been stood down indefinitely after receiving an NRL breach notice and a A$7500 fine for a social media post during the Panthers' grand final celebrations.\r\n Halfback Na… [+2292 chars]"
       },
-      "author": "Josh Alper",
-      "title": "Mac Jones “learning the hard way” how the NFL works - NBC Sports - NFL",
-      "description": "Patriots quarterback Mac Jones had his ups and downs in Sunday’s overtime loss to the Cowboys and they could be illustrated by a two-play sequence late in the fourth quarter. Jones tried a pass to wide receiver Kendrick Bourne that Cowboys cornerback Trevon D…",
-      "url": "https://profootballtalk.nbcsports.com/2021/10/18/mac-jones-learning-the-hard-way-how-the-nfl-works/",
-      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/10/GettyImages-1347133440-e1634555125755.jpg",
-      "publishedAt": "2021-10-18T11:06:00Z",
-      "content": "Patriots quarterback Mac Jones had his ups and downs in Sunday’s overtime loss to the Cowboys and they could be illustrated by a two-play sequence late in the fourth quarter.\r\nJones tried a pass to w… [+1193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
+      {
+          "source": {
+              "id": null,
+              "name": "ESPN"
+          },
+          "author": "Mechelle Voepel",
+          "title": "Diana Taurasi says 'magic slipped away' from Phoenix Mercury in WNBA Finals loss - ESPN",
+          "description": "Diana Taurasi said the \"magic slipped away\" from the Phoenix Mercury in addressing their loss to the Sky in the WNBA Finals.",
+          "url": "https://www.espn.com/nba/story/_/id/32427995/diana-taurasi-says-magic-slipped-away-phoenix-mercury-wnba-finals-loss",
+          "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1019%2Fr925048_1296x729_16%2D9.jpg",
+          "publishedAt": "2021-10-19T04:55:34Z",
+          "content": "A day after blowing a fourth quarter lead while facing elimination in Game 4 of the WNBA Finals, the Phoenix Mercury players addressed what went wrong after deciding not to speak to the media immedia… [+3407 chars]"
       },
-      "author": "Alaina Getzenberg",
-      "title": "How the Buffalo Bills pulled off the greatest comeback in NFL history - ESPN",
-      "description": "It sounds like a movie script: The home team, down 32 points, comes storming back behind the backup QB. Here's how it unfolded.",
-      "url": "https://www.espn.com/nfl/story/_/id/32405466/how-buffalo-bills-pulled-greatest-comeback-nfl-history",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1015%2Fr923310_1212x682_16%2D9.jpg",
-      "publishedAt": "2021-10-18T11:01:48Z",
-      "content": "BUFFALO, N.Y. -- Steve Christie doesn't turn off blowout football games as early as he used to.\r\nEven when some leads seem insurmountable, the former Buffalo Bills kicker will leave the TV on and see… [+15782 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": "Ajay Pal Singh",
+          "title": "Watch: Why Bangladesh Captain Mahmudullah Was Forced To Pause Post-Match Press Meet - NDTVSports.com",
+          "description": "Bangladesh captain Mahmudullah was forced to pause his post-match press conference after his side suffered a six-run defeat against Scotland in the ongoing T20 World Cup",
+          "url": "https://sports.ndtv.com/icc-t20-world-cup-2021/watch-why-bangladesh-captain-mahmudullah-was-forced-to-pause-post-match-press-meet-2580167",
+          "urlToImage": "https://c.ndtvimg.com/2021-10/chu0i3c8_mahmudullah-twitter_625x300_19_October_21.jpg",
+          "publishedAt": "2021-10-19T04:40:25Z",
+          "content": "Bangladesh captain Mahmudullah was forced to pause his post-match press conference after his side suffered a six-run defeat to Scotland in the ongoing T20 World Cup on Sunday. Chasing 141 for the win… [+1598 chars]"
       },
-      "author": "PTI",
-      "title": "Was fortunate to coach and interact with amazingly talented cricketers: R Sridhar - The Indian Express",
-      "description": "Head coach Ravi Shastri, bowling coach Bharath Arun and Sridhar will be leaving at the end of the T20 World Cup.",
-      "url": "https://indianexpress.com/article/sports/cricket/was-fortunate-to-coach-and-interact-with-amazingly-talented-cricketers-r-sridhar-7578063/",
-      "urlToImage": "https://images.indianexpress.com/2021/10/Sridhar.jpg",
-      "publishedAt": "2021-10-18T11:01:44Z",
-      "content": "India’s outgoing fielding coach R Sridhar finds himself extremely fortunate to have coached and interacted with “amazingly talented cricketers” and said that every mistake made was a learning experie… [+1529 chars]"
-    }
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "NHL Highlights | Ducks vs. Flames - Oct. 18, 2021 - SPORTSNET",
+          "description": "Jamie Drysdale scored the overtime winner as the Anaheim Ducks downed the Calgary Flames 3-2 in overtime.",
+          "url": "https://www.youtube.com/watch?v=wVVH4N5obDk",
+          "urlToImage": "https://i.ytimg.com/vi/wVVH4N5obDk/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T04:38:55Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "AFP",
+          "title": "Wild QB gamble backfires as 112kg freak stuns Super Bowl contenders - Fox Sports",
+          "description": "Wild QB gamble backfires as 112kg freak stuns Super Bowl contenders",
+          "url": "https://www.foxsports.com.au/nfl/nfl-2021-tennessee-titans-beat-buffalo-bills-result-reaction-josh-allen-derrick-henry-video-highlights/news-story/1279c0850e1950f9e169ce91d93cbd69",
+          "urlToImage": "https://content.api.news/v3/images/bin/75b4cb6caa5daec3a1968000f1de668c",
+          "publishedAt": "2021-10-19T04:28:00Z",
+          "content": "Derrick Henry rushed for three touchdowns and the Tennessee Titans staged a nailbiting late defensive stand to score a 34-31 victory over the Buffalo Bills on Tuesday (AEDT).\r\nTitans running back Hen… [+2677 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Alex Conrad",
+          "title": "Kiwi makes history with insane knock - NEWS.com.au",
+          "description": "<p>Hurricanes captain Rachel Priest blasted her way to the first century of the WBBL season in a history making knock in Hobart which also finally got her team on the winner&rsquo;s list. </p>",
+          "url": "https://www.news.com.au/sport/cricket/wbbl-hobarts-rachel-priest-makes-hurricanes-history-with-stunning-century/news-story/3a8e6d66c731613e5ceca025a0834da9",
+          "urlToImage": "https://content.api.news/v3/images/bin/0cf0305fae4ed91684741fb5ad1a0423",
+          "publishedAt": "2021-10-19T04:24:03Z",
+          "content": "The Hurricanes Rachel Priest wasted no time in bringing up her first WBBL century as fans went absolutely bananas over her innings.Hurricanes captain Rachel Priest blasted her way to the first centur… [+2259 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fijivillage"
+          },
+          "author": "Shanil Singh",
+          "title": "Baber to coach the Flying Fijians for the Northern Tour - Fijivillage",
+          "description": "Outgoing Fiji Men’s 7s team coach Gareth Baber will be guiding the Fiji Airways Flying Fijians for the Northern tour.\r\n\r\nIrish legend Rory Best will",
+          "url": "https://www.fijivillage.com/news/Baber-to-coach-the-Flying-Fijians-for-the-Northern-Tour-54frx8/",
+          "urlToImage": "https://www.fijivillage.com/news_images/1580137952616e484306986cd4437e.jpg",
+          "publishedAt": "2021-10-19T04:23:31Z",
+          "content": "Outgoing Fiji Mens 7s team coach Gareth Baber will be guiding the Fiji Airways Flying Fijians for the Northern tour.\r\nIrish legend Rory Best will also help Baber.\r\nFiji Rugby Union CEO John OConnor s… [+538 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Matthew Sullivan",
+          "title": "Mystery as club backflips on Origin star - NEWS.com.au",
+          "description": "<p>There&rsquo;s still a chance St George Illawarra forward Tariq Sims will play for the Dragons next season, despite being told to explore his options.</p>",
+          "url": "https://www.news.com.au/sport/nrl/st-george-illawarra-backflip-on-tariq-sims-future/news-story/1e12fdac09141c6fb46f2bd58a2a661d",
+          "urlToImage": "https://content.api.news/v3/images/bin/d13a723c4306151ea8fe920aee952b4e",
+          "publishedAt": "2021-10-19T04:19:54Z",
+          "content": "It had appeared as if Tariq Sims might have played his last game for St George Illawarra, but he could yet line up in the Red V again.There’s still a chance St George Illawarra forward Tariq Sims wil… [+2562 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nine"
+          },
+          "author": "Zachary Gates",
+          "title": "'Last roll of the dice': Aussie openers Aaron Finch, David Warner hit with stinging warnings on verge of World Cup - Wide World of Sports",
+          "description": "'The last roll of the dice'",
+          "url": "https://wwos.nine.com.au/cricket/t20-world-cup-2021-australia-aaron-finch-david-warner-ed-cowan/da59dcc3-6d60-4d9e-b342-8fd70fb9c5c6",
+          "urlToImage": "https://imageresizer.static9.net.au/xh55mpWs6Ok48evaJVzRpnslY5c=/0x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fae731d46-0af0-4dc2-85a9-4b870a1916be",
+          "publishedAt": "2021-10-19T04:15:02Z",
+          "content": "If Australia don't advance beyond the group stage in the T20 World Cup neither Aaron Finch nor David Warner will be seen in the 20-over format in international cricket again.\r\nThat's the view of form… [+3982 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Thomas Williams",
+          "title": "Son of Canucks GM Jim Benning allegedly assaulted outside of local bar - Yahoo Canada Sports",
+          "description": "Vancouver police confirmed that a 25-year-old man was hospitalized with facial injuries after he initially declined assistance from paramedics.",
+          "url": "https://ca.sports.yahoo.com/news/nhl-son-of-canucks-gm-jim-benning-allegedly-assaulted-outside-of-a-local-bar-010411775.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/57dac7c0-3077-11ec-bb76-abd59fb822c5",
+          "publishedAt": "2021-10-19T04:04:00Z",
+          "content": "Vancouver Police confirmed that a 25-year-old man was hospitalized with visible injuries on his face after he initially declined assistance from paramedics. (Getty)\r\nThe son of Vancouver Canucks GM J… [+1081 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Manchester Evening News"
+          },
+          "author": "Stuart Brennan, Simon Bajkowski, Joe Bray",
+          "title": "How Man City should line up vs Club Brugge in the Champions League - Manchester Evening News",
+          "description": "Manchester City could welcome back Ederson and Gabriel Jesus for the Champions League trip to Club Brugge.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-brugge-team-news-21892796",
+          "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article21892891.ece/ALTERNATES/s1200/0_share_26e2575d5063eeff1d3fefe64839ead6.png",
+          "publishedAt": "2021-10-19T04:00:00Z",
+          "content": "Manchester City will be looking to return to winning ways against Club Brugge in the Champions League after their setback vs Paris Saint-Germain.\r\nCity sit third in Group A after victory over RB Leip… [+2945 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Guardian staff reporter",
+          "title": "Titans’ Derrick Henry tramples Bills as Buffalo’s late gamble fails - The Guardian",
+          "description": "The Tennessee Titans stopped Josh Allen on a fourth-down quarterback sneak in the final seconds to beat Buffalo 34-31 on Monday night",
+          "url": "https://amp.theguardian.com/sport/2021/oct/18/titans-derrick-henry-tramples-bills-as-buffalos-late-gamble-fails",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:57:00Z",
+          "content": "NFL<ul><li>Buffalo Bills 31-34 Tennessee Titans</li><li>Buffalo pass up attempt at game-tying kick in final seconds</li></ul>\r\nTue 19 Oct 2021 04.56 BST\r\nDerrick Henry scored his third touchdown with… [+2482 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sports Illustrated"
+          },
+          "author": "Nick Selbe",
+          "title": "Bills Gamble on Fourth Down, Titans Stand Tall in Wild 'Monday Night Football' Finish - Sports Illustrated",
+          "description": "Trailing by three points with under 30 seconds to play, Bills coach Sean McDermott went for it on 4th-and-1 inside the 5-yard line, but the Titans defense stood tall.",
+          "url": "https://www.si.com/nfl/2021/10/19/titans-bills-monday-night-football-josh-allen-qb-sneak-sean-mcdermott",
+          "urlToImage": "https://www.si.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg0NjY0NzExNzA5NTk5MjA3/titans-bills.jpg",
+          "publishedAt": "2021-10-19T03:52:00Z",
+          "content": "As the Bills and Titans traded scoring drives in a Monday Night Football shoot-out, it seemed like a no-brainer for Buffalo to go for it on 4th-and-1 inside the Tennessee 5-yard line, trailing by thr… [+1336 chars]"
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Ryan Gaydos",
+          "title": "Titans stop Josh Allen on crucial 4th down to hold on for win, fans debate whether Bills made right play - Fox News",
+          "description": "The Buffalo Bills found out Monday night football is truly a game of inches.",
+          "url": "https://www.foxnews.com/sports/titans-stop-josh-allen-4th-down-win-fans-debate-play",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Josh-Allen5.jpg",
+          "publishedAt": "2021-10-19T03:51:52Z",
+          "content": "The Buffalo Bills found out Monday night football is truly a game of inches.\r\nThe phrase may be one of the oldest cliches in sports, but it was Bills quarterback Josh Allen who got the lesson in a 34… [+2684 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Matthew Sullivan",
+          "title": "Former UFC fighter dies unexpectedly - NEWS.com.au",
+          "description": "<p>Former UFC fighter Brian Gassaway has died aged 49, according to his family and friends. </p>",
+          "url": "https://www.news.com.au/sport/ufc/former-ufc-fighter-brian-gassaway-dies-aged-49/news-story/c2a2c9e0d9d0ca50f2f6ee6623940313",
+          "urlToImage": "https://content.api.news/v3/images/bin/8367fe5e137567b3138c8f340bddbc3e",
+          "publishedAt": "2021-10-19T03:51:00Z",
+          "content": "The MMA community is in mourning after a former UFC fighter and legend of the combat sports world passed away.Former UFC fighter Brian Gassaway has died aged 49, according to his family and friends. … [+2413 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Shireen Khalil",
+          "title": "Bartender quits after ‘shock’ 3am text - NEWS.com.au",
+          "description": "<p>Screenshots of a bartender&rsquo;s exchange with his boss have gone viral after he revealed the &ldquo;shocking&rdquo; text messages he received on his day off, which prompted him to quit his job.</p>",
+          "url": "https://www.news.com.au/lifestyle/real-life/news-life/bartender-quits-after-boss-bans-him-from-drinking-on-his-day-off/news-story/3a248d37df743c78a89eadadc0ed7387",
+          "urlToImage": "https://content.api.news/v3/images/bin/ddfa58b72350b6f61b8f7b4a7d7a44a1",
+          "publishedAt": "2021-10-19T03:47:54Z",
+          "content": "A bartender was out drinking on his day off when he got a text message from his boss at 3am with a comment that led him to quit.Screenshots of a bartender’s exchange with his boss have gone viral aft… [+2741 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Frank Schwab",
+          "title": "NFL Power Rankings: Lamar Jackson and Ravens overcame challenges and are contenders again - Yahoo Sports",
+          "description": "After a tough start to the season, the Ravens are rolling yet again.",
+          "url": "https://sports.yahoo.com/nfl-power-rankings-lamar-jackson-and-ravens-overcame-challenges-and-are-contenders-again-034448472.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JSQj2tWAkoRkxgE_jDaMVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/3d4499c0-3047-11ec-bfbd-6aa4a8ff9b22",
+          "publishedAt": "2021-10-19T03:44:00Z",
+          "content": "The best thing about the Baltimore Ravens' win on Sunday was that Lamar Jackson had an off day by his standards. \r\nJackson, who has been great at times this season, wasn't great against the Los Angel… [+12934 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Guardian"
+          },
+          "author": "Guardian staff reporter",
+          "title": "Red Sox edge closer to World Series after Schwarber’s grand slam - The Guardian",
+          "description": "Kyle Schwarber hit a grand slam – Boston’s third in two games – and the Red Sox routed the Houston Astros for the second straight time",
+          "url": "https://amp.theguardian.com/sport/2021/oct/18/red-sox-edge-closer-to-world-series-after-schwarbers-grand-slam",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:43:00Z",
+          "content": "MLB<ul><li>ALCS Game 3: Houston Astros 312 Boston Red Sox</li><li>Red Sox lead best-of-seven series 2-1 after victory</li></ul>\r\nTue 19 Oct 2021 04.43 BST\r\nKyle Schwarber hit a grand slam Bostons thi… [+2405 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MLB.com"
+          },
+          "author": "Martin Gallegos",
+          "title": "Sox make history with THIRD slam of ALCS - MLB.com",
+          "description": "BOSTON -- The expectation was a raucous atmosphere at Fenway Park as the American League Championship Series shifted back to Boston for Game 3. That’s exactly the scene that took place, with one swing from Kyle Schwarber sending a sellout crowd into pandemoni…",
+          "url": "https://www.mlb.com/news/kyle-schwarber-hits-grand-slam-alcs-game-3",
+          "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/defnzujft5gb2dtph5wp.jpg",
+          "publishedAt": "2021-10-19T03:33:45Z",
+          "content": "BOSTON -- The expectation was a raucous atmosphere at Fenway Park as the American League Championship Series shifted back to Boston for Game 3. Thats exactly the scene that took place, with one swing… [+1556 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Zerotackle.com"
+          },
+          "author": null,
+          "title": "Ex-NRL star Joey Leilua takes swipe at former coach - Zero Tackle",
+          "description": "Leilua has also rubbished rumours reported today.",
+          "url": "https://www.zerotackle.com/ex-nrl-star-joey-leilua-takes-swipe-at-former-coach-111207/",
+          "urlToImage": "https://www.zerotackle.com/wp-content/uploads/2020/08/GettyImages-1212503176.jpg",
+          "publishedAt": "2021-10-19T03:31:24Z",
+          "content": "Former NRL centre Joey Leilua has taken to social media to take a swipe at his former head coach, Michael Maguire, following potential revelations on his playing future.\r\nLeilua, who wasnt re-signed … [+1907 chars]"
+      },
+      {
+          "source": {
+              "id": "espn-cric-info",
+              "name": "ESPN Cric Info"
+          },
+          "author": "Nagraj Gollapudi",
+          "title": "Can MS Dhoni help Virat Kohli clinch elusive global title in T20I captaincy swansong? - ESPNcricinfo",
+          "description": "Will the team management risk playing Hardik Pandya as a specialist batter?",
+          "url": "https://www.espncricinfo.com/story/t20-world-cup-india-preview-can-ms-dhoni-help-virat-kohli-clinch-global-title-in-t20i-captaincy-swansong-1283523",
+          "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/328900/328910.6.jpg",
+          "publishedAt": "2021-10-19T03:30:08Z",
+          "content": "Bhuvneshwar's experience will be priceless, says Kohli"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Newscorpaustralia.com"
+          },
+          "author": null,
+          "title": "How Tiger trade helps Pies build Daicos draft bank - Herald Sun",
+          "description": "Subscribe to the Herald Sun to get unrestricted digital access, home paper delivery, Foxsports.com.au subscription,  Apps for iPad and Android and much more...",
+          "url": "https://dsf.newscorpaustralia.com/heraldsun/subscription/",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:27:08Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Cricketaddictor.com"
+          },
+          "author": "More by Vicky Singh",
+          "title": "BH-W vs PS-W Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update- Women's Big Bash T20 - Cricket Addictor",
+          "description": "BH-W vs PS-W Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update- Women’s Big Bash T20",
+          "url": "https://cricketaddictor.com/fantasy-cricket/bh-w-vs-ps-w-dream11-prediction-fantasy-cricket-tips-dream11-team-playing-xi-pitch-report-injury-update-womens-big-bash-t20/",
+          "urlToImage": "https://cricketaddictor.com/wp-content/uploads/2021/10/Womens-Big-Bash-League-2021-Dream11-Prediction-Fantasy-Cricket-Tips-Dream11-Team.jpg",
+          "publishedAt": "2021-10-19T03:20:04Z",
+          "content": "BH-W vs PS-W Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update of Womens Big Bash T20 match between Brisbane Heat Women and Perth Scorchers Women. They w… [+4369 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": null,
+          "title": "Sailing: New York Yacht Club decides not to challenge 37th America's Cup - New Zealand Herald",
+          "description": "The original home of the America's Cup has decided not to enter the event in 2024.",
+          "url": "https://www.nzherald.co.nz/sport/sailing-new-york-yacht-club-decides-not-to-challenge-37th-americas-cup/SRLKTTNBSFUB5V2DOABAECG6A4/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/To3j6_9bCnZ8vb7o-glUcVsuBqU=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/CRGEXZOQGX7CNLFRPGQL7BS3TI.jpg",
+          "publishedAt": "2021-10-19T03:16:54Z",
+          "content": "Beyond the Cup - American Magic's campaign is all over after being whitewashed 4-0 by Luna Rossa in the Prada Cup semi-finals. World champion sailor Phil Robertson joins AUT sailing Professor Mark Or… [+1423 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Officials play 'blame game' on responsibility of the Ladd-Pebbles Stadium shooting - WKRG",
+          "description": "Officials play 'blame game' on responsibility of the Ladd-Pebbles Stadium shooting",
+          "url": "https://www.youtube.com/watch?v=fYIL8t3ZdRU",
+          "urlToImage": "https://i.ytimg.com/vi/fYIL8t3ZdRU/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T03:12:37Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "espn-cric-info",
+              "name": "ESPN Cric Info"
+          },
+          "author": "Deivarayan Muthu",
+          "title": "Are Australia ready to unleash Josh Hazlewood 2.0 at the T20 World Cup? - ESPNcricinfo",
+          "description": "Having had sustained success for Australia and CSK, he appears most likely to start the tournament with Starc and Cummins",
+          "url": "https://www.espncricinfo.com/story/are-australia-ready-to-unleash-josh-hazlewood-2-0-at-the-t20-world-cup-2021-1283590",
+          "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/312500/312551.6.jpg",
+          "publishedAt": "2021-10-19T03:05:00Z",
+          "content": "FeatureHaving had sustained success for Australia and CSK, he appears most likely to start the tournament with Starc and Cummins"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Newscorpaustralia.com"
+          },
+          "author": null,
+          "title": "Burgess pleads guilty to road rage blow up - Daily Telegraph",
+          "description": "Subscribe to The Daily Telegraph to get unrestricted digital access, home paper delivery, Apps for iPad and Android, member only +Rewards and much more...",
+          "url": "https://dsf.newscorpaustralia.com/dailytelegraph/subscription/",
+          "urlToImage": null,
+          "publishedAt": "2021-10-19T03:04:53Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Manchester Evening News"
+          },
+          "author": "Daniel Murphy",
+          "title": "Atalanta fixture could serve as a Leeds warning for Manchester United - Manchester Evening News",
+          "description": "Man United are in Champions League action this week as they take on Atalanta at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-atalanta-21887940",
+          "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/sport/football/football-news/article21888059.ece/ALTERNATES/s1200/0_GettyImages-1347053154.jpg",
+          "publishedAt": "2021-10-19T03:00:00Z",
+          "content": "Manchester United's first game of a difficult run of fixtures couldn't have got off to a much worse start.\r\nThe coming weeks have the potential to see United fall out of sight of the leading pack in … [+4138 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Mirror Online"
+          },
+          "author": "Josh O'Brien",
+          "title": "Solskjaer accused of making \"big mistake\" with handling of Man Utd stars - The Mirror",
+          "description": "The Manchester United boss has been on the end of some criticism from one of his former teammates over the way he has dealt with the Red Devils goalkeeping situation",
+          "url": "https://www.mirror.co.uk/sport/football/news/solskjaer-de-gea-henderson-united-25243290",
+          "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article25239539.ece/ALTERNATES/s1200/0_Leicester-City-v-Manchester-United-Premier-League.jpg",
+          "publishedAt": "2021-10-19T03:00:00Z",
+          "content": "Manchester United legend Peter Schmeichel has claimed manager Ole Gunnar Solskjaer has made a \"really big mistake\" with the way he has handled the goalkeeping situation at the club.\r\n Solskjaer has b… [+3015 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Football.London"
+          },
+          "author": "Joshua Smith",
+          "title": "Arsenal fans fume at referee Mike Dean as Bukayo Saka injury worries mount - Football.London",
+          "description": "Your Arsenal morning headlines on October 19 including updates on Bukayo Saka's injury during the 2-2 draw with Crystal Palace and fans views on the ref's performance",
+          "url": "https://www.football.london/arsenal-fc/news/arsenal-fans-fume-referee-mike-21898121",
+          "urlToImage": "https://i2-prod.football.london/incoming/article21897756.ece/ALTERNATES/s1200/0_GettyImages-1347328102.jpg",
+          "publishedAt": "2021-10-19T03:00:00Z",
+          "content": "Here are your Arsenal morning headlines on Tuesday, October 19.\r\nFans fume at Mike Dean\r\nArsenal fans have been left fuming at referee Mike Dean following their 2-2 draw with Crystal Palace.\r\nThere w… [+1920 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Arizona Sports"
+          },
+          "author": "",
+          "title": "SI’s Breer: Kliff Kingsbury was on to Houston as Cardinals closed out Browns - Arizona Sports",
+          "description": "Kliff Kingsbury handed off his duties as Cardinals coach and proceded to plan for the Houston Texans as his team played the Cleveland Browns.",
+          "url": "https://arizonasports.com/story/2857012/sis-breer-kliff-kingsbury-was-on-to-houston-as-cardinals-closed-out-browns/",
+          "urlToImage": "https://arizonasports.com/wp-content/uploads/2021/07/ap_dff36bff8cd64f3f8645249dac9fd25a-e1631047785864.jpg",
+          "publishedAt": "2021-10-19T03:00:00Z",
+          "content": "It looked like the Arizona Cardinals knew what they were doing Sunday.\r\nA 37-14 win against the Cleveland Browns didn’t come without a frenzy on Friday, when the team learned head coach Kliff Kingsbu… [+3828 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Cantabrians encouraged to 'make the most' of Cup and Show week, just not in person - Stuff.co.nz",
+          "description": "Spectators won't be allowed in, but it's hoped Cantabrians will still dress up and hit the champagne breakfasts.",
+          "url": "https://www.stuff.co.nz/national/health/coronavirus/126719316/cantabrians-encouraged-to-make-the-most-of-cup-and-show-week-just-not-in-person",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/p/a/z/1/image.related.StuffLandscapeSixteenByNine.1420x800.23g190.png/1634612087003.jpg",
+          "publishedAt": "2021-10-19T02:54:00Z",
+          "content": "Christchurchs fashion and hospitality businesses say locals should dress to the nines and hit up champagne breakfasts even if they cant catch the Cup and Show week action in person this year.\r\n On Tu… [+5156 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Indian Express"
+          },
+          "author": "Sports Desk",
+          "title": "T20 World Cup: Predicting the next bunch of breakout cricket stars - The Indian Express",
+          "description": "There are a lot of upcoming talents who will make their mark in the 2021 edition of the T20 World Cup.",
+          "url": "https://indianexpress.com/article/sports/cricket/t20-world-cup-predicting-the-next-bunch-of-breakout-cricket-stars-7578269/",
+          "urlToImage": "https://images.indianexpress.com/2021/10/Chahar.jpg",
+          "publishedAt": "2021-10-19T02:50:09Z",
+          "content": "With the T20 World Cup already upon us, the International Cricket Council (ICC) has released a list of some probable breakout stars who could set the tournament alight with their skills.Whenever we a… [+7388 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Matthew Sullivan",
+          "title": "‘No need’: NRL legend’s Bennett warning - NEWS.com.au",
+          "description": "<p>Penrith legend Greg Alexander has urged the Dolphins not to &ldquo;go over the top&rdquo; in their contract offer for incoming coach Wayne Bennett. </p>",
+          "url": "https://www.news.com.au/sport/nrl/dolphins-shouldnt-go-over-the-top-with-wayne-bennett-deal/news-story/51cce2875b04aa0817a630f1dc33202b",
+          "urlToImage": "https://content.api.news/v3/images/bin/2182ed0c6fa76d802317409af7b3c40c",
+          "publishedAt": "2021-10-19T02:47:34Z",
+          "content": "Wayne Bennett is set to sign a big contract with the Dolphins but a rugby league great believes the NRLs newest team needs to be cautious.Penrith legend Greg Alexander has urged the Dolphins not to “… [+3329 chars]"
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "Reuters",
+          "title": "Novak Djokovic unsure of playing Australian Open, won't reveal Covid vaccination status - Times of India",
+          "description": "Tennis News: World number one Novak Djokovic once again declined to reveal whether he has been vaccinated against Covid-19 and said he was unsure if he would defen",
+          "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/novak-djokovic-unsure-of-playing-australian-open-wont-reveal-covid-vaccination-status/articleshow/87126670.cms",
+          "urlToImage": "https://static.toiimg.com/thumb/msid-87126818,width-1070,height-580,imgsize-39498,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "publishedAt": "2021-10-19T02:46:00Z",
+          "content": "Novak Djokovic unsure of playing Australian Open, won't reveal Covid vaccination status"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "New Zealand Herald"
+          },
+          "author": null,
+          "title": "Cricket: Former top Kiwi umpire Fred Goodall dies aged 83 - New Zealand Herald",
+          "description": "Goodall was best known for attracting the ire of the West Indies in their 1980 tour of NZ.",
+          "url": "https://www.nzherald.co.nz/sport/cricket-former-top-kiwi-umpire-fred-goodall-dies-aged-83/6UOJDBKWD6G7AUFAJOIMC7CL3U/",
+          "urlToImage": "https://www.nzherald.co.nz/resizer/vpXHH7JQZfO03YaXCB3gMroqQVQ=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VTNJS7GTC5POTRIBWPOHYYJS4Y.jpg",
+          "publishedAt": "2021-10-19T02:34:56Z",
+          "content": "Former cricket umpire Fred Goodall at his home in Wellington in 2007. Photo / PhotosportFred Goodall, the Kiwi cricket umpire who stood in the middle for one of the most contentious moments in the sp… [+1426 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sen.com.au"
+          },
+          "author": null,
+          "title": "Report: Ex-Blue Levi Casboult thrown an AFL lifeline - SEN",
+          "description": "The 31-year-old was delisted after Carlton's 2021 campaign.",
+          "url": "https://www.sen.com.au/news/2021/10/19/report-ex-blue-casboult-thrown-an-afl-lifeline/",
+          "urlToImage": "//images.ctfassets.net/u8w3l566ay8a/6Aq9QEfflaBlQsbpAbdd0W/0c8b2811c9e2c96e2185863279807483/09MeCa1DB2446.JPG?w=1200&h=630",
+          "publishedAt": "2021-10-19T02:33:20Z",
+          "content": "Levi Casboult has been thrown an AFL lifeline by the Gold Coast Suns, who will select the delisted utility in the upcoming rookie draft, according to Fox Footys Tom Morris. \r\nCasboult was told in Aug… [+650 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "HuffPost"
+          },
+          "author": "Nick Visser",
+          "title": "Football Coach Nick Rolovich Fired From $3.2 Million Job After Refusing COVID-19 Vaccine - HuffPost",
+          "description": "“This is a disheartening day for our football program,” Washington State University's athletic director said.",
+          "url": "https://www.huffpost.com/entry/nick-rolovich-washington-state-fired_n_616e240de4b005b245c11c5a",
+          "urlToImage": "https://img.huffingtonpost.com/asset/616e245b210000353e6fd443.jpeg?cache=RiE6zJ1mbP&ops=1778_1000",
+          "publishedAt": "2021-10-19T02:28:54Z",
+          "content": "Washington State University football coach Nick Rolovich was fired by the school Monday after refusing to get a COVID-19 vaccine.\r\nRolovich, 42, was the states highest-paid employee, earning an annua… [+2063 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "AFP",
+          "title": "‘I was angry’: Klopp regrets bad blood as Liverpool face ultimate CL test - Fox Sports",
+          "description": "‘I was angry’: Klopp regrets bad blood as Liverpool face ultimate CL test",
+          "url": "https://www.foxsports.com.au/football/uefa-champions-league/uefa-champions-league-fixtures-liverpool-fc-vs-atletico-madrid-latest-news-preview-team-news-kick-off-time-aedt-where-to-watch/news-story/b880cb36195b1fa6ee139bf905787518",
+          "urlToImage": "https://content.api.news/v3/images/bin/c7b467782842176fad2d200137ecb0c5",
+          "publishedAt": "2021-10-19T02:28:00Z",
+          "content": "Liverpool manager Jurgen Klopp said he still finds it hard to warm to Atletico Madrids style of play despite his deep admiration for the Spanish champions coach Diego Simeone.\r\nKlopp hit out at Atlet… [+2647 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "MLB Trade Rumors"
+          },
+          "author": "TC Zencka",
+          "title": "Blue Jays Expect To Raise Payroll In 2022 - MLB Trade Rumors",
+          "description": "The Blue Jays fell just short of achieving their goal of making the playoffs this season, but a 91-71 season &hellip;",
+          "url": "https://www.mlbtraderumors.com/2021/10/blue-jays-expect-to-raise-payroll-in-2022.html",
+          "urlToImage": "https://cdn.mlbtraderumors.com/files/2021/08/Marcus-Semien-swinging-1024x683.jpg",
+          "publishedAt": "2021-10-19T02:25:58Z",
+          "content": "The Blue Jays fell just short of achieving their goal of making the playoffs this season, but a 91-71 season has Toronto trending upward. That’s cold comfort for a fan base well-removed from its glor… [+3947 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "cricket.com.au"
+          },
+          "author": "AAP",
+          "title": "Stoinis close to bowling return as Aussies mull best XI - cricket.com.au",
+          "description": "The ability of Marcus Stoinis to bowl could have major ramifications for the make-up of Australia's XI at the T20 World Cup",
+          "url": "https://www.cricket.com.au/news/marcus-stoinis-hamstring-injury-australia-t20-world-cup-india-warm-up-game/2021-10-19",
+          "urlToImage": "https://www.cricket.com.au/~/-/media/News/2021/10/19MarcusStoinis.ashx?w=1600",
+          "publishedAt": "2021-10-19T02:25:22Z",
+          "content": "Marcus Stoinis plans on proving his bowling fitness soon as the countdown continues to Australia's T20 World Cup opener on Saturday.\r\nStoinis, who opted out of Australia's T20 tours of the West Indie… [+3027 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "Staff Writers",
+          "title": "Dally M centre to $800k pay cut: Fallen Tiger’s career hinges on American rugby union - Fox Sports",
+          "description": "Dally M centre to $800k pay cut: Fallen Tiger’s career hinges on American rugby union",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2021-joey-leilua-fall-from-grace-wests-tigers-pay-cut-american-rugby-union-contract-future/news-story/18bdf3484ff955e2af7813c201aa7830",
+          "urlToImage": "https://content.api.news/v3/images/bin/d561cd96da4209e4f9a53b254bab6a09",
+          "publishedAt": "2021-10-19T02:25:00Z",
+          "content": "Controversial star Joey Leilua is set to leave the Tigers after he was handed one of the biggest pay cuts in NRL history in a stunning fall from grace that has his career hinging on American rugby un… [+1831 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Ryan Young",
+          "title": "Lakers won't track LeBron James' minutes, workload: 'I don’t play the game thinking about injuries' - Yahoo Sports",
+          "description": "LeBron James averaged just 33.4 minutes and played in only 45 games last season, both career-lows.",
+          "url": "https://sports.yahoo.com/los-angeles-lakers-wont-track-lebron-james-minutes-games-workload-injuries-frank-vogel-022531175.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zitehvbqNR9bHGv_rJ.AKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/9d179130-307f-11ec-97fe-ead738e2e610",
+          "publishedAt": "2021-10-19T02:25:00Z",
+          "content": "Coming off a season in which he played the least amount of minutes per game in his career and missed significant time due to injury, LeBron James insisted that he isnt going to be tracking his minute… [+2490 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "Tyson Otto",
+          "title": "Former coach gives Saints a scathing serve - NEWS.com.au",
+          "description": "<p>Former Saints coach Grant Thomas has given his club a serious bake over where it sits heading into 2022.</p>",
+          "url": "https://www.news.com.au/sport/afl/former-coach-gives-saints-a-scathing-serve/news-story/3185f761986b559235a8a8c41bc6c0d0",
+          "urlToImage": "https://content.api.news/v3/images/bin/b8083b9ae794a0c6763add2028338314",
+          "publishedAt": "2021-10-19T02:23:12Z",
+          "content": "St Kilda great Grant Thomas has unloaded on his former club and is calling for one immediate change to kill the clubs soft mentality.Former Saints coach Grant Thomas has given his club a serious bake… [+3703 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Kraken @ Flyers 10/18/21 | NHL Highlights - NHL",
+          "description": "Extended highlights of the Seattle Kraken at the Philadelphia Flyers",
+          "url": "https://www.youtube.com/watch?v=fqeuQoMconM",
+          "urlToImage": "https://i.ytimg.com/vi/fqeuQoMconM/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T02:22:51Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sportsrush"
+          },
+          "author": "Arjun Julka",
+          "title": "\"I hope Kyrie gets vaccinated because I love to see him play basketball\": NBA commissioner Adam Silver breaks... - The Sportsrush",
+          "description": "NBA commissioner Adam Silver breaks his silence on the Kyrie Irving anti-vaccination controversy. Sliver hopes the Nets star agrees to obey the rules of New York City and the NBA. Commissioner Adam Silver has finally broken his silence on the whole Kyrie Irvi…",
+          "url": "https://thesportsrush.com/nba-news-i-hope-kyrie-gets-vaccinated-because-i-love-to-see-him-play-basketball-nba-commissioner-adam-silver-breaks-his-silence-on-the-nets-stars-anti-vaccination-controversy/",
+          "urlToImage": "https://cdn-wp.thesportsrush.com/2021/10/a8c2ccab-untitled-design-5.jpg",
+          "publishedAt": "2021-10-19T02:15:49Z",
+          "content": "NBA commissioner Adam Silver breaks his silence on the Kyrie Irving anti-vaccination controversy. Sliver hopes the Nets star agrees to obey the rules of New York City and the NBA.\r\nCommissioner Adam … [+2756 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "hindustantimes.com",
+          "title": "'You do better than what I have done': Hardik Pandya reveals Kapil Dev's influence on his career - Hindustan Times",
+          "description": "In a recent interview on ESPNCricinfo's The Cricket Monthly magazine, Pandya revealed what Kapil Dev told him on his debut, and also received the 1983 World Cup-winning captain has had on his career. | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/you-do-better-than-what-i-have-done-hardik-pandya-reveals-kapil-dev-s-influence-on-his-career-101634609532028.html",
+          "urlToImage": "https://images.hindustantimes.com/img/2021/10/19/1600x900/HARDIK-PANDYA-KAPIL-DEV-TWITTER-PANDYA_1634609648970_1634609658306.jpg",
+          "publishedAt": "2021-10-19T02:14:38Z",
+          "content": "On October 16, 2016, Hardik Pandya made his ODI debut for India in a match against New Zealand at Dharamsala. The India allrounder received his maiden ODI cap from India's legendary captain Kapil Dev… [+1544 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Super Rugby: Moana Pasifika sign former Wallabies prop Sekope Kepu - Stuff.co.nz",
+          "description": "The 35-year old prop Sekope Kepu will lend his vast experience to the new side, who have now named eight of their 38-man squad for 2022.",
+          "url": "https://www.stuff.co.nz/sport/rugby/300433596/super-rugby-moana-pasifika-sign-former-wallabies-prop-sekope-kepu",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/v/c/1/m/image.related.StuffLandscapeSixteenByNine.1420x800.4yvc1o.png/1634609511250.jpg",
+          "publishedAt": "2021-10-19T02:11:00Z",
+          "content": "Moana Pasifika have unveiled their eighth signing for Super Rugby Pacific, recruiting 35-year-old former Wallabies prop Sekope Kepu to provide experience in the front row.\r\n Kepu won 110 caps for the… [+3388 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sportsnet.ca"
+          },
+          "author": null,
+          "title": "Flyers spoil Kraken coach Dave Hakstol’s return to Philly - Sportsnet.ca",
+          "description": "Claude Giroux and Travis Konecny scored, Carter Hart stopped 24 shots and the Flyers spoiled former coach Dave Hakstol's return to Philadelphia with a 6-1 win over the Seattle Kraken on Monday night.",
+          "url": "https://www.sportsnet.ca/nhl/article/flyers-spoil-kraken-coach-dave-hakstols-return-philly/",
+          "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2021/10/fight-1040x572.jpg",
+          "publishedAt": "2021-10-19T02:09:00Z",
+          "content": "PHILADELPHIA -- The final months of Dave Hakstol's time coaching the Flyers came with angry fans chanting \"Fire Hakstol! Fire Hakstol!'' With this kind of lopsided score in his return, Philly fans mi… [+4028 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Liverpool.com"
+          },
+          "author": "James Martin",
+          "title": "Liverpool have Fernando Torres reunion to look forward to before Luis Suárez Atlético return - Liverpool.com",
+          "description": "Liverpool play Atlético in the UEFA Youth League before facing Luis Suárez and co in the Champions League proper. Fernando Torres is involved in the youth setup.",
+          "url": "https://www.liverpool.com/liverpool-fc-news/features/liverpool-fernando-torres-reunion-look-21895957",
+          "urlToImage": "https://i2-prod.liverpool.com/incoming/article21895941.ece/ALTERNATES/s1200/0_Torrescoach.jpg",
+          "publishedAt": "2021-10-19T02:00:00Z",
+          "content": "The UEFA Youth League is always an interesting sideshow before a big Champions League night. During the group stages, the fixtures mirror those of the senior team as such, hours before Liverpool face… [+3093 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Indian Express"
+          },
+          "author": "Sports Desk",
+          "title": "T20 World Cup: Bat-tracking technology set for debut - The Indian Express",
+          "description": "For the first time in cricket, fans will witness tracking off the bat, which will be provided by Hawk-Eye in select matches.",
+          "url": "https://indianexpress.com/article/sports/cricket/t20-world-cup-bat-tracking-technology-set-for-debut-7578032/",
+          "urlToImage": "https://images.indianexpress.com/2021/10/ball-tracking-cricket.jpg",
+          "publishedAt": "2021-10-19T01:57:48Z",
+          "content": "In a bid to provide an “unparalleled” experience to cricket fans all across the globe for the T20 World Cup 2021, the  International Cricket Council (ICC) is all set to introduce bat-tracking technol… [+1202 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Turf Show Times"
+          },
+          "author": "Kenneth Arthur",
+          "title": "Rams lose two key players to season-ending injuries vs Giants - Turf Show Times",
+          "description": "TE Johnny Mundt and RB Jake Funk will both be out for the rest of 2021",
+          "url": "https://www.turfshowtimes.com/2021/10/18/22733812/rams-injury-updates-johnny-mundt-jake-funk-sony-michel",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/-jhFWnV-GFNzzNTZw0AwRIXRHwc=/0x977:2940x2516/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22937679/usa_today_15449560.jpg",
+          "publishedAt": "2021-10-19T01:54:04Z",
+          "content": "The Los Angeles Rams were already looking thin and tight end and running back, but those depth charts both lost key players in Week 6. Number two tight end Johnny Mundt, who has played 100 offensive … [+2048 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Www.tsn.ca"
+          },
+          "author": "The Canadian Press",
+          "title": "Panarin scores OT winner as Maple Leafs fall to Rangers - TSN",
+          "description": "Artemi Panarin scored in overtime, Igor Shesterkin stopped 40 shots, and the New York Rangers beat the Toronto Maple Leafs 2-1 on Monday night.",
+          "url": "https://www.tsn.ca/panarin-scores-ot-winner-as-toronto-maple-leafs-fall-2-1-to-new-york-rangers-1.1708300",
+          "urlToImage": "https://www.tsn.ca/polopoly_fs/1.1708304!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/jason-spezza-filip-chytil-jack-campbell.jpg",
+          "publishedAt": "2021-10-19T01:52:57Z",
+          "content": "TORONTO Auston Matthews did just about everything in his return Monday.\r\nEverything, that is, except find the back of the net.\r\nIgor Shesterkin was outstanding in making 40 saves before Artemi Panari… [+5903 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "Harrison Pullinger and Gadiel Notelovitz",
+          "title": "Nets avoid Kyrie disaster; hype surrounds $305m makeover: East Report Card - Fox Sports",
+          "description": "<p>The NBA season is officially around the corner. </p>",
+          "url": "https://www.foxsports.com.au/basketball/nba/nba-2021-news-analysis-season-preview-eastern-conference-report-card/news-story/7699354f0c542de08f4604e513c98a02",
+          "urlToImage": "https://content.api.news/v3/images/bin/0423ae00b8bd676c692758fa1ab2abfb",
+          "publishedAt": "2021-10-19T01:50:00Z",
+          "content": "If the champion Bucks want to go back-to-back, theyll need to deal with a chasing pack that has gotten better, and is out for revenge. Heres every team in the Eastern Conference graded.The NBA season… [+15139 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "Staff Writers",
+          "title": "Dragons’ $800k backflip on Origin star, Broncos in four-club battle for Eels rake: Transfer Whispers - Fox Sports",
+          "description": "Dragons’ $800k backflip on Origin star, Broncos in four-club battle for Eels rake: Transfer Whispers",
+          "url": "https://www.foxsports.com.au/nrl/nrl-premiership/nrl-2021-transfer-whispers-reed-mahoney-broncos-dolphins-titans-joey-leilua-tigers-rugby-union-contracts/news-story/4477e1951a610fc7aac3222b55f3d219",
+          "urlToImage": "https://content.api.news/v3/images/bin/482c8358a115a61cdac4adf6cacb0de5",
+          "publishedAt": "2021-10-19T01:47:00Z",
+          "content": "The Dragons now want Tariq Sims to see out the remainder of his contract despite telling him he is free to negotiate with rival clubs. \r\nMeanwhile the Brisbane Broncos are one of three rival clubs ch… [+4858 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Ma'a Nonu plays for Ngāti Porou East Coast - All Blacks",
+          "description": "Ngāti Porou East Coast fans flocked to Whakarua Park in Ruatōria to catch a glimpse of legendary All Black Ma'a Nonu as they took on Buller in Week Five of t...",
+          "url": "https://www.youtube.com/watch?v=25VfnKAIs5A",
+          "urlToImage": "https://i.ytimg.com/vi/25VfnKAIs5A/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T01:45:17Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "The MMQB's Albert Breer: Why the 6-0 Arizona Cardinals are Legit | The Rich Eisen Show - The Rich Eisen Show",
+          "description": "The MMQB’s Albert Breer tells Rich Eisen why the 6-0 Arizona Cardinals are for real.Watch the Rich Eisen Show, an Emmy-nominated sports talk show, streaming ...",
+          "url": "https://www.youtube.com/watch?v=cgEsCMf77bs",
+          "urlToImage": "https://i.ytimg.com/vi/cgEsCMf77bs/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T01:45:01Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "“I Like the Edge!” Rich Eisen on Aaron Rodgers' 'I Still Own You\" Bears Fans Taunt | Rich Eisen Show - The Rich Eisen Show",
+          "description": "Rich Eisen reacts to Aaron Rodgers vociferously trolling Bears fans after scoring a touchdown at Soldier Field this week.Watch the Rich Eisen Show, an Emmy-n...",
+          "url": "https://www.youtube.com/watch?v=7GHafpBGv2E",
+          "urlToImage": "https://i.ytimg.com/vi/7GHafpBGv2E/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T01:45:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Rivals.com"
+          },
+          "author": null,
+          "title": "Huskers lose DE commit Hayden Schwartz on Monday - Rivals.com - Nebraska",
+          "description": "Defensive end commit Hayden Schwartz and Nebraska parted ways on Monday.",
+          "url": "https://nebraska.rivals.com/news/huskers-lose-de-commit-hayden-schwartz-on-monday",
+          "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/ozrvs7hybmyyqefo1iuo",
+          "publishedAt": "2021-10-19T01:43:30Z",
+          "content": "Nebraska and defensive end commit Hayden Schwartz parted ways on Monday. Schwartz announced his decommitment from the Big Red on Twitter.\r\nThe Jacksonville native recently visited NU for the first ti… [+472 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Sydney Morning Herald"
+          },
+          "author": "Zoe Samios",
+          "title": "The Sydney Morning Herald editor Lisa Davies resigns - Sydney Morning Herald",
+          "description": "The Sydney Morning Herald’s editor Lisa Davies has resigned after almost five years in the job.",
+          "url": "https://www.smh.com.au/business/companies/the-sydney-morning-herald-editor-lisa-davies-resigns-20211019-p5918v.html",
+          "urlToImage": "https://static.ffx.io/images/$zoom_0.9991%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_545%2C$y_478/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/b7a03d188283677a5bbc1e88eaf8566b1bc5e4de",
+          "publishedAt": "2021-10-19T01:33:16Z",
+          "content": "Lisa Davies has resigned as editor of The Sydney Morning Herald and will leave the masthead after almost a decade.\r\nDavies has led The Herald since 2017, helping the countrys oldest masthead grow its… [+1638 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Rivals.com"
+          },
+          "author": null,
+          "title": "OKPreps top ranked prospect Rivals100 cornerback Gentry Williams commits to Oklahoma - Rivals.com - Oklahoma",
+          "description": "TULSA, Okla. – It’s hard to imagine the top-ranked recruit in the state of Oklahoma not heading to OU and the Sooners,",
+          "url": "https://oklahoma.rivals.com/news/no-1-is-staying-home-gentry-picks-ou",
+          "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/a7ay4qu7co2mkhqju9yg",
+          "publishedAt": "2021-10-19T01:30:58Z",
+          "content": "TULSA, Okla. Its hard to imagine the top-ranked recruit in the state of Oklahoma not heading to OU and the Sooners, but thats been the reality here in recent years.\r\nThe Sooners have still done nice … [+3221 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "Staff Writers",
+          "title": "‘You don’t just drop into Macca’s because you’re hungry’: Ange fires back at critics with classic line - Fox Sports",
+          "description": "‘You don’t just drop into Macca’s because you’re hungry’: Ange fires back at critics with classic line",
+          "url": "https://www.foxsports.com.au/football/ange-postecoglou-celtic-news-fixtures-results-europa-league-maccas-response-latest-news/news-story/9e470ad3aaf33df83b73bfebbbdc1e52",
+          "urlToImage": "https://content.api.news/v3/images/bin/3b6cade045c7668d620c922713946389",
+          "publishedAt": "2021-10-19T01:30:00Z",
+          "content": "Ange Postecoglou has added another to his greatest hits album of one liners after dropping a classic Maccas reference when defending his team selection.\r\nThe Celtic boss has come under fire for persi… [+2168 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stuff.co.nz"
+          },
+          "author": null,
+          "title": "Wellington Phoenix snap up young Kiwi talent ahead of A-League Women debut - Stuff.co.nz",
+          "description": "Nine more players sign on for Wellington Phoenix's first A-League Women season.",
+          "url": "https://www.stuff.co.nz/sport/women-in-sport/300433292/wellington-phoenix-snap-up-young-kiwi-talent-ahead-of-aleague-women-debut",
+          "urlToImage": "https://resources.stuff.co.nz/content/dam/images/4/y/v/b/y/o/image.related.StuffLandscapeSixteenByNine.1420x800.4yvbt8.png/1634608153960.jpg",
+          "publishedAt": "2021-10-19T01:28:00Z",
+          "content": "Wellington Phoenixs squad for their first A-League Women season is beginning to take shape, and it is full of promising young New Zealand players who will be getting their first taste of professional… [+3962 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Zerotackle.com"
+          },
+          "author": null,
+          "title": "Star wants answers over contract speculation as bombshell dropped - Zero Tackle",
+          "description": "The Panthers may not be able to hold everyone.",
+          "url": "https://www.zerotackle.com/star-wants-answers-over-contract-speculation-as-bombshell-dropped-111204/",
+          "urlToImage": "https://www.zerotackle.com/wp-content/uploads/2021/08/GettyImages-1326618862-scaled.jpg",
+          "publishedAt": "2021-10-19T01:26:59Z",
+          "content": "Penrith Panthers' star Apisai Koroisau and his management want answers from the club.\r\nThat's the line of manager Giancarlo Lombardo, who will reportedly meet with the Panthers in the coming days to … [+2069 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Heat.com"
+          },
+          "author": "Shaun Powell",
+          "title": "What to watch for as NBA enjoys 75th anniversary season - NBA.com",
+          "description": "In celebrating the game's past and its future, NBA season No. 75 promises to be a special one.",
+          "url": "https://www.nba.com/news/nba-ready-for-75th-anniversary-season",
+          "urlToImage": "https://cdn.nba.com/manage/2021/10/GettyImages-1125134548.jpg",
+          "publishedAt": "2021-10-19T01:25:50Z",
+          "content": "Will a young star like Luka Doncic or Donovan Mitchell step up and take home Kia MVP honors?\r\nThe inaugural NBA season was 1946-47 when the league was named the Basketball Association of America from… [+9160 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": "AFP",
+          "title": "Roger Federer slumps to five-year low - NEWS.com.au",
+          "description": "<p>Roger Federer dropped out of the top 10 in the ATP rankings for the first time in almost five years, as newly-crowned Indian Wells champion Cameron Norrie jumped 11 spots.</p>",
+          "url": "https://www.news.com.au/sport/tennis/roger-federer-in-uncharted-territory-after-rankings-drop/news-story/c2c0a097f26002be8d72e974aa10f782",
+          "urlToImage": "https://content.api.news/v3/images/bin/bf5e2ed288bd1f8738d693e137b37443",
+          "publishedAt": "2021-10-19T01:24:54Z",
+          "content": "Roger Federer has found himself in uncharted territory after a knee injury sent him spiralling out of the top 10 for the first time in years.Roger Federer dropped out of the top 10 in the ATP ranking… [+1925 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CBS Sports"
+          },
+          "author": "",
+          "title": "American to review expansion candidates with six Conference USA teams expected to apply for membership - CBS Sports",
+          "description": "The AAC would be 14-team league once everything shakes out if it assumes all six programs",
+          "url": "https://www.cbssports.com/college-football/news/american-to-review-expansion-candidates-with-six-conference-usa-teams-expected-to-apply-for-membership/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/07/25/cadb7709-a40c-486d-8be7-73d24b48bb5d/thumbnail/1200x675/a74fe409175357b31bacf7c31b857e35/aac-logo.jpg",
+          "publishedAt": "2021-10-19T01:23:00Z",
+          "content": "The American Athletic Conference is set to consider expansion this week with six Conference USA programs set to apply for membership, sources tell CBS Sports. If all six teams are added to the AAC, i… [+5789 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Rory McIlroy almost walks away, Rickie Fowler hopeful for the future | Golf Central | Golf Channel - Golf Channel",
+          "description": "CJ Cup winner Rory McIlroy reveals he nearly took an extended break from golf after Day 2 of the Ryder Cup, and Rick Fowler shares his optimistic outlook on ...",
+          "url": "https://www.youtube.com/watch?v=CVvO2mUSK4k",
+          "urlToImage": "https://i.ytimg.com/vi/CVvO2mUSK4k/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T01:19:15Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "KTVI Fox 2 St. Louis"
+          },
+          "author": "Patrick Clark",
+          "title": "Boat remains stuck on Chain of Rocks in Mississippi River - KTVI Fox 2 St. Louis",
+          "description": "A 44-foot long boat that first became trapped on the Chain of Rocks on Oct. 5 is still stuck in the middle of the Mississippi River nearly two weeks later.",
+          "url": "https://fox2now.com/news/missouri/boat-remains-stuck-on-chain-of-rocks-in-mississippi-river/",
+          "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2021/10/download-6-7.png?w=1280",
+          "publishedAt": "2021-10-19T01:04:00Z",
+          "content": "ST. LOUIS A 44-foot long boat that first became trapped on the Chain of Rocks on Oct. 5 is still stuck in the middle of the Mississippi River nearly two weeks later.\r\nCousins Molly Ferguson and Haley… [+800 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Rivals.com"
+          },
+          "author": null,
+          "title": "TheWolverine - Jim Harbaugh: 'Good Possibility' Injured Wolverines Can Return This Week - Rivals.com - Michigan",
+          "description": "Michigan football head coach Jim Harbaugh updates injuries.",
+          "url": "https://michigan.rivals.com/news/jim-harbaugh-good-possibility-injured-wolverines-can-return-this-week",
+          "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/wfd04yfjo2jdwa64njtn",
+          "publishedAt": "2021-10-19T01:02:17Z",
+          "content": "Outside of junior wide receiver Ronnie Bell's season-ending knee injury suffered during the team's season opener, sixth-ranked Michigan Wolverines football has had relatively good luck with health th… [+4613 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Speedcafe"
+          },
+          "author": "Simon Chapman",
+          "title": "Tickford Racing reveals new colours for Courtney - Speedcafe",
+          "description": "Courtney holds ninth in the Supercars drivers' championship with five rounds remaining",
+          "url": "https://www.speedcafe.com/2021/10/19/tickford-racing-reveals-new-colours-for-courtney/",
+          "urlToImage": "https://media3.speedcafe.com/wp-content/uploads/2021/10/James-Courtney-Boost-Mobile-2021-SMP-Livery-1.jpg",
+          "publishedAt": "2021-10-19T01:00:00Z",
+          "content": "The #44 Ford Mustang\r\nTickford Racing has shown off James Courtneys new colour scheme that hell run for the remainder of the 2021 Repco Supercars Championship.\r\nThe primarily black livery will debut … [+1026 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Heat.com"
+          },
+          "author": "Mark Medina",
+          "title": "What’s driving Lakers’ LeBron James in his 19th NBA season? ‘The opportunity to win a championship’ - NBA.com",
+          "description": "Entering his 19th season with a 'completely clean slate' after healing from injury, LeBron James has his sights set on winning a championship in 2021-22.",
+          "url": "https://www.nba.com/news/whats-driving-lakers-lebron-james-in-his-19th-nba-season-the-opportunity-to-win-a-championship",
+          "urlToImage": "https://cdn.nba.com/manage/2021/10/lebron-james-preseason-vs-kings-cropped.jpg",
+          "publishedAt": "2021-10-19T00:57:49Z",
+          "content": "LeBron James is eager to collect his fifth NBA title as he enters his 19th season in 2021-22. \r\nLOS ANGELES Well before he won four NBA championships, set various league milestones and presumably lan… [+9448 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sportsnet.ca"
+          },
+          "author": null,
+          "title": "Canadiens, Canucks favourites to win on Tuesday NHL odds - Sportsnet.ca",
+          "description": "The Montreal Canadiens will continue the search for their first win of the season when they play host to the San Jose Sharks on Tuesday night as -130 home favourites on the NHL odds at sportsbooks monitored by OddsShark.com.",
+          "url": "https://www.sportsnet.ca/nhl/article/canadiens-canucks-favourites-win-tuesday-nhl-odds/",
+          "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2021/10/Canadiens-1040x572.jpg",
+          "publishedAt": "2021-10-19T00:53:00Z",
+          "content": "The Montreal Canadiens will continue the search for their first win of the season when they play host to the San Jose Sharks on Tuesday night as -130 home favourites on the NHL odds at sportsbooks mo… [+2371 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nine"
+          },
+          "author": "Paul Cully",
+          "title": "All Blacks hooker Codie Taylor breaks down during emotional tribute to Sean Wainui - Wide World of Sports",
+          "description": "Rugby's outpouring of grief after death at 25",
+          "url": "https://wwos.nine.com.au/rugby/sean-wainui-dead-new-zealand-rugby-star-dies-in-car-crash-at-age-25/112394ee-f8c6-4751-8e54-ee5763cc1ace",
+          "urlToImage": "https://imageresizer.static9.net.au/7UGbat1Mb5sugeVwkbiHC3cmlxg=/0x366:5304x3349/0x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F89340be8-8f72-4b2a-91f8-fa86d8366c6c",
+          "publishedAt": "2021-10-19T00:50:33Z",
+          "content": "Senior All Blacks hooker Codie Taylor has broken down in tears while paying a raw and touching tribute to Māori All Blacks wing Sean Wainui, who died in a car crash on Monday.\r\nTaylor said news of Wa… [+3879 chars]"
+      },
+      {
+          "source": {
+              "id": "news-com-au",
+              "name": "News.com.au"
+          },
+          "author": null,
+          "title": "Secret means Djokovic could miss Aus Open - NEWS.com.au",
+          "description": "<p>World No.1 Novak Djokovic can&rsquo;t commit to defending his title at next year&rsquo;s Australian Open in Melbourne after refusing to reveal whether he has been vaccinated against Covid-19</p>",
+          "url": "https://www.news.com.au/sport/tennis/novak-djokovic-refuses-to-reveal-covid19-vaccination-and-could-miss-aussie-open/news-story/406566d82db12d420fe01f354759eef4",
+          "urlToImage": "https://content.api.news/v3/images/bin/1a8be8336cc3143bfba3be25ba974a02",
+          "publishedAt": "2021-10-19T00:47:14Z",
+          "content": "Novak Djokovic wont reveal his vaccination status to anyone and has conceded the private matter could have Australian Open ramifications.World No.1 Novak Djokovic can’t commit to defending his title … [+3324 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Nine"
+          },
+          "author": "CNN",
+          "title": "UEFA hits England with stadium ban, massive fine over 'disgraceful' crowd behaviour at final - Wide World of Sports",
+          "description": "'This can never be repeated'",
+          "url": "https://wwos.nine.com.au/football/uefa-european-football-championship-final-italy-england-crowd-behaviour-wembley-stadium/cf9ab932-c9af-4e2e-b35d-7befcc7c3b10",
+          "urlToImage": "https://imageresizer.static9.net.au/9C3EaHBFmBlsuuxUFRgsti0P8c8=/0x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc2d71743-312f-4c8b-af7d-957f3573ecbe",
+          "publishedAt": "2021-10-19T00:45:29Z",
+          "content": "European football's governing body has ordered England to play its next two UEFA competition matches at Wembley Stadium behind closed doors, the second of which is suspended for a probationary period… [+1633 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sporting News"
+          },
+          "author": "Sporting News",
+          "title": "Lesión de Mauro Lainez: Qué tiene, video, y cuántos partidos se perderá con América - Goal.com",
+          "description": "The highest-selling video game in history could be facing changes after an apparent impasse between EA Sports and world governing body FIFA.",
+          "url": "https://www.sportingnews.com/ca/soccer",
+          "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+          "publishedAt": "2021-10-19T00:44:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "theScore"
+          },
+          "author": "Justin Boone",
+          "title": "Fantasy: Waiver Wire - Week 7 - theScore",
+          "description": "Find positional rankings, additional analysis, and subscribe to push notifications in the NFL Fantasy News section.Every Monday during the season, theScore's Justin Boone runs down the recommended waiver wire pickups.Roster percentages are based on Yahoo leag…",
+          "url": "https://www.thescore.com/nfl/news/2198821",
+          "urlToImage": "https://assets-cms.thescore.com/uploads/image/file/477555/w768xh576_GettyImages-1335751108.jpg?ts=1634598995",
+          "publishedAt": "2021-10-19T00:41:46Z",
+          "content": "Find positional rankings, additional analysis, and subscribe to push notifications in the NFL Fantasy News section.\r\nEvery Monday during the season, theScore's Justin Boone runs down the recommended … [+11878 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Rivals.com"
+          },
+          "author": null,
+          "title": "Big Ten power rankings - Rivals.com - Purdue",
+          "description": "With the Hawkeyes turning into a pumpkin, Ohio State slides back to the top slot ... without even playing a game",
+          "url": "https://purdue.rivals.com/news/big-ten-power-poll-down-goes-iowa-down-goes-iowa-so-who-s-no-1-",
+          "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/hffhgrkzgrrexb5pafcz",
+          "publishedAt": "2021-10-19T00:38:37Z",
+          "content": "Week Eight is upon us. Let's take the Big Ten's temperature.1. Ohio State (5-1): Until told otherwise, the B1G title goes through Columbus. Capice?\r\nThis week: at Indiana\r\nUp next: Penn State\r\n2. Pen… [+2330 chars]"
+      },
+      {
+          "source": {
+              "id": "fox-news",
+              "name": "Fox News"
+          },
+          "author": "Daniel Canova",
+          "title": "Dodgers' Max Scherzer on early exit from Game 2 of NLCS: 'I'm just tired' - Fox News",
+          "description": "Los Angeles Dodgers starting pitcher Max Scherzer had a short outing in Game 2 of the National League Championship Series on Sunday.",
+          "url": "https://www.foxnews.com/sports/dodgers-max-scherzer-early-exit-game-2-nlcs-just-tired",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/GettyImages-1347156073.jpg",
+          "publishedAt": "2021-10-19T00:38:14Z",
+          "content": "Los Angeles Dodgers starting pitcher Max Scherzer had a short outing in Game 2 of the National League Championship Series on Sunday. \r\nThe former Cy Young Award-winner allowed two runs on four hits a… [+2194 chars]"
+      },
+      {
+          "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+          },
+          "author": "André Leslie",
+          "title": "Five ICC associate member players you should keep an eye on at the men's T20 World Cup - ABC News",
+          "description": "While the first round of the men's T20 World Cup includes several cricketing minnows, there are some outstanding players involved who could give some of the powerhouse nations a scare.",
+          "url": "https://www.abc.net.au/news/2021-10-19/t20-world-cup-icc-associate-member-players-to-watch-out-for/100549114",
+          "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e36a9c9febb176c332ae25f00b72053a?impolicy=wcms_crop_resize&cropH=2250&cropW=4000&xPos=0&yPos=431&width=862&height=485",
+          "publishedAt": "2021-10-19T00:38:04Z",
+          "content": "The first round of the men's T20 World Cup in United Arab Emirates and Oman will feature a new crop of largely unknown players, keen to make their mark against the world's best.\r\nWhile Test-status te… [+6763 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Cowboys winning or Patriots losing? What's the bigger headline? | PTI - ESPN",
+          "description": "Tony Kornheiser and Michael Wilbon discuss whether the Cowboys winning or the Patriots losing was the bigger headline this weekend.✔️Subscribe to ESPN+ http:...",
+          "url": "https://www.youtube.com/watch?v=tIWqXdfx12s",
+          "urlToImage": "https://i.ytimg.com/vi/tIWqXdfx12s/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T00:36:43Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Fox Sports"
+          },
+          "author": "Jack Austin",
+          "title": "Cure to Utd’s biggest flaw; CL winner who ticks all the boxes: Top contenders to replace Ole - Fox Sports",
+          "description": "Cure to Utd’s biggest flaw; CL winner who ticks all the boxes: Top contenders to replace Ole",
+          "url": "https://www.foxsports.com.au/football/premier-league/epl-news-2021-manchester-united-ole-gunnar-solskjaer-sacked-next-manager-zinedine-zidane-antonio-conte-cristiano-ronaldo/news-story/d82aa497b986b40eee0b473b3e2c5291",
+          "urlToImage": "https://content.api.news/v3/images/bin/5df29733e093fc180f4eb1b5a17f6edb",
+          "publishedAt": "2021-10-19T00:30:00Z",
+          "content": "Manchester United are 100 per cent adamant that Ole Gunnar Solskjaer is going nowhere and that he knows the best route back from the dirt track the team is currently on after the latest bump which kn… [+7280 chars]"
+      }
   ]
 }

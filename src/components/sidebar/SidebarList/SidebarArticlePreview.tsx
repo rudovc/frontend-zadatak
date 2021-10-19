@@ -33,7 +33,7 @@ export const SidebarArticlePreview = (props: Article): JSX.Element => {
 
   return (
     <div className={styles.sidebararticlepreview}>
-      <Typography variant="caption">{formatDate()}</Typography>
+      <Typography variant="overline" className={styles.time}>{formatDate()}</Typography>
       <a
         className={styles.nostyle}
         href={props.url}

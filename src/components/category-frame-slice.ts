@@ -33,24 +33,17 @@ export const categoryFrameSlice = createSlice({
           ...rest,
         };
         const articlesInState = state.articles;
-        // Ovo ne valja zato sta article jos ne postoji u storeu pa brises nesto sta ne postoji (index=-1)
-        // Napravi if indexOf = -1 koji handlea taj slucaj i ez
         if (state.idList.includes(mappedArticle.id)) {
-          console.log(`conflict found id: ${mappedArticle.id}`);
           if (mappedArticle.category !== Category.General) {
-            console.log(
-              `splice id: ${
-                mappedArticle.id
-              } at index ${articlesInState.findIndex(
-                (element) => element.id === mappedArticle.id
-              )}`
+            const index = articlesInState.findIndex(
+              (element) => element.id === mappedArticle.id
             );
-            state.articles.splice(
-              articlesInState.findIndex(
-                (element) => element.id === mappedArticle.id
-              ),
-              1
-            );
+              if (index !== -1) {
+              state.articles.splice(index, 1);
+            }
+            else {
+              return [];
+            }
             return [mappedArticle];
           } else {
             return [];
