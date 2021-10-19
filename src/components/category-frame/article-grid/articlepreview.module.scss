@@ -10,6 +10,10 @@ a.nostyle:visited {
 
 .articlepreviewcard {
   border-radius: 10px;
+  height: 100%;
+  box-shadow: 0px 1px 1px -0.5px rgba(0, 0, 0, 0.05),
+  0px 0.5px 1px 0px rgba(0,0,0,0.03),
+  0px 0.5px 2px 0.5px rgba(0,0,0,0.03);
 }
 
 .categorylink {
@@ -21,24 +25,32 @@ a.nostyle:visited {
 }
 
 .cardcontent {
-  height: 130px;
+  // bilo je 140px
+  height: 50%;
   display: flex;
   flex-direction: column;
   padding-bottom: 0px;
 }
 
 .cardbottom {
+  display: flex;
   width: 100%;
   flex-grow: 1;
 }
 
-.authorname {
+.cardbottomcontainer {
+  display: flex;
+  width: 100%;
   align-self: flex-end;
+}
+
+.authorname {
+  align-self: center;
 }
 
 .favoritesbutton {
   margin-left: auto;
-  align-self: flex-end;
+  align-self: center;
 }
 
 .noimageloaded {

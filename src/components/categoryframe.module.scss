@@ -7,11 +7,10 @@
   width: 75px;
 }
 .articlegridcontainer {
+  display: flex;
+  flex-direction: column;
   width: calc(100% - 75px);
-}
-
-.articlegridcontainermobile {
-  width: 100%;
+  gap: 1rem;
 }
 
 .pagination {

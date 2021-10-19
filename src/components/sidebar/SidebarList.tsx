@@ -42,7 +42,11 @@ export const SidebarList = (props: IProps) => {
   // Map the shown list of articles to individual preview components
   const getArticleList = (): JSX.Element[] => {
     const mappedArticles = articlesToShow.map((element: Article) => (
-      <ListItem className={styles.sidebarlistitem} divider key={element.id}>
+      <ListItem
+        className={styles.sidebarlistitem}
+        divider
+        key={`sidebar_item-${element.id}`}
+      >
         <SidebarArticlePreview {...element} />
       </ListItem>
     ));
@@ -53,7 +57,11 @@ export const SidebarList = (props: IProps) => {
     } else {
       return [
         ...mappedArticles,
-        <ListItem className={styles.sidebarlistitem} divider>
+        <ListItem
+          className={styles.sidebarlistitem}
+          key="progressanimation"
+          divider
+        >
           <CircularProgress
             variant="indeterminate"
             style={{ margin: "auto" }}

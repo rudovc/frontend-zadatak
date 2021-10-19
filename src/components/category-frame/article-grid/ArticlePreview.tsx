@@ -14,17 +14,18 @@ import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import FavoriteBorder from "@mui/icons-material/FavoriteBorder";
-import Stack from "@mui/material/Stack";
 import ButtonBase from "@mui/material/ButtonBase";
 import Fade from "@mui/material/Fade";
 import CircularProgress from "@mui/material/CircularProgress";
 import { useCallback } from "react";
 import { IProps } from "../../component-interfaces";
 
-// ima li koji drugi nacin osim ovaj '&'
+// Ima li koji drugi nacin osim ovaj '&'
 export const ArticlePreview = (props: Article & IProps) => {
   const dispatch = useAppDispatch();
   const favorites = useAppSelector((state) => state.sidebar.favorites);
+
+  const title = props.title;
 
   const isInFavorites = useCallback(() => {
     return Boolean(favorites.filter((element) => element === props.id).length);
@@ -55,6 +56,7 @@ export const ArticlePreview = (props: Article & IProps) => {
   const isImageLoading = () => {
     if (image !== "") {
       return (
+        // Kako prikazat fallback ako dobijen error
         <CardMedia component="img" height="140" image={image} alt="image" />
       );
     } else {
@@ -85,7 +87,7 @@ export const ArticlePreview = (props: Article & IProps) => {
       <Fade in={true} timeout={500}>
         <Card className={styles.articlepreviewcard}>
           {isImageLoading()}
-          {/*kako ovaj bottom padding?*/}
+          {/*Kako ovaj bottom padding?*/}
           <CardContent className={styles.cardcontent}>
             <ButtonBase
               onClick={handleCategoryClick}
@@ -101,18 +103,23 @@ export const ArticlePreview = (props: Article & IProps) => {
               rel="noreferrer"
               href={props.url}
             >
-              <Typography>{props.title}</Typography>
+              <Typography>{title}</Typography>
             </a>
-            <Stack direction="row" className={styles.cardbottom}>
-              <Typography variant="caption" className={styles.authorname}>
-                {props.author}
-              </Typography>
-              <span className={styles.favoritesbutton}>
-                <IconButton aria-label="favorite" onClick={handleFavoriteClick}>
-                  {isFavorite ? <FavoriteIcon /> : <FavoriteBorder />}
-                </IconButton>
-              </span>
-            </Stack>
+            <div className={styles.cardbottom}>
+              <div className={styles.cardbottomcontainer}>
+                <Typography variant="caption" className={styles.authorname}>
+                  {props.author}
+                </Typography>
+                <div className={styles.favoritesbutton}>
+                  <IconButton
+                    aria-label="favorite"
+                    onClick={handleFavoriteClick}
+                  >
+                    {isFavorite ? <FavoriteIcon /> : <FavoriteBorder />}
+                  </IconButton>
+                </div>
+              </div>
+            </div>
           </CardContent>
         </Card>
       </Fade>

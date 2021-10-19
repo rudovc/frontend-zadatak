@@ -17,6 +17,7 @@ export interface ArticlesRawData {
 }
 export interface Article extends Required<NonNullable<ArticleRawData>> {
   category: Category;
+  isGeneral?: boolean;
   id: string;
   source: {
     name: string;
@@ -32,5 +33,4 @@ export interface Article extends Required<NonNullable<ArticleRawData>> {
 
 export interface Articles {
   articles: Article[];
-  nameFilter: string;
 }

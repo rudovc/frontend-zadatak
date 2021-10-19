@@ -1,526 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 871,
+  "totalResults": 863,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "VG247"
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Livemint",
+          "title": "Apple's screen-cleaning cloth: Guess how much money it costs - Livemint",
+          "description": "The Cupertino, California-based company has a history of pushing price boundaries with its products and accessories.",
+          "url": "https://www.livemint.com/technology/tech-news/apples-screen-cleaning-cloth-guess-how-much-money-it-costs-11634622137522.html",
+          "urlToImage": "https://images.livemint.com/img/2021/10/19/600x338/Polishing_1634623110975_1634623117872.jpg",
+          "publishedAt": "2021-10-19T06:39:59Z",
+          "content": "Apple Inc.s biggest debut on Monday was undoubtedly its MacBook Pro overhaul, but the company also unveiled a polishing cloth with its signature logo debossed in one corner. Price tag? $19.\r\nThe acce… [+1389 chars]"
       },
-      "author": "Tom Orry",
-      "title": "BPM: Bullets Per Minute PS5 gameplay - the innovative FPS hits consoles - VG247",
-      "description": "BPM: Bullets Per Minute is a rhythm FPS that's on PC, but now also on Xbox and PlayStation consoles. Here's some PS5 gameplay.",
-      "url": "https://www.vg247.com/bpm-bullets-per-minute-ps5-gameplay-the-innovative-fps-hits-consoles",
-      "urlToImage": "https://asset.vg247.com/bpm_bullets_per_minute.jpg/BROK/resize/1200x630%3E/format/jpg/quality/80/bpm_bullets_per_minute.jpg",
-      "publishedAt": "2021-10-05T08:33:09Z",
-      "content": "It's not often you get a brand-new take on a well established genre, but BPM: Bullets Per Minute is exactly that. Check out this quick look at the game running on PS5.\r\nWhile BPM launched on PC about… [+858 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Apple takes break from previous supplier intel |World Business Watch| WION News |Latest English News - WION",
+          "description": "Apple has announced its two new Macbook Pro models that run on more powerful in-house chips furthering its break from previous supplier Intel.#WorldBusinessW...",
+          "url": "https://www.youtube.com/watch?v=rJ4sYt4NtLg",
+          "urlToImage": "https://i.ytimg.com/vi/rJ4sYt4NtLg/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T06:23:39Z",
+          "content": null
       },
-      "author": null,
-      "title": "BPM: Bullets Per Minute PS5 Gameplay | Quick Looks - VG247.com",
-      "description": "It's not often you get a brand-new take on a well-established genre, but BPM: Bullets Per Minute is exactly that. Check out this quick look at the game runni...",
-      "url": "https://www.youtube.com/watch?v=mDQ8daA_UQQ",
-      "urlToImage": "https://i.ytimg.com/vi/mDQ8daA_UQQ/maxresdefault.jpg",
-      "publishedAt": "2021-10-05T08:32:46Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
+      {
+          "source": {
+              "id": "independent",
+              "name": "Independent"
+          },
+          "author": "Shweta Sharma",
+          "title": "Outrage as TikToker reveals secret Walmart stockpile of in-demand PlayStation 5s - The Independent",
+          "description": "Video has amassed 3.1 million views and thousands of comments",
+          "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/tiktok-walmart-stockpile-playstation-5s-b1940828.html",
+          "urlToImage": "https://static.independent.co.uk/2020/11/19/12/GettyImages-1229584513.jpg?width=1200&auto=webp&quality=75",
+          "publishedAt": "2021-10-19T06:18:05Z",
+          "content": "A viral TikTok video has allegedly revealed a huge stockpile of Playstation5 in a Walmart warehouse, sparking outrage among gamers amid a global shortage of the in-demand console.\r\nThe clip shows hug… [+2127 chars]"
       },
-      "author": "Sofia Wyciślik-Wilson",
-      "title": "How to personalize Windows 11 - TechRadar",
-      "description": "Make Windows 11 your own",
-      "url": "https://www.techradar.com/how-to/how-to-personalize-windows-11",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zb8LL8hu5EbNEaMnrmKjAJ-1200-80.png",
-      "publishedAt": "2021-10-05T08:30:22Z",
-      "content": "Windows 11 is a great-looking operating system, but that doesn't mean that its appearance can't be improved. Out of the box, there is little to complain about, but until you start to apply some perso… [+7283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Shipments for foldable OLED panels to increase 60% annually for next five years - Arirang News",
+          "description": "폴더블폰 인기에 폴더블 OLED 출하량도 5년간 연평균 60%대 성장 전망Thanks to the popularity of foldable phones, shipments of foldable OLED panels are set to grow significantly over th...",
+          "url": "https://www.youtube.com/watch?v=ewxtGNenQtg",
+          "urlToImage": "https://i.ytimg.com/vi/ewxtGNenQtg/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T06:07:19Z",
+          "content": null
       },
-      "author": "Damien McFerran",
-      "title": "Teardown Suggests The Switch OLED Dock Is 4K 60fps-Ready And 'Future Proof' - Nintendo Life",
-      "description": "\"At least\" HDMI 2.0 on-board",
-      "url": "https://www.nintendolife.com/news/2021/10/teardown-suggests-the-switch-oled-dock-is-4k-60fps-ready-and-future-proof",
-      "urlToImage": "https://images.nintendolife.com/30eb6be7373ec/1280x720.jpg",
-      "publishedAt": "2021-10-05T08:30:00Z",
-      "content": "Image: Nintendo\r\nThe dock which ships with the Switch OLED is capable of outputting 4K 60fps, it has been suggested.\r\nThe claim comes from YouTuber Nintendo Prime, who managed to get hold of a consol… [+1952 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
+      {
+          "source": {
+              "id": null,
+              "name": "Firstpost"
+          },
+          "author": null,
+          "title": "Ola S1, S1 Pro electric scooter test rides to commence from 10 November, final payment date pushed - Firstpost",
+          "description": "On the same day it begins offering test rides, Ola Electric will start accepting the full payment for its S1 and S1 Pro electric scooters; promises delivery timelines will be unchanged.",
+          "url": "https://www.firstpost.com/tech/auto/ola-s1-s1-pro-electric-scooter-test-rides-to-commence-from-10-november-final-payment-date-pushed-10067251.html",
+          "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/10/ola-electric-s1-s1-pro-test-rides-begin-on-november-10-final-payment-date-revealed.jpg",
+          "publishedAt": "2021-10-19T05:36:58Z",
+          "content": "tech2 News StaffOct 19, 2021 11:06:58 IST\r\nOla Electric has communicated to buyers of its first electric scooters, the Ola S1 and S1 Pro, that it will commence test rides in phases from 10 November o… [+2629 chars]"
       },
-      "author": "Alistair Charlton",
-      "title": "Xbox series X stock UK - live: Very restock could drop today – how to get a console - The Independent",
-      "description": "Where is the Xbox series X in stock in the UK today? Follow our live tracker blog for Xbox stock alerts from Amazon, Currys, Smyths and more to find out",
-      "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/xbox-series-x-stock-restock-live-today-uk-b1932437.html",
-      "urlToImage": "https://static.independent.co.uk/2021/09/30/16/xbox%203%20copy.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-10-05T08:19:17Z",
-      "content": "The Xbox series X is still incredibly difficult to buy, despite launching all the way back in November 2020. Delays in the manufacturing process and a worldwide shortage of microchips have brought pr… [+8037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
+      {
+          "source": {
+              "id": null,
+              "name": "Nintendo Life"
+          },
+          "author": "Liam Doolan",
+          "title": "Super Smash Bros. Ultimate Version 13.0.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+          "description": "Sora joins the battle as the final DLC fighter",
+          "url": "https://www.nintendolife.com/news/2021/10/super-smash-bros-ultimate-version-13-0-0-is-now-live-here-are-the-full-patch-notes",
+          "urlToImage": "https://images.nintendolife.com/9a406b3958455/1280x720.jpg",
+          "publishedAt": "2021-10-19T05:25:09Z",
+          "content": "@Noble_Haltmann This IS Smash 6. Sakurai has stated in interviews and his Famitsu columns that Smash 3DS and Smash Wii U were \"the 4th and 5th entries in the series\" his interview with Kotaku over Me… [+823 chars]"
       },
-      "author": null,
-      "title": "Apple commemorates tenth anniversary of Steve Jobs passing with homepage takeover - 9to5Mac",
-      "description": "Apple is today commemorating the tenth anniversary of Steve Jobs’ passing with a special homepage takeover on Apple.com. Full bleed imagery of Jobs fills the page and there is a special film that relives some of Jobs’ most memorable quotes. The website also f…",
-      "url": "https://9to5mac.com/2021/10/05/apple-commemorates-tenth-anniversary-of-steve-jobs-homepage-takeover/",
-      "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/celebrating-steve.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2021-10-05T08:05:00Z",
-      "content": "Apple is today commemorating the tenth anniversary of Steve Jobs’ passing with a special homepage takeover on Apple.com. Full bleed imagery of Jobs fills the page and there is a special film that rel… [+1325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HYPEBEAST"
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": "Tasneem Akolawala",
+          "title": "Realme GT Neo 2T, Realme Q3s, Realme Watch T1 to Launch Today: Expected Price, Specifications - Gadgets 360",
+          "description": "Realme GT Neo 2T and Realme Q3s smartphones are launching in China today. Alongside the two phones, Realme Watch T1 will go official as well. The event is scheduled to begin at 2pm CST Asia (11:30am IST).",
+          "url": "https://gadgets.ndtv.com/mobiles/news/realme-gt-neo-2t-q3s-watch-t1-launch-today-price-specifications-2580204",
+          "urlToImage": "https://i.gadgets360cdn.com/large/realme_gt_neo_2t_glaze_white_inky_black_weibo_1634029136636.jpg",
+          "publishedAt": "2021-10-19T05:17:10Z",
+          "content": "Realme GT Neo 2T is launching in China today alongside the Realme Q3s smartphone. The company is also launching the Realme Watch T1 smartwatch at the event today. All three devices will be detailed d… [+3384 chars]"
       },
-      "author": "Jeff Yeung",
-      "title": "'God of War' Director Original First-Person Plans - HYPEBEAST",
-      "description": "The game's director David Jaffe was inspired by 'Maken X.'",
-      "url": "https://hypebeast.com/2021/10/sony-playstation-2-god-of-war-first-person-david-jaffe-director-comments",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F10%2Fsony-playstation-2-god-of-war-first-person-david-jaffe-director-comments-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2021-10-05T08:02:32Z",
-      "content": "Ever since its original release back in 2005, God of War has turned into one of Sony and PlayStation‘s most popular and beloved franchises, with the third-person action-adventure game inspiring multi… [+1331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": null,
+          "title": "Apple stops signing iOS 15.0.1, blocking downgrades from iOS 15.0.2 and iOS 15.1 - 9to5Mac",
+          "description": "Apple has just stopped signing iOS 15.0.1, which means users can no longer downgrade from iOS 15.0.2 or iOS 15.1.",
+          "url": "https://9to5mac.com/2021/10/18/apple-stops-signing-ios-15-0-1-blocking-downgrades-from-ios-15-0-2-and-ios-15-1/",
+          "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/ios-15-popular-features.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2021-10-19T05:13:00Z",
+          "content": "Earlier this month, Apple stopped signing the first public release of iOS 15. Now the company has just stopped signing iOS 15.0.1, which means that users who updated their devices to iOS 15.0.2 or iO… [+1202 chars]"
       },
-      "author": "Imad Khan",
-      "title": "Lenovo Android gaming handheld could take on Switch and Steam Deck - Tom's Guide",
-      "description": "Where's the Lenovo Legion Play?",
-      "url": "https://www.tomsguide.com/news/lenovo-android-gaming-handheld-could-take-on-switch-and-steam-deck",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mtZdaW3kBiA6iVgGGRkhKm-1200-80.jpg",
-      "publishedAt": "2021-10-05T08:00:49Z",
-      "content": "Lenovo already makes gaming phones so powerful that it requires a built-in fan, so the idea of a dedicated Android gaming device isn't so far-fetched.\r\nWell, it looks as if Lenovo has — or did have —… [+2149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
+      {
+          "source": {
+              "id": null,
+              "name": "GSMArena.com"
+          },
+          "author": "Ricky",
+          "title": "Huawei teases Enjoy 20e with 6.3-inch display and 5,000 mAh battery - GSMArena.com news - GSMArena.com",
+          "description": "The entry-level Huawei phone will reportedly launch on Singles' Day.",
+          "url": "https://www.gsmarena.com/huawei_teases_enjoy_20e_with_63inch_display_and_5000_mah_battery-news-51482.php",
+          "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/10/huawei-enjoy-20e-teased/-952x498w6/gsmarena_000.jpg",
+          "publishedAt": "2021-10-19T05:00:01Z",
+          "content": "Huawei has the Enjoy 20e, an entry-level smartphone that succeeds the Enjoy 10e. According to the release poster, The Huawei Enjoy 20e will arrive with a 6.3-inch HD LCD display with a u-shaped notch… [+523 chars]"
       },
-      "author": "Tim Hardwick",
-      "title": "Apple's A15 Chip Faster Than Company's Own Claims in Independent Tests - MacRumors",
-      "description": "Apple's new iPhone 13 series features its latest A15 Bionic processor, which the company says is 50% faster than the competition. That vague...",
-      "url": "https://www.macrumors.com/2021/10/05/apple-a15-chip-faster-than-claimed/",
-      "urlToImage": "https://images.macrumors.com/t/IgTTyse8PXdMD-vnQInz5CmluJU=/1600x/https://images.macrumors.com/article-new/2020/10/a15-chip-iphone-13.jpg",
-      "publishedAt": "2021-10-05T07:53:03Z",
-      "content": "Apple's new iPhone 13 series features its latest A15 Bionic processor, which the company says is 50% faster than the competition. That vague claim was the entry point for AnandTech's investigation in… [+2878 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+      {
+          "source": {
+              "id": null,
+              "name": "Borsonline.hu"
+          },
+          "author": "BorsOnline",
+          "title": "Döbbenetes felvétel: UFO-t rögzített a város felett a Google kamerája - Bors",
+          "description": "BorsOnline",
+          "url": "https://www.borsonline.hu/aktualis/ufo-google-kamera/244252",
+          "urlToImage": "https://media.borsonline.hu/cikk/26/251680/big-lead/650x360/2675712_nathana-reboucas-o5v8heky4ci-unsplash.jpg",
+          "publishedAt": "2021-10-19T05:00:00Z",
+          "content": "Egy Google-felhasználó úgy véli, UFO-t rögzítette a kamera Anglia egyik városa felett. Az illet le is fotózta a gyanús felvételt és megosztotta azt a Reddit nev közösségi oldalon.\r\nA felhasználó szer… [+334 chars]"
       },
-      "author": "Ingrid Lunden",
-      "title": "Inkitt inks a $59M investment, wants to turn its data-driven, self-publishing platform into a multi-media powerhouse - TechCrunch",
-      "description": "Book sales during the pandemic went up, and it seems the amount we are reading did, too. Now Inkitt, the startup that operates a free, popular platform of the same name for anyone to write and publish stories — stories that Inkitt then analyses using data sci…",
-      "url": "http://techcrunch.com/2021/10/04/inkitt-inks-a-59m-investment-wants-to-turn-its-data-driven-self-publishing-platform-into-a-multi-media-powerhouse/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-686932277.jpg?w=594",
-      "publishedAt": "2021-10-05T07:52:30Z",
-      "content": "Book sales during the pandemic went up, and it seems the amount we are reading did, too. Now Inkitt, the startup that operates a free, popular platform of the same name for anyone to write and publis… [+9218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Businesstech.co.za"
+      {
+          "source": {
+              "id": null,
+              "name": "News18"
+          },
+          "author": "Tech Desk",
+          "title": "Pixel 6, Pixel 6 Pro Launch Today: How To Watch Live, What To Expect At Google Event - News18",
+          "description": "The Google Pixel 6 series launch event will begin at 10:30PM IST tonight. The event will be livestreamed on Made By Google YouTube channel, but you can follow live updates here at News18.",
+          "url": "https://www.news18.com/news/tech/pixel-6-pixel-6-pro-launch-today-how-to-watch-live-what-to-expect-at-google-event-4338617.html",
+          "urlToImage": "https://images.news18.com/ibnlive/uploads/2021/09/pixel-6-pro-ad-163221462116x9.jpg",
+          "publishedAt": "2021-10-19T04:56:46Z",
+          "content": "Google Pixel 6 and Google Pixel 6 Pro will be launched tonight at 10:30PM IST. During tonight’s event, Google will also unvieil the Google Tensor silicon chip that will power the Pixel 6 and Pixel 6 … [+2065 chars]"
       },
-      "author": "https://www.facebook.com/BusinessTechSA",
-      "title": "Microsoft Windows 11 is now available - BusinessTech",
-      "description": "As the day becomes October 5 in each time zone around the world, the availability of Windows 11 begins through a free upgrade on eligible Windows 10 PCs and on new PCs pre-installed with Windows 11.",
-      "url": "https://businesstech.co.za/news/software/526450/microsoft-windows-11-is-now-available/",
-      "urlToImage": "https://businesstech.co.za/news/wp-content/uploads/2020/02/Microsoft-e1582102565339.jpg",
-      "publishedAt": "2021-10-05T07:52:30Z",
-      "content": "As the day becomes October 5 in each time zone around the world, the availability of Windows 11 begins through a free upgrade on eligible Windows 10 PCs and on new PCs pre-installed with Windows 11.\r… [+3207 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dot Esports"
+      {
+          "source": {
+              "id": null,
+              "name": "Sky.com"
+          },
+          "author": "Amar Mehta",
+          "title": "Apple unveils big changes to Macbook Pro laptops and AirPods at latest launch event - Sky News",
+          "description": "",
+          "url": "https://news.sky.com/story/apple-unveils-big-changes-to-macbook-pro-laptops-and-airpods-at-latest-launch-event-12437912",
+          "urlToImage": "https://e3.365dm.com/21/10/1600x900/skynews-macbook-apple-airpods_5551279.png?20211019011824",
+          "publishedAt": "2021-10-19T04:54:53Z",
+          "content": null
       },
-      "author": "Ryan Galloway",
-      "title": "You can now pre-download the Battlefield 2042 open beta - Dot Esports",
-      "description": "Get prepared for early access to begin.",
-      "url": "https://dotesports.com/general/news/you-can-now-pre-download-the-battlefield-2042-open-beta/",
-      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/09/28105014/Battlefield-2042-768x432.jpg",
-      "publishedAt": "2021-10-05T07:50:22Z",
-      "content": "Fans eager to get in on the action in Battlefield 2042 during the open beta can prep their machines now.\r\nThe latest test for the highly anticipated next entry into the iconic Battlefield series is s… [+1156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
+      {
+          "source": {
+              "id": null,
+              "name": "9to5google.com"
+          },
+          "author": null,
+          "title": "Material You weather widgets go live on Android 12 with latest Google app beta - 9to5Google",
+          "description": "In a very welcome change, the Google Weather Material You widgets are now live on existing Pixel phones with the latest Google app...",
+          "url": "https://9to5google.com/2021/10/18/google-weather-material-you-widgets/",
+          "urlToImage": "https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/09/Material-You-Google-Weather-Widget-2.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2021-10-19T04:43:00Z",
+          "content": "In a very welcome change from what we previously expected, the Google Weather Material You widgets are now live on existing Pixel phones with the latest Google app beta.\r\nEarlier today, Google app 12… [+1719 chars]"
       },
-      "author": "Jagmeet Singh",
-      "title": "Windows 11 Now Available for Download in India: How to Get It on Your PC, Top New Features - Gadgets 360",
-      "description": "Windows 11 is now officially available for download in India and around the world. The new Windows operating system will come preloaded on new Windows PCs from manufacturers such as Acer, Asus, Dell, HP, and Lenovo, among others. Existing users are also getti…",
-      "url": "https://gadgets.ndtv.com/laptops/news/windows-11-release-download-iso-features-microsoft-update-changes-details-preload-2564341",
-      "urlToImage": "https://i.gadgets360cdn.com/large/windows_11_image_microsoft_1629357765824.jpg",
-      "publishedAt": "2021-10-05T07:45:26Z",
-      "content": "Windows 11 is now officially available for download in India and around the world. The new Windows operating system has been released as a free upgrade on eligible Windows 10 PCs. It will also come p… [+3529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dot Esports"
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Stephen Shankland",
+          "title": "Apple 16-inch MacBook Pro's 140-watt USB-C charger is its most powerful yet - CNET",
+          "description": "The beefy brick can charge with the laptop's USB-C or MagSafe ports, pioneering a new high-power charging standard.",
+          "url": "https://www.cnet.com/tech/computing/apple-16-inch-macbook-pros-140-watt-usb-c-charger-is-its-most-powerful-yet/",
+          "urlToImage": "https://www.cnet.com/a/img/YccruIyrBxqL3Lb5oWX0S0IXSIU=/1200x630/2021/10/19/7cde1f1f-199f-46c5-bdf6-f9d790bcffe0/macbook-pro-16-inch-gradient-3.jpg",
+          "publishedAt": "2021-10-19T04:18:00Z",
+          "content": "Apple MacBook Pro\r\nIllustration by Stephen Shankland/CNET\r\nApple boasted about how efficient its new MacBook Pro laptops are during their debut Monday, but it takes Apple's most power-hungry laptop c… [+2956 chars]"
       },
-      "author": "Ryan Galloway",
-      "title": "Nickelodeon All-Star Brawl dataminers find voice lines for potential new characters - Dot Esports",
-      "description": "This doesn't confirm their addition, but it is a good sign.",
-      "url": "https://dotesports.com/fgc/news/nickelodeon-all-star-brawl-dataminers-find-voice-lines-for-potential-new-characters/",
-      "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/07/14122416/Nickelodeon-TMNTHelga-768x432.jpg",
-      "publishedAt": "2021-10-05T07:22:38Z",
-      "content": "Nickelodeon All-Star Brawl just launched earlier today, but data miners had already found some new fighters that could be joining the game by rummaging around in its game files.\r\nOne of the biggest f… [+1245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Republic World"
+      {
+          "source": {
+              "id": null,
+              "name": "ComicBook.com"
+          },
+          "author": "Marc Deschamps",
+          "title": "Call of Duty: Warzone & Cold War Reveal Halloween Content Featuring Donnie Darko and Scream - ComicBook.com",
+          "description": "Halloween is less than two weeks away, and Call of Duty fans will soon have the opportunity to celebrate the season thanks to a new event in Call of Duty: Warzone and Call of Duty: Black Ops Cold War. This year, The Haunting event returns, with a tie-in to th…",
+          "url": "https://comicbook.com/gaming/news/call-of-duty-warzone-cold-war-halloween-content-donnie-darko-scream-the-haunting/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/2021/10/19/e61d4a0e-793c-4c65-b1e0-b371d2d7d87e/call-of-duty-scream.jpg",
+          "publishedAt": "2021-10-19T04:11:00Z",
+          "content": "Halloween is less than two weeks away, and Call of Duty fans will soon have the opportunity to celebrate the season thanks to a new event in Call of Duty: Warzone and Call of Duty: Black Ops Cold War… [+2466 chars]"
       },
-      "author": "Shikhar Mehrotra",
-      "title": "WhatsApp global outage: CEO Will Cathcart says, 'We're entirely back up and running now' - Republic World",
-      "description": "The WhatsApp outage began yesterday for users across the world, wherein users on the messaging app were not able to send or receive messages. Read details here.",
-      "url": "https://www.republicworld.com/technology-news/apps/whatsapp-global-outage-ceo-will-cathcart-says-were-entirely-back-up-and-running-now.html",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/qgcpqotdbjcoiozg_1633416175.jpeg",
-      "publishedAt": "2021-10-05T07:19:00Z",
-      "content": "After the global outage on October 4, 2021, seems like all platforms owned by Facebook, including WhatsApp are now online and running at full capacity. Today, Facebook has apologised to the creators,… [+2492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
+      {
+          "source": {
+              "id": null,
+              "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "Kuo: Mass Production on Apple's AR/VR Headset May Be Delayed Until End of 2022 - MacRumors",
+          "description": "Apple may not begin production on its upcoming AR/VR headset until the end of the fourth quarter of 2022, Apple analyst Ming-Chi Kuo said today in a...",
+          "url": "https://www.macrumors.com/2021/10/19/apple-ar-vr-headset-mass-production-delay/",
+          "urlToImage": "https://images.macrumors.com/t/gD7Fb2l6CeY5TjeEiZmJN9CmKXU=/2006x/https://images.macrumors.com/article-new/2021/03/apple-mixed-reality-headset-mockup-feature-orange.jpg",
+          "publishedAt": "2021-10-19T04:05:49Z",
+          "content": "Apple may not begin production on its upcoming AR/VR headset until the end of the fourth quarter of 2022, Apple analyst Ming-Chi Kuo said today in a note sent out to investors. That would likely resu… [+2321 chars]"
       },
-      "author": "Pranob Mehrotra",
-      "title": "Realme GT Neo2 could launch in Europe with Android 12 preinstalled - XDA Developers",
-      "description": "Leaked live images of the Realme GT Neo2 suggest that the device could launch in Europe with Android 12 preinstalled. Read on to learn more.",
-      "url": "https://www.xda-developers.com/realme-gt-neo2-could-launch-europe-android-12-preinstalled/",
-      "urlToImage": "https://www.xda-developers.com/files/2021/10/Realme-UI-3.0-coming-soon.jpg",
-      "publishedAt": "2021-10-05T07:14:00Z",
-      "content": "OPPO, OnePlus, and Realme announced their Android 12 rollout plans shortly after Google officially announced the software release yesterday. While OPPO and OnePlus also rolled out the first ColorOS 1… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lowyat.NET"
+      {
+          "source": {
+              "id": "engadget",
+              "name": "Engadget"
+          },
+          "author": "https://www.engadget.com/about/editors/mariella-moon",
+          "title": "Fisher-Price launches a working Chatter telephone for adults - Engadget",
+          "description": "Fisher-Price has launched a working Chatter phone for adults..",
+          "url": "https://www.engadget.com/fisher-price-working-chatter-telephone-040026739.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/5061ce90-308a-11ec-befc-858e32fea6e5",
+          "publishedAt": "2021-10-19T04:02:00Z",
+          "content": "If you ever wished as a child that your fake Fisher-Price telephone would actually work, well, ready your credit card, because you can now make that dream come true. The toy company has launched a sp… [+963 chars]"
       },
-      "author": null,
-      "title": "YouTube Music Background Playback Feature In November - Lowyat.NET",
-      "description": "The background playback ability that was introduced on YouTube Music sometime back as a Premium-only feature will soon be made available to all users. However, it will take a while until you'll be able to use it though, as the Google-owned streaming service a…",
-      "url": "https://www.lowyat.net/2021/254852/youtube-music-background-playback-feature-in-november/",
-      "urlToImage": "https://www.lowyat.net/wp-content/uploads/2019/09/YouTube-Music-2.jpg",
-      "publishedAt": "2021-10-05T07:05:49Z",
-      "content": "The background playback ability that was introduced on YouTube Music sometime back as a Premium-only feature will soon be made available to all users. However, it will take a while until you’ll be ab… [+1191 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
+      {
+          "source": {
+              "id": null,
+              "name": "Dexerto"
+          },
+          "author": null,
+          "title": "Apex Legends Ash trailer pays tribute to Titanfall 2 origin, and players love it - Dexerto",
+          "description": "Respawn paid tribute to Titanfall 2 with its latest Apex Legends Stories from the Outlands trailer starring Ash.",
+          "url": "https://www.dexerto.com/apex-legends/apex-legends-ash-trailer-tribute-titanfall-2-1678539/",
+          "urlToImage": "https://www.dexerto.com/wp-content/uploads/2021/10/19/Apex-Legends-Ash-trailer-pays-tribute-to-Titanfall-2-origin-and-players-love-it.jpg",
+          "publishedAt": "2021-10-19T03:56:18Z",
+          "content": "The new Apex Legends Stories from the Outlands trailer gave fans a fresh perspective for a classic Titanfall 2 scene featuring Ash, and players are loving it.\r\nRespawn Entertainment are bringing the … [+1835 chars]"
       },
-      "author": "Sourabh Kulesh",
-      "title": "Amazon Great Indian Festival 2021 Sale: HDFC Bank Resets Discounts on Debit, Credit Cards - Gadgets 360",
-      "description": "HDFC Bank is resetting credit and debit card offers for people who have redeemed 10 percent discount on their cards to push them to shop during the Amazon Great Indian Festival Sale and get the same discount again. The limit is being reset on October 5, and t…",
-      "url": "https://gadgets.ndtv.com/apps/news/amazon-great-indian-festival-2021-sale-discounts-offers-hdfc-bank-credit-debit-cards-2564278",
-      "urlToImage": "https://i.gadgets360cdn.com/large/amazon_great_indian_festival_sale_hdfc_bank_1633417025007.jpg",
-      "publishedAt": "2021-10-05T07:01:41Z",
-      "content": "Amazon Great Indian Festival 2021 is now live and in order to push people to shop more, HDFC Bank has reset discount offers on credit as well as debit cards. In layman's words, those who have already… [+2865 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "iMore"
+      {
+          "source": {
+              "id": null,
+              "name": "SlashGear"
+          },
+          "author": "JC Torres",
+          "title": "Google Play Data Safety starts accepting developer submissions - SlashGear",
+          "description": "Privacy has become a hot topic in tech in the past few years, especially on mobile. Apple has even made it an important selling point for its products, especially iPhones and iOS. Google has been w…",
+          "url": "https://www.slashgear.com/google-play-data-safety-starts-accepting-developer-submissions-18695789/",
+          "urlToImage": "https://cdn.slashgear.com/wp-content/uploads/2021/10/google-play-data-safety.jpg",
+          "publishedAt": "2021-10-19T03:36:00Z",
+          "content": "Privacy has become a hot topic in tech in the past few years, especially on mobile. Apple has even made it an important selling point for its products, especially iPhones and iOS. Google has been wor… [+1985 chars]"
       },
-      "author": "Rebecca Spear",
-      "title": "EPOS announces new H6PRO Series Headsets with open or closed acoustic - iMore",
-      "description": "EPOS is a trusted brand in the audio industry that produces quality headsets. It just announced its latest headset series with the H6PRO, which comes in either open or closed acoustic.",
-      "url": "https://www.imore.com/epos-announces-new-h6pro-series-headsets",
-      "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/09/epos-h6pro-headset.jpg",
-      "publishedAt": "2021-10-05T07:01:02Z",
-      "content": "Today EPOS announced the H6PRO Open and the H6PRO Closed acoustic headset series, \"built after the legacy\" of the popular GSP 600 series. Since it offers two acoustic options, players can choose the … [+906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Creative Bloq"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Apple's new products are 'bending the power performance curve: Analyst on M1 chip, MacBook Pro - Yahoo Finance",
+          "description": "#Apple #M1chip #MacBookProR \"Ray\" Wang, Constellation Research Principal Analyst & Founder, joins Yahoo Finance's Karina Mitchell and Alexis Christoforous to...",
+          "url": "https://www.youtube.com/watch?v=iYkEwzLeLzk",
+          "urlToImage": "https://i.ytimg.com/vi/iYkEwzLeLzk/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T03:34:07Z",
+          "content": null
       },
-      "author": "Daniel Piper",
-      "title": "Nintendo's Switch Pro announcement is a huge disappointment - Creative Bloq",
-      "description": "Is the Switch Pro a no-go?",
-      "url": "https://www.creativebloq.com/news/switch-pro-announcement",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3xcCaiYMUmPaUDkAsFGpQo-1200-80.jpg",
-      "publishedAt": "2021-10-05T07:00:23Z",
-      "content": "Ah, the Nintendo Switch Pro. Rumoured for months (nay, years), the high-spec games console has yet to make an appearance. We've heard plenty about the potential graphics and specs, but these remain c… [+2295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "Nick Pino",
+          "title": "The 6 AirPods 3 features we wanted from Apple – but didn’t get - TechRadar",
+          "description": "ANALYSIS: No noise cancellation or fitness features this time around, sadly",
+          "url": "https://www.techradar.com/news/the-6-airpods-3-features-we-wanted-from-apple-but-didnt-get",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/86nmLbT7LGAKyKY5mp4bMY-1200-80.jpg",
+          "publishedAt": "2021-10-19T03:32:09Z",
+          "content": "After months of rumors, Apple finally announced the new AirPods 3\r\n during its Unleashed event\r\n, where we were also treated to new colors for the Apple HomePod mini, the Apple M1 Pro and M1 Max, Mac… [+5383 chars]"
       },
-      "author": "Andy Robinson",
-      "title": "Animal rights group urges removal of Far Cry 6’s cockfighting mini-game - Video Games Chronicle",
-      "description": "PETA says Ubisoft’s Mortal Kombat-style fighting game ‘glorifies cruelty’…",
-      "url": "https://www.videogameschronicle.com/news/animal-rights-group-urges-removal-of-far-cry-6s-cockfighting-mini-game/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2021/10/far-cry-6-cockfighting.jpg",
-      "publishedAt": "2021-10-11T10:36:34Z",
-      "content": "Animal rights group PETA has urged Ubisoft to remove a Far Cry 6 mini-game based on cockfighting.\r\nThe firms Latino branch has publicly criticised the game sequence, which has players participating i… [+1527 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
+      {
+          "source": {
+              "id": null,
+              "name": "Nintendo Life"
+          },
+          "author": "Liam Doolan",
+          "title": "Random: Forget Dread, It's All About Metroid: Other M On Twitter Right Now - Nintendo Life",
+          "description": "Fans are \"defending\" the Wii entry for all sorts of reasons",
+          "url": "https://www.nintendolife.com/news/2021/10/random-forget-dread-its-all-about-metroid-other-m-on-twitter-right-now",
+          "urlToImage": "https://images.nintendolife.com/1ed36ce84924d/1280x720.jpg",
+          "publishedAt": "2021-10-19T03:30:00Z",
+          "content": "@shonenjump86\r\nOther M deserves about as much hate as FF, but it had the benefit of releae time and better trailers. The game did LOOK slick, with trailers showing off well-animated action CGI and ci… [+1664 chars]"
       },
-      "author": "Isobel Asher Hamilton",
-      "title": "Facebook bans developer who made tool for people to use Facebook less - Business Insider",
-      "description": "Developer Louis Barclay, who created \"Unfollow Everything,\" told Insider he was scared and anxious after receiving Facebook's cease-and-desist letter.",
-      "url": "https://www.businessinsider.com/facebook-bans-unfollow-everything-developer-delete-news-feed-2021-10",
-      "urlToImage": "https://i.insider.com/6160481a5ae4fe0018a710b8?width=1200&format=jpeg",
-      "publishedAt": "2021-10-11T10:35:58Z",
-      "content": "A developer who designed a tool to let people essentially delete their Facebook news feeds says he was served with a cease-and-desist letter and permanently kicked off the tech giant's platform.\r\nLou… [+3104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NME"
+      {
+          "source": {
+              "id": null,
+              "name": "AppleInsider"
+          },
+          "author": "AppleInsider Staff",
+          "title": "Apple updates iMovie for Mac with Cinematic mode support, more - AppleInsider",
+          "description": "Apple on Monday issued an update for its iMovie video editing software for Mac with support for footage shot using iPhone 13's Cinematic mode and optimizations for Apple Silicon.",
+          "url": "https://appleinsider.com/articles/21/10/19/apple-updates-imovie-for-mac-with-cinematic-mode-support-more",
+          "urlToImage": "https://photos5.appleinsider.com/gallery/45128-87760-211018-iMovie-xl.jpg",
+          "publishedAt": "2021-10-19T03:28:00Z",
+          "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1497 chars]"
       },
-      "author": null,
-      "title": "Jim Ryan wants PlayStation games to reach “hundreds of millions” - NME",
-      "description": "The PlayStation president spoke about his strategy reaching a wider audience.",
-      "url": "https://www.nme.com/news/gaming-news/jim-ryan-wants-playstation-games-to-reach-hundreds-of-millions-3067280",
-      "urlToImage": "https://www.nme.com/wp-content/uploads/2021/05/PlayStation@2000x1270.jpg",
-      "publishedAt": "2021-10-11T10:32:37Z",
-      "content": "Jim Ryan, the Sony Interactive Entertainment president and CEO, has spoken about his humble beginnings and his strategy for helping PlayStation titles reach a wider audience.\r\nIn a 20 minute intervie… [+2726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deccan Herald"
+      {
+          "source": {
+              "id": null,
+              "name": "Sportskeeda"
+          },
+          "author": "Nurul Nabilah",
+          "title": "Genshin Impact hidden ghost quest in Tsurumi Island: Rero prank quest guide - Sportskeeda",
+          "description": "Genshin Impact's World Quest Through the Mist is a long one. However, once players complete it, Tsurumi Island will no longer be covered in a layer of fog, and they can freely travel around the island.",
+          "url": "https://www.sportskeeda.com/esports/genshin-impact-hidden-ghost-quest-tsurumi-island-rero-prank-quest-guide",
+          "urlToImage": "https://staticg.sportskeeda.com/editor/2021/10/a839c-16346114241626-1920.jpg",
+          "publishedAt": "2021-10-19T03:27:01Z",
+          "content": "Genshin Impact's World Quest Through the Mist is a long one. However, once players complete it, Tsurumi Island will no longer be covered in a layer of fog, and they can freely travel around the islan… [+1577 chars]"
       },
-      "author": "Rohit KVN",
-      "title": "Vivo X70 Pro: First impression - Deccan Herald",
-      "description": "Lask weekend, smartphone-maker Vivo's brand new X70 Pro along with the X70 Pro+ series made its way to the stores in  India. Vivo X70 Pro comes in Aurora Dawn and Cosmic Black colours. It is available in three variants-- 8GB RAM + 128GB storage, 8GB RAM + 256…",
-      "url": "https://www.deccanherald.com/business/technology/vivo-x70-pro-first-impression-1039613.html",
-      "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/10/11/vx70pro-cov-sho-sel-1-1039613-1633948186.jpg",
-      "publishedAt": "2021-10-11T10:29:46Z",
-      "content": "Lask weekend, smartphone-maker Vivo's brand new X70 Pro along with the X70 Pro+ series made its way to the stores in  India.\r\nVivo X70 Pro comes in Aurora Dawn and Cosmic Black colours. It is availab… [+3506 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Super Smash Bros. Ultimate - Sora & Hollow Bastion Stage DLC Gameplay - Shacknews",
+          "description": "#Shacknews #Gameplay #SSBUFull Patch 13.0 notes here: https://www.shacknews.com/article/127198/super-smash-bros-ultimate-update-version-1300-patch-notesMasah...",
+          "url": "https://www.youtube.com/watch?v=2iQwgmatlow",
+          "urlToImage": "https://i.ytimg.com/vi/2iQwgmatlow/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T03:25:53Z",
+          "content": null
       },
-      "author": "Alessandro Mascellino",
-      "title": "Xbox series X stock - live: Today’s restock updates from Argos, Currys, Smyths and more - The Independent",
-      "description": "Where is the Xbox series X in stock in the UK today? Follow our live tracker blog for Xbox stock alerts from Argos, Currys, Smyths, Amazon and more to find out",
-      "url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/video-games-consoles/xbox-series-x-stock-restock-today-live-b1935946.html",
-      "urlToImage": "https://static.independent.co.uk/2021/09/30/16/xbox%204%20copy.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2021-10-11T10:20:25Z",
-      "content": "The Xbox series X is still rather difficult to buy, despite launching back in November 2020. Delays in the manufacturing process and a worldwide shortage of microchips have slowed down production of … [+7868 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": "Tasneem Akolawala",
+          "title": "Pixel 6, Pixel 6 Pro Phones to Launch Today: How to Watch Live, Expected Price and Specifications - Gadgets 360",
+          "description": "The Google Pixel 6 and Google Pixel 6 Pro launch event will begin at 10.30pm IST today. All those who want to watch the event live, can head to the event page created by Google. It will be streamed live on the Made by Google YouTube channel as well.",
+          "url": "https://gadgets.ndtv.com/mobiles/news/google-pixel-6-pro-launch-today-how-to-watch-live-expected-price-specifications-2579549",
+          "urlToImage": "https://i.gadgets360cdn.com/large/Pixel_6_official_reveal_1627969648077.jpg",
+          "publishedAt": "2021-10-19T03:07:32Z",
+          "content": "Google Pixel 6 and Google Pixel 6 Pro, the first phones from the tech giant to be powered by its home-grown Tensor SoC, are all set to launch today. The launch event will begin at 10.30pm IST and wil… [+3825 chars]"
       },
-      "author": "Adam Bankhurst",
-      "title": "The Walking Dead's Rick Grimes Has Joined Fortnite During Fortnitemares 2021 - IGN SOUTH AFRICA",
-      "description": "Rick's arrival also sees the return of Daryl Dixon and Michonne to the Item Shop.",
-      "url": "https://za.ign.com/fortnite/157962/news/the-walking-deads-rick-grimes-has-joined-fortnite-during-fortnitemares-2021",
-      "urlToImage": "https://sm.ign.com/t/ign_za/news/t/the-walkin/the-walking-deads-rick-grimes-has-joined-fortnite-during-for_3euz.1200.jpg",
-      "publishedAt": "2021-10-11T10:19:55Z",
-      "content": "The Walking Dead's Rick Grimes has joined Fortnite during its Fortnitemares 2021 event. \r\nWhile Rick is appearing in Fortnite for the first time, he is joined in the Item Shop by returning Walking De… [+1225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
+      {
+          "source": {
+              "id": null,
+              "name": "GSMArena.com"
+          },
+          "author": "Peter",
+          "title": "New vivo Y3s launched in India: a cheap Helio P35 phone with a large 5,000 mAh battery - GSMArena.com news - GSMArena.com",
+          "description": "It is powered by the same P35 chipset as the older Y3s, but it runs Android 11 Go Edition. It has a larger screen, though.",
+          "url": "https://www.gsmarena.com/new_vivo_y3s_launched_in_india_a_cheap_helio_p35_phone_with_a_large_5000_mah_battery-news-51473.php",
+          "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/10/vivo-y3s-announced/-952x498w6/gsmarena_000.jpg",
+          "publishedAt": "2021-10-19T03:02:02Z",
+          "content": "vivo just unveiled the Y3s. Its not to be confused with the Y33s from earlier this year or with the Y3s from last year. Not to mention the Y3 from the year before. They are quite similar though not i… [+2574 chars]"
       },
-      "author": null,
-      "title": "HyperX Achieves 20 Million Gaming Headsets Shipping Milestone - Business Wire",
-      "description": "HyperX, the gaming peripherals team at HP Inc. and brand leader in gaming and esports, today announced it has shipped over 20 million gaming headsets1",
-      "url": "https://www.businesswire.com/news/home/20211011005017/en/HyperX-Achieves-20-Million-Gaming-Headsets-Shipping-Milestone",
-      "urlToImage": "https://mms.businesswire.com/media/20211011005017/en/913872/23/20_Million_Headsets.jpg",
-      "publishedAt": "2021-10-11T10:15:00Z",
-      "content": "FOUNTAIN VALLEY, Calif.--(BUSINESS WIRE)--HyperX, the gaming peripherals team at HP Inc. and brand leader in gaming and esports, today announced it has shipped over 20 million gaming headsets1 since … [+4163 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VG247"
+      {
+          "source": {
+              "id": null,
+              "name": "Tech Wire Asia"
+          },
+          "author": "Aaron Raj",
+          "title": "Cyber attacks today exploiting zero-day threats before enterprises can patch - Tech Wire Asia",
+          "description": "Cyber attacks today are becoming more rampant. In the past, when vulnerabilities at discovered, organizations may have some time to patch them up once.",
+          "url": "https://techwireasia.com/2021/10/cyber-attacks-today-zero-day/",
+          "urlToImage": "https://techwireasia.com/wp-content/uploads/2021/10/000_9P8846-scaled.jpg",
+          "publishedAt": "2021-10-19T02:54:29Z",
+          "content": "Cyber attacks today are becoming more rampant. In the past, when vulnerabilities at discovered, organizations may have some time to patch them up once. However, this is now changing as attackers are … [+6836 chars]"
       },
-      "author": "Sherif Saed",
-      "title": "Riders Republic is free to play for 24 hours starting tomorrow - VG247",
-      "description": "Ahead of its launch later this month, Ubisoft is offering PC players a limited trial of Riders Republic.",
-      "url": "https://www.vg247.com/riders-republic-free-trial-pc-uplay-ubisoft-connect",
-      "urlToImage": "https://asset.vg247.com/riders_republic-4.jpg/BROK/resize/1200x630%3E/format/jpg/quality/80/riders_republic-4.jpg",
-      "publishedAt": "2021-10-11T10:12:42Z",
-      "content": "If you're looking forward to Riders Republic, and you missed the recent beta, you're going to get a chance to play the game one more time ahead of release. Ubisoft announced a one-day free trial for … [+1469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Darko.Audio"
+      {
+          "source": {
+              "id": null,
+              "name": "Business Standard"
+          },
+          "author": "Mark Gurman | Bloomberg",
+          "title": "Apple drops Intel chips in biggest MacBook Pro overhaul in years - Business Standard",
+          "description": "With the new processors and devices, Apple is aiming squarely at the high-end chips that Intel has provided for the MacBook Pro and other top-end Macs for about 15 years",
+          "url": "https://www.business-standard.com/article/technology/apple-drops-intel-in-biggest-macbook-pro-overhaul-in-years-121101900145_1.html",
+          "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/19/full/1634611417-6224.jpg",
+          "publishedAt": "2021-10-19T02:45:00Z",
+          "content": "Apple Inc. took the most aggressive step yet to strip Intel Corp. chips from its computers, announcing more powerful homegrown Mac processors alongside a total revamp of its MacBook Pro laptop comput… [+5172 chars]"
       },
-      "author": "John Darko",
-      "title": "Q Acoustics announces Concept 30, 50 loudspeakers - Darko.Audio",
-      "description": "A new floorstander and standmount with optional tensegrity stand.",
-      "url": "https://darko.audio/2021/10/q-acoustics-plates-up-concept-30-50-loudspeakers/",
-      "urlToImage": "https://darko.audio/wp-content/uploads/2021/10/q-acoustics-concept-30-50-darkoaudio-4.png",
-      "publishedAt": "2021-10-11T10:10:35Z",
-      "content": "Loudspeaker manufacturer Q Acoustics has added three new models to its Concept series: the Concept 30 standmount, the Concept 50 floorstander and, for home theatre enthusiasts, the Concept 90 centre … [+2054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
+      {
+          "source": {
+              "id": null,
+              "name": "中国日报"
+          },
+          "author": "杨洋",
+          "title": "Apple launches faster chips, MacBook Pro laptops, Airpods - Chinadaily USA",
+          "description": "Apple Inc released two new chips built into more powerful MacBook Pro laptops and a third-generation AirPod wireless earbud during an event at Apple Park in Cupertino, California, on Oct 18, 2021.",
+          "url": "https://www.chinadaily.com.cn/a/202110/19/WS616e28e8a310cdd39bc6fc5f.html",
+          "urlToImage": "http://img2.chinadaily.com.cn/images/202110/19/616e2f8ca310cdd3d8142a2b.jpeg",
+          "publishedAt": "2021-10-19T02:09:00Z",
+          "content": "A woman wears the third-generation AirPods that have a longer battery life and an all-new design that is resistant to sweat and water, on Oct 18, 2021. [Photo/IC] \r\nApple Inc released two new chips b… [+491 chars]"
       },
-      "author": "Peter",
-      "title": "Leakster: the Oppo Reno7 Pro will use a 50MP Sony IMX766 sensor - GSMArena.com news - GSMArena.com",
-      "description": "This sensor is used in the Reno6 Pro+ and the Snapdragon version of the Reno6 Pro, as well as a number of OnePlus, vivo and other phones.",
-      "url": "https://www.gsmarena.com/leakster_the_oppo_reno7_pro_will_use_a_50mp_sony_imx766_sensor-news-51361.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/10/oppo-reno7-imx766-dcs/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2021-10-11T10:10:01Z",
-      "content": "Leakster Digital Chat Station has more news of Oppos upcoming flagship smartphones the Reno7 Pro model (PFDM00) will use the Sony IMX766 sensor. This could be the same phone that is being co-develope… [+1015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesRadar+"
+      {
+          "source": {
+              "id": "mashable",
+              "name": "Mashable"
+          },
+          "author": "Jennimai Nguyen",
+          "title": "How to customize gesture controls on AirPods - Mashable",
+          "description": "You aren't required to have your AirPods skip to the next song every time you double tap.",
+          "url": "https://mashable.com/article/how-to-customize-gesture-controls-on-airpods",
+          "urlToImage": "https://helios-i.mashable.com/imagery/articles/01zE9fHB5Jvyh16ptez0Xdl/hero-image.fill.size_1200x675.v1634609111.jpg",
+          "publishedAt": "2021-10-19T02:06:37Z",
+          "content": null
       },
-      "author": "Aleksha McLoughlin",
-      "title": "Black Friday RAM deals: speed up your gaming rig for less - GamesRadar",
-      "description": "How to get the best Black Friday RAM deals this year",
-      "url": "https://www.gamesradar.com/black-friday-ram-deals-2021/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eof3SCao8Na87eYamNj7Fn-1200-80.jpg",
-      "publishedAt": "2021-10-11T10:08:00Z",
-      "content": "Black Friday RAM deals have, historically, been a time to make some of the deepest savings of the year on the best RAM for gaming from all the top manufacturers, especially if you're after high capac… [+5498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheSixthAxis"
+      {
+          "source": {
+              "id": null,
+              "name": "Dexerto"
+          },
+          "author": null,
+          "title": "Warzone’s Vanguard integration date reportedly leaked: New Pacific map release, WWII weapons - Dexerto",
+          "description": "Warzone’s next ‘Chapter’ now appears to be locked in as new leaks have seemingly revealed the date for Vanguard’s integration.",
+          "url": "https://www.dexerto.com/call-of-duty/warzone-vanguard-integration-date-pacific-map-wwii-weapons-1678542/",
+          "urlToImage": "https://www.dexerto.com/wp-content/uploads/2021/10/19/Warzone-Vanguard-scaled.jpg",
+          "publishedAt": "2021-10-19T02:01:17Z",
+          "content": "Warzone’s integration with Call of Duty Vanguard appears to have a date set in stone as new leaks have seemingly revealed when we can expect the new Pacific map, along with every WWII-era piece of eq… [+1885 chars]"
       },
-      "author": null,
-      "title": "Diablo 2 Resurrected login issues continue, some servers offline - TheSixthAxis",
-      "description": "Diablo 2 Resurrected players have continued to battle against login issues following the game's launch.",
-      "url": "https://www.thesixthaxis.com/2021/10/11/diablo-2-resurrected-login-issues-sever-status-offline/",
-      "urlToImage": "https://www.thesixthaxis.com/wp-content/uploads/2021/10/diablo-2-login-issues-server-status-offline-500.jpg",
-      "publishedAt": "2021-10-11T10:07:40Z",
-      "content": "Diablo 2 Resurrected players have continued to battle against login issues following the game’s launch.\r\nBlizzard has been working to fix the problem, keeping fans up to date on the Diablo 2 Resurrec… [+1837 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
+      {
+          "source": {
+              "id": null,
+              "name": "FX Empire"
+          },
+          "author": null,
+          "title": "Apple's New AirPods Are Now Available With Magnetic Charging Features - FX Empire",
+          "description": "The shares of Apple is up by less than 1% after the tech giant unveiled its latest AirPods, which comes with some sleek designs and a magnetic charging feature.",
+          "url": "https://www.fxempire.com/news/article/apples-new-airpods-are-now-available-with-magnetic-charging-features-789569",
+          "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2021/10/Apple-Store-2.jpg",
+          "publishedAt": "2021-10-19T02:01:00Z",
+          "content": "According to the streamed announcement, the new airpods are set to support spatial audio, thanks to the deployment of some new sensors required to support the spatial audio feature and others. The ne… [+852 chars]"
       },
-      "author": "James Rogerson",
-      "title": "Samsung Galaxy S22 likely won't have the best fast charging, but it'll beat iPhone 13 - TechRadar",
-      "description": "25W across the board",
-      "url": "https://www.techradar.com/news/samsung-galaxy-s22-likely-wont-have-the-best-fast-charging-but-itll-beat-iphone-13",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDdsH8nYGg2PZntq5TTGae-1200-80.jpg",
-      "publishedAt": "2021-10-11T10:01:52Z",
-      "content": "Samsung phones have long been slower to charge than most rival handsets, and it doesn’t look like that is going to change with the Samsung Galaxy S22 range. In fact, if anything the gap could widen.\r… [+2251 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "D. Lawrance, Jesse Hyland",
+          "title": "Sexologist Chantelle Otten 'punished' by Instagram for sharing explicit content - Daily Mail",
+          "description": "The 30-year-old accused Instagram on Tuesday of 'censoring sexuality' after they claimed she had 'violated Community Guidelines' with her content",
+          "url": "https://www.dailymail.co.uk/tvshowbiz/article-10105867/Sexologist-Chantelle-Otten-punished-Instagram-sharing-explicit-content.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/19/02/49345473-0-image-a-23_1634607390544.jpg",
+          "publishedAt": "2021-10-19T01:56:40Z",
+          "content": "Apart from being the girlfriend of Paralympian Dylan Alcott, she's also known as a prominent Melbourne sexologist.\r\nAnd Chantelle Otten has revealed she's being 'punished' by Instagram for allegedly … [+4669 chars]"
       },
-      "author": null,
-      "title": "Ford Mustang Mach-E GT First impressions - Engadget",
-      "description": "Get More Engadget: • Like us on Facebook: http://www.facebook.com/engadget• Follow us on Twitter: http://www.twitter.com/engadget• Follow us on Instagram: ht...",
-      "url": "https://www.youtube.com/watch?v=xbSjI4NCkS8",
-      "urlToImage": "https://i.ytimg.com/vi/xbSjI4NCkS8/maxresdefault.jpg",
-      "publishedAt": "2021-10-11T10:00:22Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+      {
+          "source": {
+              "id": null,
+              "name": "Sundayvision.co.ug"
+          },
+          "author": "Leo Adkins",
+          "title": "WhatsApp | 5 Reasons They Can Close Your Group | Applications | Smartphone | conversations | Tutorial | nda | nnni | SPORTS-PLAY - Sunday Vision",
+          "description": "The WhatsApp It is still one of the most used applications in the world. Despite...",
+          "url": "https://www.sundayvision.co.ug/whatsapp-5-reasons-they-can-close-your-group-applications-smartphone-conversations-tutorial-nda-nnni-sports-play/",
+          "urlToImage": "https://depor.com/resizer/njla5uaZH83gebtuO5GqFyiqbEQ=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/JULFBXDWDZAZVDUNJEABHSQS7E.jpg",
+          "publishedAt": "2021-10-19T01:56:21Z",
+          "content": "The WhatsApp\r\n It is still one of the most used applications in the world. Despite the fact that a few weeks ago he had problems with his communication system, the application still stands with the g… [+1630 chars]"
       },
-      "author": "Andrew Tarantola",
-      "title": "Ford's Mach-E GT is an American muscle car for the 21st century - Yahoo Finance Australia",
-      "description": "In which I finally discover what all the Mach-E fuss was about.",
-      "url": "https://au.finance.yahoo.com/news/ford-mach-e-gt-hands-on-american-muscle-car-for-the-21st-century-100005360.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GHUZ2Of4gbotxJemjo4ZfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/81511970-2860-11ec-befd-4a3616360762",
-      "publishedAt": "2021-10-11T10:00:05Z",
-      "content": "Sunlight filters down through towering pines, dappling the grabber blue skin of my Ford Mach-E GT as it gallops along Highway 1, heedless trivialities like defensive driving technique and speed limit… [+4811 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "InsideEVs "
+      {
+          "source": {
+              "id": null,
+              "name": "9to5Mac"
+          },
+          "author": null,
+          "title": "PSA: Xcode 13.1 RC now available to developers - 9to5Mac",
+          "description": "Developers can now download Xcode 13.1 on the Apple Developer website. The new SDK is required to update apps for 2021 MacBook Pro.",
+          "url": "https://9to5mac.com/2021/10/18/psa-xcode-13-1-rc-now-available-to-developers/",
+          "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Xcode-13.1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2021-10-19T01:56:00Z",
+          "content": "Following the release of iOS 15.1 RC, macOS Monterey RC, and other updates, Apple has also made Xcode 13.1 RC (Release Candidate) available to developers. The latest version of Xcode can now be downl… [+1559 chars]"
       },
-      "author": null,
-      "title": "2021 Ford Mustang Mach-E GT First Drive: More Smiles Per Mile - InsideEVs ",
-      "description": "We drive the 2021 Ford Mustang Mach-E GT and GT Performance to see if these new high-performance versions of the Mach-E live up to their billing.",
-      "url": "https://insideevs.com/reviews/539744/ford-mustang-mache-gt-review/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/02nPW/s1/mustang-mach-e-gt-first-drive-thumbnail.jpg",
-      "publishedAt": "2021-10-11T10:00:00Z",
-      "content": "We were amongst the first to get behind the wheel of the 2021 Mustang Mach GT and GT Performance for Ford's first-drive event last week in San Francisco and came away with a feeling that we've only s… [+11517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "XDA Developers"
+      {
+          "source": {
+              "id": null,
+              "name": "Press Start Australia"
+          },
+          "author": "Shannon Grixti",
+          "title": "Dbrand Has New PS5 Faceplates And They’ve Challenged PlayStation To Try And Stop Them - Press Start Australia",
+          "description": "Just days after removing its Darkplates PS5 faceplates from sale due to receiving a cease and desist letter from Sony, Dbrand is back with Darkplates 2.0 and have gone after Sony in a big way, with the launch of a webpage that not only runs through the featur…",
+          "url": "https://press-start.com.au/news/playstation/2021/10/19/dbrand-has-new-ps5-faceplates-and-theyve-challenged-playstation-to-try-and-stop-them/",
+          "urlToImage": "https://cdn.pressstart.com.au/wp-content/uploads/2021/10/Darkplates.jpg",
+          "publishedAt": "2021-10-19T01:44:05Z",
+          "content": "Just days after removing its Darkplates PS5 faceplates from sale due to receiving a cease and desist letter from Sony, Dbrand is back with Darkplates 2.0 and have gone after Sony in a big way, with t… [+1056 chars]"
       },
-      "author": "Sumukh Rao",
-      "title": "Hands-on with ColorOS 12 based on Android 12: Here’s everything that’s new in the latest update to OPPO smartphone! - XDA Developers",
-      "description": "OPPO has started rolling out ColorOS 12 Beta for the Find X3 Pro. We spent some time with it to experience all the new features and changes.",
-      "url": "https://www.xda-developers.com/oppo-coloros-12-hands-on/",
-      "urlToImage": "https://www.xda-developers.com/files/2021/10/ColorOS-12-2.jpg",
-      "publishedAt": "2021-10-11T10:00:00Z",
-      "content": "The beauty of Android lies in its customization capabilities and open-source nature. As a result, weve seen multiple custom skins and UIs from brands over the years. Theres MIUI from Xiaomi, One UI f… [+7289 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
+      {
+          "source": {
+              "id": null,
+              "name": "Dot Esports"
+          },
+          "author": "Cale Michael",
+          "title": "Sora from Kingdom Hearts is now available in Super Smash Bros. Ultimate - Dot Esports",
+          "description": "The key to the final DLC has finally been revealed.",
+          "url": "https://dotesports.com/fgc/news/sora-from-kingdom-hearts-is-now-available-in-super-smash-bros-ultimate/",
+          "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/10/05091224/FA8Of1HWQAEmnkI-768x432.jpg",
+          "publishedAt": "2021-10-19T01:34:57Z",
+          "content": "Sora from Kingdom Hearts is now available in Super Smash Bros. Ultimate as the games final DLC fighter.\r\nHe launches alongside the 13.0 update, which brings an end to Fighters Pass Vol. 2 and major d… [+1032 chars]"
       },
-      "author": "Cat Ellis",
-      "title": "Fitbit Charge 5 vs Fitbit Luxe: the two most stylish Fitbits compared - TechRadar",
-      "description": "Not sure which Fitbit to choose? We're here to help",
-      "url": "https://www.techradar.com/news/fitbit-charge-5-vs-fitbit-luxe",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YbHxy5MUsfGT6NAhk4stu5-1200-80.jpg",
-      "publishedAt": "2021-10-11T09:55:46Z",
-      "content": "The Fitbit Charge 5 and the Fitbit Luxe are two of the best fitness trackers you can buy today, and if you're trying to decide between the two, we're here to help you make the right choice.\r\nUltimate… [+7567 chars]"
-    },
-    {
-      "source": {
-        "id": "techradar",
-        "name": "TechRadar"
+      {
+          "source": {
+              "id": null,
+              "name": "Philippine Star"
+          },
+          "author": null,
+          "title": "Apple unveils two new MacBooks, AirPods and a $5 music streaming service - Interaksyon",
+          "description": "Apple Inc on Monday launched two new MacBook Pro models powered by new in-house Apple Silicon chips as well as a new generation of its AirPods wireless",
+          "url": "https://interaksyon.philstar.com/hobbies-interests/2021/10/19/202653/apple-unveils-two-new-macbooks-airpods-and-a-5-music-streaming-service/",
+          "urlToImage": "https://media.interaksyon.com/wp-content/uploads/2021/10/macbook-2021.jpg",
+          "publishedAt": "2021-10-19T01:23:09Z",
+          "content": "Apple Inc on Monday launched two new MacBook Pro models powered by new in-house Apple Silicon chips as well as a new generation of its AirPods wireless earbuds and a $5-per-month music subscription s… [+2598 chars]"
       },
-      "author": "Darren Allan",
-      "title": "No, HP didn’t just leak the AMD Ryzen 7000 series - TechRadar",
-      "description": "Comedy of errors in all-in-one PC listing from HP?",
-      "url": "https://www.techradar.com/news/no-hp-didnt-just-leak-the-amd-ryzen-7000-series",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xBBbottqErKm3JphcWA2mT-1200-80.jpg",
-      "publishedAt": "2021-10-11T09:55:41Z",
-      "content": "AMD could have Ryzen 7000 processors waiting in the wings, according to the latest from the rumor mill – but we’re not so sure, and this leak, which comes from HP (once again), is likely to be a list… [+2267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Finance Magnates"
+      {
+          "source": {
+              "id": null,
+              "name": "Flickering Myth"
+          },
+          "author": "Andrew Newton",
+          "title": "DC Super-Villains Season and Batman Expansion coming to Hot Wheels Unleashed - Flickering Myth",
+          "description": "In the latest DC Kids Fandome it was revealed that some new DC related content will be coming to Milestone’s Hot Wheels Unleashed.  This upcoming arrivals to the game will feature both free and premium content and include Batman and some of DC’s most renowned…",
+          "url": "https://www.flickeringmyth.com/2021/10/dc-super-villains-season-and-batman-expansion-coming-to-hot-wheels-unleashed/",
+          "urlToImage": "https://media.flickeringmyth.com/q:intelligent/retina:false/webp:false/w:1/url:https://cdn.flickeringmyth.com/wp-content/uploads/2021/10/Hotwheels.jpg",
+          "publishedAt": "2021-10-19T01:10:05Z",
+          "content": "In the latest DC Kids Fandome it was revealed that some new DC related content will be coming to Milestone’s Hot Wheels Unleashed.  This upcoming arrivals to the game will feature both free and premi… [+1517 chars]"
       },
-      "author": "Finance Magnates Staff",
-      "title": "The NFT Ownership Verification App That Showcases Your NFT with a Certificate - Finance Magnates",
-      "description": "The craze for NFTs can be ascertained from multi-million dollar sales making headlines regularly.",
-      "url": "https://www.financemagnates.com/thought-leadership/the-nft-ownership-verification-app-that-showcases-your-nft-with-a-certificate/",
-      "urlToImage": "https://www.financemagnates.com/wp-content/uploads/2021/10/verified.jpg",
-      "publishedAt": "2021-10-11T09:54:00Z",
-      "content": "Non-fungible token (NFT) mania continues to rule the cryptocurrency market and bring it to the masses. There is no stopping this trend. After all, the lure of the NFT space is attracting even the who… [+2863 chars]"
-    }
+      {
+          "source": {
+              "id": null,
+              "name": "ComicBook.com"
+          },
+          "author": "Marc Deschamps",
+          "title": "Sora Is Now Live in Super Smash Bros. Ultimate - ComicBook.com",
+          "description": "Super Smash Bros. Ultimate version 13.0.0 is now live on Nintendo Switch, which means players can now use Sora in the game! The star of Disney and Square Enix's Kingdom Hearts franchise is the most highly-demanded fighter in the history of Super Smash Bros., …",
+          "url": "https://comicbook.com/gaming/news/super-smash-bros-ultimate-update-sora-live-nintendo-switch/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/2021/10/05/ef89503e-e35e-4021-8e44-9cd77aa3ca0c/sora-smash-bros.jpg",
+          "publishedAt": "2021-10-19T01:02:00Z",
+          "content": "Super Smash Bros. Ultimate version 13.0.0 is now live on Nintendo Switch, which means players can now use Sora in the game! The star of Disney and Square Enix's Kingdom Hearts franchise is the most h… [+1992 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Jay Peters",
+          "title": "Dbrand reveals new PS5 Darkplates days after pulling the originals - The Verge",
+          "description": "Dbrand has revealed a brand new design for its PS5 Darkplates, just days after making a big public stink about Sony forcing it to pull the old version from sale.",
+          "url": "https://www.theverge.com/22733642/dbrand-new-ps5-darkplates-sony-legal-threats",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/h3GSr-kjiYy5AYYvHKYmS6C-a6M=/0x161:2250x1339/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22937444/Darkplates_2.0___C.png",
+          "publishedAt": "2021-10-19T01:00:00Z",
+          "content": "They have a brand-new design\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nDbrands new Darkplates.\r\nImage: Dbrand\r\nDbrand has revealed a brand-n… [+3043 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "GameSpot"
+          },
+          "author": "Mark Delaney",
+          "title": "What's In The Fortnite Item Shop Today - October 19, 2021: Graveyard Drift Quest Pack And More - GameSpot",
+          "description": "A brand-new Fortnitemares skin springs into the store with exclusive quests included.",
+          "url": "https://www.gamespot.com/articles/whats-in-the-fortnite-item-shop-today-october-19-2021-graveyard-drift-quest-pack-and-more/1100-6497179/",
+          "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1632/16320660/3895851-fortnite10_18_20215_48_57pm.png",
+          "publishedAt": "2021-10-19T00:59:04Z",
+          "content": "With Halloween fast approaching, the Fortnite Item Shop is introducing yet another new spooky character. This time it's the Graveyard Drift Quest Pack, which reimagines a Fortnite character with a ne… [+2068 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Healthline"
+          },
+          "author": "Lauren Sharkey",
+          "title": "You Can't Actually Shrink Your Pores — 9 Tips to Try Instead - Healthline",
+          "description": "While there’s not much you can do to change the actual size of your pores, these tips can help minimize their appearance.",
+          "url": "https://www.healthline.com/health/beauty-skin-care/how-to-shrink-pores",
+          "urlToImage": "https://post.healthline.com/wp-content/uploads/2021/07/person-washing-face-with-washcloth-1200x628-facebook-1200x628.jpg",
+          "publishedAt": "2021-10-19T00:54:49Z",
+          "content": "When it comes to skin care woes, pores often hold a top spot on the list. Still, they play a vital role in skin health.\r\nPores connect to your hair follicles, which also contain sebaceous oil and swe… [+7315 chars]"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "Matt Swider",
+          "title": "GameStop PS5 restock in-store event time on Friday – list of all 290 locations with stock - TechRadar",
+          "description": "The PS5 restock at GameStop is taking place in seven cities this time around. Here's when and where to buy it.",
+          "url": "https://www.techradar.com/news/gamestop-ps5-restock-in-store-event-time-friday-october-22-locations-list",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/asCbsF9Man8gyES26AFxfD-1200-80.jpg",
+          "publishedAt": "2021-10-19T00:50:21Z",
+          "content": "Update: GameStop's PS5 restock locations list is provided in full – we tweeted it out and added it to this page – but GameStop's own database has several address errors. We're working to correct Game… [+29673 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CP24 Toronto's Breaking News"
+          },
+          "author": "Stephen Nellis and Subrat Patnaik",
+          "title": "Apple doubles down on chip strategy with new premium-priced MacBooks - CP24 Toronto's Breaking News",
+          "description": "Apple Inc on Monday announced two new MacBook Pro models that run on more powerful in-house chips, furthering its break from previous supplier Intel Corp and showing its strategy for setting its machines apart from the rest of the PC industry.",
+          "url": "https://www.cp24.com/lifestyle/technology/apple-doubles-down-on-chip-strategy-with-new-premium-priced-macbooks-1.5628419",
+          "urlToImage": "https://www.cp24.com/polopoly_fs/1.5628429.1634604493!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+          "publishedAt": "2021-10-19T00:49:00Z",
+          "content": "Oct 18 (Reuters) - Apple Inc on Monday announced two new MacBook Pro models that run on more powerful in-house chips, furthering its break from previous supplier Intel Corp and showing its strategy f… [+3284 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "EventHubs"
+          },
+          "author": "Justin 'AdaptiveTrigger' Gordon",
+          "title": "Super Smash Bros. Ultimate version 13.0.0 patch notes - EventHubs",
+          "description": "Patch notes for Super Smash Bros. Ultimate version 13.0.0 have been released. With Sora being the last character to join the roster, this very could well be the final major balance patch for the game.Aside from the ...",
+          "url": "https://www.eventhubs.com/news/2021/oct/18/ssbu-version-1300-patch-notes/",
+          "urlToImage": "https://media.eventhubs.com/images/2021/10/18_patch13-ssbu-bnrt.webp",
+          "publishedAt": "2021-10-19T00:35:11Z",
+          "content": "Patch notes for Super Smash Bros. Ultimate version 13.0.0 have been released. With Sora being the last character to join the roster, this very could well be the final major balance patch for the game… [+4154 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Dot Esports"
+          },
+          "author": "Kate Irwin",
+          "title": "Some Overwatch League players wanted to unionize, says xQc - Dot Esports",
+          "description": "xQc told Hasan Piker that the Overwatch League pressured them into signing contracts.",
+          "url": "https://dotesports.com/news/some-overwatch-league-players-wanted-to-unionize-says-xqc/",
+          "urlToImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/10/18181928/xqcOWL2-768x403.jpeg",
+          "publishedAt": "2021-10-19T00:26:38Z",
+          "content": "After arriving back in Los Angeles, xQc struggled to stream on Twitch and eventually ragequit, citing that the place he was staying at was “stacked with spiders,” smelled like “death,” and had bad in… [+2400 chars]"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "Gareth Beavis",
+          "title": "Apple Music Voice Plan: everything we know (and what we don’t) - TechRadar",
+          "description": "What does $4.99 really get you?",
+          "url": "https://www.techradar.com/news/apple-music-voice-plan-everything-we-know-and-what-we-dont",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/nfXZjwJE69L4APoK9qkDRg-1200-80.jpg",
+          "publishedAt": "2021-10-19T00:24:16Z",
+          "content": "Apple kicked off its Apple Unleashed Event coverage by letting the world know that a new Apple Music plan was coming – the Voice Plan.\r\nHalf the price of the standard Apple Music plan, it’s designed … [+4018 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Richard Lawler",
+          "title": "Valve Steam Deck Compatibility program verifies games for the portable - The Verge",
+          "description": "When the Steam Deck launches, owners won’t have to wonder which games work well on Valve’s handheld gaming PC. Four categories can indicate if a title has been tested, and how well it runs. Games that work without manual tweaking will get a Verified check mar…",
+          "url": "https://www.theverge.com/2021/10/18/22733408/steam-deck-compatibility-verified-pc-gaming-valve",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/8M9cMRbOl-7MJA_urEXUv-dnBlE=/0x94:4800x2607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22719886/Steam_Deck_touchscreen.jpg",
+          "publishedAt": "2021-10-19T00:23:17Z",
+          "content": "Steam Deck owners can see which games have been tested with the portable gaming PC"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "David Lumb",
+          "title": "Apple October event: 5 things you might have missed at Unleashed - TechRadar",
+          "description": "What, were you expecting the Apple M1 Pro and M1 Max?",
+          "url": "https://www.techradar.com/news/apple-october-event-5-things-you-might-have-missed-at-unleashed",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/zHBqCqcKoouBSGsv3cgQr8-1200-80.jpg",
+          "publishedAt": "2021-10-19T00:16:08Z",
+          "content": "Apple’s October event was all about computing with a decent amount of audio thrown in for good measure. While the reveals of the new 14-inch and 16-inch MacBook Pros took the spotlight, there was ple… [+7311 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Stanfordchildrens.org"
+          },
+          "author": "Lynn Nichols",
+          "title": "What Parents of Children With Heart Disease Asked Us About COVID-19 - Stanford Children's Health Blog - Stanford Children's Health",
+          "description": "COVID-19 is daunting for all parents, but even more so for parents of children with a heart condition. During the Stanford Children’s Health “Back to School With COVID-19” webinar for Heart Center families on Sept. 22, 2021, a panel of experts from the Betty …",
+          "url": "https://healthier.stanfordchildrens.org/en/what-parents-of-children-with-heart-disease-asked-us-about-covid-19/",
+          "urlToImage": "https://healthier.stanfordchildrens.org/wp-content/uploads/2021/10/heart-center-blog-post.jpg",
+          "publishedAt": "2021-10-19T00:15:52Z",
+          "content": "COVID-19 is daunting for all parents, but even more so for parents of children with a heart condition. During the Stanford Childrens Health Back to School With COVID-19 webinar for Heart Center famil… [+11231 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "The Ford Maverick has a cool FLEXBED feature #shorts - CarBuzz",
+          "description": "The #fordmaverick has a cool FLEXBED feature #ford #maverick #pickup #truck #cars #carbuzz #shorts #foryou #foryourpage #fyp",
+          "url": "https://www.youtube.com/watch?v=jF1A3KBg6Ow",
+          "urlToImage": "https://i.ytimg.com/vi/jF1A3KBg6Ow/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T00:15:02Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "GameSpot"
+          },
+          "author": "Eddie Makuch",
+          "title": "Xbox Will Acquire More Studios, Phil Spencer Says - \"We're Definitely Not Done\" - GameSpot",
+          "description": "There is no quota for how many more studios Microsoft will acquire or when the deals will be made, however.",
+          "url": "https://www.gamespot.com/articles/xbox-will-acquire-more-studios-phil-spencer-says-were-definitely-not-done/1100-6497178/",
+          "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3895774-screenshot2021-10-18at7.10.35pm.png",
+          "publishedAt": "2021-10-19T00:11:05Z",
+          "content": "Microsoft will continue to buy more game development studios, according to Xbox boss Phil Spencer. Speaking at a Wall Street Journal event on Monday, Spencer said Microsoft will \"definitely\" buy more… [+1602 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Elden Ring Delayed, But You'll Have a Chance to Play It Early - IGN Daily Fix - IGN",
+          "description": "Happy Monday! On today's IGN The Fix: Games,   Elden Ring has been delayed until February 25, 2022. However, the game will get a closed network test from Nov...",
+          "url": "https://www.youtube.com/watch?v=-NOQ6IGNPrE",
+          "urlToImage": "https://i.ytimg.com/vi/-NOQ6IGNPrE/maxresdefault.jpg",
+          "publishedAt": "2021-10-19T00:06:27Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku Australia"
+          },
+          "author": null,
+          "title": "Horizon Chase's Ayrton Senna Expansion Is A Touching Tribute To Two Cultural Icons - Kotaku Australia",
+          "description": "Horizon Chase, a retro, low-poly arcade racer that’s been available on everything from smartphones to PC for years now, will gain an Ayrton Senna-themed expansion on October 20. Called Senna Forever, the update includes generic old-school Formula 1 cars with …",
+          "url": "https://www.kotaku.com.au/2021/10/horizon-chases-ayrton-senna-expansion-is-a-touching-tribute-to-two-cultural-icons/",
+          "urlToImage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/09/28/c7bae7c79f406037bd43852b749bce8c.gif?ar=16%3A9&fit=crop&q=65&w=1280&fm=jpg&frame=1",
+          "publishedAt": "2021-10-19T00:00:00Z",
+          "content": "Horizon Chase, a retro, low-poly arcade racer thats been available on everything from smartphones to PC for years now, will gain an Ayrton Senna-themed expansion on October 20. Called Senna Forever, … [+3107 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "GamesRadar+"
+          },
+          "author": "Jordan Gerblick",
+          "title": "Sony is testing a PS5 feature that automatically uploads captures to your phone - Gamesradar",
+          "description": "But videos need to be 1920x1080 or else they don't show up",
+          "url": "https://www.gamesradar.com/sony-is-testing-a-ps5-feature-that-automatically-uploads-captures-to-your-phone/",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/gB2q4RMp79KYoZ23SniyX3-1200-80.jpg",
+          "publishedAt": "2021-10-18T23:54:54Z",
+          "content": "Sony has started testing on a feature that, once enabled, automatically uploads screenshots and video captures to your phone via the PlayStation app, where you can then share them as you please.\r\nThe… [+1960 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Gamingideology.com"
+          },
+          "author": null,
+          "title": "Xbox News: Suit up with Crysis Remastered Trilogy Today for Xbox One and Xbox Series X|S - Gaming Ideology",
+          "description": "We’re delighted to let you know that Crysis Remastered Trilogy is out now for Xbox One and Xbox Series X|S! Crysis Remastered Trilogy is a great value all-in-one bundle featuring the remasters of the iconic single-player campaigns from Crysis, Crysis 2, and C…",
+          "url": "https://gamingideology.com/2021/10/19/xbox-news-suit-up-with-crysis-remastered-trilogy-today-for-xbox-one-and-xbox-series-xs/",
+          "urlToImage": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/10/1_C1RM_PC_Mountians.jpg",
+          "publishedAt": "2021-10-18T23:42:40Z",
+          "content": "Were delighted to let you know that Crysis Remastered Trilogy is out now for Xbox One and Xbox Series X|S!\r\nCrysis Remastered Trilogy is a great value all-in-one bundle featuring the remasters of the… [+2260 chars]"
+      },
+      {
+          "source": {
+              "id": "australian-financial-review",
+              "name": "Australian Financial Review"
+          },
+          "author": "Mark Gurman",
+          "title": "New Apple AirPods 3rd generation 2021 have longer battery life of 6 hours, new HomePod available in orange, blue and yellow - The Australian Financial Review",
+          "description": "The technology juggernaut also unveiled a music plan that works exclusively through Siri and different colours for its HomePod mini speaker.",
+          "url": "https://www.afr.com/technology/apple-launches-new-airpods-with-longer-battery-life-20211019-p59164",
+          "urlToImage": "https://static.ffx.io/images/$zoom_1.4504%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_736%2C$y_107/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/bff5a7f2673572a1128e2111cdd530c87de57baa",
+          "publishedAt": "2021-10-18T23:42:00Z",
+          "content": "Apple began taking orders for the new AirPods on Monday, and they are slated to reach stores on October 26.\r\nApple can engrave your AirPods for free. \r\nAlongside the new AirPods, Apple announced deep… [+1226 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "AppleInsider"
+          },
+          "author": "Mikey Campbell",
+          "title": "Apple hints at Apple Music app for gaming consoles - AppleInsider",
+          "description": "More evidence of an impending Apple Music debut on Playstation, Xbox and other consoles surfaced on Monday when Apple updated promotional materials to reference compatibility with gaming hardware.",
+          "url": "https://appleinsider.com/articles/21/10/18/apple-hints-at-apple-music-app-for-gaming-consoles",
+          "urlToImage": "https://photos5.appleinsider.com/gallery/45122-87734-211018-AppleMusic-xl.jpg",
+          "publishedAt": "2021-10-18T23:39:31Z",
+          "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1678 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "ComicBook.com"
+          },
+          "author": "Logan Moore",
+          "title": "Batman: Arkham City Celebrates 10th Anniversary - ComicBook.com",
+          "description": "Believe it or not, today marks the 10th anniversary of Batman: Arkham City, which originally launched on PlayStation 3 and Xbox 360 on October 18, 2021. The game, which was the second outing in Rocksteady Studios' beloved Batman Arkham game series, went on to…",
+          "url": "https://comicbook.com/gaming/news/batman-arkham-city-10th-anniversary/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/2021/10/18/778bfc3c-7c3a-4f11-9ff4-6671bbc3c594/batman-arkham-city.jpg",
+          "publishedAt": "2021-10-18T23:39:00Z",
+          "content": "Believe it or not, today marks the 10th anniversary of Batman: Arkham City, which originally launched on PlayStation 3 and Xbox 360 on October 18, 2021. The game, which was the second outing in Rocks… [+2212 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Elden Ring Gets Delayed But You Can Still Play Early | GameSpot News - GameSpot",
+          "description": "In this episode of GameSpot News, we talk about Elden Ring getting delayed to February 2022, the GTA Trilogy’s achievements leaking as well as the ongoing EA...",
+          "url": "https://www.youtube.com/watch?v=9Lbtfbu6MrU",
+          "urlToImage": "https://i.ytimg.com/vi/9Lbtfbu6MrU/maxresdefault.jpg",
+          "publishedAt": "2021-10-18T23:36:43Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Android Central"
+          },
+          "author": "Derrek Lee",
+          "title": "Google Pixel Watch is reportedly still happening, but not when you think - Android Central",
+          "description": "While many hoped that Google might launch a Pixel Watch alongside its upcoming flagships, the device apparently won't arrive just yet.",
+          "url": "https://www.androidcentral.com/google-pixel-watch-reportedly-delayed",
+          "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/05/google-pixel-6-pixel-watch-leak.jpg",
+          "publishedAt": "2021-10-18T23:34:28Z",
+          "content": "Wear OS fans may be disappointed to learn that Google is allegedly not planning to announce the rumored Pixel Watch at its upcoming smartwatch launch.\r\nLeaker Jon Prosser, who has had a pretty good t… [+1596 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Notebookcheck.net"
+          },
+          "author": null,
+          "title": "Leaked 2021 MacBook Pro benchmark suggests that Apple's new M1 Max CPU has an impressive multi-core performance - Notebookcheck.net",
+          "description": "Apple's new M1 Max CPU in the 2021 MacBook Pro 14 and MacBook Pro 16 has expectedly achieved formidable multi-core scores in Geekbench, and is very close to the performance of a desktop workstation like the Mac Pro that is equipped with Intel Xeon processors.",
+          "url": "https://www.notebookcheck.net/Leaked-2021-MacBook-Pro-benchmark-suggests-that-Apple-s-new-M1-Max-CPU-has-an-impressive-multi-core-performance.573843.0.html",
+          "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Apple_MacBook_Pro_M1_Max_Benchmark_Leistung.jpg",
+          "publishedAt": "2021-10-18T23:30:27Z",
+          "content": "Only a few hours after Apple has officially revealed the new 2021 MacBook Pro 14 and MacBook Pro 16 at today's Unleashed keynote event, a first benchmark of the all-new Apple M1 Max processor has alr… [+1283 chars]"
+      },
+      {
+          "source": {
+              "id": "techradar",
+              "name": "TechRadar"
+          },
+          "author": "Anthony Spadafora",
+          "title": "Microsoft Outlook extension finally comes to Google Chrome - Techradar",
+          "description": "Read, write and send emails in Outlook from Chrome without opening a new tab",
+          "url": "https://www.techradar.com/news/microsoft-outlook-extension-finally-comes-to-google-chrome",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/7djpi7fNP8hNRMjTYQjFjZ-1200-80.jpg",
+          "publishedAt": "2021-10-18T23:30:23Z",
+          "content": "Microsoft is making it even easier to access your email in Outlook from Google's browser with the release of its new Chrome extension.\r\nAs reported by Windows Central and first spotted by Leo Varela,… [+1192 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku Australia"
+          },
+          "author": null,
+          "title": "Dune Is The Latest Beloved Property To Be Swallowed By The Fortnite Worm - Kotaku Australia",
+          "description": "Ahead of the latest movie adaptation’s release this weekend, Dune content has been discovered in Fortnite. How wonderful it is...",
+          "url": "https://www.kotaku.com.au/2021/10/dune-is-the-latest-beloved-property-to-be-swallowed-by-the-fortnite-worm/",
+          "urlToImage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/10/19/a773033b3331dc1451d4d8d5e270a1c1.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "publishedAt": "2021-10-18T23:30:00Z",
+          "content": "Ahead of the latest movie adaptations release this weekend, Dune content has been discovered in Fortnite. How wonderful it is to see one of my favourite books and least favourite game come together f… [+1858 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Eurogamer.net"
+          },
+          "author": "Matt Wales",
+          "title": "Pokémon Unite adds Greedent as part of big Halloween update - Eurogamer.net",
+          "description": null,
+          "url": "https://www.eurogamer.net/articles/2021-10-18-pokemon-unite-adds-greedent-as-part-of-big-halloween-update",
+          "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-10-19-00-18/pokemon-unite-adds-greedent-as-part-of-big-halloween-update-1634599105033.jpg/EG11/resize/1200x-1/pokemon-unite-adds-greedent-as-part-of-big-halloween-update-1634599105033.jpg",
+          "publishedAt": "2021-10-18T23:25:30Z",
+          "content": "Pokémon Unite, like almost all live-service games at this spookiest time of the year, is getting in on the Halloween action with a major new patch that will, among other things, add the (not especial… [+1064 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "AppleInsider"
+          },
+          "author": "Christine McKee",
+          "title": "iPhone 13 Giveaway: Enter to win Apple's new smartphone, plus Speck MagSafe cases - AppleInsider",
+          "description": "In celebration of the October Apple Event, AppleInsider is partnering with Speck to offer readers the chance to win an iPhone 13 and three MagSafe-compatible protective cases.",
+          "url": "https://appleinsider.com/articles/21/10/18/iphone-13-giveaway-enter-to-win-apples-new-smartphone-plus-speck-magsafe-cases",
+          "urlToImage": "https://photos5.appleinsider.com/gallery/45086-87678-iphone-13-giveaway-appleinsider-xl.jpg",
+          "publishedAt": "2021-10-18T23:22:57Z",
+          "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1668 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "AirPods: Everything we know about Apple's new earbuds - CNET",
+          "description": "Apple's third-generation AirPods share a lot in common with the company's AirPods Pro. Here is everything you need to know including pricing, design, sound a...",
+          "url": "https://www.youtube.com/watch?v=d6xuyQnKIU0",
+          "urlToImage": "https://i.ytimg.com/vi/d6xuyQnKIU0/maxresdefault.jpg",
+          "publishedAt": "2021-10-18T23:21:14Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "WindowsLatest"
+          },
+          "author": null,
+          "title": "Windows 11 shows Intel’s decade-old Pentium 4 CPU as supported - WindowsLatest",
+          "description": "After plenty of teasing and a few months of beta testing, Microsoft unveiled Windows 11 on October 5. Windows 11 is official and you can already try the operating system via the Windows Update or by manually downloading Windows 11 ISO. However, that’s possibl…",
+          "url": "https://www.windowslatest.com/2021/10/19/windows-11-shows-intels-decade-old-pentium-4-cpu-as-supported/",
+          "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2021/10/Windows-11-old-Intel-CPU.jpg",
+          "publishedAt": "2021-10-18T23:17:29Z",
+          "content": "After plenty of teasing and a few months of beta testing, Microsoft unveiled Windows 11 on October 5. Windows 11 is official and you can already try the operating system via the Windows Update or by … [+2410 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "iMore"
+          },
+          "author": "Joe Wituschek",
+          "title": "Apple drops 'Start Up,' a song made from 45 years of Apple sounds - iMore",
+          "description": "Apple has released the video for \"Start Up,\" the song made up by Apple sounds that opened up today's \"Unleashed\" event.",
+          "url": "https://www.imore.com/apple-drops-start-song-made-45-years-apple-sounds",
+          "urlToImage": "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/10/start-up-song.jpg",
+          "publishedAt": "2021-10-18T23:16:56Z",
+          "content": "At today's \"Unleashed\" event, Apple opened the event with a really cool song made from 45 years of Apple sounds. The company paired up with artist and producer A. G. Cook to create the song which is … [+1698 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kompas.com"
+          },
+          "author": "Glori K. Wadrianto",
+          "title": "Action Figure \"Red Light, Green Light\" Squid Game Cuma 456 Buah, Mau? - Kompas.com - Lifestyle Kompas.com",
+          "description": "Fwenclub merilis action figure boneka 'Red Light, Green Light' dari serial Squid Game cuma 456 buah.",
+          "url": "https://lifestyle.kompas.com/read/2021/10/19/061510420/action-figure-red-light-green-light-squid-game-cuma-456-buah-mau",
+          "urlToImage": "https://asset.kompas.com/crops/mKBjjFaF1Cc505LmAZt7jTZa7Zs=/1x0:1400x933/780x390/filters:watermark(data/photo/2020/03/10/5e6775c8c74e6.png,0,-0,1)/data/photo/2021/10/19/616dff76a8177.jpg",
+          "publishedAt": "2021-10-18T23:15:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Jay Peters",
+          "title": "Apple’s rumored Beats Fit Pro earbuds could have ear-fitting wingtips - The Verge",
+          "description": "Apple is reportedly close to launching the Beats Fit Pro earbuds, which look to have wingtips that could help them fit better in your ears.",
+          "url": "https://www.theverge.com/2021/10/18/22733444/apple-beats-fit-pro-headphones-earbuds",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/T_5Krh0AeTpcD9-MIaC9YCNZL44=/0x30:1500x815/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22937115/beats_leak.jpeg",
+          "publishedAt": "2021-10-18T23:15:00Z",
+          "content": "The Beats Fit Pro will reportedly be announced on November 1st\r\nThese are are the Beats Fit Pro, according to 9to5Mac.\r\nImage: 9to5Mac\r\nApple has just announced the next generation of AirPods, but if… [+1049 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Malay Mail"
+          },
+          "author": "Malay Mail",
+          "title": "Apple launches faster chips, MacBook Pro laptops, Airpods at October event - Malay Mail",
+          "description": "CUPERTINO, Oct 19 — Apple Inc yesterday released two new chips built into more powerful MacBook Pro laptops and a third-generation AirPod wireless earbud that pair with a new cheaper monthly music streaming service. The Cupertino, California-based company, wh…",
+          "url": "https://www.malaymail.com/news/tech-gadgets/2021/10/19/apple-launches-faster-chips-macbook-pro-laptops-airpods-at-october-event/2014340",
+          "urlToImage": "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-10/2021-10-18T181322Z_996886179_RC22BQ9QM3SP_RTRMADP_3_APPLE-EVENT-seo.JPG",
+          "publishedAt": "2021-10-18T23:14:27Z",
+          "content": "Apples Susmita Dutta showcases the third-generation AirPods featuring spatial audio during a special event at Apple Park in Cupertino, California in a photograph released October 18, 2021. Picture by… [+2503 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Emma Roth",
+          "title": "A piece of cloth to clean your Apple devices will cost you $19 - The Verge",
+          "description": "Apple released a polishing cloth to go along with its new MacBook Pros. The cloth is compatible with all Apple displays and devices, but you will have to purchase it separately for $19.",
+          "url": "https://www.theverge.com/2021/10/18/22733198/apple-polishing-cloth-clean-devices",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/6KDb1C611FyRiGK64ej_-xWT2Jc=/0x63:970x571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22937278/polishing_cloth_apple_970.jpg",
+          "publishedAt": "2021-10-18T23:04:18Z",
+          "content": "Youll have to purchase it separately\r\nImage: Apple\r\nIf you were ever concerned about safely cleaning your Apple products, now you can use an official $19 piece of cloth made by Apple to do so. Apple … [+1113 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Showbiz Cheat Sheet"
+          },
+          "author": "Amanda Mullen",
+          "title": "'Demon Slayer: The Hinokami Chronicles': All the Characters in the Game - Showbiz Cheat Sheet",
+          "description": "'Demon Slayer: The Hinokami Chronicles' has finally arrived, and players can unlock 18 characters from the game's launch. Here's how.",
+          "url": "https://www.cheatsheet.com/entertainment/demon-slayer-hinokami-chronicles-playable-characters-game.html/",
+          "urlToImage": "https://www.cheatsheet.com/wp-content/uploads/2021/09/Demon-Slayer-Season-2-1200x901.jpeg",
+          "publishedAt": "2021-10-18T22:51:28Z",
+          "content": "Demon Slayer: The Hinokami Chronicles was released on Oct. 15, bringing the popular anime to video game platforms at long last. Fans have eagerly awaited the 3D fighting game, and its arrival means t… [+3830 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Mitchell Clark",
+          "title": "Apple’s website indicates macOS Monterey will launch without Universal Control - The Verge",
+          "description": "Apple’s Universal Control feature for controlling multiple devices with the same mouse and keyboard has seemingly been delayed, with Apple’s site saying that it’ll be available later in the year.",
+          "url": "https://www.theverge.com/2021/10/18/22733044/macos-universal-control-later-this-fall-monterey-feature-delay",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/AzBnwzkDFZSRsXGZakevh4s8FCI=/0x47:2690x1455/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22643747/Screen_Shot_2021_06_07_at_2.07.23_PM.png",
+          "publishedAt": "2021-10-18T22:46:00Z",
+          "content": "Apples site says itll be available later this fall\r\nUniversal Control, Apples upcoming feature that lets you control multiple devices with the same mouse and keyboard, will probably not be launching … [+1741 chars]"
+      },
+      {
+          "source": {
+              "id": "mashable",
+              "name": "Mashable"
+          },
+          "author": "Chris Taylor",
+          "title": "In worst Apple event ever, the tech giant becomes a parody of itself - Mashable",
+          "description": "With minimal updates and weird product choices, Tim Cook's company looks tired and oddly humorless.",
+          "url": "https://mashable.com/article/apple-event-macbook-review",
+          "urlToImage": "https://helios-i.mashable.com/imagery/articles/00f9dI3cFwQcTNIQgliKZy2/hero-image.fill.size_1200x675.v1634596807.png",
+          "publishedAt": "2021-10-18T22:43:58Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Press Start Australia"
+          },
+          "author": "Shannon Grixti",
+          "title": "Elden Ring Has Been Delayed But The Network Test Is Still Happening Soon - Press Start Australia",
+          "description": "Bandai Namco has confirmed that Elden Ring will be delayed. The game was originally supposed to release in January but it's received a five week delay and will now release on February 25th. On the game's Twitter account, From Software said: \"ELDEN RING will r…",
+          "url": "https://press-start.com.au/news/playstation/2021/10/19/elden-ring-has-been-delayed-but-the-network-test-is-still-happening-soon/",
+          "urlToImage": "https://cdn.pressstart.com.au/wp-content/uploads/2021/10/Elden-Ring-.jpg",
+          "publishedAt": "2021-10-18T22:38:13Z",
+          "content": "Bandai Namco has confirmed that Elden Ring will be delayed. The game was originally supposed to release in January but it’s received a five week delay and will now release on February 25th.\r\nOn the g… [+1449 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": "Mike Sorrentino",
+          "title": "Google's Pixel 6 reveal event is Tuesday: Watch the Android 12 phone's reveal - CNET",
+          "description": "The Pixel 6 and Pixel 6 Pro's big reveal is nearly here; watch with us starting at 9:30 a.m. PT.",
+          "url": "https://www.cnet.com/tech/mobile/googles-pixel-6-reveal-event-is-tuesday-how-to-watch-the-android-12-phone-reveal/",
+          "urlToImage": "https://www.cnet.com/a/img/h5JYkw-wthHiO9DRZ-aFgA_lX5E=/1200x630/2021/08/02/ee0177a5-69c6-44f1-8c19-eeaca45f41ce/pixel-6-group-image-purple-lime.jpg",
+          "publishedAt": "2021-10-18T22:37:00Z",
+          "content": "Google's Pixel 6 and Pixel 6 Pro will be revealed Tuesday, showing off the new phones and even more of the Android 12 software that will power them. The debut will take place as part of a prerecorded… [+3054 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku Australia"
+          },
+          "author": null,
+          "title": "Video Games Are Now More Popular In Australia Than Free-To-Air TV - Kotaku Australia",
+          "description": "Australians are more interested in video games than free-to-air TV, according to the latest report from Bond University.",
+          "url": "https://www.kotaku.com.au/2021/10/video-games-are-now-more-popular-in-australia-than-free-to-air-tv/",
+          "urlToImage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/10/19/unpacking-australian-video-games-1.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "publishedAt": "2021-10-18T22:30:00Z",
+          "content": "If it wasn’t already clear from the studies of years past, Australians lovevideo games. That’s only been further affirmed by Bond University’s regular Digital Australia report, which has found that 1… [+6678 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "PCGamesN"
+          },
+          "author": "Dustin Bailey",
+          "title": "Amazon is “aware and investigating” a game-breaking New World invincibility exploit - PCGamesN",
+          "description": "New World's Wars are being ruined by a new exploit",
+          "url": "https://www.pcgamesn.com/new-world/invincibility-exploit",
+          "urlToImage": "https://www.pcgamesn.com/wp-content/uploads/2021/10/new-world-invincibility-exploit.jpg",
+          "publishedAt": "2021-10-18T22:20:12Z",
+          "content": "New World players are having a nightmare of a time with PvP right now, as an easily-replicable exploit has been giving players infinite invincibility. An Amazon Games representative has confirmed tha… [+1588 chars]"
+      },
+      {
+          "source": {
+              "id": "polygon",
+              "name": "Polygon"
+          },
+          "author": "Owen S. Good",
+          "title": "Does this game work on Steam Deck? This rating system tells you. - Polygon",
+          "description": "Valve’s new Steam Deck handheld gaming PC will have a special rating system so players can know which games in their Steam library will work best, will work with some changes, or won’t work at all with their new machine.",
+          "url": "https://www.polygon.com/22733318/steam-deck-will-my-games-work-does-my-game-work",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/74Q1opm2rN7aCjKVTpVVgbI28Wo=/0x94:4800x2607/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22719651/Steam_Deck_coop.jpg",
+          "publishedAt": "2021-10-18T22:12:50Z",
+          "content": "Verified, playable with some tinkering, or forget it are your options"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku Australia"
+          },
+          "author": null,
+          "title": "Valve’s New Rating System Shows Which Games Play Best On Steam Deck - Kotaku Australia",
+          "description": "Gaming on-the-go has gotten a lot of much-needed attention lately with not only the Nintendo Switch and the shiny new...",
+          "url": "https://www.kotaku.com.au/2021/10/valves-new-rating-system-shows-which-games-play-best-on-steam-deck/",
+          "urlToImage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/10/19/c50f825ac23f9f82e5b00bb2a11c9190.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "publishedAt": "2021-10-18T22:10:00Z",
+          "content": "Gaming on-the-go has gotten a lot of much-needed attention lately with not only the Nintendo Switch and the shiny new Nintendo Switch – OLED Model, but with the highly anticipated Steam Deck as well.… [+2477 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku"
+          },
+          "author": "Isaiah Colbert",
+          "title": "Valve's New Rating System Shows Which Games Play Best On Steam Deck - Kotaku",
+          "description": "Players can see at a glance which games play best on the spiffy handheld",
+          "url": "https://kotaku.com/valves-new-rating-system-shows-which-games-play-best-on-1847888425",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c50f825ac23f9f82e5b00bb2a11c9190.jpg",
+          "publishedAt": "2021-10-18T22:10:00Z",
+          "content": "Gaming on-the-go has gotten a lot of much-needed attention lately with not only the Nintendo Switch and the shiny new Nintendo Switch - OLED Model, but with the highly anticipated Steam Deck as well.… [+2477 chars]"
+      },
+      {
+          "source": {
+              "id": "the-verge",
+              "name": "The Verge"
+          },
+          "author": "Chaim Gartenberg",
+          "title": "Listen to the sick Mac sound effect song that Apple opened its keynote with - The Verge",
+          "description": "Apple kicked off its MacBook Pro keynote with an original track by musician A. G. Cook called “Start Up,” which features remixed sound effects from classic and current Apple hardware.",
+          "url": "https://www.theverge.com/tldr/2021/10/18/22733238/start-up-ag-cook-apple-event-song-sound-effects-mac-ipod-hardware",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/dLrBEYwKtLsh7olD-b2m-wB9Ue8=/34x0:2364x1220/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22936837/Screen_Shot_2021_10_18_at_5.41.07_PM.png",
+          "publishedAt": "2021-10-18T22:07:00Z",
+          "content": "Filed under:\r\nStart Up, by A. G. Cook"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Live Science"
+          },
+          "author": "Helen Alexander",
+          "title": "How to remove mold from your basement - Livescience.com",
+          "description": "Damp, water leaks and excess moisture in the air can all cause mold to grow. Here’s how to remove mold from your basement.",
+          "url": "https://www.livescience.com/how-to-remove-mold-from-your-basement",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/jViyow5Tz3cBiX7knSUhQJ-1200-80.jpg",
+          "publishedAt": "2021-10-18T22:00:30Z",
+          "content": "If you want to know how to remove mold from your basement, this article takes you through the tools you need to get rid of it. According to the Environmental Protection Agency\r\n (EPA), it only takes … [+4689 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Kotaku Australia"
+          },
+          "author": null,
+          "title": "11 Things You Might Have Missed From The Animal Crossing: New Horizons Nintendo Direct - Kotaku Australia",
+          "description": "Last week’s Animal Crossing: New Horizons’ Nintendo Direct was an avalanche of info about new items, gameplay, and characters coming...",
+          "url": "https://www.kotaku.com.au/2021/10/11-things-you-might-have-missed-from-the-animal-crossing-new-horizons-nintendo-direct/",
+          "urlToImage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2021/10/19/ac0f09aa7c9af5ac67fe035abf38f0f9.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280",
+          "publishedAt": "2021-10-18T22:00:00Z",
+          "content": "Last weeks Animal Crossing: New Horizons Nintendo Direct was an avalanche of info about new items, gameplay, and characters coming to the game in both its free update and paid Happy Home Paradise DLC… [+5147 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Futurefive.co.nz"
+          },
+          "author": "Darren Price",
+          "title": "Hands-on review: Corsair M65 RGB Ultra and Sabre RGB Pro gaming mouse - ChannelLife New Zealand",
+          "description": "Corsair is no stranger to PC gaming. With the Sabre RGB Pro and M65 RGB Ultra mouse, Corsair would like to give gamers that extra edge.",
+          "url": "https://futurefive.co.nz/story/hands-on-review-corsair-m65-rgb-ultra-and-sabre-rgb-pro-gaming-mouse",
+          "urlToImage": "https://channellife.co.nz/uploads/story/2021/10/18/compatible_Corsair_mice_00.jpg",
+          "publishedAt": "2021-10-18T22:00:00Z",
+          "content": "Corsair is no stranger to PC gaming. Its components have been kitting out gaming PCs for decades. With the Sabre RGB Pro and M65 RGB Ultra mouse, Corsair would like to give gamers that extra edge.\r\nC… [+5466 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sportskeeda"
+          },
+          "author": "Shane Foley",
+          "title": "Tips for solving speed booster puzzles in Metroid Dread - Sportskeeda",
+          "description": "The new speed booster puzzles are some of the most challenging elements in the newly released Metroid Dread.",
+          "url": "https://www.sportskeeda.com/esports/tips-solving-speed-booster-puzzles-metroid-dread",
+          "urlToImage": "https://staticg.sportskeeda.com/editor/2021/10/b735c-16345925823375-1920.jpg",
+          "publishedAt": "2021-10-18T21:59:42Z",
+          "content": "The new speed booster puzzles are some of the most challenging elements in the newly released Metroid Dread.\r\nBoth the Speed Booster and the Shinespark have been staples of the franchise, appearing i… [+2067 chars]"
+      },
+      {
+          "source": {
+              "id": "polygon",
+              "name": "Polygon"
+          },
+          "author": "Michael McWhertor",
+          "title": "Call of Duty Warzone The Haunting event adds Scream, Donnie Darko items - Polygon",
+          "description": "Call of Duty’s annual Halloween event, The Haunting, comes to Call of Duty Warzone and Black Ops Cold War on Oct. 19, bringing Ghostface from Scream and Frank the Rabbit from Donnie Darko.",
+          "url": "https://www.polygon.com/22732666/call-of-duty-warzone-black-ops-cold-war-halloween-scream-donnie-darko-haunting",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/oD8Dyzpvk99Uw0LTDbECyCxF6Qc=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22936655/BOCW_WZ_S6_THEHAUNTING_016.jpg",
+          "publishedAt": "2021-10-18T21:59:15Z",
+          "content": "The Haunting event stars in Warzone and Black Ops Cold War Oct. 19"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Eurogamer.net"
+          },
+          "author": "Matt Wales",
+          "title": "Valve reviewing entire Steam catalogue for new Steam Deck compatibility ratings system - Eurogamer.net",
+          "description": null,
+          "url": "https://www.eurogamer.net/articles/2021-10-18-valve-reviewing-entire-steam-catalogue-for-new-steam-deck-compatibility-ratings-system",
+          "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2021/articles/2021-10-18-22-52/valve-says-its-reviewing-the-entire-steam-catalogue-for-its-new-steam-deck-compatibility-system-1634593953927.jpg/EG11/resize/1200x-1/valve-says-its-reviewing-the-entire-steam-catalogue-for-its-new-steam-deck-compatibility-system-1634593953927.jpg",
+          "publishedAt": "2021-10-18T21:43:00Z",
+          "content": "As the release of Steam Deck draws ever closer, Valve continues sharing more details about its highly anticipated portable gaming PC, and the company has now announced it'll reviewing the entire Stea… [+2526 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Dan Avery",
+          "title": "Robotic 'smart' cane helps visually impaired people avoid obstacles with autonomous car technology - Daily Mail",
+          "description": "equipped with LIDAR, GPS, and other sensors, Stanford University's augmented cane can guide a user toward a preset destination, rather than just simply away from an obstacle.",
+          "url": "https://www.dailymail.co.uk/sciencetech/article-10104977/Robotic-smart-cane-helps-visually-impaired-people-avoid-obstacles-autonomous-car-technology.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/10/18/22/49337689-0-image-a-26_1634592561833.jpg",
+          "publishedAt": "2021-10-18T21:42:49Z",
+          "content": "Researchers at Stanford University have developed a robotic 'smart' cane that guides people with visual impairments using technology originated for autonomous vehicles.   \r\nMost sensor canes use ultr… [+5420 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Sportskeeda"
+          },
+          "author": "Tariq Hassan",
+          "title": "Genshin Impact guide for Kito and Kina ghost spirit quest on Tsurumi Island - Sportskeeda",
+          "description": "Genshin Impact 2.2 has brought players to Tsurumi Island, a mysterious place with many secrets to uncover, including quests with tremendous rewards.",
+          "url": "https://www.sportskeeda.com/esports/genshin-impact-guide-kito-kina-ghost-spirit-quest-tsurumi-island",
+          "urlToImage": "https://staticg.sportskeeda.com/editor/2021/10/e0ca2-16345885923490-1920.jpg",
+          "publishedAt": "2021-10-18T21:26:00Z",
+          "content": "Genshin Impact 2.2 has brought players to Tsurumi Island, a mysterious place with many secrets to uncover, including quests with tremendous rewards. Fans will help out several spirits around the isla… [+3043 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "EventHubs"
+          },
+          "author": "Dakota 'DarkHorse' Hills",
+          "title": "Guilty Gear Strive's newly reduced load times are actually a massive improvement though apparently not for everyone - EventHubs",
+          "description": "There's a lot to love about Guilty Gear Strive, but one of the biggest detractors from the game since before launch was just how long it took to actually start playing it.After fans took matters into their own ...",
+          "url": "https://www.eventhubs.com/news/2021/oct/18/guilty-gear-load-times/",
+          "urlToImage": "https://media.eventhubs.com/images/2021/10/18-guilty-gear-load-timest.webp",
+          "publishedAt": "2021-10-18T21:23:53Z",
+          "content": "There's a lot to love about Guilty Gear Strive, but one of the biggest detractors from the game since before launch was just how long it took to actually start playing it.\r\nAfter fans took matters in… [+2360 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Apex Legends Season 11: Ash Lore Explained - IGN",
+          "description": "Apex Legends dropped the first trailer teaser for their next Season 11 with a look at their brand new Legend coming into the Apex games. This Stories From Th...",
+          "url": "https://www.youtube.com/watch?v=P96nZEF1r6k",
+          "urlToImage": "https://i.ytimg.com/vi/P96nZEF1r6k/maxresdefault.jpg",
+          "publishedAt": "2021-10-18T21:21:19Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Nerd Stash"
+          },
+          "author": null,
+          "title": "Payday Celebrates 10 Year Anniversary With Various Events - The Nerd Stash",
+          "description": "It feels like just yesterday that I was jumping into Payday 2 for the first time, doing my first run of the standard bank on loud, like any first-time player does. Since then, I was enthralled by ever",
+          "url": "https://thenerdstash.com/payday-celebrates-10-year-anniversary-with-various-events/",
+          "urlToImage": "https://thenerdstash.com/wp-content/uploads/2017/10/payday2screen6-1024x576.jpg",
+          "publishedAt": "2021-10-18T21:20:51Z",
+          "content": "It feels like just yesterday that I was jumping into Payday 2 for the first time, doing my first run of the standard bank on loud, like any first-time player does. Since then, I was enthralled by eve… [+1812 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Clarepeople.com"
+          },
+          "author": "cpadmin",
+          "title": "New Windows 11 emojis leave behind a well-known Microsoft mascot – The Clare People - The Clare People",
+          "description": "Microsoft has once again disappointed Windows users 11. This Monday (11), users of the Redmond Giant system went to Reddit to complain that the traditional emojis of differentiated kittens , a tradema",
+          "url": "https://www.clarepeople.com/8703-new-windows-11-emojis-leave-behind-a-well-known-microsoft-mascot/",
+          "urlToImage": "https://www.clarepeople.com/wp-content/uploads/2021/10/8703-new-windows-11-emojis-leave-behind-a-well-known-microsoft-mascot-780x470.jpeg",
+          "publishedAt": "2021-10-18T21:15:44Z",
+          "content": "Microsoft has once again disappointed Windows users 11. This Monday (11), users of the Redmond Giant system went to Reddit to complain that the traditional emojis of differentiated kittens , a tradem… [+1962 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Clarepeople.com"
+          },
+          "author": "cpadmin",
+          "title": "New Beats TWS headphones will have active noise canceling and AirPods 3 chip – The Clare People - The Clare People",
+          "description": "After the official launch of the long-awaited third generation of AirPods, Apple should show another new headphone with the Beats brand. According to information published by the 9to5Mac portal, the B",
+          "url": "https://www.clarepeople.com/8701-new-beats-tws-headphones-will-have-active-noise-canceling-and-airpods-3-chip/",
+          "urlToImage": "https://www.clarepeople.com/wp-content/uploads/2021/10/8701-new-beats-tws-headphones-will-have-active-noise-canceling-and-airpods-3-chip-780x470.jpeg",
+          "publishedAt": "2021-10-18T21:15:44Z",
+          "content": "After the official launch of the long-awaited third generation of AirPods, Apple should show another new headphone with the Beats brand. According to information published by the 9to5Mac portal, the … [+2512 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Clarepeople.com"
+          },
+          "author": "cpadmin",
+          "title": "How to transfer Google Authenticator to another phone – The Clare People - The Clare People",
+          "description": "Google Authenticator (Android | iOS) is one of the top apps available for two-factor password authentication. After linking accounts from social networks and other services, the app generates a random",
+          "url": "https://www.clarepeople.com/8693-how-to-transfer-google-authenticator-to-another-phone/",
+          "urlToImage": "https://www.clarepeople.com/wp-content/uploads/2021/10/8693-how-to-transfer-google-authenticator-to-another-phone-780x470.png",
+          "publishedAt": "2021-10-18T21:13:09Z",
+          "content": "Open Google Authenticator and tap the option “Import existing accounts?” .\r\nOption to import is located on the screen main app (Image: André Magalhães/Screenshot)Step 2: with the device old configure… [+725 chars]"
+      }
   ]
 }

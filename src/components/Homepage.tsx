@@ -3,8 +3,6 @@ import { CategoryFrame } from "./CategoryFrame";
 import { Sidebar } from "./Sidebar";
 import { Banner } from "./Banner";
 import { HomepageProps } from "./component-interfaces";
-import Stack from "@mui/material/Stack";
-import Container from "@mui/material/Container";
 import Divider from "@mui/material/Divider";
 import styles from "./homepage.module.scss";
 import { useAppSelector } from "../hooks";
@@ -15,8 +13,6 @@ import { MobileTab } from "./tab-enums";
 import { MobileTabs } from "./MobileTabs";
 
 export const Homepage = (props: HomepageProps): JSX.Element => {
-  // Da san ovo pocea sad vjerojatno bi moga napravit i bez ovolikog koristenja material uija...
-
   const nameFilter = useAppSelector(selectNameFilter);
   const [activeTab, setActiveTab] = useState(MobileTab.Featured);
 
@@ -42,39 +38,28 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
   if (isMobileOnly) {
     return (
       <div className={props.className}>
-        <Container>
-          <TitleBar className={styles.titlebarmobile} />
-          <MobileTabs
-            value={activeTab}
-            onClick={handleClick}
-            className={styles.tabsmobile}
-          />
-          <Stack direction="row" spacing={2} className={styles.mainframe}>
-            {displayContentByTab()}
-          </Stack>
-        </Container>
+        <TitleBar className={styles.titlebarmobile} />
+        <MobileTabs
+          value={activeTab}
+          onClick={handleClick}
+          className={styles.tabsmobile}
+        />
+        <div className={styles.mainframemobile}>{displayContentByTab()}</div>
       </div>
     );
   } else {
     return (
       <div className={props.className}>
         <Banner />
-        <Container>
+        <div className={styles.mainframe}>
           <TitleBar className={styles.titlebar} />
-          <Stack
-            spacing={3}
-            divider={<Divider orientation="horizontal" flexItem />}
-          >
-            <Stack direction="row" spacing={2} className={styles.mainframe}>
-              <CategoryFrame
-                className={styles.categoryframe}
-                articles={props.categoryArticles}
-                nameFilter={nameFilter}
-              />
-              {/*<Sidebar className={styles.sidebar} />*/}
-            </Stack>
-          </Stack>
-        </Container>
+          <Divider orientation="horizontal" flexItem />
+          <CategoryFrame
+            className={styles.categoryframe}
+            articles={props.categoryArticles}
+            nameFilter={nameFilter}
+          />
+        </div>
       </div>
     );
   }

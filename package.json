@@ -14,7 +14,7 @@
     "@teamsupercell/typings-for-css-modules-loader": "^2.5.1",
     "axios": "^0.22.0",
     "bootstrap": "^5.1.1",
-    "object-hash": "^2.2.0",
+    "crc": "^3.8.0",
     "react": "^17.0.2",
     "react-device-detect": "^2.0.1",
     "react-dom": "^17.0.2",
@@ -49,12 +49,13 @@
     ]
   },
   "devDependencies": {
-    "@types/object-hash": "^2.2.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@types/crc": "^3.4.0",
     "@types/jest": "^24.9.1",
     "@types/node": "^12.20.27",
+    "@types/object-hash": "^2.2.1",
     "@types/react": "^16.14.16",
     "@types/react-dom": "^16.9.14",
     "@types/react-redux": "^7.1.18"

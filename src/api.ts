@@ -3,7 +3,7 @@ import Category from "./category-enums";
 import { ArticlesRawData } from "./data-interfaces";
 
 import dataBusiness from "./data/dummyData-business.json";
-import dataEntertainment from "./data/dummyData-entertainment.json";
+import dataGeneral from "./data/dummyData-general.json";
 import dataHealth from "./data/dummyData-health.json";
 import dataScience from "./data/dummyData-science.json";
 import dataSports from "./data/dummyData-sports.json";
@@ -47,9 +47,9 @@ class API {
         });
         return data;
       }
-      case Category.Entertainment: {
+      case Category.General: {
         const data = delayResolve({
-          articles: dataEntertainment.articles.slice(range.start, range.end),
+          articles: dataGeneral.articles.slice(range.start, range.end),
         });
         return data;
       }

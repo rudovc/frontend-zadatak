@@ -11,6 +11,11 @@ export interface MobileTabProps extends IProps {
   value?: number;
 }
 
+export interface CategoryFrameProps extends IProps {
+  articles: Article[];
+  nameFilter: string;
+}
+
 export interface IProps {
   className?: string;
   key?: string;
