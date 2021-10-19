@@ -38,10 +38,9 @@ export const categoryFrameSlice = createSlice({
             const index = articlesInState.findIndex(
               (element) => element.id === mappedArticle.id
             );
-              if (index !== -1) {
+            if (index !== -1) {
               state.articles.splice(index, 1);
-            }
-            else {
+            } else {
               return [];
             }
             return [mappedArticle];
@@ -53,19 +52,7 @@ export const categoryFrameSlice = createSlice({
           return [mappedArticle];
         }
       });
-
-      const sortedArticles = [...state.articles, ...dataWithID].sort(
-        (o1, o2) => {
-          if (o1.publishedAt !== null && o2.publishedAt !== null) {
-            const date1 = +new Date(o1.publishedAt);
-            const date2 = +new Date(o2.publishedAt);
-            return date2 - date1;
-          }
-          return -1;
-        }
-      );
-
-      state.articles = sortedArticles;
+      state.articles = state.articles.concat(dataWithID);
 
       state.page = state.page + action.payload.length / 20;
     },

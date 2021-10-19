@@ -33,5 +33,4 @@ export interface Article extends Required<NonNullable<ArticleRawData>> {
 
 export interface Articles {
   articles: Article[];
-  nameFilter: string;
 }

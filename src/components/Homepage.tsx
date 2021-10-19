@@ -13,8 +13,6 @@ import { MobileTab } from "./tab-enums";
 import { MobileTabs } from "./MobileTabs";
 
 export const Homepage = (props: HomepageProps): JSX.Element => {
-  // Da san ovo pocea sad vjerojatno bi moga napravit i bez ovolikog koristenja material uija...
-
   const nameFilter = useAppSelector(selectNameFilter);
   const [activeTab, setActiveTab] = useState(MobileTab.Featured);
 
