@@ -21,7 +21,7 @@ export const SidebarArticlePreview = (props: Article): JSX.Element => {
             hour: "numeric",
             minute: "numeric",
           }).format(date);
-    // divide by miliseconds, seconds, minutes, hours, days (in a week)
+    // Divide by miliseconds, seconds, minutes, hours, days (in a week)
     const elapsed = (+date - +now) / 1000 / 60 / 60 / 24 / 7;
     const weeks =
       elapsed < -1
@@ -33,7 +33,9 @@ export const SidebarArticlePreview = (props: Article): JSX.Element => {
 
   return (
     <div className={styles.sidebararticlepreview}>
-      <Typography variant="overline" className={styles.time}>{formatDate()}</Typography>
+      <Typography variant="overline" className={styles.time}>
+        {formatDate()}
+      </Typography>
       <a
         className={styles.nostyle}
         href={props.url}

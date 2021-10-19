@@ -19,14 +19,6 @@ export const CategoryTabs = (props: IProps) => {
   const activeTab = useAppSelector(selectActiveCategory);
   const dispatch = useAppDispatch();
 
-  const paperElevation = [0, 0, 0, 0, 0, 0, 0].map((elevation, index) => {
-    if (index === activeTab) {
-      return 1;
-    } else {
-      return 0;
-    }
-  });
-
   // Handle clicking on a tab, category passed as argument
   const handleClick = (category: CategoryTab) => {
     dispatch(setActiveCategoryTab(category));
@@ -42,32 +34,26 @@ export const CategoryTabs = (props: IProps) => {
   };
 
   return (
-    
     <div className={props.className}>
-      <div
-        className={isActiveTabStyle(CategoryTab.Home)[0]}
-      >
+      <div className={isActiveTabStyle(CategoryTab.Home)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Home);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Home)[1]}>
-            <HomeIcon className={styles.categorytabicon}/>
+            <HomeIcon className={styles.categorytabicon} />
             <span>Home</span>
           </div>
         </ButtonBase>
       </div>
-      <div
-        className={isActiveTabStyle(CategoryTab.General)[0]}
-        
-      >
+      <div className={isActiveTabStyle(CategoryTab.General)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.General);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.General)[1]}>
             TODO:ICON
@@ -75,15 +61,12 @@ export const CategoryTabs = (props: IProps) => {
           </div>
         </ButtonBase>
       </div>
-      <div
-        className={isActiveTabStyle(CategoryTab.Business)[0]}
-        
-      >
+      <div className={isActiveTabStyle(CategoryTab.Business)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Business);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Business)[1]}>
             <WorkIcon className={styles.categorytabicon} />
@@ -91,15 +74,12 @@ export const CategoryTabs = (props: IProps) => {
           </div>
         </ButtonBase>
       </div>
-      <div
-        className={isActiveTabStyle(CategoryTab.Health)[0]}
-       
-      >
+      <div className={isActiveTabStyle(CategoryTab.Health)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Health);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Health)[1]}>
             <LocalHospitalicon className={styles.categorytabicon} />
@@ -107,15 +87,12 @@ export const CategoryTabs = (props: IProps) => {
           </div>
         </ButtonBase>
       </div>
-      <div
-        className={isActiveTabStyle(CategoryTab.Science)[0]}
-       
-      >
+      <div className={isActiveTabStyle(CategoryTab.Science)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Science);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Science)[1]}>
             <ScienceIcon className={styles.categorytabicon} />
@@ -123,14 +100,12 @@ export const CategoryTabs = (props: IProps) => {
           </div>
         </ButtonBase>
       </div>
-      <div
-        className={isActiveTabStyle(CategoryTab.Sports)[0]}
-      >
+      <div className={isActiveTabStyle(CategoryTab.Sports)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Sports);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Sports)[1]}>
             <SportsSoccerIcon className={styles.categorytabicon} />
@@ -138,14 +113,12 @@ export const CategoryTabs = (props: IProps) => {
           </div>
         </ButtonBase>
       </div>
-      <div
-        className={isActiveTabStyle(CategoryTab.Technology)[0]}
-      >
+      <div className={isActiveTabStyle(CategoryTab.Technology)[0]}>
         <ButtonBase
           onClick={() => {
             handleClick(CategoryTab.Technology);
           }}
-          style={{ width: "100%", height:"100%", padding:"0px" }}
+          style={{ width: "100%", height: "100%", padding: "0px" }}
         >
           <div className={isActiveTabStyle(CategoryTab.Technology)[1]}>
             <MonitorIcon className={styles.categorytabicon} />
