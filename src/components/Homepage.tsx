@@ -39,6 +39,8 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
           className={styles.categoryframemobile}
           articles={props.categoryArticles}
           nameFilter={nameFilter}
+          onCategoryTabChange={handleCategoryTabChange}
+          categoryTab={props.categoryTab}
         />
       );
     } else {
@@ -49,7 +51,11 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
   if (isMobileOnly) {
     return (
       <div className={props.className}>
-        <TitleBar className={styles.titlebarmobile} />
+        <TitleBar
+          className={styles.titlebarmobile}
+          categoryTab={props.categoryTab}
+          onCategoryTabChange={handleCategoryTabChange}
+        />
         <MobileTabs
           value={activeMobileTab}
           onClick={handleMobileTabClick}

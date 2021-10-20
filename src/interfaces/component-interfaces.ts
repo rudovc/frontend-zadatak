@@ -1,6 +1,10 @@
 import { CategoryTab, SidebarTab } from "../components/tab-enums";
 import { Article } from "../interfaces/data-interfaces";
 
+export interface IProps {
+  className?: string;
+  key?: string;
+}
 export interface HomepageProps extends IProps {
   onCategoryTabChange?: (arg: CategoryTab) => void;
   categoryTab?: CategoryTab;
@@ -34,7 +38,17 @@ export interface SidebarListProps extends IProps {
   activeTab: SidebarTab;
 }
 
-export interface IProps {
-  className?: string;
-  key?: string;
+export interface TitleProps extends IProps {
+  titleSize?: "large" | "regular";
+}
+
+export interface TitleBarProps extends IProps {
+  categoryTab?: CategoryTab;
+  onCategoryTabChange?: (arg: CategoryTab) => void;
+}
+
+export interface MenuModalProps extends IProps {
+  onClose: () => void;
+  categoryTab?: CategoryTab;
+  onCategoryTabChange?: (arg: CategoryTab) => void;
 }

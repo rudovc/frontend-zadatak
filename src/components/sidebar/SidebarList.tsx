@@ -1,4 +1,4 @@
-import { useCallback, useState } from "react";
+import { UIEvent, useState } from "react";
 import { useAppSelector } from "../../hooks";
 import List from "@mui/material/List";
 import { SidebarArticlePreview } from "./SidebarList/SidebarArticlePreview";
@@ -72,12 +72,13 @@ export const SidebarList = (props: SidebarListProps) => {
   };
 
   // Load more articles on scroll down
-  const loadMoreArticles = useCallback(
-    async (e): Promise<void> => {
-      e.preventDefault();
-      if (activeTab === SidebarTab.Latest) {
-        if (!isLoading) {
-          const element = e.currentTarget;
+  // Type error na "e" ako ne koristin callback, zasto?
+  const loadMoreArticles = async (e: UIEvent): Promise<void> => {
+    e.preventDefault();
+    if (activeTab === SidebarTab.Latest) {
+      if (!isLoading) {
+        const element = e.currentTarget;
+        if (element !== null) {
           // Check if bottom of element was reached
           if (
             element.scrollHeight * 0.9 - element.scrollTop <=
@@ -97,17 +98,8 @@ export const SidebarList = (props: SidebarListProps) => {
           }
         }
       }
-    },
-    [
-      isLoading,
-      activeTab,
-      currentLatestPage,
-      allArticles.length,
-      allArticlesPage,
-      articleRangeEnd,
-    ]
-  );
-
+    }
+  };
   const displaySeeAllLink = (): JSX.Element => {
     if (activeTab === SidebarTab.Latest) {
       return (

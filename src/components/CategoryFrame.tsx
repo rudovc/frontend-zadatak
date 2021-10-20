@@ -1,6 +1,6 @@
 import { CategoryTabs } from "./category-frame/CategoryTabs";
 import { ArticleGrid } from "./category-frame/ArticleGrid";
-import { useState, useCallback, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Pagination from "@mui/material/Pagination";
 import styles from "./styles/categoryframe.module.scss";
 import { CategoryFrameProps } from "../interfaces/component-interfaces";
@@ -26,8 +26,16 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
     }
   });
 
-  const paginationCount = Math.ceil(filteredArticleList.length / 16);
+  const sortedArticleList = filteredArticleList.sort((o1, o2) => {
+    if (o1.publishedAt !== null && o2.publishedAt !== null) {
+      const date1 = +new Date(o1.publishedAt);
+      const date2 = +new Date(o2.publishedAt);
+      return date2 - date1;
+    }
+    return -1;
+  });
 
+  const paginationCount = Math.ceil(sortedArticleList.length / 16);
   // Keep track of pagination in overall store
   const allArticlesPage = useAppSelector(selectPage);
 
@@ -51,31 +59,32 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
   };
 
   // Handle switching to a new page
-  const handleChange = useCallback(
-    async (e: React.ChangeEvent<unknown>, page: number): Promise<void> => {
-      if (props.nameFilter === "") {
-        if (!isLoading) {
-          setCurrentPage(page);
-          // Check if there are enough articles in the store to immediately display without sending API request
-          if (page >= paginationCount - 1) {
-            setIsLoading(true);
-            // If not, request more articles from API
-            await loadArticlesRawDataPerPageFromAPI(allArticlesPage + 1);
-            setIsLoading(false);
-          }
-        }
-      } else {
+  const handleChange = async (
+    e: React.ChangeEvent<unknown>,
+    page: number
+  ): Promise<void> => {
+    if (props.nameFilter === "") {
+      if (!isLoading) {
         setCurrentPage(page);
+        // Check if there are enough articles in the store to immediately display without sending API request
+        if (page >= paginationCount - 1) {
+          setIsLoading(true);
+          // If not, request more articles from API
+          await loadArticlesRawDataPerPageFromAPI(allArticlesPage + 1);
+          setIsLoading(false);
+        }
       }
-    },
-    [paginationCount, allArticlesPage, isLoading, props.nameFilter]
-  );
+    } else {
+      setCurrentPage(page);
+    }
+  };
 
   if (isMobileOnly) {
     return (
       <div className={props.className}>
         <ArticleGrid
-          articles={filteredArticleList.slice(
+          onCategoryClick={handleClick}
+          articles={sortedArticleList.slice(
             articleRange.start,
             articleRange.end
           )}
@@ -100,7 +109,7 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
         <div className={styles.articlegridcontainer}>
           <ArticleGrid
             onCategoryClick={handleClick}
-            articles={filteredArticleList.slice(
+            articles={sortedArticleList.slice(
               articleRange.start,
               articleRange.end
             )}

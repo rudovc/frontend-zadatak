@@ -7,22 +7,13 @@ import { CategoryTab } from "../tab-enums";
 import { ArticleGridProps } from "../../interfaces/component-interfaces";
 
 export const ArticleGrid = (props: ArticleGridProps) => {
-  const sortedArticleList = [...props.articles].sort((o1, o2) => {
-    if (o1.publishedAt !== null && o2.publishedAt !== null) {
-      const date1 = +new Date(o1.publishedAt);
-      const date2 = +new Date(o2.publishedAt);
-      return date2 - date1;
-    }
-    return -1;
-  });
-
   const handleClick = (arg: CategoryTab) => {
     if (typeof props.onCategoryClick !== "undefined") {
       props.onCategoryClick(arg);
     }
   };
 
-  const displayedArticles = sortedArticleList.map((element) => {
+  const displayedArticles = props.articles.map((element) => {
     return (
       <ArticlePreview
         className={styles.articlecard}

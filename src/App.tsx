@@ -32,6 +32,8 @@ function App(): JSX.Element {
         className={styles.homepagemobile}
         categoryArticles={articles.byCategory}
         sidebarArticles={articles.inSidebar}
+        onCategoryTabChange={handleCategoryTabChange}
+        categoryTab={activeCategoryTab}
       />
     );
   } else {

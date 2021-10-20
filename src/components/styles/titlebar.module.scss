@@ -1,3 +1,13 @@
+.topcontainer {
+  display: flex;
+}
+
+.menucontainer {
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
 .searchbox {
   background-color: #ffffff;
   border-radius: 10px;
@@ -31,4 +41,9 @@
 .title {
   display: flex;
   flex-direction: row;
+}
+
+.menumodal {
+  height: 100vh;
+  width: 100vw;
 }

@@ -17,7 +17,6 @@ import Fade from "@mui/material/Fade";
 import CircularProgress from "@mui/material/CircularProgress";
 import { useCallback } from "react";
 import { ArticlePreviewProps } from "../../../interfaces/component-interfaces";
-import { isMobileOnly } from "react-device-detect";
 import { CategoryTab } from "../../tab-enums";
 
 // Ima li koji drugi nacin osim ovaj '&'
@@ -47,15 +46,13 @@ export const ArticlePreview = (props: ArticlePreviewProps) => {
   };
 
   const handleCategoryClick = () => {
-    if (!isMobileOnly) {
-      if (typeof props.onCategoryClick !== "undefined") {
-        const newCategory =
-          props.article.category.charAt(0).toUpperCase() +
-          props.article.category.slice(1);
-        props.onCategoryClick(
-          CategoryTab[newCategory as keyof typeof CategoryTab]
-        );
-      }
+    if (typeof props.onCategoryClick !== "undefined") {
+      const newCategory =
+        props.article.category.charAt(0).toUpperCase() +
+        props.article.category.slice(1);
+      props.onCategoryClick(
+        CategoryTab[newCategory as keyof typeof CategoryTab]
+      );
     }
   };
 
