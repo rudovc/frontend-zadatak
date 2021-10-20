@@ -15,7 +15,6 @@
   gap: 2rem;
   @media (max-height: 500px) {
     padding-top: 0vh;
-    gap: 1rem;
   }
 }
 
@@ -54,8 +53,13 @@
 }
 
 .categorytabsmobile {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 5px;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-items: center;
+  @media (max-height: 500px) {
+    display: flex;
+    gap: 5px;
+  }
 }
