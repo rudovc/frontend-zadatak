@@ -37,6 +37,7 @@ export const MenuModal = (props: MenuModalProps): JSX.Element => {
           <div className={styles.menucontainer}>
             <Title className={styles.title} titleSize="large" />
             <SearchBar className={styles.searchboxmobile} />
+            {/* Ovi tabovi mi ne odgovaraju dizajnu... Ne znan ih poravnat livo */}
             <CategoryTabs
               className={styles.categorytabsmobile}
               onClick={handleClick}
