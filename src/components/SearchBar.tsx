@@ -22,7 +22,6 @@ export const SearchBar = (props: IProps) => {
 
   const handlePress = useCallback(
     (e) => {
-      console.log("pressede");
       if (e.key === "Enter") {
         sendSearch();
       }
@@ -40,7 +39,6 @@ export const SearchBar = (props: IProps) => {
           inputRef={searchBoxRef}
           placeholder="Search news"
           onChange={sendSearch}
-          onKeyDown={handlePress}
         />
       </div>
     );
@@ -53,6 +51,7 @@ export const SearchBar = (props: IProps) => {
           id="search"
           inputRef={searchBoxRef}
           placeholder="Search news"
+          onKeyDown={handlePress}
         />
         <Button
           className={styles.searchbutton}
