@@ -14,7 +14,7 @@ export const MenuModal = forwardRef(
   (props: MenuModalProps, ref: LegacyRef<HTMLDivElement>): JSX.Element => {
     const [isOpen, setIsOpen] = useState(true);
 
-    const handleClick = <T extends unknown>(category: T) => {
+    const handleTabChange = <T extends unknown>(category: T) => {
       if (typeof props.onCategoryTabChange !== "undefined") {
         props.onCategoryTabChange(category as unknown as CategoryTab);
       }
@@ -42,7 +42,7 @@ export const MenuModal = forwardRef(
               <SearchBar className={styles.searchboxmobile} />
               <CategoryTabs
                 className={styles.categorytabsmobile}
-                onClick={handleClick}
+                onClick={handleTabChange}
                 value={props.categoryTab}
               />
             </div>
