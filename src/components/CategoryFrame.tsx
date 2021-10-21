@@ -37,10 +37,10 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
   const [currentPage, setCurrentPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
 
-  // Sad search ne radi lmao tj mislin da radi al triba refreshat sve
   const articleList = filterAndSortArticles(props.articles, props.nameFilter);
 
   const paginationCount = Math.ceil(articleList.length / 16);
+
   // Keep track of pagination in overall store
   const allArticlesPage = useAppSelector(selectPage);
 
