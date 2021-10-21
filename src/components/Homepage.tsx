@@ -25,7 +25,6 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
   const ContentSelectedByTab = (): JSX.Element => {
     if (activeMobileTab === MobileTab.Featured) {
       return (
-        // Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka, ovako nije ni blizu elegantno
         <CategoryFrame
           className={styles.categoryframemobile}
           articles={props.categoryArticles}
