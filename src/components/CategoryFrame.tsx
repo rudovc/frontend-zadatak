@@ -13,11 +13,11 @@ import { Article } from "../interfaces/data-interfaces";
 
 const filterAndSortArticles = (articles: Article[], nameFilter: string) => {
   const filteredArticles = [...articles].filter((element) => {
-    const filter = nameFilter.toLowerCase().split(" ");
-    const title = element.title.toLowerCase();
     if (nameFilter === "") {
       return true;
     } else {
+      const filter = nameFilter.toLowerCase().split(" ");
+      const title = element.title.toLowerCase();
       return filter.every((word) => title.includes(word));
     }
   });
@@ -41,9 +41,6 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
 
   const paginationCount = Math.ceil(articleList.length / 16);
 
-  // Keep track of pagination in overall store
-  const allArticlesPage = useAppSelector(selectPage);
-
   // Set range of articles to be displayed depending on the current page
   const articleRange = {
     start: currentPage * 16 - 16,
@@ -62,6 +59,9 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
       props.onCategoryTabChange(category as unknown as CategoryTab);
     }
   };
+
+  // Keep track of pagination in overall store
+  const allArticlesPage = useAppSelector(selectPage);
 
   // Handle switching to a new page
   const handlePageChange = async (

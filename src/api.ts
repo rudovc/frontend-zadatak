@@ -1,8 +1,8 @@
-import axios, { AxiosResponse } from "axios";
+//import axios, { AxiosResponse } from "axios";
 import Category from "./category-enums";
 import { ArticlesRawData } from "./interfaces/data-interfaces";
 
-/*import dataBusiness from "./data/dummyData-business.json";
+import dataBusiness from "./data/dummyData-business.json";
 import dataGeneral from "./data/dummyData-general.json";
 import dataHealth from "./data/dummyData-health.json";
 import dataScience from "./data/dummyData-science.json";
@@ -13,22 +13,22 @@ function delayResolve(input: ArticlesRawData) {
   return new Promise<{ data: ArticlesRawData }>((resolve) =>
     setTimeout(() => resolve({ data: input }), 300)
   );
-}*/
+}
 
-const axiosApi = axios.create({
+/*const axiosApi = axios.create({
   baseURL: `https://newsapi.org/v2/top-headlines/`,
   params: {
     apiKey: "508c3821ebf249dca6c629a676144687",
     language: "en",
   },
-});
+});*/
 
-/*const getPage = (page: number): { start: number; end: number } => {
+const getPage = (page: number): { start: number; end: number } => {
   return { start: page * 20 - 20, end: page * 20 };
-};*/
+};
 
 class API {
-  static getArticles(
+  /*static getArticles(
     categoryParameter: Category,
     pageNumber: number
   ): Promise<AxiosResponse<ArticlesRawData>> {
@@ -36,8 +36,8 @@ class API {
       params: { category: categoryParameter, page: pageNumber },
     });
     return response;
-  }
-  /*
+  }*/
+
   static getArticles(
     category: Category,
     page: number
@@ -82,7 +82,7 @@ class API {
       }
     }
     return Promise.resolve({ data: undefined });
-  }*/
+  }
 }
 
 export default API;
