@@ -16,22 +16,13 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
   const nameFilter = useAppSelector(selectNameFilter);
   const [activeMobileTab, setActiveMobileTab] = useState(MobileTab.Featured);
 
-  // Nesto san ja tu zeznia,
-  // tj ocito ne kuzin kako funkcionira,
-  // tj koristin na krivi nacin...
-  // Zasad "radi" ali nemam pojma zasto i kako mora bit ovako?
-  // Tia san postic da ne moran radit 3 razlicita interfacea za SidebarTabs, MobileTabs i CategoryTabs
-  const handleMobileTabClick = <T extends unknown>(arg: T) => {
-    setActiveMobileTab(arg as unknown as MobileTab);
-  };
-
   const handleCategoryTabChange = (arg: CategoryTab) => {
     if (typeof props.onCategoryTabChange !== "undefined") {
       props.onCategoryTabChange(arg);
     }
   };
 
-  const displayContentByTab = (): JSX.Element => {
+  const ContentSelectedByTab = (): JSX.Element => {
     if (activeMobileTab === MobileTab.Featured) {
       return (
         // Proba san koristit media querije ali da san bia pametniji pocea bi tako od pocetka, ovako nije ni blizu elegantno
@@ -58,10 +49,14 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
         />
         <MobileTabs
           value={activeMobileTab}
-          onClick={handleMobileTabClick}
+          onClick={<T extends unknown>(arg: T) => {
+            setActiveMobileTab(arg as unknown as MobileTab);
+          }}
           className={styles.tabsmobile}
         />
-        <div className={styles.mainframemobile}>{displayContentByTab()}</div>
+        <div className={styles.mainframemobile}>
+          <ContentSelectedByTab />
+        </div>
       </div>
     );
   } else {

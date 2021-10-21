@@ -16,11 +16,6 @@ export const Banner = (props: IProps): JSX.Element => {
     isRejectedStorage === "false" ? false : true
   );
 
-  const handleClick = () => {
-    localStorage.setItem("isRejected", "true");
-    setIsRejected(true);
-  };
-
   if (isRejected) {
     return <div></div>;
   } else {
@@ -46,7 +41,13 @@ export const Banner = (props: IProps): JSX.Element => {
             GET
           </Button>
           {/* Kako sredit hover tu a da zadrzin animaciju */}
-          <ButtonBase className={styles.nothanksbutton} onClick={handleClick}>
+          <ButtonBase
+            className={styles.nothanksbutton}
+            onClick={() => {
+              localStorage.setItem("isRejected", "true");
+              setIsRejected(true);
+            }}
+          >
             No, thanks
           </ButtonBase>
         </div>

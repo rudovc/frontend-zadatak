@@ -14,11 +14,6 @@ import styles from "./app.module.scss";
 function App(): JSX.Element {
   const [activeCategory, setActiveCategory] = useState(Category.Home);
   const [activeCategoryTab, setActiveCategoryTab] = useState(CategoryTab.Home);
-  const handleCategoryTabChange = (category: CategoryTab) => {
-    const newCategory = Object.entries(Category)[category][1];
-    setActiveCategoryTab(category);
-    setActiveCategory(newCategory);
-  };
   // Get the filtered articles to send as a prop to Homepage, and additionally get all articles to send as a prop to the sidebar
   const articles = {
     byCategory: useAppSelector((state) => {
@@ -26,13 +21,18 @@ function App(): JSX.Element {
     }),
     inSidebar: useAppSelector(selectAllArticles),
   };
+
   if (isMobileOnly) {
     return (
       <Homepage
         className={styles.homepagemobile}
         categoryArticles={articles.byCategory}
         sidebarArticles={articles.inSidebar}
-        onCategoryTabChange={handleCategoryTabChange}
+        onCategoryTabChange={(category: CategoryTab) => {
+          const newCategory = Object.entries(Category)[category][1];
+          setActiveCategoryTab(category);
+          setActiveCategory(newCategory);
+        }}
         categoryTab={activeCategoryTab}
       />
     );
@@ -42,7 +42,11 @@ function App(): JSX.Element {
         className={styles.homepagedesktop}
         categoryArticles={articles.byCategory}
         sidebarArticles={articles.inSidebar}
-        onCategoryTabChange={handleCategoryTabChange}
+        onCategoryTabChange={(category: CategoryTab) => {
+          const newCategory = Object.entries(Category)[category][1];
+          setActiveCategoryTab(category);
+          setActiveCategory(newCategory);
+        }}
         categoryTab={activeCategoryTab}
       />
     );

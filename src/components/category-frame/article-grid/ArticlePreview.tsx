@@ -56,12 +56,7 @@ export const ArticlePreview = (props: ArticlePreviewProps) => {
     }
   };
 
-  /*// Nesto ruzno pt.1
-  const loading = () => {
-    return <CircularProgress variant="indeterminate"/>;
-  };*/
-
-  const isImageLoading = () => {
+  const CardImage = () => {
     if (image !== "") {
       return (
         // Kako prikazat fallback ako dobijen error
@@ -69,13 +64,6 @@ export const ArticlePreview = (props: ArticlePreviewProps) => {
       );
     } else {
       return (
-        /*<CardMedia
-          className={styles.noimageloaded}
-          // Nesto ruzno pt.2: kako bolje, zasto ne da, pise da prihvaca komponente?
-          component={loading as ElementType}
-          height="140"
-          alt="image not loaded"
-        />*/
         <div className={styles.noimageloaded}>
           <CircularProgress
             variant="indeterminate"
@@ -94,8 +82,7 @@ export const ArticlePreview = (props: ArticlePreviewProps) => {
     <div className={props.className}>
       <Fade in={true} timeout={500}>
         <Card className={styles.articlepreviewcard}>
-          {isImageLoading()}
-          {/*Kako ovaj bottom padding?*/}
+          <CardImage />
           <CardContent className={styles.cardcontent}>
             <ButtonBase
               onClick={handleCategoryClick}

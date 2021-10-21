@@ -8,6 +8,7 @@ import { useState } from "react";
 
 export const Sidebar = (props: IProps): JSX.Element => {
   const [activeTab, setActiveTab] = useState(SidebarTab.Latest);
+
   const handleSidebarTabChange = <T extends unknown>(newTab: T) => {
     setActiveTab(newTab as unknown as SidebarTab);
   };

@@ -14,13 +14,6 @@ export const MenuModal = forwardRef(
   (props: MenuModalProps, ref: LegacyRef<HTMLDivElement>): JSX.Element => {
     const [isOpen, setIsOpen] = useState(true);
 
-    const handleClose = () => {
-      setIsOpen(false);
-      setTimeout(() => {
-        props.onClose();
-      }, 200);
-    };
-
     const handleClick = <T extends unknown>(category: T) => {
       if (typeof props.onCategoryTabChange !== "undefined") {
         props.onCategoryTabChange(category as unknown as CategoryTab);
@@ -32,7 +25,15 @@ export const MenuModal = forwardRef(
         <Slide direction="left" in={isOpen} timeout={150}>
           <div className={styles.modalbackground}>
             <div className={styles.buttoncontainer}>
-              <IconButton style={{ padding: "0px" }} onClick={handleClose}>
+              <IconButton
+                style={{ padding: "0px" }}
+                onClick={() => {
+                  setIsOpen(false);
+                  setTimeout(() => {
+                    props.onClose();
+                  }, 200);
+                }}
+              >
                 <CloseIcon />
               </IconButton>
             </div>

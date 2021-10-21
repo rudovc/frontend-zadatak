@@ -9,24 +9,20 @@ import { useAppSelector } from "../hooks";
 import { loadArticlesRawDataPerPageFromAPI } from "../utilities";
 import { isMobileOnly } from "react-device-detect";
 import { CategoryTab } from "./tab-enums";
+import { Article } from "../interfaces/data-interfaces";
 
-export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
-  // Keep track of loading and pagination in grid (have 15 articles per page)
-  const [currentPage, setCurrentPage] = useState(1);
-  const [isLoading, setIsLoading] = useState(false);
-
-  // Sad search ne radi lmao tj mislin da radi al triba refreshat sve
-  const filteredArticleList = [...props.articles].filter((element) => {
-    const filter = props.nameFilter.toLowerCase().split(" ");
+const filterAndSortArticles = (articles: Article[], nameFilter: string) => {
+  const filteredArticles = [...articles].filter((element) => {
+    const filter = nameFilter.toLowerCase().split(" ");
     const title = element.title.toLowerCase();
-    if (props.nameFilter === "") {
+    if (nameFilter === "") {
       return true;
     } else {
       return filter.every((word) => title.includes(word));
     }
   });
 
-  const sortedArticleList = filteredArticleList.sort((o1, o2) => {
+  return filteredArticles.sort((o1, o2) => {
     if (o1.publishedAt !== null && o2.publishedAt !== null) {
       const date1 = +new Date(o1.publishedAt);
       const date2 = +new Date(o2.publishedAt);
@@ -34,8 +30,17 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
     }
     return -1;
   });
+};
 
-  const paginationCount = Math.ceil(sortedArticleList.length / 16);
+export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
+  // Keep track of loading and pagination in grid (have 15 articles per page)
+  const [currentPage, setCurrentPage] = useState(1);
+  const [isLoading, setIsLoading] = useState(false);
+
+  // Sad search ne radi lmao tj mislin da radi al triba refreshat sve
+  const articleList = filterAndSortArticles(props.articles, props.nameFilter);
+
+  const paginationCount = Math.ceil(articleList.length / 16);
   // Keep track of pagination in overall store
   const allArticlesPage = useAppSelector(selectPage);
 
@@ -84,10 +89,7 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
       <div className={props.className}>
         <ArticleGrid
           onCategoryClick={handleClick}
-          articles={sortedArticleList.slice(
-            articleRange.start,
-            articleRange.end
-          )}
+          articles={articleList.slice(articleRange.start, articleRange.end)}
         />
         <Pagination
           className={styles.pagination}
@@ -109,10 +111,7 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
         <div className={styles.articlegridcontainer}>
           <ArticleGrid
             onCategoryClick={handleClick}
-            articles={sortedArticleList.slice(
-              articleRange.start,
-              articleRange.end
-            )}
+            articles={articleList.slice(articleRange.start, articleRange.end)}
           />
           <Pagination
             className={styles.pagination}

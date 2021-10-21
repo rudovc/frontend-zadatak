@@ -7,7 +7,7 @@ export interface IProps {
 }
 export interface HomepageProps extends IProps {
   onCategoryTabChange?: (arg: CategoryTab) => void;
-  categoryTab?: CategoryTab;
+  categoryTab: CategoryTab;
   categoryArticles: Article[];
   sidebarArticles: Article[];
 }
@@ -24,12 +24,12 @@ export interface ArticleGridProps extends IProps {
 
 export interface TabProps extends IProps {
   onClick?: <T>(arg: T) => void;
-  value?: number;
+  value: number;
 }
 
 export interface CategoryFrameProps extends IProps {
   onCategoryTabChange?: (arg: CategoryTab) => void;
-  categoryTab?: CategoryTab;
+  categoryTab: CategoryTab;
   articles: Article[];
   nameFilter: string;
 }
@@ -49,6 +49,6 @@ export interface TitleBarProps extends IProps {
 
 export interface MenuModalProps extends IProps {
   onClose: () => void;
-  categoryTab?: CategoryTab;
+  categoryTab: CategoryTab;
   onCategoryTabChange?: (arg: CategoryTab) => void;
 }

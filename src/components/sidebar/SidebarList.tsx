@@ -40,7 +40,7 @@ export const SidebarList = (props: SidebarListProps) => {
   const articlesToShow = activeTab === SidebarTab.Latest ? latest : favorites;
 
   // Map the shown list of articles to individual preview components
-  const getArticleList = (): JSX.Element[] => {
+  const ArticleList = (): JSX.Element => {
     const mappedArticles = articlesToShow.map((element: Article) => (
       <ListItem
         className={styles.sidebarlistitem}
@@ -53,21 +53,23 @@ export const SidebarList = (props: SidebarListProps) => {
 
     // Show a progress circle if the next page is loading
     if (!isLoading) {
-      return mappedArticles;
+      return <>{mappedArticles}</>;
     } else {
-      return [
-        ...mappedArticles,
-        <ListItem
-          className={styles.sidebarlistitem}
-          key="progressanimation"
-          divider
-        >
-          <CircularProgress
-            variant="indeterminate"
-            style={{ margin: "auto" }}
-          />
-        </ListItem>,
-      ];
+      return (
+        <>
+          {mappedArticles}
+          <ListItem
+            className={styles.sidebarlistitem}
+            key="progressanimation"
+            divider
+          >
+            <CircularProgress
+              variant="indeterminate"
+              style={{ margin: "auto" }}
+            />
+          </ListItem>
+        </>
+      );
     }
   };
 
@@ -100,7 +102,7 @@ export const SidebarList = (props: SidebarListProps) => {
       }
     }
   };
-  const displaySeeAllLink = (): JSX.Element => {
+  const SeeAllLink = (): JSX.Element => {
     if (activeTab === SidebarTab.Latest) {
       return (
         <div className={styles.sidebarbottom}>
@@ -115,9 +117,9 @@ export const SidebarList = (props: SidebarListProps) => {
   return (
     <div className={props.className}>
       <List onScroll={loadMoreArticles} className={styles.sidebarlist}>
-        {getArticleList()}
+        <ArticleList />
       </List>
-      {displaySeeAllLink()}
+      <SeeAllLink />
     </div>
   );
 };
