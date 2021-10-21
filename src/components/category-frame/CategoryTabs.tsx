@@ -4,14 +4,12 @@ import LocalHospitalicon from "@mui/icons-material/LocalHospital";
 import ScienceIcon from "@mui/icons-material/Science";
 import MonitorIcon from "@mui/icons-material/Monitor";
 import SportsSoccerIcon from "@mui/icons-material/SportsSoccer";
-import { createSvgIcon } from "@mui/material/utils";
 import ButtonBase from "@mui/material/Button";
 import { mdiNewspaperVariantOutline } from "@mdi/js";
 import { CategoryTab } from "../tab-enums";
-import { TabProps } from "../../interfaces/component-interfaces";
+import { IProps, TabProps } from "../../interfaces/component-interfaces";
 import { isMobileOnly } from "react-device-detect";
 import styles from "./styles/categorytabs.module.scss";
-import SvgIcon from "@mui/material/Icon";
 
 export const CategoryTabs = (props: TabProps) => {
   const activeTab = props.value;
@@ -30,10 +28,13 @@ export const CategoryTabs = (props: TabProps) => {
     : styles.customicon;
 
   // Ne radi velicina
-  const CustomIcon = createSvgIcon(
-    <path d={mdiNewspaperVariantOutline} />,
-    "Custom"
-  );
+  const GeneralIcon = (props: IProps) => {
+    return (
+      <svg {...props} viewBox="0 0 24 24">
+        <path d={mdiNewspaperVariantOutline}></path>
+      </svg>
+    );
+  };
 
   // Return active tab style only if this tab is active
   const isActiveTabStyle = (thisTab: CategoryTab): string[] => {
@@ -84,11 +85,7 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div className={isActiveTabStyle(CategoryTab.General)[1]}>
-            <div>
-              <SvgIcon className={customIconStyle}>
-                <CustomIcon />
-              </SvgIcon>
-            </div>
+            <GeneralIcon className={customIconStyle} />
             <span>General</span>
           </div>
         </ButtonBase>

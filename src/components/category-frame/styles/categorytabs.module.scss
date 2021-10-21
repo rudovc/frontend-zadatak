@@ -114,13 +114,15 @@
 }
 
 .customicon {
-  display: flex;
-  margin: auto;
+  margin: 0 auto;
   fill: inherit;
+  width: 24px;
+  height: 24px;
 }
 
 .customiconmobile {
-  display: flex;
-  margin: auto;
   fill: inherit;
+  margin: 0 auto;
+  width: 32px;
+  height: 32px;
 }
