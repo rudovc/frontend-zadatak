@@ -26,20 +26,21 @@ export const TitleBar = (props: TitleBarProps): JSX.Element => {
   if (isMobileOnly) {
     return (
       <div className={props.className}>
-        {/* Neki warning je u konzoli ovamo */}
         <Modal
           open={menuIsOpen}
           onClose={handleClose}
           aria-labelledby="modal-menu"
           aria-describedby="modal-menu-categories"
         >
-          {/* Ne mogu stavit animaciju tu nego moran unutar modala, sta radin krivo? */}
-          <MenuModal
-            className={styles.menumodal}
-            onCategoryTabChange={handleCategoryTabChange}
-            categoryTab={props.categoryTab}
-            onClose={handleClose}
-          />
+          <>
+            {/* Ne mogu stavit animaciju tu nego moran unutar modala, sta radin krivo? */}
+            <MenuModal
+              className={styles.menumodal}
+              onCategoryTabChange={handleCategoryTabChange}
+              categoryTab={props.categoryTab}
+              onClose={handleClose}
+            />
+          </>
         </Modal>
         <div className={styles.topcontainer}>
           <Title className={styles.title} />

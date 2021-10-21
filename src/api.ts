@@ -35,7 +35,6 @@ class API {
     const response = axiosApi.get<ArticlesRawData>("", {
       params: { category: categoryParameter, page: pageNumber },
     });
-    console.log(response);
     return response;
   }
   /*
