@@ -24,6 +24,9 @@ const getTabStyle = (
   activeTab: number | undefined,
   thisTab: CategoryTab
 ): string[] => {
+  // Tek sad san skuzia da postoji puno normalniji nacin za ovo rijesit,
+  // da napravin route koji u url doda npr #${tabname}
+  // dodan u tab id="tabname" i onda samo koristin css :target
   if (activeTab === thisTab) {
     if (isMobileOnly) {
       return [
