@@ -57,14 +57,14 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
   }, [currentPage, paginationCount]);
 
   // Handle clicking on new category tab
-  const handleClick = <T extends unknown>(category: T) => {
+  const handleCategoryChange = <T extends unknown>(category: T) => {
     if (typeof props.onCategoryTabChange !== "undefined") {
       props.onCategoryTabChange(category as unknown as CategoryTab);
     }
   };
 
   // Handle switching to a new page
-  const handleChange = async (
+  const handlePageChange = async (
     e: React.ChangeEvent<unknown>,
     page: number
   ): Promise<void> => {
@@ -88,7 +88,7 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
     return (
       <div className={props.className}>
         <ArticleGrid
-          onCategoryClick={handleClick}
+          onCategoryClick={handleCategoryChange}
           articles={articleList.slice(articleRange.start, articleRange.end)}
         />
         <Pagination
@@ -96,7 +96,7 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
           page={currentPage}
           count={paginationCount}
           siblingCount={0}
-          onChange={handleChange}
+          onChange={handlePageChange}
         />
       </div>
     );
@@ -105,12 +105,12 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
       <div className={props.className}>
         <CategoryTabs
           className={styles.categorytabs}
-          onClick={handleClick}
+          onClick={handleCategoryChange}
           value={props.categoryTab}
         />
         <div className={styles.articlegridcontainer}>
           <ArticleGrid
-            onCategoryClick={handleClick}
+            onCategoryClick={handleCategoryChange}
             articles={articleList.slice(articleRange.start, articleRange.end)}
           />
           <Pagination
@@ -118,7 +118,7 @@ export const CategoryFrame = (props: CategoryFrameProps): JSX.Element => {
             page={currentPage}
             count={paginationCount}
             siblingCount={1}
-            onChange={handleChange}
+            onChange={handlePageChange}
           />
         </div>
       </div>
