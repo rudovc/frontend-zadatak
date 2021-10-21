@@ -13,11 +13,11 @@ import { Article } from "../interfaces/data-interfaces";
 
 const filterAndSortArticles = (articles: Article[], nameFilter: string) => {
   const filteredArticles = [...articles].filter((element) => {
-    const filter = nameFilter.toLowerCase().split(" ");
-    const title = element.title.toLowerCase();
     if (nameFilter === "") {
       return true;
     } else {
+      const filter = nameFilter.toLowerCase().split(" ");
+      const title = element.title.toLowerCase();
       return filter.every((word) => title.includes(word));
     }
   });
