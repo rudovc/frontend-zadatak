@@ -19,19 +19,6 @@ const GeneralIcon = (props: IProps) => {
   );
 };
 
-// Return active tab style only if tab is active
-const isActive = (
-  activeTab: number | undefined,
-  thisTab: CategoryTab
-): boolean => {
-  // Tek sad san skuzia da postoje puno normalniji nacini za ovo rijesit
-  if (activeTab === thisTab) {
-    return true;
-  } else {
-    return false;
-  }
-};
-
 export const CategoryTabs = (props: TabProps) => {
   const activeTab = props.value;
   const handleClick = (category: CategoryTab) => {
@@ -59,11 +46,9 @@ export const CategoryTabs = (props: TabProps) => {
   return (
     <div className={props.className}>
       <div
-        className={
-          isActive(activeTab, CategoryTab.Home)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.Home ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -72,11 +57,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.Home)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.Home ? styles.active : ""
+            }`}
           >
             <HomeIcon className={iconStyle} />
             <span>Home</span>
@@ -84,11 +67,9 @@ export const CategoryTabs = (props: TabProps) => {
         </ButtonBase>
       </div>
       <div
-        className={
-          isActive(activeTab, CategoryTab.General)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.General ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -97,11 +78,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.General)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.General ? styles.active : ""
+            }`}
           >
             <GeneralIcon className={customIconStyle} />
             <span>General</span>
@@ -109,11 +88,9 @@ export const CategoryTabs = (props: TabProps) => {
         </ButtonBase>
       </div>
       <div
-        className={
-          isActive(activeTab, CategoryTab.Business)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.Business ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -122,11 +99,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.Business)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.Business ? styles.active : ""
+            }`}
           >
             <WorkIcon className={iconStyle} />
             <span>Business</span>
@@ -134,11 +109,9 @@ export const CategoryTabs = (props: TabProps) => {
         </ButtonBase>
       </div>
       <div
-        className={
-          isActive(activeTab, CategoryTab.Health)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.Health ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -147,11 +120,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.Health)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.Health ? styles.active : ""
+            }`}
           >
             <LocalHospitalicon className={iconStyle} />
             <span>Health</span>
@@ -159,11 +130,9 @@ export const CategoryTabs = (props: TabProps) => {
         </ButtonBase>
       </div>
       <div
-        className={
-          isActive(activeTab, CategoryTab.Science)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.Science ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -172,11 +141,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.Science)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.Science ? styles.active : ""
+            }`}
           >
             <ScienceIcon className={iconStyle} />
             <span>Science</span>
@@ -184,11 +151,9 @@ export const CategoryTabs = (props: TabProps) => {
         </ButtonBase>
       </div>
       <div
-        className={
-          isActive(activeTab, CategoryTab.Sports)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.Sports ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -197,11 +162,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.Sports)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.Sports ? styles.active : ""
+            }`}
           >
             <SportsSoccerIcon className={iconStyle} />
             <span>Sports</span>
@@ -209,11 +172,9 @@ export const CategoryTabs = (props: TabProps) => {
         </ButtonBase>
       </div>
       <div
-        className={
-          isActive(activeTab, CategoryTab.Technology)
-            ? `${tabBackground} ${styles.active}`
-            : `${tabBackground}`
-        }
+        className={`${tabBackground} ${
+          activeTab === CategoryTab.Technology ? styles.active : ""
+        }`}
       >
         <ButtonBase
           className={styles.categorytabbutton}
@@ -222,11 +183,9 @@ export const CategoryTabs = (props: TabProps) => {
           }}
         >
           <div
-            className={
-              isActive(activeTab, CategoryTab.Technology)
-                ? `${tabStyle} ${styles.active}`
-                : `${tabStyle}`
-            }
+            className={`${tabStyle} ${
+              activeTab === CategoryTab.Technology ? styles.active : ""
+            }`}
           >
             <MonitorIcon className={iconStyle} />
             <span>Technology</span>

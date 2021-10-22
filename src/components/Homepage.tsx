@@ -26,7 +26,7 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
     if (activeMobileTab === MobileTab.Featured) {
       return (
         <CategoryFrame
-          className={styles.categoryframemobile}
+          className={`${styles.categoryframe} ${styles.mobile}`}
           articles={props.categoryArticles}
           nameFilter={nameFilter}
           onCategoryTabChange={handleCategoryTabChange}
@@ -42,7 +42,7 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
     return (
       <div className={props.className}>
         <TitleBar
-          className={styles.titlebarmobile}
+          className={`${styles.titlebar} ${styles.mobile}`}
           categoryTab={props.categoryTab}
           onCategoryTabChange={handleCategoryTabChange}
         />
@@ -53,7 +53,7 @@ export const Homepage = (props: HomepageProps): JSX.Element => {
           }}
           className={styles.tabsmobile}
         />
-        <div className={styles.mainframemobile}>
+        <div className={`${styles.mainframe} ${styles.mobile}`}>
           <ContentSelectedByTab />
         </div>
       </div>

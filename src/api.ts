@@ -7,9 +7,9 @@ import dataGeneral from "./data/dummyData-general.json";
 import dataHealth from "./data/dummyData-health.json";
 import dataScience from "./data/dummyData-science.json";
 import dataSports from "./data/dummyData-sports.json";
-import dataTechnology from "./data/dummyData-technology.json";*/
+import dataTechnology from "./data/dummyData-technology.json";
 
-/*function delayResolve(input: ArticlesRawData) {
+function delayResolve(input: ArticlesRawData) {
   return new Promise<{ data: ArticlesRawData }>((resolve) =>
     setTimeout(() => resolve({ data: input }), 300)
   );

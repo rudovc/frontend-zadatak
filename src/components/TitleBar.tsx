@@ -22,6 +22,10 @@ export const TitleBar = (props: TitleBarProps): JSX.Element => {
   const activeTab =
     typeof props.categoryTab !== "undefined" ? props.categoryTab : 0;
 
+  const searchBoxStyle = isMobileOnly
+    ? `${styles.searchbox} ${styles.mobile}`
+    : styles.searchbox;
+
   if (isMobileOnly) {
     return (
       <div className={props.className}>
@@ -52,14 +56,14 @@ export const TitleBar = (props: TitleBarProps): JSX.Element => {
             </IconButton>
           </div>
         </div>
-        <SearchBar className={styles.searchboxmobile} />
+        <SearchBar className={searchBoxStyle} />
       </div>
     );
   } else {
     return (
       <div className={props.className}>
         <Title className={styles.title} />
-        <SearchBar className={styles.searchbox} />
+        <SearchBar className={searchBoxStyle} />
       </div>
     );
   }
