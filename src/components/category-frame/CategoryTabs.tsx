@@ -20,29 +20,15 @@ const GeneralIcon = (props: IProps) => {
 };
 
 // Return active tab style only if tab is active
-const getTabStyle = (
+const isActive = (
   activeTab: number | undefined,
   thisTab: CategoryTab
-): string[] => {
+): boolean => {
   // Tek sad san skuzia da postoje puno normalniji nacini za ovo rijesit
   if (activeTab === thisTab) {
-    if (isMobileOnly) {
-      return [
-        styles.categorytabbackgroundactivemobile,
-        styles.categorytabactivemobile,
-      ];
-    } else {
-      return [styles.categorytabbackgroundactive, styles.categorytabactive];
-    }
+    return true;
   } else {
-    if (isMobileOnly) {
-      return [
-        styles.categorytabbackgroundinactivemobile,
-        styles.categorytabinactivemobile,
-      ];
-    } else {
-      return [styles.categorytabbackgroundinactive, styles.categorytabinactive];
-    }
+    return false;
   }
 };
 
@@ -54,6 +40,14 @@ export const CategoryTabs = (props: TabProps) => {
     }
   };
 
+  const tabBackground = isMobileOnly
+    ? `${styles.categorytabbackground} ${styles.mobile}`
+    : `${styles.categorytabbackground}`;
+
+  const tabStyle = isMobileOnly
+    ? `${styles.categorytab} ${styles.mobile}`
+    : `${styles.categorytab}`;
+
   const iconStyle = isMobileOnly
     ? styles.categorytabiconmobile
     : styles.categorytabicon;
@@ -64,92 +58,176 @@ export const CategoryTabs = (props: TabProps) => {
 
   return (
     <div className={props.className}>
-      <div className={getTabStyle(activeTab, CategoryTab.Home)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.Home)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.Home);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.Home)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.Home)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <HomeIcon className={iconStyle} />
             <span>Home</span>
           </div>
         </ButtonBase>
       </div>
-      <div className={getTabStyle(activeTab, CategoryTab.General)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.General)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.General);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.General)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.General)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <GeneralIcon className={customIconStyle} />
             <span>General</span>
           </div>
         </ButtonBase>
       </div>
-      <div className={getTabStyle(activeTab, CategoryTab.Business)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.Business)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.Business);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.Business)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.Business)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <WorkIcon className={iconStyle} />
             <span>Business</span>
           </div>
         </ButtonBase>
       </div>
-      <div className={getTabStyle(activeTab, CategoryTab.Health)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.Health)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.Health);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.Health)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.Health)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <LocalHospitalicon className={iconStyle} />
             <span>Health</span>
           </div>
         </ButtonBase>
       </div>
-      <div className={getTabStyle(activeTab, CategoryTab.Science)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.Science)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.Science);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.Science)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.Science)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <ScienceIcon className={iconStyle} />
             <span>Science</span>
           </div>
         </ButtonBase>
       </div>
-      <div className={getTabStyle(activeTab, CategoryTab.Sports)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.Sports)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.Sports);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.Sports)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.Sports)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <SportsSoccerIcon className={iconStyle} />
             <span>Sports</span>
           </div>
         </ButtonBase>
       </div>
-      <div className={getTabStyle(activeTab, CategoryTab.Technology)[0]}>
+      <div
+        className={
+          isActive(activeTab, CategoryTab.Technology)
+            ? `${tabBackground} ${styles.active}`
+            : `${tabBackground}`
+        }
+      >
         <ButtonBase
           className={styles.categorytabbutton}
           onClick={() => {
             handleClick(CategoryTab.Technology);
           }}
         >
-          <div className={getTabStyle(activeTab, CategoryTab.Technology)[1]}>
+          <div
+            className={
+              isActive(activeTab, CategoryTab.Technology)
+                ? `${tabStyle} ${styles.active}`
+                : `${tabStyle}`
+            }
+          >
             <MonitorIcon className={iconStyle} />
             <span>Technology</span>
           </div>

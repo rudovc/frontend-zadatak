@@ -3,7 +3,7 @@
   width: 100%;
 }
 
-.categorytabinactive {
+.categorytab {
   height: 100%;
   width: 100%;
   border-radius: 5px;
@@ -13,94 +13,41 @@
   flex-direction: column;
   justify-content: center;
   align-content: center;
+  overflow-wrap: break-word;
   color: #787878;
-  overflow-wrap: break-word;
   fill: #787878;
+  &.active {
+    color: #b71c1c;
+    fill: #b71c1c;
+  }
+  &.mobile {
+    font-size: 0.9rem;
+  }
 }
 
-.categorytabactive {
-  height: 100%;
-  width: 100%;
-  border-radius: 5px;
-  text-transform: capitalize;
-  font-size: 0.6rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-content: center;
-  color: #b71c1c;
-  overflow-wrap: break-word;
-  fill: #b71c1c;
-}
-
-.categorytabinactivemobile {
-  height: 100%;
-  width: 100%;
-  border-radius: 5px;
-  text-transform: capitalize;
-  font-size: 0.9rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-content: center;
-  color: #787878;
-  overflow-wrap: break-word;
-  fill: #787878;
-}
-
-.categorytabactivemobile {
-  height: 100%;
-  width: 100%;
-  border-radius: 5px;
-  text-transform: capitalize;
-  font-size: 0.9rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-content: center;
-  color: #b71c1c;
-  overflow-wrap: break-word;
-  fill: #b71c1c;
-}
-
-.categorytabbackgroundinactive {
+.categorytabbackground {
   display: flex;
   margin: 0 auto;
   background-color: inherit;
   border-radius: 5px;
   height: 65px;
   width: 65px;
-}
-
-.categorytabbackgroundactive {
-  display: flex;
-  margin: 0 auto;
-  background-color: #ffffff;
-  border-radius: 5px;
-  height: 65px;
-  width: 65px;
-  box-shadow: 0px 1px 1px -0.5px rgba(0, 0, 0, 0.05),
-    0px 0.5px 1px 0px rgba(0, 0, 0, 0.03),
-    0px 0.5px 2px 0.5px rgba(0, 0, 0, 0.03);
-}
-
-.categorytabbackgroundinactivemobile {
-  display: flex;
-  background-color: inherit;
-  border-radius: 5px;
-  height: 85px;
-  width: 85px;
-}
-
-.categorytabbackgroundactivemobile {
-  display: flex;
-  background-color: #ffffff;
-  border-radius: 5px;
-  height: 85px;
-  width: 85px;
-  box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.06),
-    0px 0.5px 15px 3px rgba(0, 0, 0, 0.05),
-    0px 0.5px 25px 4px rgba(0, 0, 0, 0.06);
+  &.active {
+    background-color: #ffffff;
+    box-shadow: 0px 1px 1px -0.5px rgba(0, 0, 0, 0.05),
+      0px 0.5px 1px 0px rgba(0, 0, 0, 0.03),
+      0px 0.5px 2px 0.5px rgba(0, 0, 0, 0.03);
+  }
+  &.mobile {
+    height: 85px;
+    width: 85px;
+    margin: auto;
+    &.active {
+      box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.06),
+        0px 0.5px 15px 3px rgba(0, 0, 0, 0.05),
+        0px 0.5px 25px 4px rgba(0, 0, 0, 0.06);
+    }
+  }
 }
 
 .categorytabicon {
